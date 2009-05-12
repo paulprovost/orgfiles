@@ -1,0 +1,2 @@
+
+* TODO <2009-05-09 Sat> Get Aurorachair to boot to command line instead of GDM
