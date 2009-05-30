@@ -1,5 +1,4 @@
-
-* SSH login without password					       :@ssh:
+* SSH login without password 					       :@ssh:
   From [[http://linuxproblem.org/art_9.html][here]]:
   - First log in on A as user a and generate a pair of authentication
     keys. Do not enter a passphrase:
