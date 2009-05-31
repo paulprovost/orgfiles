@@ -29,3 +29,90 @@
   - Put the public key in .ssh/authorized\_keys2
   - Change the permissions of .ssh to 700
   - Change the permissions of .ssh/authorized\n_keys2 to 640
+* Installing lighttpd from MacPorts		:@macports:@lighttpd:@webdev:
+  - Install php5 from MacPorts, with the fastcgi, imap, macosx, pear
+    and sqlite variants. Easier using [[http://porticus.alittledrop.com/][Porticus]].
+  - Install lighttpd from MacPorts, using either
+    : sudo port install lighttpd
+    or [[http://porticus.alittledrop.com/][Porticus]]
+  - As suggested, enable the startup item that has been generated to
+    aid in starting lighttpd with launchd.
+    : sudo launchctl load -w /Library/LaunchDaemons/org.macports.lighttpd.plist
+  - Copy the sample config file at
+    /opt/local/etc/lighttpd/lighttpd.conf.default to
+    /opt/local/etc/lighttpd/lighttpd.conf. The launchd daemon relies
+    on the PID being at /opt/local/var/run/lighttpd.pid.
+  - Edits (try to keep everything under /opt):
+    - Set server.document-root to /opt/local/srv/www/htdocs/ and
+      create it.
+    - Set server.errorlog to /opt/local/var/log/lighttpd/error.log and
+      create it with owner and group set to "www".
+    - Set accesslog.filename to /opt/local/var/log/lighttpd/access.log
+      and create it with owner and group set to "www".
+    - Create /opt/local/var/run/ and /opt/local/var/run/lighttpd with
+      owner and group set to "www".
+    - Never run a webserver as root. So:
+      - Set server.username to "www"
+      - Set server.groupname to "www"
+    - Enable fastcgi and execwrap
+      : $HTTP["url"] =~ "^/~<user>/" {
+      : fastcgi.server = ( ".php" =>
+      :                 ( "localhost" =>
+      :                  (
+      :                     "socket" => "/opt/local/var/run/lighttpd/php-fastcgi.socket",
+      :                     "bin-path" => "/opt/local/srv/www/fcgi-bin/execwrap",
+      :                     "bin-environment" => (
+      :                        "UID" => "<UID>",
+      :                        "GID" => "<GID>",
+      :                        "TARGET" => "/opt/local/srv/www/fcgi-bin/php5-cgi-wrapper",
+      :                        "CHECK_GID" => "1",
+      :                     )
+      :                  )
+      :                )
+      :   }
+      :   else $HTTP["url"] =~ ".*" {
+      :      fastcgi.server = ( ".php" =>
+      :                      ( "localhost" =>
+      :                        (
+      :                           "socket" => "/opt/local/var/run/lighttpd/php-fastcgi.socket",
+      :                           "bin-path" => "/opt/local/bin/php-cgi"
+      :                        )
+      :                      )
+      :                    )
+      :   }
+    - Userdir setup:
+      - Set userdir.path to "Sites".
+      - Set userdir.basepath to where the users homes live (usually
+        "/Users/", unless they have been moved)
+  - Build and install execwrap
+    - Get the source. The original site at
+      http://cyanite.org/execwrap/ seems to be down. From [[http://cgit.stbuehler.de/gitosis/execwrap/][here]],
+      download the [[http://cgit.stbuehler.de/gitosis/execwrap/commit/%3Fid%3D6f3ffa2ea88c6537a5fe1f5c76c5a93bde7416a8][v0.5]] tag, which is the latest without the PAM
+      intergration, which is not needed. This has no Makefile, so get
+      it from [[http://cgit.stbuehler.de/gitosis/execwrap/plain/Makefile%3Fh%3Dstbuehler][here]].
+    - Edit execwrap_config.h and set the following:
+      : #define PARENT_UID              70   # UID of the www user
+      : #define TARGET_MIN_UID          500  # Where the user UIDs start
+      : #define TARGET_MIN_GID          500  # Where the user GIDs start
+      : #define TARGET_PATH_PREFIX      "/opt/local/srv/www/"
+    - Run make and try
+      : sudo ./execwrap -V
+      This should print the parameters as they were set in
+      execwrap_config.h.
+    - Make the /opt/local/srv/www/fcgi-bin/ directory and copy the
+      executable to it. Set the permissions and ownership as follows:
+      : sudo chgrp www
+      : sudo chmod 750
+      : sudo chmod u+s
+    - In the same directory, create the wrapper file that will call
+      PHP. With this setup, call it php5-cgi-wrapper. It should
+      contain:
+      : #!/bin/sh
+      : umask 0027
+      : exec /opt/local/bin/php-cgi
+      and have ownership and permissions set as follows:
+      : sudo chown <user>:www
+      : sudo chmod 750
+
+
+
