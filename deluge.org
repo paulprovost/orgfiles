@@ -1,0 +1,4 @@
+
+* Install Deluge in Ubuntu			      :@torrent:@deluge:@ubuntu:
+  - [[http://ubuntuforums.org/showthread.php?t=1114965][HOWTO: Deluge 1.1.5 + Deluged + FlexRSS + WebUI in Intrepid]]
+  - [[http://www.bsodmike.com/pages/installing-and-configuring-deluge-107-in-ubuntu-810-with-web-ui-interface/][Installing and Configuring Deluge 1.0.7 in Ubuntu 8.10 with Web UI Interface]]
