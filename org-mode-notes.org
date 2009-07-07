@@ -1,0 +1,3 @@
+* Notes on org-mode (Meta!)
+** Custom Agenda Commands [[http://orgmode.org/worg/org-tutorials/org-custom-agenda-commands.php][here]].
+** [[http://orgmode.org/worg/org-contrib/org-protocol.php][org-protocol.el]] - Intercept calls from emacsclient to trigger custom actions
