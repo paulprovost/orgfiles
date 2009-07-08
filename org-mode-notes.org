@@ -1,3 +1,7 @@
 * Notes on org-mode (Meta!)
+** [[http://doc.norang.ca/org-mode.html][Org Mode - Organize Your Life In Plain Text!]]
+** [[http://sachachua.com/wp/2007/12/28/emacs-getting-things-done-with-org-basic/][Getting Things Done with Org . Basic]]
 ** Custom Agenda Commands [[http://orgmode.org/worg/org-tutorials/org-custom-agenda-commands.php][here]].
 ** [[http://orgmode.org/worg/org-contrib/org-protocol.php][org-protocol.el]] - Intercept calls from emacsclient to trigger custom actions
+** Remember notes
+*** [[http://sachachua.com/wp/2008/07/20/emacs-smarter-interactive-prompts-with-org-remember-templates/][Smarter interactive prompts with Org remember templates]]
