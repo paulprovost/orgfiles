@@ -1,0 +1,87 @@
+* Labeling mails from the command line
+  - mutt label - Google Search
+    http://www.google.ca/search?hl=en&client=firefox-a&channel=s&rls=org.mozilla%3Aen-US%3Aofficial&q=mutt+label&btnG=Search&meta=
+
+  - MuttWiki: PatchList
+    http://wiki.mutt.org/?PatchList
+
+  - Steve.org.uk - Multi-Folder Message Tagging With Mutt
+    http://www.steve.org.uk/Software/mutt-tagging/
+
+  - Labeling mail with mutt
+    http://blitiri.com.ar/p/other/mutt-labels/
+
+  - dgc / Mutt
+    http://home.uchicago.edu/~dgc/mutt/#x-label
+
+  - Getting things done with mutt | Linux and Open Source | TechRepublic.com
+    http://blogs.techrepublic.com.com/opensource/?p=106&tag=nl.e011
+
+  - GTD with Mutt
+    http://sifter.org/~simon/journal/20080425.2.html
+
+  - GTD and Mutt | The Doctor What
+    http://docwhat.gerf.org/2007/10/gtd-and-mutt/
+
+  - footils.org | Entries | GTD with Mutt
+    http://footils.org/cms/weblog/2007/mar/02/gtd-mutt/
+
+  - gnus show more headers - Google Search
+    http://www.google.com/search?q=gnus+show+more+headers
+
+  - Gnus Manual: The Article Buffer
+    http://sunsite.ualberta.ca/Documentation/Gnu/emacs-20.7/html_chapter/gnus_4.html#SEC117
+
+  - Gnus 5.1 Manual - The Article Buffer
+    http://www.chemie.fu-berlin.de/chemnet/use/info/gnus/gnus_6.html
+
+  - Gnus tutorial
+    http://www.eecs.berkeley.edu/~smcpeak/gnus.html#read
+
+  - x-label header format - Google Search
+    http://www.google.com/search?hl=en&q=x-label+header+format&btnG=Search&aq=f&oq=&aqi=
+
+  - Steve.org.uk - Multi-Folder Message Tagging With Mutt
+    http://www.steve.org.uk/Software/mutt-tagging/
+
+* Searching and indexing
+
+  - gnus swish-e - Google Search
+    http://www.google.com/search?q=gnus+swish-e
+
+  - EmacsWiki: Index Mail
+    http://www.emacswiki.org/emacs/IndexMail
+
+  - Swish-e :: SWISH-RUN - Running Swish-e and Command Line Switches
+    http://swish-e.org/docs/swish-run.html
+
+  - Swish-e :: SWISH-CONFIG - Configuration File Directives
+    http://swish-e.org/docs/swish-config.html#directives_that_control_swish
+
+  - gnus nnir - Google Search
+    http://www.google.com/search?q=gnus+nnir
+
+  - Gnus miscellanea « minor emacs wizardry
+    http://emacs.wordpress.com/2007/02/04/gnus-miscellanea/
+
+  - swish-e index maildir - Google Search
+    http://www.google.com/search?q=swish-e+index+maildir
+
+  - Swishewiki
+    http://swishewiki.org/sw/index.php/Main_Page
+
+  - Namazu 2.0 tutorial
+    http://www.namazu.org/doc/tutorial.html
+
+  - Namazu User's Manual
+    http://www.namazu.org/doc/manual.html#mknmzrc
+
+  - Namazu 2.0 tutorial
+    http://www.namazu.org/doc/tutorial.html#customize-mknmz
+
+  - Namazu User's Manual
+    http://www.namazu.org/doc/manual.html#doc-filter
+
+  - Homepage Johannes Hofmann - nmzmail
+    http://www.ecademix.com/JohannesHofmann/nmzmail.html
+
