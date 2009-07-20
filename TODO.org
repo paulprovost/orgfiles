@@ -1,2 +1,2 @@
-* TODO Move medical information from Notes to 1Passwd 
-  Verify sync to desktop
+* Tasks
+** TODO Move medical information from Notes to 1Passwd and verify sync to desktop
