@@ -1,2 +1,16 @@
 * TODO <2009-05-09 Sat> Get Aurorachair to boot to command line instead of GDM
-  
+* TODO Spotlight / QuickSilver
+  :LOGBOOK:
+  - State "TODO"       from "TODO"       [2009-07-20 Mon 12:29]
+  - State "TODO"       from "TODO"       [2009-07-20 Mon 12:29]
+  - State "TODO"       from "TODO"       [2009-07-20 Mon 12:29]
+  - State "TODO"       from "TODO"       [2009-07-20 Mon 12:29]
+  - State "TODO"       from ""           [2009-07-20 Mon 12:27]
+  :END:
+  - Use Command-Space for Quicksilver.
+  - Use opt-space for Spotlight.
+* TODO Explore QS->twitter and Launchy->Twitter 
+  :LOGBOOK:
+  - State "TODO"       from ""           [2009-07-20 Mon 12:30]
+  :END:
+
