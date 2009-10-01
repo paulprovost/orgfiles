@@ -1,0 +1,3 @@
+* YubNub front-end for iPhone.
+** Enter search terms directly, with configurable shortcuts
+** When using "ls", get the results and show them in a list that the users can choose from
