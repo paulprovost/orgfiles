@@ -1,3 +1,22 @@
-* Tasks
-** TODO Move medical information from Notes to 1Passwd and verify sync to desktop
-** TODO [#A] upgrade automap to3.0
+#+LAST_MOBILE_CHANGE: 2009-12-04 10:28:56
+#+DESCRIPTION: General tasks
+* DONE Move medical information from Notes to 1Passwd and verify sync to desktop
+   :LOGBOOK:
+   :END:
+   :PROPERTIES:
+   :ID:       2155D754-2363-4A25-A2E7-94EE9ED2D10C
+   :END:
+* DONE upgrade automap to3.0
+   :LOGBOOK:
+   :END:
+   :PROPERTIES:
+   :ID:       12C75868-7893-412A-A0B8-711F8834DABA
+   :END:
+* TODO [#A] Charge de $13.95 de mon compte perso au 30 Novembre pour "programme performance" à vérifier :@banking:
+  :LOGBOOK:
+  - State "TODO"       from ""           [2009-12-11 Fri 14:05]
+  :END:
+  :PROPERTIES:
+  :ID:       156F50C4-DF51-4A48-93E1-BF91D9CB3DFF
+  :END:
+[2009-12-11 Fri 12:35]

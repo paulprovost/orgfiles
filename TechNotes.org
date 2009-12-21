@@ -39,6 +39,10 @@
   - As suggested, enable the startup item that has been generated to
     aid in starting lighttpd with launchd.
     : sudo launchctl load -w /Library/LaunchDaemons/org.macports.lighttpd.plist
+    - Start lighttpd with
+      : sudo launchctl start org.macports.lighttpd
+    - Stop lighttpd with
+      : sudo launchctl stop org.macports.lighttpd
   - Copy the sample config file at
     /opt/local/etc/lighttpd/lighttpd.conf.default to
     /opt/local/etc/lighttpd/lighttpd.conf. The launchd daemon relies

@@ -1,0 +1,12 @@
+* DONE Appeler Sylvain Lafreniere quand l'installation du panneau sera finie
+  :LOGBOOK:
+  - State "DONE"       from "TODO"       [2009-12-11 Fri 14:00] \\
+    Il a appele por confirmer
+  :END:
+  :PROPERTIES:
+  :ID:       1305116E-9776-469E-A094-6E9A5BA9F535
+  :END:
+  (514) 281-8139 
+* Grilles du frigo:
+  15 3/4" x 25"
+* Souris - Wafarine
