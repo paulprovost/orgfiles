@@ -1,4 +1,11 @@
+# use glob syntax.
+syntax: glob
+
+.DS_Store
+*.html
+
 syntax: regexp
 
 # Ignore emacs backups
 ^.*~
+
