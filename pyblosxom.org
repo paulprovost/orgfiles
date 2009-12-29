@@ -1,0 +1,104 @@
+#+LAST_MOBILE_CHANGE: 2009-12-04 10:28:56
+#+DESCRIPTION: Move of the [[http://prts.wordpress.com/][Worpress PRT blog]] to pyblosxom
+#+FILETAGS: :@pyblosxom:
+
+* Notes:
+  - PyBlosxom - main site
+    http://pyblosxom.sourceforge.net/registry/
+  - PyBlosxom - main site
+    http://pyblosxom.sourceforge.net/registry/text/linebreaks.html
+  - PyBlosxom - main site
+    http://pyblosxom.sourceforge.net/registry/date/pyfilenamemtime.html
+  - PyBlosxom - main site
+    http://pyblosxom.sourceforge.net/registry/input/comments/comments.html
+  - PyBlosxom - main site
+    http://pyblosxom.sourceforge.net/registry/archives/pyarchives.html
+  - PyBlosxom - main site
+    http://pyblosxom.sourceforge.net/registry/meta/tags.html
+  - PyBlosxom - main site
+    http://pyblosxom.sourceforge.net/registry/meta/tag_cloud.html
+
+  - http://joe.topjian.net/site-media/code/python/tags.txt
+    http://joe.topjian.net/site-media/code/python/tags.txt
+
+* DONE Try running standalone to fix flavour locally
+  :LOGBOOK:
+  - State "DONE"       from ""           [2009-10-24 Sat 18:52]
+  :END:
+
+* DONE [#A] Eliminate the dispatch.fcgi from the path on DreamHost
+  :LOGBOOK:
+  - State "DONE"       from "TODO"       [2009-12-04 Fri 10:28]
+  :END:
+  :PROPERTIES:
+  :ID:       8794DADA-4AF7-458A-B4F4-C17794A5FDEC
+  :END:
+  - Using recipe [[http://www.toofishes.net/blog/getting-django-running-dreamhost-part-1/][here]], added
+    : RewriteEngine on
+    : RewriteBase /prt2/
+    : RewriteRule ^(dispatch\.fcgi/.*)$ - [L]
+    : RewriteRule ^(.*)$ dispatch.fcgi/$1 [L]
+    to the .htaccess file in the blog directory.
+  - Added the base_url setting to config.py
+
+* TODO [#A] Fix the 1024.px template to be variable width
+  :PROPERTIES:
+  :ID:       1E31338C-A814-4B71-BD15-3F54604E58AA
+  :END:
+
+* TODO [#A] Import WordPress blog from [[http://prts.wordpress.com/][here]] using the [[http://article.gmane.org/gmane.comp.web.pyblosxom.devel/1752][wp-to-pyblosxom.py]] script
+  :PROPERTIES:
+  :ID:       252AD015-32FF-4567-B167-8CDAB6C4C19A
+  :END:
+
+* TODO [#C] Add calendar
+  :PROPERTIES:
+  :ID:       0ACF55B8-0557-4FDC-9162-124C5163D986
+  :END:
+
+* TODO [#B] Add pages rendered with the same blog style
+  :PROPERTIES:
+  :ID:       56C3D76A-0579-4EA0-9F4F-C90D8401B67A
+  :END:
+
+* TODO [#B] Add serving of media files from inside the blog directory
+  :PROPERTIES:
+  :ID:       29F192F6-633C-4493-B367-FF4380C871B9
+  :END:
+
+* TODO [#C] Add Tagging
+  :PROPERTIES:
+  :ID:       D306DEAA-FED0-499F-81B3-C2A5B4AE2502
+  :END:
+** Tag plugin
+
+* TODO [#C] Add tag cloud
+  :PROPERTIES:
+  :ID:       20E52166-D20E-45DD-A52D-42C07CF68054
+  :END:
+** TagCloud plugin
+
+* TODO [#D] Add right-hand column with calendar and meta (books, movies)
+  :PROPERTIES:
+  :ID:       C4F4D77A-4EFE-4323-9303-2DAB9DA64920
+  :END:
+
+* TODO Investigate plugins to install
+  :LOGBOOK:
+  - State "TODO"       from ""           [2009-10-24 Sat 18:53]
+  :END:
+  :PROPERTIES:
+  :ID:       CF76A177-7D5F-42C3-9821-1F2A02F43EF0
+  :END:
+** pyfilenamemtime
+** comments
+
+* TODO [#A] See how mercurial handles merging when files differ from branch to branch
+  :LOGBOOK:
+  - State "TODO"       from ""           [2009-10-24 Sat 18:53]
+  :END:
+  :PROPERTIES:
+  :ID:       7CA8E742-880B-4C1D-B403-7EE3A24A896E
+  :END:
+
+ LocalWords:  TODO

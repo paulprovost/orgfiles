@@ -118,3 +118,17 @@
       and have ownership and permissions set as follows:
       : sudo chown <user>:www
       : sudo chmod 750
+* Using "Open with" Emacs on a Mac                              :@emacs:@mac:
+  This doesn't seem to be needed any more. Just assigning the files to
+  open in Emacs seems to work fine. Anyways, [[http://bc.tech.coop/blog/070225.html][here]] is the original web
+  page. In a nutshell:
+  - Create a bash script to either call emacslient (if Emacs is
+    already running) or Emacs itself (if it isn't running). The script
+    has been modified for Emacs.app.
+    : #!/bin/sh
+    : /Applications/Emacs.app/Contents/MacOS/bin/emacsclient -n "${1}" 2> /dev/null
+    : if [ $? -ne 0 ]; then
+    :    open -a /Applications/Emacs.app "${1}"
+    : fi
+  - Use [[http://www.sveinbjorn.org/platypus][Platypus]] to wrap the script in an app. I guess we could also
+    use Automator to make a script.
