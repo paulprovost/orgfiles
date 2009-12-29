@@ -1,0 +1,16 @@
+#+FILETAGS: @pmwiki
+* Notification of page changes: [[http://www.pmwiki.org/wiki/PmWiki/Notify][Notify]]
+  The notify.php script allows a site administrator to configure
+  PmWiki to send email messages whenever pages are changed on the wiki
+  site. Notifications can be configured so that multiple page changes
+  over a short period of time are combined into a single email message
+  (to avoid flooding mailboxes).
+* TODO Investigate XML-rpc editing for pmwiki -> use emacs for ringuette site
+  :LOGBOOK:
+  - State "TODO"       from ""           [2009-12-22 Tue 11:51]
+  :END:
+  :PROPERTIES:
+  :ID:       184D34EC-5642-46B1-B98E-AD950601C7F7
+  :END:
+  [2009-12-21 Mon 18:23]
+  - [[http://code.google.com/p/e-blog/][e-blog]] - A GNU Emacs interface to Blogger. 

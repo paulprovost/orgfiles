@@ -1,0 +1,18 @@
+#+DESCRIPTION: Build a remote controllable music player out of an old laptop
+* Software
+** Linux distribution
+*** Candidates
+**** Puppy Linux
+**** DamnSmallLinux
+**** Zenwalk
+**** Debian
+*** Choice - Debian testing
+**** Install from Debian testing netinst CD
+     Only additional install: ssh server 
+* Hardware
+  An old HP Laptop was used for the hardware
+** Audio driver installation
+   The ESS Maestro3/Allegro audio hardware needed a driver installed
+   to be operational. I followed this guide:
+   - snd-maestro3 - Debian Wiki
+     http://wiki.debian.org/snd-maestro3

@@ -1,0 +1,34 @@
+#+LAST_MOBILE_CHANGE: 2009-11-04 10:28:43
+* Checks and comments on upgrading to Mac OS X 10.6 (Snow Leopard) :@snowleopard:
+** Software compatibility
+   |------------------+---------+---------+---------------------------|
+   | Software         | Version | Machine | Compatible                |
+   |------------------+---------+---------+---------------------------|
+   | GeekTool         |         | Talyn   | Yes (not Preference Pane) |
+   | Growl            |         | Talyn   | Yes (not Preference Pane) |
+   | MacFuse          |         | Talyn   | Yes (not Preference Pane) |
+   | Perian           |         | Talyn   | Yes                       |
+   | QuickSilver      |         | Talyn   | Yes                       |
+   | sshfs            |         | Talyn   | Yes                       |
+   |------------------+---------+---------+---------------------------|
+   | Hardware         | Version | Machine | Compatible                |
+   |------------------+---------+---------+---------------------------|
+   | PreSonus FireBOX |         | Talyn   | Yes                       |
+   |------------------+---------+---------+---------------------------|
+
+** DNS resolving issue with internal DNS server (pfSense)
+   Temporary solution is to put internal IP addresses in /etc/hosts
+*** Notes
+    - OS 10.6 - Snow Leopard keeps dropping DNS - Mac-Forums.com
+      http://www.mac-forums.com/forums/os-x-operating-system/164649-snow-leopard-keeps-dropping-dns.html
+    - Snow Leopard: DNS broken after sleep? - Mac Forums
+      http://forums.macrumors.com/showthread.php?t=777182
+    - Apple - Support - Discussions - Snow leopard broke my dns ...
+      http://discussions.apple.com/thread.jspa?threadID=2140119&start=75&tstart=-1
+    - DNS Name lookup (was SSH) Not Working After Snow Leopard Upgrade - Server Fault
+      http://serverfault.com/questions/64837/dns-name-lookup-was-ssh-not-working-after-snow-leopard-upgrade
+    - Snow Leopard: DNS issue, I have a temporary fix. : apple
+      http://www.reddit.com/r/apple/comments/9ih4o/snow_leopard_dns_issue_i_have_a_temporary_fix/
+    - Fixing Snow Leopard (10.6) to use a Local Leopard (10.5) DNS Server | Mac OS X | Project Mouse
+      http://projectmouse.org/mac/osx/fixing+snow+leopard+(10.6)+to+use+a+local+leopard+(10.5)+dns+server.html
+

@@ -1,0 +1,16 @@
+#+FILETAGS: :@books:
+* DONE The Ghost Brigades - John Scalzi
+  :LOGBOOK:
+  - State "DONE"       from "STARTED"    [2009-11-18 Wed]
+  :END:
+  :PROPERTIES:
+  :ID:       7D46EA2C-DA96-4D46-9222-909DE028CEA6
+  :END:
+[2009-11-04 Wed 13:14]
+* STARTED The Last Colony - John Scalzi
+  :LOGBOOK:
+  - State "STARTED"    from "STARTED"    [2009-12-02 Wed]
+  :END:
+  :PROPERTIES:
+  :ID:       91729768-3391-4190-9821-0FCF65A7973D
+  :END:
