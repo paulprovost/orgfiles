@@ -1,0 +1,11 @@
+#+TITLE: Notes on software development
+#+FILETAGS: @dev
+
+* Property lists                                                       :@mac:
+  - Fat Cat Software - PlistEdit Pro
+    http://www.fatcatsoftware.com/plisteditpro/
+  - 14.6. plistlib — Generate and parse Mac OS X .plist files — Python v2.7a1 documentation
+    http://docs.python.org/dev/library/plistlib.html
+  - Mac Dev Center: Property List Programming Guide: Introduction to Property Lists
+    http://developer.apple.com/mac/library/documentation/Cocoa/Conceptual/PropertyLists/Introduction/Introduction.html
+
