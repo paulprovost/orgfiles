@@ -1,0 +1,18 @@
+#+TITLE: Notes on Mac OS
+#+FILETAGS: @mac
+
+* Login/Logout scripts
+  - Mac OS X: Creating a login hook
+    http://support.apple.com/kb/HT2420
+  - Bombich.com: Mac OS X Management Custom Shell Script Library
+    http://www.bombich.com/mactips/scripts.html
+  - Scripting Mac OS X - O'Reilly Media
+    http://macdevcenter.com/pub/a/mac/2003/11/07/scripting_osx.html?page=2
+  - Bombich.com: Implementing Login and Logout hooks for System Management
+    http://www.bombich.com/mactips/loginhooks.html
+  - AppleScript: Integrating shell scripts
+    http://www.tuaw.com/2008/06/23/applescript-integrating-shell-scripts/
+  - Technical Note TN2065: do shell script in AppleScript
+    http://developer.apple.com/mac/library/technotes/tn2002/tn2065.html
+
+
