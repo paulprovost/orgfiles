@@ -15,4 +15,43 @@
   - Technical Note TN2065: do shell script in AppleScript
     http://developer.apple.com/mac/library/technotes/tn2002/tn2065.html
 
+* Moving Time Machine backup to another drive                  :@timemachine:
+  http://www.macosxhints.com/article.php?story=20071128055047339
+
+* Magic mouse middle click                                           :@mouse:
+  [2009-12-29 Tue 17:01] I have not verified that this works yet.
+  - Apple Magic Mouse: Middle Button click "hack" - gdgt
+    http://discuss.gdgt.com/apple/magic-mouse/tips/Middle-Button-click-hack/
+  - Better multi monitor & multitouch experience for Mac OS X by Andreas Hegenberg » SecondBar & BetterTouchTool Blog
+    http://blog.boastr.net/
+  - 3-tap Middleclick on OSX for MacBook & Magic Mouse
+    http://clement.beffa.org/labs/projects/middleclick/
+
+* Merging files in folders when copying
+  - Mac OS X Manual Page For ditto(1)
+    http://developer.apple.com/mac/library/documentation/Darwin/Reference/ManPages/man1/ditto.1.html
+  - foldermerge - Project Hosting on Google Code
+    http://code.google.com/p/foldermerge/
+
+* Adding file types to Spotlight                                 :@spotlight:
+  I ended up using the MyUTIs.bundle.zip approach. After adding the
+  UTIs to the plist, renaming the bundle to MyUTIs.app and copying to
+  the /Applications directory, it worked. I can now search in org
+  files.
+  - Adding filetypes to Spotlight
+    http://guides.macrumors.com/Adding_filetypes_to_Spotlight
+  - 10.4: Use Spotlight to globally index any text file
+    http://www.macosxhints.com/article.php?story=2005052015041510
+
+* List open ports on your machine (Mac OS X)
+  http://juretta.com/log/2007/08/08/list_open_ports_on_your_machine_mac_os_x_/
+
+* Emacs notes                                                        :@emacs:
+  - EmacsWiki: Mac Key Mode
+    http://www.emacswiki.org/cgi-bin/emacs-en/MacKeyMode
+  - EmacsWiki: Carbon Emacs Package
+    http://www.emacswiki.org/emacs-en/CarbonEmacsPackage
+
+* How To Make MacFUSE Follow Symlinks Using SSHFS           :@macfuse:@sshfs:
+  http://philnelson.name/2007/01/30/a-quick-note-on-macfuse-sshfs-and-how-to-make-fuse-follow-symlinks/
 

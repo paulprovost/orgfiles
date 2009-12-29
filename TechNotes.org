@@ -118,6 +118,7 @@
       and have ownership and permissions set as follows:
       : sudo chown <user>:www
       : sudo chmod 750
+
 * Using "Open with" Emacs on a Mac                              :@emacs:@mac:
   This doesn't seem to be needed any more. Just assigning the files to
   open in Emacs seems to work fine. Anyways, [[http://bc.tech.coop/blog/070225.html][here]] is the original web
@@ -132,3 +133,12 @@
     : fi
   - Use [[http://www.sveinbjorn.org/platypus][Platypus]] to wrap the script in an app. I guess we could also
     use Automator to make a script.
+
+* Lighttpd and WebDAV                                     :@lighttpd:@webdav:
+  - How To Set Up WebDAV With Lighttpd On Debian Etch
+    http://www.howtoforge.com/setting-up-webdav-with-lighttpd-debian-etch
+  - How To Set Up WebDAV With Lighttpd On Debian Lenny
+    http://www.howtoforge.org/how-to-set-up-webdav-with-lighttpd-on-debian-lenny
+  - Webdav server with lighttpd
+    http://blog.marxy.org/2006/12/webdav-server-with-lighttpd.html
+

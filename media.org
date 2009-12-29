@@ -1,5 +1,5 @@
-* Video
-** Chapter/metadata editing
+* Video                                                              :@video:
+** Chapter/metadata editing                                       :@chapters:
    Other open-source editors
    http://atomicparsley.sourceforge.net/other_editors.html
 
@@ -14,8 +14,9 @@
 
    site:discussions.apple.com macos "chapter tool" - Google Search
    http://www.google.com/search?hl=en&client=safari&rls=en&q=+site:discussions.apple.com+macos+%22chapter+tool%22&ei=9N6_SvLTA8Lj8Qb33pi0AQ&sa=X&oi=forum_cluster&resnum=3&ct=more-results
-* Media center
-** DLNA information
+
+* Media center                                                 :@mediacenter:
+** DLNA information                                                   :@dlna:
    - How to choose a DLNA Media Server for Windows, Mac OS X or Linux | Robert Green's DIY
      http://www.rbgrn.net/content/21-how-to-choose-dlna-media-server-windows-mac-os-x-or-linux
    - Browse MiniDLNA Files on SourceForge.net

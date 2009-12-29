@@ -1,5 +1,6 @@
 #+TITLE: Notes on home studio
 #+FILETAGS: @homestudio
+
 * TODO Wire firebox guitar input to patch bay with high quality cable 
   :LOGBOOK:
   - State "TODO"       from ""           [2009-12-21 Mon 16:53]
@@ -8,6 +9,7 @@
   :ID:       8AA10686-BBBA-4816-A881-65AA3CF25029
   :END:
 [2009-12-21 Mon 16:24]
+
 * TODO Wire vg-99 guitar input to patch bay with high quality cable 
   :LOGBOOK:
   - State "TODO"       from "TODO"       [2009-12-21 Mon 16:53]
@@ -17,6 +19,7 @@
   :ID:       8F616F6A-5D00-421C-B4C9-BD7C97CD5288
   :END:
 [2009-12-21 Mon 16:24]
+
 * TODO Try to match vg-99 amps to podxt with natural electric guitar
   :LOGBOOK:
   - State "TODO"       from ""           [2009-12-21 Mon 16:54]
@@ -25,6 +28,7 @@
   :ID:       41A3FC32-9EBB-40BA-91D1-882C718DE2D1
   :END:
 [2009-12-21 Mon 16:23]
+
 * TODO Try VG-99 output into podxt
   :LOGBOOK:
   - State "TODO"       from ""           [2009-12-21 Mon 16:54]
@@ -33,3 +37,13 @@
   :ID:       4D35B109-F3F1-4428-B12E-A3F776D4E906
   :END:
 [2009-12-21 Mon 16:22]
+
+* Wavestation SysEx Patch Files
+  http://www.danphillips.com/wavestation/ws_sysex.htm
+
+* Freeware Editor/Librarian                    :@patcheditor:@patchlibrarian:
+  - JSynthLib Home Page
+    http://www.jsynthlib.org/
+  - Short JSynthLib Guide
+    http://www.ucapps.de/jsynthlib.html
+
