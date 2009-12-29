@@ -1,0 +1,28 @@
+* Video
+** Chapter/metadata editing
+   Other open-source editors
+   http://atomicparsley.sourceforge.net/other_editors.html
+
+   Edit MP4, Chapters and Meta tags
+   http://simplemoviex.com/SimpleMovieX/index.var
+
+   Make: Online : HOW TO make Enhanced Podcasts (images, links and more with audio)
+   http://blog.makezine.com/archive/2005/07/how_to_make_enhanced_podc.html
+
+   MacDailyNews
+   http://www.macdailynews.com/index.php/weblog/comments/how_to_make_an_advanced_podcast_for_itunes_music_store/
+
+   site:discussions.apple.com macos "chapter tool" - Google Search
+   http://www.google.com/search?hl=en&client=safari&rls=en&q=+site:discussions.apple.com+macos+%22chapter+tool%22&ei=9N6_SvLTA8Lj8Qb33pi0AQ&sa=X&oi=forum_cluster&resnum=3&ct=more-results
+* Media center
+** DLNA information
+   - How to choose a DLNA Media Server for Windows, Mac OS X or Linux | Robert Green's DIY
+     http://www.rbgrn.net/content/21-how-to-choose-dlna-media-server-windows-mac-os-x-or-linux
+   - Browse MiniDLNA Files on SourceForge.net
+     http://sourceforge.net/projects/minidlna/files/
+   - MediaTomb - Free UPnP MediaServer
+     http://mediatomb.cc/pages/documentation#id2539739
+   - MediaTomb - Free UPnP MediaServer
+     http://mediatomb.cc/pages/download
+
+
