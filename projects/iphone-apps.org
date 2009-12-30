@@ -1,3 +1,19 @@
+* WebApp development resources
+  - Daring Fireball: PastryKit
+    http://daringfireball.net/2009/12/pastrykit
+  - Getting an iPhone Web App Off the Ground - Inside iPhone Blog
+    http://blogs.oreilly.com/iphone/2008/10/getting-an-iphone-web-app-off.html
+  - Hand Picked iPhone Application Development Resources | iPhone Toolbox
+    http://iphonetoolbox.com/news/hand-picked-iphone-application-development-resources/
+  - Introduction - iui - iUI Introduction Wiki Page. - Project Hosting on Google Code
+    http://code.google.com/p/iui/wiki/Introduction
+  - Joe Hewitt: "An Introduction to iUI" on Yahoo! Video
+    http://video.yahoo.com/watch/853528/3491272
+  - jQTouch — jQuery plugin for mobile web development
+    http://www.jqtouch.com/
+  - jQuery: The Write Less, Do More, JavaScript Library
+    http://jquery.com/
+
 * YubNub front-end for iPhone.
 ** Enter search terms directly, with configurable shortcuts
 ** When using "ls", get the results and show them in a list that the users can choose from
