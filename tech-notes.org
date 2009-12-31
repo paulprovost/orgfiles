@@ -142,3 +142,39 @@
   - Webdav server with lighttpd
     http://blog.marxy.org/2006/12/webdav-server-with-lighttpd.html
 
+* Growl notification for sabznbd+ from Linux                    :@growl:@mac:
+  - netgrowl.py - Tao of Mac
+    http://the.taoofmac.com/space/Projects/netgrowl
+  - bioCS: Sending Growl notifications from Python scripts
+    http://blog.mckuhn.de/2007/10/sending-growl-notifications-from-python.html
+  - Modified the script slightly to:
+    : #!/usr/bin/env python
+    : 
+    : from netgrowl import *
+    : import sys
+    : 
+    : def growlNotify(title = "Script Finished", message = ""):
+    : 
+    :    addr = ("moya.bouzou.org", GROWL_UDP_PORT)
+    :    s = socket(AF_INET,SOCK_DGRAM)
+    : 
+    :    # Perform registration. Uncomment and run once to register.
+    : #    p = GrowlRegistrationPacket(application="sabnzbd network", password="growbouz03")
+    : #    p.addNotification("Download Finished", enabled=True)
+    : 
+    : #    s.sendto(p.payload(), addr)
+    : 
+    :    if not message:
+    :    message = sys.argv[0]
+    : 
+    :    p = GrowlNotificationPacket(application="sabnzbd network",
+    :        notification="Download Finished", title=title,
+    :        description=message, priority=1,
+    :        sticky=False, password="growbouz03")
+    :    s.sendto(p.payload(),addr)
+    :    s.close()
+    : 
+    : if __name__ == '__main__':
+    :    growlNotify()
+
+
