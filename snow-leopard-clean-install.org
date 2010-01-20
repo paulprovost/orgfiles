@@ -1,0 +1,61 @@
+#+TITLE: Snow Leopard clean install notes
+#+DESCRIPTION:
+#+FILETAGS: @snowleopard:@mac
+
+* Context
+  My current Mac OS X install was getting a bit dirty, so I figured I
+  should do a clean install on another disk and move stuff over in a
+  controlled fashion and only as needed. This was also to keep 
+  control over what background processes are running and keep the
+  machine as light as possible for audio stuff.
+** Note: Always eject the old system disk
+   Mac OS X is "smart" enough to find applications in /Applications
+   folders on disks other than the startup one. So when rebooting, I
+   must always make sure to eject the old system disk ("Pilot", in my
+   case).
+* Steps
+  Steps from the clean install to a workable system.
+  - In the Accounts Preferences, in the main user's advanced options,
+    point to the "old" home directory on the RAID.
+  - Remove all login items (if not, they will run off the old startup
+    disk on startup and keep us from ejecting it, as well as bringing
+    cruft over).
+  - Set some Appearance Preferences (Display Layout, Background,
+    Opaque Menu Bar).
+  - Run Software Update as long as there are no more updates to
+    install (2 times, in actual fact).
+  - In Sharing Preferences, enable Screen Sharing (set a password for
+    VNC clients in Computer Settings) and Remote Login (ssh). Change
+    computer name (Moya) and set a password.
+  - Start Mail and notice that all settings survived, along with
+    plugins (MailTags, Mail Act-On, MsgFiler).
+  - Copy Emacs over from Pilot (to start making these notes).
+    - flyspell is not starting. ispell was installed from MacPorts.
+  - Pair BlueTooth mouse.
+  - Safari history survived.
+  - Hazel still installed and configured.
+  - MenuMeters still installed and configured.
+  - Install [[https://www.dropbox.com/][DropBox]].
+  - Install MacFuse and mount the sshfs file systems (the sshfs
+    executable and all ssh keys are available).
+  - Installed VLC
+  - Installed Line6 drivers - failed with kext error
+  - Installed VG-99 drivers
+  - Installed MOTU MIDI Express 128 drivers
+  - Installed LaunchBar (License made it through) (launch at startup)
+  - Installed Printer drivers for Canon ImageCLASS 4370dn
+    - Added printer
+  - Installed Growl (all settings survived)
+    - Installed Hardware Growler (launch at startup)
+      - Used [[http://boredzo.org/cadt/][Configure Application Dock Tile]] to hide from Dock
+  - Installed JollysFastVNC
+  - Installed 1Password (browser extensions were already there and working)
+  - Installed OmniWeb
+  - Installed Unison 2
+  - Installed HighPoint Web GUI ([[http://www.hptmac.com/US/product.php%3F_index%3D5&viewtype%3Ddownload][here]])
+  - Installed Mercurial ([[http://mercurial.selenic.com/downloads/][download]])
+    - For extra credit, install the mpkg remotely from the command line:
+      - Determine the possible targets to install to:
+        installer -pkg XXX.mpkg -volinfo
+      - Do the actual install
+        installer -pkg XXX.mpkg -target <target>
