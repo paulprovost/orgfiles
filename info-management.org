@@ -1,0 +1,8 @@
+#+TITLE: Personal Information Gathering/Management notes
+* RSS Feeds
+  
+** Tools (investigated and actual)
+*** newspipe
+*** rss2email
+*** feeds2imap
+*** rss2imap

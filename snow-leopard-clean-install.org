@@ -59,3 +59,14 @@
         installer -pkg XXX.mpkg -volinfo
       - Do the actual install
         installer -pkg XXX.mpkg -target <target>
+  - Install Live - Plugins are showing even though they are not
+    installed. And they do not work.
+    - Rename Library/Application\ Support/Ableton
+    - Rename Documents/Live
+
+  - Bought and installed Automap Pro
+  - Installed
+  - Bought and installed Max for Live
+  - Installed iWork 09
+  - Installed VideoMonkey
+  - Installed iDentify
