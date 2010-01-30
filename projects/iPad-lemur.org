@@ -1,0 +1,12 @@
+#+TITLE: Lemur-like iPad (also iPhone and iPod Touch) app
+* Requirements / Tech Specs
+** Client/Server architecture
+   - The server is running on controlled applications' host computer.
+   - The client runs on the iPad/iPhone/iPod touch and displays the
+     pages for the user to interact with
+   - Pages are sent from the server to the client.
+   - Pages are stored / defined on the server
+** Client and server communicate through OSC
+   - Both performance and internal data.
+** Interface with Novation Automap
+   - If the protocol details are made available.
