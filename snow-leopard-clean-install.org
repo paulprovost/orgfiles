@@ -70,3 +70,6 @@
   - Installed iWork 09
   - Installed VideoMonkey
   - Installed iDentify
+  - Installed iPhone/iPad SDK 3.2 Beta
+  - Installed iVolume
+  - Installed MediaRage
