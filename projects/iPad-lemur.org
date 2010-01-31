@@ -10,3 +10,4 @@
    - Both performance and internal data.
 ** Interface with Novation Automap
    - If the protocol details are made available.
+* References
