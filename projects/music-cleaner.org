@@ -1,0 +1,40 @@
+#+TITLE: Automatic tools for cleaning up music downloads
+#+FILETAGS: @project:@music
+* Development directory is [[file:~/Dev/music-cleaner][here]]
+* Technologies
+  - python
+  - mutagen for tag editing
+  - image manipulation with 
+    - PIL
+    - ImageMagick
+* Ui Ideas
+  - To pick cover art, build a jpg with all the candidates and label
+    them with a number. At the same time, ask for the number at the
+    command line.
+* Verify tagging and add album art
+** Tasks to perform for each album
+   - Verify that all tagging info is present and accurate
+     - Manual / visual inspection by a human is acceptable, but data
+       should be presented correctly.
+     - Tag data to verify:
+       - Artist name
+       - Album name
+       - Track name
+       - Track number
+       - Year
+       - Genre
+       - Total tracks
+       - Album art
+       - Compilation status (different artists on the same album)
+     - Verify file name:
+       - Non-compilation:
+         track number - track name.ext
+       - Compilation:
+         track number - artist name - track name.ext
+   - Get album art from a variety of sources
+     - Discogs
+     - Amazon
+     - Album Art
+* Sort loose files into directories
+* Merge new albums into current collection
+  - Current collection

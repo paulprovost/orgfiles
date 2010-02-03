@@ -1,4 +1,9 @@
 #+TITLE: Lemur-like iPad (also iPhone and iPod Touch) app
+#+FILETAGS: @project:@iPad
+* Name ideas
+  - Control-R
+  - ctrl-r
+  - ctrl-R
 * Requirements / Tech Specs
 ** Client/Server architecture
    - The server is running on controlled applications' host computer.
@@ -11,3 +16,8 @@
 ** Interface with Novation Automap
    - If the protocol details are made available.
 * References
+* Tasks                                                               :@task:
+** Get iPhone talking OSC with MAX on a Mac
+   Use TouchOSC
+** Write an iPad app that send OSC to the Mac
+*** Also receives
