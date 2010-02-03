@@ -1,0 +1,19 @@
+#+TITLE: Usenet NZB generator
+#+FILETAGS: @project:@usenet
+* Technologies
+  - python
+  - twisted
+  - DB (PostgreSQL)
+  - SSL encryption
+  - NZB files
+* Functionnality
+  - Grab headers from groups on an NNTP server.
+  - Group them per downloadable entities (movies, shows, albums)
+  - Let the user choose one or several entities and create NZB files
+    to download them.
+  - Let the user "delete" entities that he is not interested in.
+  - Grabbing and sorting done by a daemon on a server.
+  - Local or remote DB
+  - Web interface
+  - Desktop interface
+  - Multi-user?
