@@ -1,0 +1,12 @@
+#+TITLE: Access media (video and audio) from an iPhone-like device
+#+FILETAGS: @project:@iPhone:@iPad
+* Technologies
+  - python for the web interface.
+  - lighttpd for streaming the media files.
+  - QuickTime playlists for song chaining (and others, like real
+    playlists and random playback).
+  - iPhone/iPad for playback.
+    - Song list displayed in Mobile Safari
+* Requirements
+  - Browse hierarchy of music albums.
+  - Display meta data (covers, notes, etc).
