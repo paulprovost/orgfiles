@@ -1,6 +1,6 @@
 #+TITLE: Automatic tools for cleaning up music downloads
 #+FILETAGS: @project:@music
-* Development directory is [[file:~/Dev/music-cleaner][here]]
+* Development directory is [[file:~/Dev/music-cleaner/][here]]
 * Technologies
   - python
   - mutagen for tag editing
@@ -11,6 +11,11 @@
   - To pick cover art, build a jpg with all the candidates and label
     them with a number. At the same time, ask for the number at the
     command line.
+* Converting as needed
+  I don keep FLAC or other lossless files around. So they would be
+  automagically converted to AAC. Of course, metadata must be copied
+  over.
+  - Maybe script [[http://sbooth.org/Max/][Max]] to do this. Some leads [[http://forums.sbooth.org/viewtopic.php%3Ff%3D2&t%3D1655&start%3D0][here]].
 * Verify tagging and add album art
 ** Tasks to perform for each album
    - Verify that all tagging info is present and accurate
