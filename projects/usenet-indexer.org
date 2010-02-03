@@ -16,4 +16,8 @@
   - Local or remote DB
   - Web interface
   - Desktop interface
+  - Facilitate searching for artists / series / movies before
+    downloading, from any text that is part of the Subject, to any
+    engine (AlloCine numbers are popular in some newsgroups as sole
+    identifications for series and movies).
   - Multi-user?

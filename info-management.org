@@ -1,8 +1,25 @@
 #+TITLE: Personal Information Gathering/Management notes
-* RSS Feeds
-  
+* Sending RSS feeds to mail
 ** Tools (investigated and actual)
-*** newspipe
-*** rss2email
-*** feeds2imap
-*** rss2imap
+*** [[http://newspipe.sourceforge.net/][newspipe]]
+    - Status: NoGo
+    - Seems to get multiple downloads of the same items.
+*** [[http://www.allthingsrss.com/rss2email/][rss2email]]
+    - Status: In Use
+    - Verify that it works for nzb files in NZBIndex feeds.
+    - Data file gets big and heavy. See conversation with author
+      regarding the "reset" option. Should be used to periodically
+      clean up the data file.
+    - Hacked to use multiple data files.
+    - Do not use distro packages. Download and install from the web site
+    - Try the web interface
+    - CSS may need customization to be less baby blue.
+    - Locale needs to be added to headers. Getting results from
+      NZBIndex in swedish...
+*** [[http://home.gna.org/feed2imap/][feed2imap]]
+    - Status: Testing
+    - Better CSS than rss2email.
+    - More information in messages.
+    - Simpler feed list.
+*** [[http://bitgarten.ch/projects/feeds2imap/][feeds2imap]]
+*** [[http://rss2imap.sourceforge.net/][rss2imap]]
