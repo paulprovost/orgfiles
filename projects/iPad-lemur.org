@@ -21,6 +21,9 @@
   :ID:       D04F39D6-E0E9-41C5-A37F-73A2E26E2CDC
   :END:
 ** Compile the accelerometer simulator app and install on iPhone
+   :PROPERTIES:
+   :ID:       CAA86BF8-FD4E-4B2E-BD8D-D5A7A733C991
+   :END:
    - The app was built with SDK 2.1. Compiling with 3.2 for the
      simulator worked.
    - Must make changes to Info.plist bundle identifier to match your
