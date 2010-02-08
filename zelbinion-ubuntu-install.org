@@ -1,4 +1,4 @@
-#+TITLE: Install of Ubuntu 9.10 on mail server
+#+TITLE: Install of Ubuntu 9.10 on mail/web server
 #+FILETAGS: @homenetwork:@server
 
 * Machine name: zelbinion
@@ -12,6 +12,8 @@
    - dovecot for IMAP
 ** FTP server
    - vsftpd with virtual accounts
+* What did I forget?
+** Record the contents of crontab
 * Install
 ** xfwm4 not starting
    started by hand with
@@ -20,7 +22,31 @@
 ** Installed openssh-server
 ** Installed vino-server
    Start "vino-preferences" from the command line to start desktop sharing.
-** Installed
+** Installed exim4-daemon-heavy
 *** Authentication
     - As per [[https://help.ubuntu.com/community/Exim4][this]] page
     - Install sasl2-bin
+    - Edit /etc/default/saslauthd and set
+      : START=yes
+    - From my own stuff (did not want to bother with setting up PAM
+      authentication):
+      : MECHANISMS="shadow"
+    - The Debian-exim user needs to be part of the sasl group in order
+      for Exim4 to use the saslauthd service:
+      : sudo adduser Debian-exim sasl
+    - Start the saslauthd service:
+      : sudo /etc/init.d/saslauthd start
+** Installed spambayes
+** Installed procmail
+** Installed fetchmail
+** Installed rss2email from source (for user paul only)
+   - Ran reset then run --no-send to clean up the data file.
+** Installed lighttpd
+*** Installed php5-cli
+*** Installed php5-cgi
+*** Copied config file from marauder
+*** Restored /var/www backup
+*** Installed php5-sqlite for roundcube
+** Installed privoxy
+   Configured listening address to 192.168.1.250
+
