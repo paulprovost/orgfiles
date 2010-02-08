@@ -1,0 +1,8 @@
+#+TITLE: Services for Mac OS X
+#+FILETAGS: @project:@services:@macos
+
+* Text services
+** Seasonify string
+   - Turn [0-9][0-9][0-9] or [0-9][xX][0-9][0-9] or S[0-9]+E[0-9]+ into
+     s00e00.
+   - Pop up a dialog with Ok/Cancel

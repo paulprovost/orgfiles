@@ -3,10 +3,16 @@
 ** Tools (investigated and actual)
 *** [[http://newspipe.sourceforge.net/][newspipe]]
     - Status: NoGo
+    - OPML used for data file.
+    - Multiple cache files.
     - Seems to get multiple downloads of the same items.
 *** [[http://www.allthingsrss.com/rss2email/][rss2email]]
     - Status: In Use
+    - Single merged cache/data
     - Verify that it works for nzb files in NZBIndex feeds.
+      - Nope. Downloading the NZB fails.
+      - Actually, yes. Use the Enclosure link instead of the URL
+        link. Stupid.
     - Data file gets big and heavy. See conversation with author
       regarding the "reset" option. Should be used to periodically
       clean up the data file.
@@ -17,6 +23,8 @@
     - Locale needs to be added to headers. Getting results from
       NZBIndex in swedish...
 *** [[http://home.gna.org/feed2imap/][feed2imap]]
+    - Split cache/data files.
+      - Single cache file.
     - Status: Testing
     - Better CSS than rss2email.
     - More information in messages.

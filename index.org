@@ -14,7 +14,13 @@
 ** [[file:media.org]]
 ** file:org-mode-notes.org
 ** file:pmwiki.org
+*** file:projects/iPad-lemur.org
 *** file:projects/iphone-apps.org
+*** file:projects/live-guitar.org
+*** file:projects/mail-scripts.org
+*** file:projects/music-cleaner.orgm
 *** file:projects/music-player.org
+*** file:projects/remote-media-access.org
+*** file:projects/usenet-indexer.org
 ** file:pyblosxom.org
 ** file:songs.org

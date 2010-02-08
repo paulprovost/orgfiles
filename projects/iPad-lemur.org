@@ -17,7 +17,27 @@
    - If the protocol details are made available.
 * References
 * Tasks                                                               :@task:
+  :PROPERTIES:
+  :ID:       D04F39D6-E0E9-41C5-A37F-73A2E26E2CDC
+  :END:
+** Compile the accelerometer simulator app and install on iPhone
+   - The app was built with SDK 2.1. Compiling with 3.2 for the
+     simulator worked.
+   - Must make changes to Info.plist bundle identifier to match your
+     development certificate.
+   - Info on certificates and provisioning at the
+     [[http://developer.apple.com/iphone/manage/overview/index.action][iPhone Developer Program Portal]]
+     - Installing and configuring a provisioning profile information [[http://developer.apple.com/iphone/manage/provisioningprofiles/howto.action][here]].
 ** Get iPhone talking OSC with MAX on a Mac
+   :PROPERTIES:
+   :ID:       A98C7CF7-F893-4301-AA00-F1082554BFAB
+   :END:
    Use TouchOSC
 ** Write an iPad app that send OSC to the Mac
+   :PROPERTIES:
+   :ID:       6812AA0C-DF4F-4646-909D-71A41F756015
+   :END:
 *** Also receives
+    :PROPERTIES:
+    :ID:       61C166EB-E37C-4552-909B-F766602F3A9C
+    :END:

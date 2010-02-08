@@ -1,0 +1,26 @@
+#+TITLE: Install of Ubuntu 9.10 on mail server
+#+FILETAGS: @homenetwork:@server
+
+* Machine name: zelbinion
+* Services:
+** http server
+   - Use lighttpd with execwrap
+   - roundcube webmail
+   - File Thingie file sharing
+** mail server
+   - exim for SMTP
+   - dovecot for IMAP
+** FTP server
+   - vsftpd with virtual accounts
+* Install
+** xfwm4 not starting
+   started by hand with
+   : xfwm4 --replace &
+   Will it survive a reboot?
+** Installed openssh-server
+** Installed vino-server
+   Start "vino-preferences" from the command line to start desktop sharing.
+** Installed
+*** Authentication
+    - As per [[https://help.ubuntu.com/community/Exim4][this]] page
+    - Install sasl2-bin

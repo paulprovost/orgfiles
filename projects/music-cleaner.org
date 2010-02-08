@@ -12,7 +12,7 @@
     them with a number. At the same time, ask for the number at the
     command line.
 * Converting as needed
-  I don keep FLAC or other lossless files around. So they would be
+  I don't keep FLAC or other lossless files around. So they would be
   automagically converted to AAC. Of course, metadata must be copied
   over.
   - Maybe script [[http://sbooth.org/Max/][Max]] to do this. Some leads [[http://forums.sbooth.org/viewtopic.php%3Ff%3D2&t%3D1655&start%3D0][here]].
