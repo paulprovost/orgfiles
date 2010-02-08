@@ -12,6 +12,7 @@
 ** [[file:emacs.org]]
 ** [[file:maison.org]]
 ** [[file:media.org]]
+** [[file:mutt-cheat-sheet.org]]
 ** file:org-mode-notes.org
 ** file:pmwiki.org
 *** file:projects/iPad-lemur.org

@@ -1,0 +1,12 @@
+#+TITLE: Cheat sheet for the Mutt mail reader
+#+FILETAGS: @mail:@mutt
+* Change folder
+  <c>
+* Search (almost anywhere)
+  </>
+* Mark message as read
+  <W><n>
+* Tag Messages
+  <T> regexp
+* Operate on tagged messages
+  <;><command>
