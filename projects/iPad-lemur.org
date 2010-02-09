@@ -44,3 +44,8 @@
     :PROPERTIES:
     :ID:       61C166EB-E37C-4552-909B-F766602F3A9C
     :END:
+** Write a MAX object that's an Automap client
+   :PROPERTIES:
+   :ID:       0F1B4CC3-35FD-4D3D-A523-2D42BABBDB63
+   :END:
+[2010-02-09 Tue 13:04]
