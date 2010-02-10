@@ -44,6 +44,15 @@
     :PROPERTIES:
     :ID:       61C166EB-E37C-4552-909B-F766602F3A9C
     :END:
+** Get the Automap SDK
+   - [[http://www.focusrite.com/developer/lib/exe/fetch.php%3Fid%3Dautomapsdk&cache%3Dcache&media%3Dautomapsdk1.0b1.zip][Download]] from the Novation web site.
+   - Additional usage information [[http://www.focusrite.com/developer/doku.php%3Fid%3Dautomapsdk][here]].
+*** TODO Try it out.
+    - Make a connection to the Automap server and have some parameters
+      show up.
+    - Try control both ways.
+*** Seems that I don't want to write a client
+    I really want to write a "device" that talks to the server.
 ** Write a MAX object that's an Automap client
    :PROPERTIES:
    :ID:       0F1B4CC3-35FD-4D3D-A523-2D42BABBDB63
