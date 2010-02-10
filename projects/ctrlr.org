@@ -15,6 +15,7 @@
    - Both performance and internal data.
 ** Interface with Novation Automap
    - If the protocol details are made available.
+** Use svg format for interfaces?
 * References
 * Tasks                                                               :@task:
   :PROPERTIES:
