@@ -50,3 +50,8 @@
 ** Installed privoxy
    Configured listening address to 192.168.1.250
 
+* Timeline
+** [2010-02-10 Wed]
+   - Slow performance. Webmail (RoundCube) moved to aurorachair.
+   - Disable graphical login as per [[http://www.cyberciti.biz/faq/prevent-xorg-from-starting-in-linux/][this]] page.
+     Used [[http://www.debianadmin.com/manage-linux-init-or-startup-scripts.html][rcconf]]
