@@ -54,4 +54,5 @@
 ** [2010-02-10 Wed]
    - Slow performance. Webmail (RoundCube) moved to aurorachair.
    - Disable graphical login as per [[http://www.cyberciti.biz/faq/prevent-xorg-from-starting-in-linux/][this]] page.
-     Used [[http://www.debianadmin.com/manage-linux-init-or-startup-scripts.html][rcconf]]
+     - Used [[http://www.debianadmin.com/manage-linux-init-or-startup-scripts.html][rcconf]] - Apparently, this is not the way in 9.10 and up.
+     - Try [[http://ubuntu-ky.ubuntuforums.org/showpost.php%3Fp%3D8239539&postcount%3D15][this]].
