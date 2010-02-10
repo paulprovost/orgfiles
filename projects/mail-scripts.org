@@ -1,0 +1,16 @@
+#+TITLE: Tools (scripts) for processing and cleaning up e-mail
+#+FILETAGS: @project:@mail
+* Technologies
+  - python
+  - Maildir
+* Flag/tag emails according to certain rules
+  To emphasize certain items in folders (rss feeds) containing lots of
+  items.
+  - Look into [[http://www.tastyapps.com/][FlagIt]]. See how the flags are persisted on the IMAP server.
+* Delete unread mails older than a certain age
+  To clean up rss feed mails that will not be read...
+* Remote tagging of messages
+  Tag messages (with MailTags compatible tags) by forwarding messages
+  to the original mail address with a suffix describing the tags in
+  the subject.
+  - Suffix: [TAG @tag1 @tag2 @tag3]
