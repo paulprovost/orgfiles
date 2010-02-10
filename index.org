@@ -15,7 +15,7 @@
 ** [[file:mutt-cheat-sheet.org]]
 ** file:org-mode-notes.org
 ** file:pmwiki.org
-*** file:projects/iPad-lemur.org
+*** file:projects/ctrlr.org
 *** file:projects/iphone-apps.org
 *** file:projects/live-guitar.org
 *** file:projects/mail-scripts.org
