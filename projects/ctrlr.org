@@ -25,7 +25,8 @@
    - iPhone DPI
      - Screen is 320x480 and 2"x3" -> 160 dpi
    - iPad DPI
-     - Screen is 1024x768 and 
+     - Screen is 1024x768 @ 132 dpi
+   - Conversion: iPad = iPhone / 1.2121
 * References
 ** OSC
    - vvopensource - frameworks for working with OSC and MIDI data on OS X
@@ -59,13 +60,22 @@
     :ID:       61C166EB-E37C-4552-909B-F766602F3A9C
     :END:
 ** Get the Automap SDK
+   :PROPERTIES:
+   :ID:       3735A472-7BBB-4A38-AFE2-F27CB2EEF4A8
+   :END:
    - [[http://www.focusrite.com/developer/lib/exe/fetch.php%3Fid%3Dautomapsdk&cache%3Dcache&media%3Dautomapsdk1.0b1.zip][Download]] from the Novation web site.
    - Additional usage information [[http://www.focusrite.com/developer/doku.php%3Fid%3Dautomapsdk][here]].
 *** TODO Try it out.
+    :PROPERTIES:
+    :ID:       CB08077A-F3E2-4C74-9A11-BAEEA887DDAE
+    :END:
     - Make a connection to the Automap server and have some parameters
       show up.
     - Try control both ways.
 *** Seems that I don't want to write a client
+    :PROPERTIES:
+    :ID:       F2CA4C0D-33C7-490B-972F-1E0B0F90D346
+    :END:
     I really want to write a "device" that talks to the server.
 ** Write a MAX object that's an Automap client
    :PROPERTIES:
@@ -74,12 +84,18 @@
 [2010-02-09 Tue 13:04]
    Maybe later. Not for this project
 ** Write an iPad app that sends and receives OSC
+   :PROPERTIES:
+   :ID:       CB42D8B5-8489-4A29-9D80-391638E16566
+   :END:
    - Great OSC writeup, with MAX info (need to send/receive OSC in MAX
      as well...)
      - OSC Tutorial - Part 1 of our OSC tutorial series | max4live.info
        http://www.max4live.info/content/osc-tutorial-part-1-our-osc-tutorial-series
    - Compiled and ran the vvopensource examples.
 ** Darn it. Somebody has written something similar
+   :PROPERTIES:
+   :ID:       40D12765-30F6-444D-9064-1F00ABD6C917
+   :END:
    iPhone / iPod Touch Max 5 external
    http://www.nr74.org/c74.html
    So, start from here and build up controllers, or rewrite?

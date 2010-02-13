@@ -1,0 +1,5 @@
+#+TITLE: Notes / cookbook on home version control
+#+FILETAGS: @hg
+
+* Creating a new project from one on the local machine
+  : hg clone <local-project-directory> ssh://paul@marauder.bouzou.org/hg/<remote-project-directory>

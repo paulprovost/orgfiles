@@ -19,3 +19,6 @@
   :LOGBOOK:
   - State "STARTED"    from ""           [2010-02-09 Tue]
   :END:
+  :PROPERTIES:
+  :ID:       151C88C1-9EC5-4208-A077-C9A3D0CDEFDB
+  :END:
