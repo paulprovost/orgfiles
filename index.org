@@ -1,5 +1,6 @@
 * Index file for MobileOrg
 ** [[file:chalet.org]]
+** file:hg-notes.org
 ** [[file:mail-notes.org]]
 ** file:music-notes.org
 ** [[file:org-notes.org]]
@@ -18,10 +19,12 @@
 *** file:projects/ctrlr.org
 *** file:projects/iphone-apps.org
 *** file:projects/live-guitar.org
+*** file:projects/mac-os-services.org
 *** file:projects/mail-scripts.org
 *** file:projects/music-cleaner.orgm
 *** file:projects/music-player.org
 *** file:projects/remote-media-access.org
+*** file:projects/rss-filter.org
 *** file:projects/usenet-indexer.org
 ** file:pyblosxom.org
 ** file:songs.org

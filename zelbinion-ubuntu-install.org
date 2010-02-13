@@ -51,9 +51,20 @@
    Configured listening address to 192.168.1.250
 
 * Timeline
+** Cloned 80G /home HDD to new 250G
+   - Used dd, as suggested [[http://www.justlinux.com/forum/showthread.php%3Fthreadid%3D134457][here]]:
+     : dd if=/dev/sdb of=/dev/sdd bs=32256
+   - Initially, fdisk would complain about superblock issues. But
+     after reboot, all seemed well.
+   - Other info
+     - Linux Backup: Hard Disk Clone with "dd" | Backup HowTo
+       http://www.backuphowto.info/linux-backup-hard-disk-clone-dd
+     - Computer Cloning with Partition Image | freshmeat.net
+       http://freshmeat.net/articles/computer-cloning-with-partition-image
 ** [2010-02-10 Wed]
    - Slow performance. Webmail (RoundCube) moved to aurorachair.
    - Disable graphical login as per [[http://www.cyberciti.biz/faq/prevent-xorg-from-starting-in-linux/][this]] page.
      - Used [[http://www.debianadmin.com/manage-linux-init-or-startup-scripts.html][rcconf]] - Apparently, this is not the way in 9.10 and up.
      - Try [[http://ubuntu-ky.ubuntuforums.org/showpost.php%3Fp%3D8239539&postcount%3D15][this]]. Edit the /etc/init/gdm.conf file.
      - Better!
+** [2010-02-10 Wed] Started backups of /home using rdiff-backup

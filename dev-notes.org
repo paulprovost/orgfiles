@@ -9,3 +9,20 @@
   - Mac Dev Center: Property List Programming Guide: Introduction to Property Lists
     http://developer.apple.com/mac/library/documentation/Cocoa/Conceptual/PropertyLists/Introduction/Introduction.html
 
+* Audio Units
+  - The Sound of Opportunity Knocking: The Audio Units Community Takes Off
+    http://developer.apple.com/audio/audiocommunity.html
+  - Turning Up the Volume with Audio Units
+    http://developer.apple.com/audio/audiounits.html
+  - Mac Dev Center: Audio Unit Programming Guide: Introduction
+    http://developer.apple.com/mac/library/DOCUMENTATION/MusicAudio/Conceptual/AudioUnitProgrammingGuide/Introduction/Introduction.html
+  - Developing an Audio Unit effect William C. Benton
+    http://web.willbenton.com/writing/2004/au-effect
+  - Developing Audio Units for OSX | Nick Mariette | SoundsOrange
+    http://www.soundsorange.net/resources/developing-audio-units-for-mac-osx/
+  - A Tasty Pixel » Blog » Using RemoteIO audio unit
+    http://atastypixel.com/blog/2008/11/04/using-remoteio-audio-unit/
+  - CnAudioUnit | Get CnAudioUnit at SourceForge.net
+    http://sourceforge.net/projects/cfcaudiounit/
+  - Nick Mariette - Developing Audio Units
+    http://cgi.cse.unsw.edu.au/~nickm/?Information:Developing_Audio_Units

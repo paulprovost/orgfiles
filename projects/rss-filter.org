@@ -1,0 +1,32 @@
+#+TITLE: Generate RSS feeds, possibly by reading and filtering existing ones
+#+FILETAGS: @project:@rss
+* Requirements / Tech Specs
+  Read, massage and output RSS feeds.
+  - Run as a server to process feeds as needed
+  - Take the original feed URL as a parameter.
+  - Regexp match feed URL to decide which rule to use.
+* Technologies:
+  - python
+* References
+  - Yahoo! Pipes - Wikipedia, the free encyclopedia
+    http://en.wikipedia.org/wiki/Yahoo!_Pipes
+  - Pipes: Rewire the web
+    http://pipes.yahoo.com/pipes/
+  - RssLibraries - PythonInfo Wiki
+    http://wiki.python.org/moin/RssLibraries
+  - PyRSS2Gen-0.0 - an RSS 2.0 generator for Python
+    http://mail.python.org/pipermail/python-announce-list/2003-September/002556.html
+  - PyRSS2Gen
+    http://www.dalkescientific.com/Python/PyRSS2Gen.html
+  - Code Project: Make talking RSS feeds | TuxRadar Linux
+    http://www.tuxradar.com/content/make-talking-rss-feeds
+  - Universal Feed Parser
+    http://www.feedparser.org/
+  - Feedparser and Django - Ian Lewis
+    http://www.ianlewis.org/en/feedparser-and-django
+  - Feedjack - Feed aggregator powered by Python and Django
+    http://www.feedjack.org/
+  - fíam » Plugging a RSS feed into a Django template
+    http://fi.am/entry/plugging-a-rss-feed-into-a-django-template/
+  - Access Yahoo! RSS feeds using Python - Yahoo! Developer Network
+    http://developer.yahoo.com/python/python-rss.html

@@ -74,3 +74,4 @@
   - Installed iVolume
   - Installed MediaRage
   - Installed MacPorts (for ImageMagick)
+  - Installed Carbon Copy Cloner

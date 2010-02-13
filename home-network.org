@@ -1,0 +1,41 @@
+#+TITLE: Notes on home network maintenance
+#+FILETAGS: @homenetwork
+
+* Backups                                                           :@backup:
+** Linux solutions:
+   - Reliable Linux backups: How to backup Linux, BSD and other
+     Unix-like systems properly
+     http://www.halfgaar.net/backing-up-unix
+   - A simple Linux backup method
+     http://www.desktoplinux.com/articles/AT2280165098.html
+   - Simple Linux Backup Software
+     http://simplelinuxbkup.sourceforge.net/
+   - 10 outstanding Linux backup utilities | 10 Things | TechRepublic.com
+     http://blogs.techrepublic.com.com/10things/?p=895
+   - Using fwbackups
+     http://www.diffingo.com/downloads/fwbackups/docs/html/usage.xhtml
+   - SourceForge.net: Simple Backup Solution - Develop
+     http://sourceforge.net/projects/sbackup/develop
+   - BackupPC Information
+     http://backuppc.sourceforge.net/info.html
+   - rdiff-backup: Features
+     http://www.nongnu.org/rdiff-backup/features.html
+     - Powerful Remote Incremental Backup with rdiff-backup | Tombuntu
+       http://tombuntu.com/index.php/2009/08/22/powerful-remote-incremental-backup-with-rdiff-backup/
+   - DAR - Disk ARchive
+     http://dar.linux.free.fr/
+   - Backupninja - Overview - RiseupLabs Code Repository
+     https://labs.riseup.net/code/projects/show/backupninja/
+     - Set up | debianHELP
+       http://www.debianhelp.org/node/1149
+   - BackupPC Installation and Configuration in Debian
+     http://www.debianhelp.co.uk/backuppc.htm
+     - Introduction BackupPC part 1
+       http://www.debian-administration.org/articles/588
+   - A Guide to System Backup and Restore in Ubuntu | Tombuntu
+     http://tombuntu.com/index.php/2008/11/18/a-guide-to-system-backup-and-restore-in-ubuntu/
+
+* General notes
+** Filesystems
+   - why-reiserfs-is-teh-sukc
+     http://zork.net/~nick/mail/why-reiserfs-is-teh-sukc

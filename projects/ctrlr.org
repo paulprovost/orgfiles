@@ -16,7 +16,20 @@
 ** Interface with Novation Automap
    - If the protocol details are made available.
 ** Use svg format for interfaces?
+   Not natively supported on the iPhone. But parseable.
+   - May be useful for rapid layout definition. maybe build a quick
+     parser.
+   - Should probably be converted from XML to JSON for better
+     transmission...
+** Screen DPI / widget sizes
+   - iPhone DPI
+     - Screen is 320x480 and 2"x3" -> 160 dpi
+   - iPad DPI
+     - Screen is 1024x768 and 
 * References
+** OSC
+   - vvopensource - frameworks for working with OSC and MIDI data on OS X
+     http://code.google.com/p/vvopensource/
 * Tasks                                                               :@task:
   :PROPERTIES:
   :ID:       D04F39D6-E0E9-41C5-A37F-73A2E26E2CDC
@@ -59,3 +72,14 @@
    :ID:       0F1B4CC3-35FD-4D3D-A523-2D42BABBDB63
    :END:
 [2010-02-09 Tue 13:04]
+   Maybe later. Not for this project
+** Write an iPad app that sends and receives OSC
+   - Great OSC writeup, with MAX info (need to send/receive OSC in MAX
+     as well...)
+     - OSC Tutorial - Part 1 of our OSC tutorial series | max4live.info
+       http://www.max4live.info/content/osc-tutorial-part-1-our-osc-tutorial-series
+   - Compiled and ran the vvopensource examples.
+** Darn it. Somebody has written something similar
+   iPhone / iPod Touch Max 5 external
+   http://www.nr74.org/c74.html
+   So, start from here and build up controllers, or rewrite?

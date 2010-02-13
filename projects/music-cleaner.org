@@ -7,6 +7,34 @@
   - image manipulation with 
     - PIL
     - ImageMagick
+* Reference
+** Album Art
+   - Linux.com :: Album Cover Art Downloader makes iPod a touch nicer
+     http://www.linux.com/archive/feature/125125
+   - Album Cover Art Downloader
+     http://www.unrealvoodoo.org/hiteck/projects/albumart/
+   - Download Album Cover Art in Linux with Coverfinder - Associated
+     Content - associatedcontent.com
+     http://www.associatedcontent.com/article/378348/download_album_cover_art_in_linux_with.html?cat=15
+   - Learning to love GeekTool - A primer (Part 1) - Page 2 - MacTalk Forums
+     http://forums.mactalk.com.au/18/51020-learning-love-geektool-primer-part-1-a-2.html
+   - Using Amazon Web Services
+     - Getting album art using Amazon Web Services « Exploding Pixels
+       http://explodingpixels.wordpress.com/2008/06/24/getting-album-art-using-amazon-web-services/
+     - boto - Project Hosting on Google Code
+       http://code.google.com/p/boto/
+     - boto Documentation — boto v1.9 (r1423)
+       http://boto.s3.amazonaws.com/index.html
+     - Amazon Web Services Developer Community : Amazon EC2 Library
+       for Query in Python
+       http://developer.amazonwebservices.com/connect/entry!default.jspa?categoryID=85&externalID=552&fromSearchPage=true
+   - Album Cover Art Downloader
+     http://www.unrealvoodoo.org/hiteck/projects/albumart/
+   - Print Page - Write cover / album art images to MP3s - Mac Python
+     script / Win EXE now avail
+     http://forums.sabnzbd.org/index.php?action=printpage;topic=1190.0
+   - Discogs API Documentation
+     http://www.discogs.com/help/api
 * Ui Ideas
   - To pick cover art, build a jpg with all the candidates and label
     them with a number. At the same time, ask for the number at the
