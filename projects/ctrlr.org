@@ -26,7 +26,7 @@
      - Screen is 320x480 and 2"x3" -> 160 dpi
    - iPad DPI
      - Screen is 1024x768 @ 132 dpi
-   - Conversion: iPad = iPhone / 1.2121
+   - Conversion: iPad = iPhone * 0.825
 * References
 ** OSC
    - vvopensource - frameworks for working with OSC and MIDI data on OS X
