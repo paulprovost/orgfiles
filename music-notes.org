@@ -1,8 +1,9 @@
 #+TITLE: Notes on home studio
 #+FILETAGS: @homestudio
 
-* TODO Wire firebox guitar input to patch bay with high quality cable 
+* NEXT [#B] Wire firebox guitar input to patch bay with high quality cable 
   :LOGBOOK:
+  - State "NEXT"       from "TODO"       [2010-02-19 Fri 07:18]
   - State "TODO"       from ""           [2009-12-21 Mon 16:53]
   :END:
   :PROPERTIES:
@@ -10,8 +11,9 @@
   :END:
 [2009-12-21 Mon 16:24]
 
-* TODO Wire vg-99 guitar input to patch bay with high quality cable 
+* NEXT [#B] Wire vg-99 guitar input to patch bay with high quality cable 
   :LOGBOOK:
+  - State "NEXT"       from "TODO"       [2010-02-19 Fri 07:18]
   - State "TODO"       from "TODO"       [2009-12-21 Mon 16:53]
   - State "TODO"       from ""           [2009-12-21 Mon 16:53]
   :END:
@@ -20,8 +22,9 @@
   :END:
 [2009-12-21 Mon 16:24]
 
-* TODO Try to match vg-99 amps to podxt with natural electric guitar
+* NEXT [#A] Try to match vg-99 amps to podxt with natural electric guitar
   :LOGBOOK:
+  - State "NEXT"       from "TODO"       [2010-02-19 Fri 07:18]
   - State "TODO"       from ""           [2009-12-21 Mon 16:54]
   :END:
   :PROPERTIES:
@@ -47,3 +50,16 @@
   - Short JSynthLib Guide
     http://www.ucapps.de/jsynthlib.html
 
+* Line6 devices on Snow Leopard
+  - Community: Space Search
+    http://line6.com/community/search.jspa;jsessionid=046F19287363090335221EC1A3CEFBE3?resultTypes=BLOG_POST&resultTypes=DOCUMENT&resultTypes=MESSAGE&resultTypes=BLOG&resultTypes=COMMUNITY&resultTypes=TASK&resultTypes=PROJECT&resultTypes=SOCIAL_GROUP&resultTypes=COMMENT&peopleEnabled=true&q=snow+leopard
+  - Community: Pod XT Live / Variax 500 / Variax...
+    http://line6.com/community/message/93511#93511
+  - Randum Thoughts: Toneport on Snow Leopard
+    http://chinbilly.blogspot.com/2009/10/toneport-on-snow-leopard.html
+  - Randum Thoughts: Toneport UX2 4.2.5 Beta drivers
+    http://chinbilly.blogspot.com/2009/11/toneport-ux2-425-beta-drivers.html
+  - gearbox snow leopard - Google Search
+    http://www.google.com/search?client=safari&rls=en&q=gearbox+snow+leopard&ie=UTF-8&oe=UTF-8
+  - Community: Snow Leopard OSX Support Status
+    http://line6.com/community/docs/DOC-1576

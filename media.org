@@ -26,4 +26,29 @@
    - MediaTomb - Free UPnP MediaServer
      http://mediatomb.cc/pages/download
 
-
+* Organization
+** Music
+   - TuneUp | Digital Music Management and Music Discovery for iTunes
+     http://www.tuneupmedia.com/?gclid=CLKXpZfu9Z8CFegL5QodBi89eQ
+   - TuneIn to TuneUp | TuneUp Media's Blog
+     http://www.tuneupmedia.com/blog/
+   - Automatically Remove iTunes Duplicates with this Download | TidySongs
+     http://www.tidysongs.com/about/
+   - Download | TidySongs
+     http://www.tidysongs.com/download/
+   - Buy | TidySongs
+     https://www.tidysongs.com/buy/
+   - Doug's AppleScripts for iTunes ♫ Rename Files v1.2.1
+     http://dougscripts.com/itunes/scripts/ss.php?sp=renamefiles
+   - Plaid Cow Solutions / AppleScript / iTunes / Rename Files
+     http://applescript.plaidcow.net/iTunes/RenameFiles/
+   - Doug's AppleScripts for iTunes ♫ File Renamer v
+     http://dougscripts.com/itunes/scripts/ss.php?sp=filerenamer
+   - Doug's AppleScripts for iTunes ♫ File Manager v1.0
+     http://dougscripts.com/itunes/scripts/ss.php?sp=filemanager
+   - TidySongs alternatives for Mac - AlternativeTo.net
+     http://alternativeto.net/desktop/tidysongs/?platform=mac
+   - Pollux | Music Organization Meets Automation | Home
+     http://polluxapp.com/index.php
+   - Tunatic: free music identification software
+     http://www.wildbits.com/tunatic/

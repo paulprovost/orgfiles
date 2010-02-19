@@ -177,4 +177,17 @@
     : if __name__ == '__main__':
     :    growlNotify()
 
+* Autofs and sshfs – the perfect couple                      :@sshfs:@autofs:
+  http://www.tjansson.dk/?p=84
 
+* Apcupsd, a daemon for controlling APC UPSes                          :@ups:
+  http://www.apcupsd.com/
+  - APCUPSD User Manual
+    http://www.apcupsd.com/manual/manual.html
+  - APCUPSD User Manual
+    http://www.apcupsd.com/manual/manual.html#mac-os-x-darwin-usb-configuration
+  - APCUPSD User Manual
+    http://www.apcupsd.com/manual/manual.html#installation-from-binary-packages
+
+* detox -- clean up filenames
+  http://detox.sourceforge.net/detox.1.html
