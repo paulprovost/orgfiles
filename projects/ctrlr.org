@@ -1,9 +1,11 @@
 #+TITLE: Lemur-like iPad (also iPhone and iPod Touch) app
 #+FILETAGS: @project:@iPad
+
 * Name ideas
   - Control-R
   - ctrl-r
   - ctrl-R
+
 * Requirements / Tech Specs
 ** Client/Server architecture
    - The server is running on controlled applications' host computer.
@@ -27,10 +29,67 @@
    - iPad DPI
      - Screen is 1024x768 @ 132 dpi
    - Conversion: iPad = iPhone * 0.825
+
+* Applications
+** Studio
+*** Mixer / plugin control
+*** Dedicated plugin controller
+*** Effects setup controller
+    Have Live setup with different effects and be able to bring them
+    in/out much like a clip-based performance.
+** Live / performance
+*** Effects controller
+    - Display only?
+    - Footswitch controlled
+    - Is this laptop-only?
+*** Lyric prompter
+*** Live / clip based performace
+**** General ideas
+     - Have "undo" button. Be able to set a state to return to, and
+       return there at the push of a button.
+     - Quickly preset states.
+*** Looper-like performance
+    - Display waveform (maybe multiple)
+    - Quickly pick / add / delete tracks, with visual feedback (again,
+      this may be laptop-only)
+
 * References
-** OSC
+** OSC                                                                 :@osc:
    - vvopensource - frameworks for working with OSC and MIDI data on OS X
      http://code.google.com/p/vvopensource/
+** iPhone development                                       :@iphone:@opengl:
+   - How To Write an iPhone App in 14 Days
+     http://www.smallnetbuilder.com/content/view/30712/87/
+   - iPhone Development | iPhone Programming | iPhone Application Development | iPhone Game Development | iPhone App Development | iPhone Software Development
+     http://iphonedevelopmentbits.com/
+   - 18 OpenGL ES Resources That You Must Know! | iPhone Development Tutorials and Programming Tips
+     http://maniacdev.com/2009/10/18-opengl-es-resources-that-you-must-know/
+   - Nehe OpenGL Tutorial #2 In iPhone OpenGL ES
+     http://maniacdev.com/2009/04/nehe-opengl-tutorial-2-in-iphone-opengl-es/
+   - App every day in August!
+     http://appeveryday.wordpress.com/
+   - iPhone SDK Examples and Tutorials - About Objects
+     http://www.aboutobjects.com/tutorials.html
+   - iPhone OpenGL ES Nehe Lesson #3 Explained | iPhone Development Tutorials and Programming Tips
+     http://maniacdev.com/2009/05/iphone-opengl-es-nehe-lesson-explained/
+   - Oolong Engine
+     http://oolongengine.com/
+   - oolongengine - Project Hosting on Google Code
+     http://code.google.com/p/oolongengine/
+** MAX / Max for Live                                            :@max:@live:
+   - Max for Live Documentation
+     http://www.cycling74.com/docs/max5/vignettes/intro/doclive.html
+   - Creating Max for Live Devices
+     http://www.cycling74.com/docs/max5/vignettes/core/live_creatingdevices.html
+   - Max for Live Tutorials
+     http://www.cycling74.com/docs/max5/vignettes/core/live_resources_tutorials.html
+   - Pluggo for Live Devices
+     http://www.cycling74.com/docs/max5/vignettes/core/live_resources_pluggo.html
+   - Creating Devices that use the Live API
+     http://www.cycling74.com/docs/max5/vignettes/core/live_api.html
+   - Max for Live Abstractions
+     http://www.cycling74.com/docs/max5/vignettes/core/live_resources_abstractions.html#m4l_api_abstractions
+
 * Tasks                                                               :@task:
   :PROPERTIES:
   :ID:       D04F39D6-E0E9-41C5-A37F-73A2E26E2CDC
@@ -65,7 +124,11 @@
    :END:
    - [[http://www.focusrite.com/developer/lib/exe/fetch.php%3Fid%3Dautomapsdk&cache%3Dcache&media%3Dautomapsdk1.0b1.zip][Download]] from the Novation web site.
    - Additional usage information [[http://www.focusrite.com/developer/doku.php%3Fid%3Dautomapsdk][here]].
-*** TODO Try it out.
+*** CANCELLED Try it out.
+    :LOGBOOK:
+    - State "CANCELLED"  from "TODO"       [2010-02-19 Fri 07:17] \\
+      I don't want to write an Automap client, I want to write an Automap device...
+    :END:
     :PROPERTIES:
     :ID:       CB08077A-F3E2-4C74-9A11-BAEEA887DDAE
     :END:
@@ -83,7 +146,7 @@
    :END:
 [2010-02-09 Tue 13:04]
    Maybe later. Not for this project
-** Write an iPad app that sends and receives OSC
+** NEXT [#A] Write an iPad app that sends and receives OSC
    :PROPERTIES:
    :ID:       CB42D8B5-8489-4A29-9D80-391638E16566
    :END:
