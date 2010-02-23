@@ -30,6 +30,12 @@
   - Change the permissions of .ssh to 700
   - Change the permissions of .ssh/authorized\n_keys2 to 640
 
+* Automounting sshfs filesystems using autofs
+  Totally Seamless SSHFS under Linux using Fuse and Autofs
+  http://www.mccambridge.org/blog/2007/05/totally-seamless-sshfs-under-linux-using-fuse-and-autofs/
+  Watch out for the root access. This did not work when mounting under
+  /home/<user>/mnt
+
 * Installing lighttpd from MacPorts		:@macports:@lighttpd:@webdev:
   - Install php5 from MacPorts, with the fastcgi, imap, macosx, pear
     and sqlite variants. Easier using [[http://porticus.alittledrop.com/][Porticus]].

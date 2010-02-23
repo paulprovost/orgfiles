@@ -13,10 +13,20 @@
      pages for the user to interact with
    - Pages are sent from the server to the client.
    - Pages are stored / defined on the server
+** MV2C architecture
+   - Model is the interface to the things that are being controlled:
+     - Live
+     - Mackie Control device
+     - Plug-in controller
+   - View displays to the user.
+   - View2 receives input from the user.
+   - Controller mediates communication.
 ** Client and server communicate through OSC
    - Both performance and internal data.
 ** Interface with Novation Automap
    - If the protocol details are made available.
+     FWP: only client SDK is available. May need Audio Unit wrapper
+     development to control plug-ins
 ** Use svg format for interfaces?
    Not natively supported on the iPhone. But parseable.
    - May be useful for rapid layout definition. maybe build a quick
@@ -34,19 +44,26 @@
 ** Studio
 *** Mixer / plugin control
 *** Dedicated plugin controller
+    - Be able to modify configuration from the display.
+      - Add pages
+      - Add controls to pages
 *** Effects setup controller
     Have Live setup with different effects and be able to bring them
     in/out much like a clip-based performance.
 ** Live / performance
 *** Effects controller
-    - Display only?
+    - Possibly display only
     - Footswitch controlled
-    - Is this laptop-only?
+    - Control in-computer effects as well as outboard (using digitally
+      controlled analog switcher)
+    - Use AppleTV running MAX patch as in-rack computer
+      (May have to run full Mac OS - for MIDI interface)
 *** Lyric prompter
 *** Live / clip based performace
 **** General ideas
-     - Have "undo" button. Be able to set a state to return to, and
-       return there at the push of a button.
+     - Have "undo" button.
+     - Be able to set a state to return to, and return there at the
+       push of a button.
      - Quickly preset states.
 *** Looper-like performance
     - Display waveform (maybe multiple)
@@ -162,3 +179,5 @@
    iPhone / iPod Touch Max 5 external
    http://www.nr74.org/c74.html
    So, start from here and build up controllers, or rewrite?
+** NEXT [#A] Write an iPad view app
+   Displays graphical entites and allows them to be picked and moved.

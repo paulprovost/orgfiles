@@ -1,0 +1,10 @@
+* Compare podxt and vg99 input impedance
+[2010-02-19 Fri 15:35]
+Podxt live: 
+Vg99: 2.2 Mohm
+* Investigate handbrake cli
+[2010-02-22 Mon 09:06]
+* Automate Logic 9 - possibilities?
+[2010-02-22 Mon 10:48]
+* Better filters for SoftArchive RSS feed
+[2010-02-22 Mon 15:11]
