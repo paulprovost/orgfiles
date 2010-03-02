@@ -1,6 +1,17 @@
 #+TITLE: Notes on software development
 #+FILETAGS: @dev
 
+* Xcode
+** Set the ORGANIZATIONNAME defaults
+   This is so that my workplace name does not end up in my personal
+   code...
+   - Customizing Xcode File Templates at High Order Blog
+     http://blog.highorderbit.com/2009/03/15/customizing-xcode-cocoa-touch-file-templates/
+   - iPhone Development: Xcode File Templates and a Mystery
+     http://iphonedevelopment.blogspot.com/2008/11/xcode-file-templates-and-mystery.html
+   In a nutshell:
+   : defaults write com.apple.Xcode PBXCustomTemplateMacroDefinitions '{ORGANIZATIONNAME = "My Company Name";}'
+
 * Property lists                                                       :@mac:
   - Fat Cat Software - PlistEdit Pro
     http://www.fatcatsoftware.com/plisteditpro/
@@ -9,7 +20,7 @@
   - Mac Dev Center: Property List Programming Guide: Introduction to Property Lists
     http://developer.apple.com/mac/library/documentation/Cocoa/Conceptual/PropertyLists/Introduction/Introduction.html
 
-* Audio Units
+* Audio Units                                                   :@audiounits:
   - The Sound of Opportunity Knocking: The Audio Units Community Takes Off
     http://developer.apple.com/audio/audiocommunity.html
   - Turning Up the Volume with Audio Units
