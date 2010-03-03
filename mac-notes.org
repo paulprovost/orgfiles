@@ -55,3 +55,11 @@
 * How To Make MacFUSE Follow Symlinks Using SSHFS           :@macfuse:@sshfs:
   http://philnelson.name/2007/01/30/a-quick-note-on-macfuse-sshfs-and-how-to-make-fuse-follow-symlinks/
 
+* Installing meld and making it work
+  [[http://connectedflow.com/changes/][Changes]] is very nice, but if something free is needed (like at
+  work), then install [[http://meld.sourceforge.net/][meld]] using MacPorts. Unfortunately, this does
+  not work out of the box. You need some of the tips described
+  [[http://www.ubuntuproductivity.com/journal/macintosh/07/2009/meld-redux/][here]]. The snow leopard steps are in the comments:
+  : launchctl load -w /Library/LaunchAgents/org.freedesktop.dbus-session.plist
+  : sudo launchctl load -w /Library/LaunchDaemons/org.freedesktop.dbus-system.plist
+
