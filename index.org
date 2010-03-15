@@ -28,3 +28,4 @@
 *** file:projects/usenet-indexer.org
 ** file:pyblosxom.org
 ** file:songs.org
+** file:windows-notes.org

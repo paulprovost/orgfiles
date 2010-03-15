@@ -1,3 +1,5 @@
+#+TITLE: Notes / tips on (erk) windows usage.
+#+FILETAGS: @windows
 
 * How to Turn off File Compression 
   The command prompt is your friend.  Start a command window, get to
