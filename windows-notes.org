@@ -1,0 +1,9 @@
+
+* How to Turn off File Compression 
+  The command prompt is your friend.  Start a command window, get to
+  the top directory of C: and use the compact command to uncompress
+  everything.  Explicitly (making some assumptions):
+
+  : compact /u /s /i *
+
+ 
