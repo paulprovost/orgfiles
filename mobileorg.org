@@ -9,6 +9,9 @@ Vg99: 2.2 Mohm
 * Better filters for SoftArchive RSS feed
 [2010-02-22 Mon 15:11]
 * TODO Integrate osc receive in cocos2d
+  :PROPERTIES:
+  :ID:       500F881F-A8B9-4FF9-A936-DA263955F6CE
+  :END:
 [2010-02-23 Tue 11:03]
 * Does cocos2d support gestures (swipes)
 [2010-02-23 Tue 11:02]

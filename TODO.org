@@ -20,3 +20,53 @@
   :ID:       156F50C4-DF51-4A48-93E1-BF91D9CB3DFF
   :END:
 [2009-12-11 Fri 12:35]
+
+* TODO Find a solution for video collection management
+** Requirements:
+   - Store/view thumbnails
+   - Handle network drives and offline storage.
+** Links
+  - Manage your Video Collection with iTunes | iFlicks
+    http://www.iflicksapp.com/
+  - Features
+    http://www.aroona.net/VideoDrive/Features.html
+  - skreenics - Project Hosting on Google Code
+    http://code.google.com/p/skreenics/
+  - MacUpdate Search - Media catalog
+    http://search.macupdate.com/search.php?keywords=media+catalog&os=mac&start=25&start=50&start=75
+  - Introduction
+    http://halfduplex.net/
+  - All technical details about the amazing CDFinder
+    http://www.cdfinder.de/en/info.html
+  - Obvious Matter | DiskLibrary
+    http://www.obviousmatter.com/disklibrary.html
+  - DiskTracker
+    http://www.disktracker.com/
+  - MacMagna | FileFinder
+    http://macmagna.com/filefinder/index.htm
+
+* STARTED Download New Captain Scarlet
+  :LOGBOOK:
+  - State "STARTED"    from "TODO"       [2010-03-20 Sat 18:56]
+  :END:
+  - New captain scarlet s01e02 - Rapidshare files
+    http://ineedfile.com/new-captain-scarlet-s01e02
+  - CAPTAIN SCARLET S01E07.part1 .rar - download from Rapidshare.com
+    http://ineedfile.com/download/14307012-captain-scarlet-s01e07-part1-rar
+
+* TODO Subscribe to updates for iDentify                     :@rss:@metadata:
+  - iDentify
+    http://identifyapp.wordpress.com/
+
+* TODO Setup logging for File Thingie 
+  - File Thingie • PHP File Manager
+     http://www.solitude.dk/filethingie/
+  - phpmodlog is a php logging script which can log everything in the extended CLF format
+    http://www.monperrus.net/martin/phpmodlog
+  - Translating File Thingie | File Thingie • PHP File Manager
+    http://www.solitude.dk/filethingie/documentation/translate
+  - Using plugins | File Thingie • PHP File Manager
+    http://www.solitude.dk/filethingie/documentation/plugins
+
+* TODO Subscribe to cocos2d iPhone blog          :@rss:@dev:@iPhone:@cocos2d:
+  http://www.cocos2d-iphone.org/

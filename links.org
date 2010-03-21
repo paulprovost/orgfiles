@@ -1,0 +1,52 @@
+
+* [2010-03-20 Sat] Great EBow video                                 :@guitar:
+  - YouTube - Phil Keaggy Ebow
+    http://www.youtube.com/watch?v=wwq0i6jP7dQ&feature=related
+
+* [2010-03-20 Sat] The Vibesware Resonator                          :@guitar:
+  - How to play with the Vibesware Guitar Resonator | eHow.com
+    http://www.ehow.com/how_5108858_play-vibesware-guitar-resonator.html
+  - MySpace Video - Vibesware's Video Channel & Video Clips
+    http://vids.myspace.com/index.cfm?fuseaction=vids.channel&vanity=vibesware
+
+* TODO [2010-03-20 Sat] Keep downloading!
+  - YouTube - Rockschool - Series 1 - Ep.3 - Techniques (Part 3 of 3)
+    http://www.youtube.com/watch?v=dWkN6dldYt8&feature=related
+
+* [2010-03-20 Sat] Spas et massages
+  - Strom spa nordique - Île-des-Soeurs Montréal
+    https://www.stromspa.com/secure.asp?Lang=F&Pid=home.asp&STID=&Music=Off
+  - Massages
+    http://www.skyspa.ca/fr/services-et-tarifs/massotherapie
+  - massage sous la pluie - Google Search
+    http://www.google.ca/search?client=safari&rls=en&q=massage+sous+la+pluie&ie=UTF-8&oe=UTF-8&redir_esc=&ei=DUulS_ydIcSAlAex3tT1Ag
+  - Studio Bliss - Tarifs
+    http://www.studiobliss.ca/tarifs.html
+  - Laser Spa. Clinique de soins corporels - Épilation Laser - Esthétique
+    http://www.laser-spa.com/
+  - Vague Tropicale
+    http://www.vaguetropicale.ca/index.htm
+
+* [2010-03-20 Sat] Using Handbrake from the command line             :@video:
+  - CLIGuide – HandBrake
+    http://trac.handbrake.fr/wiki/CLIGuide
+
+* [2010-03-20 Sat] Logging for iPhone development              :@dev:@iPhone:
+  - iPhone Dev » How to Implement Grabbing a Sprite with Cocos2d and Box2d
+    http://iphonedev.net/2009/08/05/how-to-grab-a-sprite-with-cocos2d-and-box2d/
+  - Logs » Chris-Software.com
+    http://chris-software.com/index.php/2009/04/29/logs/
+  - How to Log to the Console Using NSLog
+    http://getsetgames.com/2009/12/22/iphonedev-advent-tip-22-how-to-log-to-the-console-using-nslog/
+
+* [2010-03-20 Sat] Adding trackers to torrents                     :@torrent:
+  - PublicBitTorrent - An open tracker project
+    http://publicbt.com/tracker_modify.html
+
+* [2010-03-20 Sat] Remote control for transmission   :@torrent:@transmission:
+  - man/transmission-remote – Transmission
+    http://trac.transmissionbt.com/wiki/man/transmission-remote
+
+* [2010-03-20 Sat] Emacs Mac OS X tweaks                             :@emacs:
+  - EmacsWiki: Mac OSTweaks
+    http://www.emacswiki.org/emacs/MacOSTweaks#toc22

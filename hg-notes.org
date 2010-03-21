@@ -1,5 +1,23 @@
 #+TITLE: Notes / cookbook on home version control
 #+FILETAGS: @hg
 
+* UI Tools
+  - OtherTools - Mercurial
+    http://mercurial.selenic.com/wiki/OtherTools
+  - gwsmhg
+    http://gwsmhg.sourceforge.net/
+  - bfrog / cutehg / wiki / Home — bitbucket.org
+    http://www.bitbucket.org/bfrog/cutehg/wiki/Home
+  - bfrog / cutehg / wiki / ScreenShots — bitbucket.org
+    http://www.bitbucket.org/bfrog/cutehg/wiki/ScreenShots
+  - Flying Seagull cutehg in OSX
+    http://www.flyingseagull.de/2009/4/25/cute-hg-in-os-x
+  - Mercurial-easy
+    http://www.ivy.fr/mercurial/easy/
+
+* Murky issue with hg 1.5
+  - snej / Murky / issues / #127 - error after upgrade to Mercurial 1.5
+    http://bitbucket.org/snej/murky/issue/127/error-after-upgrade-to-mercurial-15
+
 * Creating a new project from one on the local machine
   : hg clone <local-project-directory> ssh://paul@marauder.bouzou.org/hg/<remote-project-directory>

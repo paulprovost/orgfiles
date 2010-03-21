@@ -1,6 +1,11 @@
 #+TITLE: Notes on Mac OS
 #+FILETAGS: @mac
 
+* Typing accented characters with dead keys
+  - Easily type accented characters | Mac OS X | Mac OS X Hints | Macworld
+  http://www.macworld.com/article/147039/2010/03/accentinput.html?lsrc=nl_mwhints_h_crawl
+
+
 * Login/Logout scripts
   - Mac OS X: Creating a login hook
     http://support.apple.com/kb/HT2420

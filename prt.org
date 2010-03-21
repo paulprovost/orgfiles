@@ -1,0 +1,10 @@
+#+DESCRIPTION: Notes on the Paul's Random Thoughts blog
+#+FILETAGS: :@blog:
+
+* [2010-03-20 Sat] - Moving to pyblosxom.
+  See notes [[file:pyblosxom.org][here]].
+
+* Locations
+  - Real site (with content) is at http://prts.wordpress.com/
+  - Wordpress attempt on my own domain is at http://www.ohtoo.net/prt/
+  - Test site is at http://marauder/~paul/blog/pyblosxom.fcgi
