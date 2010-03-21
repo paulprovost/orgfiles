@@ -107,6 +107,38 @@
    - Max for Live Abstractions
      http://www.cycling74.com/docs/max5/vignettes/core/live_resources_abstractions.html#m4l_api_abstractions
 
+* Links
+** [2010-03-20 Sat]
+  - How to make sprite look like it is lighted up when touched « cocos2d for iPhone
+    http://www.cocos2d-iphone.org/forum/topic/4262
+  - cocos2d Tutorials – TOC | BIT-101 Blog
+    http://www.bit-101.com/blog/?p=2138
+  - Cocos2d – Part 4: Menus and Transitions | BIT-101 Blog
+    http://www.bit-101.com/blog/?p=2143
+  - Monocle Studios Tutorials - iPhone Development with cocos2d-iphone
+    http://monoclestudios.com/cocos2d_whitepaper.html
+  - Intro to Box2D with Cocos2D Tutorial: Bouncing Balls
+    http://www.raywenderlich.com/457/intro-to-box2d-with-cocos2d-tutorial-bouncing-balls
+  - Anton Mills | Cocos2D iPhone Hello World
+    http://www.antonmills.com/?p=233
+  - Cocos2d – 2D OpenGL for the iPhone made Easy. Part 1. | BIT-101 Blog
+    http://www.bit-101.com/blog/?p=2115
+  - Cocos2D – Part 2 | BIT-101 Blog
+    http://www.bit-101.com/blog/?p=2123
+  - YouTube - cocos2d iphone tutorial
+    http://www.youtube.com/results?search_query=cocos2d+iphone+tutorial&search_type=&aq=f
+  - Fun with cocosDenshion and Audio Metering [Update] | Fancy Rat Studios
+    http://fancyratstudios.com/2010/02/programming/cocos2d/fun-with-cocosdenshion-and-audio-metering/
+  - ProgressTimer for cocos2d | Fancy Rat Studios
+    http://fancyratstudios.com/2010/02/programming/progresstimer-for-cocos2d/#more-126
+  - YouTube - Cocos2d + Box2d + SVG + InkScape
+    http://www.youtube.com/watch?v=7xUmAHOkYaY&feature=related
+  - YouTube - Cocos2D Tutorial - Dragging Multiple Images.mov
+    http://www.youtube.com/watch?v=5p9gnH-1dWs
+  - YouTube - SDKTutor's Channel
+    http://www.youtube.com/user/SDKTutor
+
+
 * Tasks                                                               :@task:
   :PROPERTIES:
   :ID:       D04F39D6-E0E9-41C5-A37F-73A2E26E2CDC
@@ -180,4 +212,7 @@
    http://www.nr74.org/c74.html
    So, start from here and build up controllers, or rewrite?
 ** NEXT [#A] Write an iPad view app
+   :PROPERTIES:
+   :ID:       82859C14-CA70-4650-BA32-E0FE6AA68686
+   :END:
    Displays graphical entites and allows them to be picked and moved.
