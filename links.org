@@ -50,3 +50,17 @@
 * [2010-03-20 Sat] Emacs Mac OS X tweaks                             :@emacs:
   - EmacsWiki: Mac OSTweaks
     http://www.emacswiki.org/emacs/MacOSTweaks#toc22
+
+* [2010-03-28 Sun] Relaxation music
+  - Alex Theory - Wikipedia, the free encyclopedia
+    http://en.wikipedia.org/wiki/Alex_Theory
+  - Amazon.com: Alex Theory: Music
+    http://www.amazon.com/exec/obidos/search-handle-url?_encoding=UTF8&search-type=ss&index=music&field-artist=Alex%20Theory
+  - - Sounds True - Full Spectrum Sound Healing
+    http://shop.soundstrue.com/shop.soundstrue.com/SelectProd.do;jsessionid=7CAD05B248360D7F13BE93888D37ACA4?prodId=2214&manufacturer=Sounds%20True&category=Meditation%20&%20Massage%20Music&name=Full%20Spectrum%20Sound%20Healing
+
+* [2010-03-28 Sun] Logging with NSLog              :@objectivec:@development:
+  - CocoaDev: NSLog
+    http://www.cocoadev.com/index.pl?NSLog
+  - CocoaDev: UsingTheDescriptionMethod
+    http://www.cocoadev.com/index.pl?UsingTheDescriptionMethod
