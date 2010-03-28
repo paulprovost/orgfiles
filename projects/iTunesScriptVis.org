@@ -1,0 +1,8 @@
+#+TITLE: iTunes visualizer to call shell scripts when actions occur
+#+FILETAGS: @project:@iTunes
+
+* References
+  - Technical Note TN2016: iTunes Visual Plug-ins
+    http://developer.apple.com/mac/library/technotes/tn/tn2016.html
+  - Developer Downloads & ADC Program Assets
+    http://connect.apple.com/cgi-bin/WebObjects/MemberSite.woa/wa/getSoftware?bundleID=19923
