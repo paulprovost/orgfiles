@@ -64,3 +64,10 @@
     http://www.cocoadev.com/index.pl?NSLog
   - CocoaDev: UsingTheDescriptionMethod
     http://www.cocoadev.com/index.pl?UsingTheDescriptionMethod
+* [2010-03-28 Sun] iPhone Bonjour                     :@dev:@iphone:@bonjour:
+  - iPhone Dev Center: NSNetServices and CFNetServices Programming Guide: Introduction to NSNetServices and CFNetServices Programming Guide
+    http://developer.apple.com/iphone/library/documentation/Networking/Conceptual/NSNetServiceProgGuide/Introduction.html
+  - Tutorial: Networking and Bonjour on iPhone
+    http://www.mobileorchard.com/tutorial-networking-and-bonjour-on-iphone/
+  - MDNS and caffeine: How I got Bonjour running on my iPhone
+    http://www.tuaw.com/2007/10/22/mdns-and-caffeine-how-i-got-bonjour-running-on-my-iphone/
