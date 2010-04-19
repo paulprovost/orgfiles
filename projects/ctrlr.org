@@ -5,6 +5,7 @@
   - Control-R
   - ctrl-r
   - ctrl-R
+  - ctrlr
 
 * Requirements / Tech Specs
 ** Client/Server architecture
@@ -39,6 +40,11 @@
    - iPad DPI
      - Screen is 1024x768 @ 132 dpi
    - Conversion: iPad = iPhone * 0.825
+
+* Technologies:
+** [[http://livecontrol.q3f.org/ableton-liveapi/liveosc/][LiveOSC]]
+   Remote MIDI Script for Live that allows control and broadcasts
+   information on the current Live set.
 
 * Applications
 ** Studio

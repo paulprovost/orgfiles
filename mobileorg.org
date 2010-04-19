@@ -8,10 +8,28 @@ Vg99: 2.2 Mohm
 [2010-02-22 Mon 10:48]
 * Better filters for SoftArchive RSS feed
 [2010-02-22 Mon 15:11]
-* TODO Integrate osc receive in cocos2d
-  :PROPERTIES:
-  :ID:       500F881F-A8B9-4FF9-A936-DA263955F6CE
-  :END:
-[2010-02-23 Tue 11:03]
 * Does cocos2d support gestures (swipes)
 [2010-02-23 Tue 11:02]
+* Compare podxt and vg99 input impedance
+[2010-02-19 Fri 15:35]
+Podxt live: 
+Vg99: 2.2 Mohm
+** Note ID: (null)
+* Investigate handbrake cli
+[2010-02-22 Mon 09:06]
+** Note ID: (null)
+* Automate Logic 9 - possibilities?
+[2010-02-22 Mon 10:48]
+** Note ID: (null)
+* Better filters for SoftArchive RSS feed
+[2010-02-22 Mon 15:11]
+** Note ID: (null)
+* Does cocos2d support gestures (swipes)
+[2010-02-23 Tue 11:02]
+** Note ID: (null)
+* Look into method overloading w/different signatures in Objective-C
+[2010-03-16 Tue 19:45]
+* Can somebody use a Max for Live plugin without buying Max for Live?
+[2010-04-12 Mon 12:57]
+* Blue Hand
+[2010-04-17 Sat 15:56]

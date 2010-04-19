@@ -70,3 +70,27 @@
 
 * TODO Subscribe to cocos2d iPhone blog          :@rss:@dev:@iPhone:@cocos2d:
   http://www.cocos2d-iphone.org/
+
+* TODO Find a solution for video collection management
+** Requirements:
+   - Store/view thumbnails
+   - Handle network drives and offline storage.
+** Links
+  - Manage your Video Collection with iTunes | iFlicks
+    http://www.iflicksapp.com/
+  - Features
+    http://www.aroona.net/VideoDrive/Features.html
+  - skreenics - Project Hosting on Google Code
+    http://code.google.com/p/skreenics/
+  - MacUpdate Search - Media catalog
+    http://search.macupdate.com/search.php?keywords=media+catalog&os=mac&start=25&start=50&start=75
+  - Introduction
+    http://halfduplex.net/
+  - All technical details about the amazing CDFinder
+    http://www.cdfinder.de/en/info.html
+  - Obvious Matter | DiskLibrary
+    http://www.obviousmatter.com/disklibrary.html
+  - DiskTracker
+    http://www.disktracker.com/
+  - MacMagna | FileFinder
+    http://macmagna.com/filefinder/index.htm

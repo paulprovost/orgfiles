@@ -1,0 +1,16 @@
+#+TITLE: Hackintosh build details
+#+FILETAGS: @project:@hackintosh
+
+* Hardware
+  - From http://www.ustream.tv/recorded/2729346
+    - CPU: Core i7 920 @ 2.8GHz
+    - Motherboard: Gigabyte UD4P
+    - Video card: GeForce 9800 GTX+
+    - Boot Loader: Rebel EFI
+    - RAM: 12G Corsair
+    - Xigmatek THOR'S HAMMER CPU Cooler
+    - Power supply: Corsair 750W
+
+  - My build
+    - CPU: Core i7 920 @ 2.8GHz
+    - Motherboard: Gigabyte [[http://www.gigabyte.com.tw/Products/Motherboard/Products_Overview.aspx%3FProductID%3D2958][GA-EX58-UD5]]
