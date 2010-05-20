@@ -1,0 +1,11 @@
+#+TITLE: Notes on audio
+#+FILETAGS: @audio
+
+* Impulse response files
+  - NEW FREDMAN STYLE AWESOMETIME IMPULSES - Ultimate Metal Forum
+    http://www.ultimatemetal.com/forum/andy-sneap/486916-new-fredman-style-awesometime-impulses.html
+  - List Of Amp Simulators, Cab Sims and Impulses @ Ultimate-Guitar.Com Forum Archive
+    http://www.ultimate-guitar.com/forum/archive/index.php/t-1233892.html
+* Plugins
+  - Airwindows Audio Unit Plugins
+    http://www.airwindows.com/

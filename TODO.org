@@ -22,6 +22,9 @@
 [2009-12-11 Fri 12:35]
 
 * TODO Find a solution for video collection management
+  :PROPERTIES:
+  :ID:       7B720EAF-CB83-401B-9AE3-DA94F1F0B351
+  :END:
 ** Requirements:
    - Store/view thumbnails
    - Handle network drives and offline storage.
@@ -49,16 +52,25 @@
   :LOGBOOK:
   - State "STARTED"    from "TODO"       [2010-03-20 Sat 18:56]
   :END:
+  :PROPERTIES:
+  :ID:       59835B99-BF40-46E8-B63E-988646EF185A
+  :END:
   - New captain scarlet s01e02 - Rapidshare files
     http://ineedfile.com/new-captain-scarlet-s01e02
   - CAPTAIN SCARLET S01E07.part1 .rar - download from Rapidshare.com
     http://ineedfile.com/download/14307012-captain-scarlet-s01e07-part1-rar
 
 * TODO Subscribe to updates for iDentify                     :@rss:@metadata:
+  :PROPERTIES:
+  :ID:       D5077D17-77CA-4332-819B-21A43FC56D69
+  :END:
   - iDentify
     http://identifyapp.wordpress.com/
 
-* TODO Setup logging for File Thingie 
+* TODO Setup logging for File Thingie
+  :PROPERTIES:
+  :ID:       0E46395C-BCF7-44E3-8EE2-988036862B3E
+  :END: 
   - File Thingie • PHP File Manager
      http://www.solitude.dk/filethingie/
   - phpmodlog is a php logging script which can log everything in the extended CLF format
@@ -69,9 +81,15 @@
     http://www.solitude.dk/filethingie/documentation/plugins
 
 * TODO Subscribe to cocos2d iPhone blog          :@rss:@dev:@iPhone:@cocos2d:
+  :PROPERTIES:
+  :ID:       3055800B-095B-483E-B371-6354CFE4D4D2
+  :END:
   http://www.cocos2d-iphone.org/
 
 * TODO Find a solution for video collection management
+  :PROPERTIES:
+  :ID:       308D8420-8748-4B3F-91A9-24700185C971
+  :END:
 ** Requirements:
    - Store/view thumbnails
    - Handle network drives and offline storage.

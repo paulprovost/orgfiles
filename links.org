@@ -10,6 +10,9 @@
     http://vids.myspace.com/index.cfm?fuseaction=vids.channel&vanity=vibesware
 
 * TODO [2010-03-20 Sat] Keep downloading!
+  :PROPERTIES:
+  :ID:       2098A03D-EF5A-4EA0-812A-3ACC1F0EDF57
+  :END:
   - YouTube - Rockschool - Series 1 - Ep.3 - Techniques (Part 3 of 3)
     http://www.youtube.com/watch?v=dWkN6dldYt8&feature=related
 
