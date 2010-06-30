@@ -1,3 +1,4 @@
+#+LAST_MOBILE_CHANGE: 2010-06-30 15:06:29
 #+FILETAGS: :@books:
 * DONE The Ghost Brigades - John Scalzi
   :LOGBOOK:
@@ -15,8 +16,9 @@
   :PROPERTIES:
   :ID:       91729768-3391-4190-9821-0FCF65A7973D
   :END:
-* STARTED Marsbound - Joe Haldeman
+* DONE Marsbound - Joe Haldeman
   :LOGBOOK:
+  - State "DONE"       from "STARTED"    [2010-06-30 Wed 15:06]
   - State "STARTED"    from ""           [2010-02-09 Tue]
   :END:
   :PROPERTIES:

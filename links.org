@@ -80,3 +80,11 @@
     http://www.mobileorchard.com/tutorial-networking-and-bonjour-on-iphone/
   - MDNS and caffeine: How I got Bonjour running on my iPhone
     http://www.tuaw.com/2007/10/22/mdns-and-caffeine-how-i-got-bonjour-running-on-my-iphone/
+
+* [2010-05-20 Thu]                                                 :@cocos2d:
+  - iPhone Dev » How to Implement Grabbing a Sprite with Cocos2d and Box2d
+    http://iphonedev.net/2009/08/05/how-to-grab-a-sprite-with-cocos2d-and-box2d/
+
+* [2010-05-20 Thu]                                                     :@mac:
+  - Better command history browsing in Terminal | Mac OS X | Mac OS X Hints | Macworld
+    http://www.macworld.com/article/146015/2010/01/termhistory.html?lsrc=nl_mwhints_h_crawl

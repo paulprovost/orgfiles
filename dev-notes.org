@@ -37,3 +37,17 @@
     http://sourceforge.net/projects/cfcaudiounit/
   - Nick Mariette - Developing Audio Units
     http://cgi.cse.unsw.edu.au/~nickm/?Information:Developing_Audio_Units
+
+* UI Toolkits
+  - CEGUI Wiki - Crazy Eddie's Gui System for Games (Open Source)
+    http://www.cegui.org.uk/wiki/index.php/Main_Page
+  - GLGooey
+    http://glgooey.sourceforge.net/#Screenshots
+  - Main Page - Guichan
+    http://guichan.sourceforge.net/wiki/index.php/Main_Page
+  - libnui.net
+    http://www.libnui.net/index.php
+
+* OpenGL and UIKit
+  - Games from Within | Remixing OpenGL and UIKit
+    http://gamesfromwithin.com/remixing-opengl-and-uikit
