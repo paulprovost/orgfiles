@@ -76,6 +76,10 @@
     - Quickly pick / add / delete tracks, with visual feedback (again,
       this may be laptop-only)
 
+* Ideas
+** Have a drawer for additional controls (switch views in Live)
+   [2010-06-30 Wed 15:43]
+
 * References
 ** OSC                                                                 :@osc:
    - vvopensource - frameworks for working with OSC and MIDI data on OS X
