@@ -79,6 +79,9 @@
 * Ideas
 ** Have a drawer for additional controls (switch views in Live)
    [2010-06-30 Wed 15:43]
+** Use automap sdk to write automap interface for other software / devices (PODxt Live)
+[2010-06-30 Wed 15:27]
+*** Note ID: (null)
 
 * References
 ** OSC                                                                 :@osc:
