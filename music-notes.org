@@ -1,0 +1,24 @@
+#+TITLE: Notes on music
+#+FILETAGS: @music
+
+* Lyric fetching / display
+  - Apple - Downloads - iPod + iTunes - nLyrics
+    http://www.apple.com/downloads/macosx/ipod_itunes/nlyrics.html
+  - How to: Word up! Find lyrics for your iTunes music - MAC.BLORGE
+    http://mac.blorge.com/2009/04/24/how-to-word-up-find-lyrics-for-your-itunes-music/
+  - Adding lyrics to songs in iTunes
+    http://zirkel.com/blog/2009/05/18/adding-lyrics-to-songs-in-itunes/
+  - GimmeSomeTune
+    http://www.eternalstorms.at/gimmesometune/GimmeSomeTune/GimmeSomeTune.html
+  - Doug's AppleScripts for iTunes ♫ Needle Drop v3.0
+    http://dougscripts.com/itunes/scripts/ss.php?sp=needledrop
+  - SP - Get Lyrical
+    http://shullian.com/get_lyrical.php
+
+* Artwork
+  - Enrich Your iTunes Experience With GeekTool & TunesArt [Mac]
+    http://www.makeuseof.com/tag/enrich-your-itunes-experience-with-geektool-tunesart-mac/
+  - TunesArt Download
+    http://tunesart.airisgps.fr/index.php?wiki=Download
+  - Display iTunes artwork on the Desktop via GeekTool | iPodelic
+    http://ipod.eequalsmcsquare.com/content/display-itunes-artwork-desktop-geektool-0

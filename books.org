@@ -1,5 +1,13 @@
 #+LAST_MOBILE_CHANGE: 2010-06-30 15:06:29
 #+FILETAGS: :@books:
+* STARTED John Varley - Rolling Thunder
+  :LOGBOOK:
+  - State "STARTED"    from ""           [2010-07-20 Tue 12:45]
+  :END:
+  :PROPERTIES:
+  :ID:       7146897B-07AA-4B79-A1C5-8B52FD1FD89A
+  :END:
+[2010-07-20 Tue 12:41]
 * DONE The Ghost Brigades - John Scalzi
   :LOGBOOK:
   - State "DONE"       from "STARTED"    [2009-11-18 Wed]

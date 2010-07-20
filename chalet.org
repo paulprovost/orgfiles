@@ -1,3 +1,4 @@
+#+LAST_MOBILE_CHANGE: 2010-07-14 15:35:27
 * DONE Appeler Sylvain Lafreniere quand l'installation du panneau sera finie
   :LOGBOOK:
   - State "DONE"       from "TODO"       [2009-12-11 Fri 14:00] \\
@@ -12,3 +13,4 @@
 * Souris - Wafarine
 * Valmont Pelletier $1650.98
 [2010-07-04 Sun 14:46]
+   Paye $1500
