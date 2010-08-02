@@ -1,0 +1,10 @@
+#+TITLE: Script (cron) to email directory changes
+#+FILETAGS: @project:@mediaCenter
+
+* Shell script
+  - Find current contents of directory 
+    find -L . -type f -regex ".*\.\(mp4\|avi\)" -print
+  - Diff with previous contents
+  - Grep inside diff to find added lines
+  - Mail results
+  - Save current contents as previous contents

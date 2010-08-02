@@ -34,6 +34,17 @@
        http://www.debian-administration.org/articles/588
    - A Guide to System Backup and Restore in Ubuntu | Tombuntu
      http://tombuntu.com/index.php/2008/11/18/a-guide-to-system-backup-and-restore-in-ubuntu/
+** [2010-07-30 Fri] - Trying BackupPC
+   - Installed on AuroraChair
+
+     For that purpose, a web user named 'backuppc' with 'HyZnkykg' as
+     password has been created. You can change this password by
+     running 'htpasswd /etc/backuppc/htpasswd backuppc'.
+
+   - Fixed up lighttpd for web access
+   - Defined host for mail backup.
+       - 
+   - Installed ssh keys on server and client, as per:
 
 * General notes
 ** Filesystems
