@@ -1,0 +1,15 @@
+#+TITLE: unraid-based file server
+#+FILETAGS: @project:@homenetwork
+
+* Based on Lime Technology's [[http://www.lime-technology.com/][unRAID]] solution 
+
+* Hardware:
+** Case
+   - [[http://www.coolermaster-usa.com/product.php?category_id%3D19&product_id%3D2709][Cooler Master Centurion 590]]
+     Also at Tiger Direct [[http://www.tigerdirect.ca/applications/SearchTools/item-details.asp?EdpNo%3D3728266&CatId%3D1842][here]]
+     [2010-08-10 Tue] - Bought at Microbytes - $105 + tx = 118.52
+** Hard drive cages
+** Power Supply
+** Motherboard
+** Processor
+** Memory

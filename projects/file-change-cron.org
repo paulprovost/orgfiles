@@ -5,6 +5,8 @@
   - Find current contents of directory 
     find -L . -type f -regex ".*\.\(mp4\|avi\)" -print
   - Diff with previous contents
+    diff -u
   - Grep inside diff to find added lines
+    grep "^\+[^+].*"
   - Mail results
   - Save current contents as previous contents
