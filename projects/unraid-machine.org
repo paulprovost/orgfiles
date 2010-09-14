@@ -4,12 +4,48 @@
 * Based on Lime Technology's [[http://www.lime-technology.com/][unRAID]] solution 
 
 * Hardware:
+  Some information on the Lime Technology Web Site [[http://lime-technology.com/home/87-for-system-builders][here]]
 ** Case
    - [[http://www.coolermaster-usa.com/product.php?category_id%3D19&product_id%3D2709][Cooler Master Centurion 590]]
      Also at Tiger Direct [[http://www.tigerdirect.ca/applications/SearchTools/item-details.asp?EdpNo%3D3728266&CatId%3D1842][here]]
      [2010-08-10 Tue] - Bought at Microbytes - $105 + tx = 118.52
 ** Hard drive cages
+   - iStarUSA 3x5.25" to 5x3.5" SATA2.0 Hot-Swap Backplane Raid Cage
+     At Tiger Direct [[http://www.tigerdirect.ca/applications/SearchTools/item-details.asp?EdpNo%3D3301339&CatId%3D285][here]]
+   - Supermicro [[http://www.supermicro.com/products/accessories/mobilerack/CSE-M35T-1.cfm][CSE-M35T-1]]
+     - $100.49 at [[http://www.bestdirect.ca/products/177316/SuperMicro/CSE_M35T_1B/][BestDirect]]
+     - $117.13 At [[http://www.ncix.com/products/index.php?sku%3D30786][NCIX]]
+   - IcyDock [[http://www.cremax.com/product/mb455spf.html][MB455SPF-B]]
 ** Power Supply
+   - Corsair TX650W 650W ATX 12V CMPSU-650TX
+     - $79.99 Special at [[http://ncix.com/products/?sku%3D26414&vpn%3DCMPSU-650TX&manufacture%3DCorsair&promoid%3D1058#Specifications][NCIX]]
 ** Motherboard
+   - SuperMicro [[http://www.supermicro.com/products/motherboard/Core/G45/C2SEA.cfm][C2SEA]]
+     - 6 SATA ports
+     - 3 PCIe slots
+     - 2 PCI slots
+   - Gigabyte [[http://www.gigabyte.com/products/product-page.aspx?pid%3D3285#ov][GA-EP45-UD3L]]
+     - LGA 775 socket
+     - 6 SATA ports
+     - 4 PCIe slots
+     - 1 PCIe x16 slot
+     - 2 PCI slots
+     - $88.30 at [[http://ncix.com/products/?sku%3D36213&vpn%3DGA%2DEP43%2DUD3L&manufacture%3DGigabyte][NCIX]]
 ** Processor
+   - Intel Celeron E1600 Dual Core Processor 2.4GHZ LGA775 512KB L2 Cache
+     - $67.48 at [[http://ncix.com/products/index.php?sku%3D40045&vpn%3DBX80557E1600&manufacture%3DIntel][NCIX]]
 ** Memory
+   - Corsair XMS2 TWIN2X2048-6400C4 2GB 2X1GB PC2-6400 DDR2-800
+     - $79.99 at [[http://ncix.com/products/index.php?sku%3D18580&vpn%3DTWIN2X2048-6400C4&manufacture%3DCorsair][NCIX]]
+
+* [2010-08-10 Tue] Ordered at NCIX. $759.88 - Ouf!
+  Power supply special was running out this friday. $50 off!
+
+* From Linux, used makeboot.sh from Clonezilla distro to make bootable
+
+* [2010-09-10 Fri] Ordering licenses
+  - Shadow: 0951-1625-9C8A-EA41E00000CB
+  - Luc: 090C-1000-A800-000000000191
+** Arrived and installed
+
+* [2010-09-12 Sun] Ordered Adaptec 1430 from [[http://ncix.com/products/index.php?sku%3D33406&vpn%3D2240900-R&manufacture%3DAdaptec][NCIX]]
