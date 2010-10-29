@@ -1,4 +1,8 @@
-* TODO [#A] Tracking des dépenses du compte conjoint
+* DONE [#A] Tracking des dépenses du compte conjoint
+  :LOGBOOK:
+  - State "DONE"       from "TODO"       [2010-10-10 Sun 22:17] \\
+    Spread sheets started
+  :END:
   :PROPERTIES:
   :ID:       895BDD71-417D-4AB4-8673-6494154ED1EA
   :END:

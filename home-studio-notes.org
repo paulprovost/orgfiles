@@ -22,8 +22,9 @@
   :END:
 [2009-12-21 Mon 16:24]
 
-* NEXT [#A] Try to match vg-99 amps to podxt with natural electric guitar
+* STARTED [#A] Try to match vg-99 amps to podxt with natural electric guitar
   :LOGBOOK:
+  - State "STARTED"    from "NEXT"       [2010-10-10 Sun 22:17]
   - State "NEXT"       from "TODO"       [2010-02-19 Fri 07:18]
   - State "TODO"       from ""           [2009-12-21 Mon 16:54]
   :END:

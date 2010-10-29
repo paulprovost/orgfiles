@@ -1,7 +1,16 @@
-#+LAST_MOBILE_CHANGE: 2010-06-30 15:06:29
+#+LAST_MOBILE_CHANGE: 2010-10-02 14:45:51
 #+FILETAGS: :@books:
-* STARTED John Varley - Rolling Thunder
+* STARTED Stephen Baxter - Manifold Time 
   :LOGBOOK:
+  - State "STARTED"    from ""           [2010-10-02 Sat 14:47]
+  :END:
+  :PROPERTIES:
+  :ID:       B9A1A4CD-1170-4A99-95A0-DBC0634361A1
+  :END:
+[2010-10-02 Sat 10:16]
+* DONE John Varley - Rolling Thunder
+  :LOGBOOK:
+  - State "DONE"       from "STARTED"    [2010-10-02 Sat 14:45]
   - State "STARTED"    from ""           [2010-07-20 Tue 12:45]
   :END:
   :PROPERTIES:
@@ -35,3 +44,5 @@
 * Les maisons nature de Pierre Thibault au Quebec 
 [2010-04-21 Wed 21:42]
 ** Note ID: (null)
+* Book: big book of Apple hacks
+[2010-07-23 Fri 13:00]

@@ -35,6 +35,30 @@
      http://forums.sabnzbd.org/index.php?action=printpage;topic=1190.0
    - Discogs API Documentation
      http://www.discogs.com/help/api
+*** Using AWS
+    - Getting album art using Amazon Web Services « Exploding Pixels
+      http://explodingpixels.wordpress.com/2008/06/24/getting-album-art-using-ama$
+    - boto
+      - boto - Project Hosting on Google Code
+        http://code.google.com/p/boto/
+      - boto's boto at master - GitHub
+        http://github.com/boto/boto
+      - boto: A Python interface to Amazon Web Services — boto v2.0 (rHEAD)
+        http://boto.cloudhackers.com/
+    - PyAWS - A Python wrapper for Amazon Web Service
+      http://pyaws.sourceforge.net/
+    - Write cover / album art images to MP3s - Mac Python script / Win EXE
+      now avail
+      http://forums.sabnzbd.org/index.php?topic=1190.75
+    - Amazon Web Services Developer Community : Getting Started with AWS
+      and Python
+      http://developer.amazonwebservices.com/connect/entry.jspa?categoryID=55&ext$
+    - Rich Burridge's Blog : Weblog
+      http://blogs.sun.com/richb/entry/updated_be_informed_when_used
+    - Hack 79 Program AWS with Python / Amazon Hacks
+      http://www.freeopenbook.com/amazon-hacks/amazonhks-chp-6-sect-13.html
+      - pyamazon
+        http://www.josephson.org/projects/pyamazon/
 * Ui Ideas
   - To pick cover art, build a jpg with all the candidates and label
     them with a number. At the same time, ask for the number at the

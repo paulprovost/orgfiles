@@ -48,8 +48,9 @@
   - MacMagna | FileFinder
     http://macmagna.com/filefinder/index.htm
 
-* STARTED Download New Captain Scarlet
+* DONE Download New Captain Scarlet
   :LOGBOOK:
+  - State "DONE"       from "STARTED"    [2010-10-10 Sun 22:16]
   - State "STARTED"    from "TODO"       [2010-03-20 Sat 18:56]
   :END:
   :PROPERTIES:
@@ -80,7 +81,11 @@
   - Using plugins | File Thingie • PHP File Manager
     http://www.solitude.dk/filethingie/documentation/plugins
 
-* TODO Subscribe to cocos2d iPhone blog          :@rss:@dev:@iPhone:@cocos2d:
+* CANCELLED Subscribe to cocos2d iPhone blog     :@rss:@dev:@iPhone:@cocos2d:
+  :LOGBOOK:
+  - State "CANCELLED"  from "TODO"       [2010-10-10 Sun 22:18] \\
+    Not using cocos2d for now!
+  :END:
   :PROPERTIES:
   :ID:       3055800B-095B-483E-B371-6354CFE4D4D2
   :END:
@@ -112,3 +117,7 @@
     http://www.disktracker.com/
   - MacMagna | FileFinder
     http://macmagna.com/filefinder/index.htm
+
+** TODO [#A] recompile synergy client with scroll fix
+   - Stormy Productions Blog: SynergyKM Mouse Scrolling Fix
+     http://blog.stormyprods.com/2008/09/synergykm-mouse-scrolling-fix.html

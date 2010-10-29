@@ -1,7 +1,52 @@
+* In use:
+  - [[http://orgmode.org/worg/org-contrib/org-mac-message.php][org-mac-message.el]] – linking to messages in OS X Mail.app
+
 * Notes on org-mode (Meta!)
 ** [[http://doc.norang.ca/org-mode.html][Org Mode - Organize Your Life In Plain Text!]]
+
 ** [[http://sachachua.com/wp/2007/12/28/emacs-getting-things-done-with-org-basic/][Getting Things Done with Org . Basic]]
+
 ** Custom Agenda Commands [[http://orgmode.org/worg/org-tutorials/org-custom-agenda-commands.php][here]].
+
 ** [[http://orgmode.org/worg/org-contrib/org-protocol.php][org-protocol.el]] - Intercept calls from emacsclient to trigger custom actions
+
 ** Remember notes
-*** [[http://sachachua.com/wp/2008/07/20/emacs-smarter-interactive-prompts-with-org-remember-templates/][Smarter interactive prompts with Org remember templates]]
+   - [[http://sachachua.com/wp/2008/07/20/emacs-smarter-interactive-prompts-with-org-remember-templates/][Smarter interactive prompts with Org remember templates]]
+
+* Using org-mode
+
+  - Remember - The Org Manual
+    http://orgmode.org/manual/Remember.html#Remember
+
+  - Org-mode Contributed Packages
+    http://orgmode.org/worg/org-contrib/
+
+  - org-depend.el . TODO dependencies for Org-mode
+    http://orgmode.org/worg/org-contrib/org-depend.php
+
+  - TODO dependencies - The Org Manual
+    http://orgmode.org/manual/TODO-dependencies.html#TODO-dependencies
+
+  - Agenda Views - The Org Manual
+    http://orgmode.org/manual/Agenda-Views.html#Agenda-Views
+
+  - Storing searches - The Org Manual
+    http://orgmode.org/manual/Storing-searches.html#Storing-searches
+
+  - Tag inheritance - The Org Manual
+    http://orgmode.org/manual/Tag-inheritance.html#Tag-inheritance
+
+  - Refiling notes - The Org Manual
+    http://orgmode.org/manual/Refiling-notes.html#Refiling-notes
+
+  - org-protocol.el . Intercept calls from emacsclient to trigger custom actions
+    http://orgmode.org/worg/org-contrib/org-protocol.php
+
+  - org-mode dated meeting - Google Search
+    http://www.google.com/search?hl=en&q=org-mode+dated+meeting&btnG=Search
+
+  - site:orgmode.org org-mode dated meeting - Google Search
+    http://www.google.com/search?q=site:orgmode.org+org-mode+dated+meeting&hl=en&start=20&sa=N
+
+  - Repeated tasks - The Org Manual
+    http://orgmode.org/manual/Repeated-tasks.html#Repeated-tasks
