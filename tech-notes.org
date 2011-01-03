@@ -211,3 +211,16 @@
       - I Moved To Linux: Configure vsftpd for passive connections from the internet (outside your LAN)
         http://www.imovedtolinux.com/2009/07/configure-vsftpd-for-passive.html
 
+* Switching shells from bash
+  - Impetus
+    - Better completion to be able to use a shell as a replacement for
+      LaunchBar / QuickSilver launchers
+    - Also using surfraw for YubNub-like functionnality
+    - Basically, bring the shell to the forefront of the
+      keyboard-centric navigation/usage
+** Links
+   - Visor is a system-wide terminal accessible via a hot-key
+     http://visor.binaryage.com/
+   - [[http://stackoverflow.com/questions/85736/can-anyone-recommend-a-good-modern-alternative-to-bash][Can anyone recommend a good modern alternative to bash? - Stack Overflow:Safari]]
+
+** Candidates:

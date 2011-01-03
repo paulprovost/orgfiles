@@ -9,7 +9,7 @@
   - MySpace Video - Vibesware's Video Channel & Video Clips
     http://vids.myspace.com/index.cfm?fuseaction=vids.channel&vanity=vibesware
 
-* TODO [2010-03-20 Sat] Keep downloading!
+* TODO [2010-03-20 Sat] RockSchool Keep downloading!            :@todownload:
   :PROPERTIES:
   :ID:       2098A03D-EF5A-4EA0-812A-3ACC1F0EDF57
   :END:
@@ -88,3 +88,81 @@
 * [2010-05-20 Thu]                                                     :@mac:
   - Better command history browsing in Terminal | Mac OS X | Mac OS X Hints | Macworld
     http://www.macworld.com/article/146015/2010/01/termhistory.html?lsrc=nl_mwhints_h_crawl
+
+* Télécharger des sous-titres francais pour tous les films sans vous compliquer la vie à les resynchroniser. | Sub Synchro
+   Source: [2010-10-31 Sun], [[http://www.subsynchro.com/][Télécharger des sous-titres francais pour tous les films sans vous compliquer la vie à les resynchroniser. | Sub Synchro:Safari]]
+
+* [2010-11-05 Fri] Subtitle editing on the Mac                    :@subtitle:
+  - les poupees russes subtitles - Google Search
+    http://www.google.com/search?q=les+poupees+russes+subtitles
+  - Features
+    http://www.jubler.org/features/index.php
+  - Submerge
+    http://www.bitfield.se/submerge/
+  - RoadMovie
+    http://www.bitfield.se/roadmovie/index.html
+  - D-Subtitler ObjectifMac
+    http://www.objectifmac.com/dsubtitler.php
+  - Browse Sears Files on SourceForge.net
+    http://sourceforge.net/projects/sears/files/
+* [2010-11-05 Fri] Misc
+** CutyCapt - A Qt WebKit Web Page Rendering Capture Utility
+   http://cutycapt.sourceforge.net/
+** MuseScore | Free music composition & notation software :@linux:@musicmaker:@sequencer:
+   http://musescore.org/
+** VocProc @ HyperGlitch                      :@musicmaker:@harmonize:@linux:
+   http://hyperglitch.com/dev/VocProc
+* [2010-11-05 Fri] Monome                                           :@monome:
+  - monome - flin is fun
+    http://post.monome.org/comments.php?DiscussionID=38
+  - app:flin [monome]
+    http://docs.monome.org/doku.php?id=app:flin
+* [2010-11-05 Fri] How to Create iPad Formatted Videos Using HandBrake or FFMpeg :@ipad:@video:
+  http://www.ioncannon.net/meta/1040/how-to-create-ipad-formatted-videos-using-handbrake-or-ffmpeg/
+* [2010-11-05 Fri] Normalizing Audio for Multiple AVI files
+  - Mini Guide: Normalizing Audio for Multiple AVI files
+    http://forum.videohelp.com/threads/255147-Mini-Guide-Normalizing-Audio-for-Multiple-AVI-files
+  - Multimedia Dynamite | Linux Journal
+    http://www.linuxjournal.com/article/9787
+* [2010-11-05 Fri] Watching directories for new files
+  - Linux.com - Automatically process new files with fsniper
+    http://www.linux.com/archive/articles/150200
+  - fsniper documentation
+    http://files.minuslab.net/doc.html
+  - Pyinotify
+    http://trac.dbzteam.org/pyinotify
+  - smash at blogs.perl.org: Watching directories for new files
+    http://blogs.perl.org/users/smash/2010/07/watching-directories-for-new-files.html
+* [2010-11-05 Fri] Twitter stuff                            :@twitter:@emacs:
+  - MRR Software
+  http://www.mrrsoftware.com/MRRSoftware/Syrinx.html
+- EmacsWiki: Twitter
+  http://www.emacswiki.org/emacs/Twitter
+- EmacsWiki: Tw It
+  http://www.emacswiki.org/emacs/TwIt
+- EmacsWiki: Twittering Mode
+  http://www.emacswiki.org/emacs/TwitteringMode
+- EmacsWiki: Identica-mode
+  http://www.emacswiki.org/emacs/Identica-mode
+- identica emacs - Google Search
+  http://www.google.ca/search?client=safari&rls=en&q=identica+emacs&ie=UTF-8&oe=UTF-8&redir_esc=&ei=YeHTTIe9GtCgnQeJ8eSGBg
+- Identi.ca mode for Emacs | Nethazard.net
+  http://blog.nethazard.net/identica-mode-for-emacs/
+- Pwytter: Twitter for Windows, Mac, Linux » Free Twitter client for Windows, Mac & Linux
+  http://www.pwytter.com/
+* [2010-11-05 Fri] Backuppc stuff                                 :@backuppc:
+  - Back Up Linux And Windows Systems With BackupPC - Page 3 | HowtoForge - Linux Howtos and Tutorials
+    http://www.howtoforge.com/linux_backuppc_p3
+* [2010-11-05 Fri] Check avi file for errors                         :@video:
+  - Scanning AVI files for errors - MvixCommunity - Forums & Wiki Dedicated to Mvix Products - Powered by FusionBB
+    http://mvixcommunity.com/showtopic.php?tid/1407
+  - Program to verify quality of avi files
+    http://forum.videohelp.com/threads/243934-Program-to-verify-quality-of-avi-files
+  - HOWTO: Check avi file for errors
+    http://606u.dir.bg/avicheck/
+* [2011-01-03 Mon] Commander-like interface for emacs                :@emacs:
+ - EmacsWiki: Sunrise Commander Tips
+   http://www.emacswiki.org/emacs/Sunrise_Commander_Tips
+ - EmacsWiki: Sunrise Commander
+   http://www.emacswiki.org/emacs/Sunrise_Commander
+

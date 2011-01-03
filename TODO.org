@@ -28,10 +28,11 @@
 ** Requirements:
    - Store/view thumbnails
    - Handle network drives and offline storage.
+     - No longer a requirements with installation of unRAID storage
 ** Links
   - Manage your Video Collection with iTunes | iFlicks
     http://www.iflicksapp.com/
-  - Features
+  - VideoDrive
     http://www.aroona.net/VideoDrive/Features.html
   - skreenics - Project Hosting on Google Code
     http://code.google.com/p/skreenics/
@@ -47,6 +48,19 @@
     http://www.disktracker.com/
   - MacMagna | FileFinder
     http://macmagna.com/filefinder/index.htm
+** Solution: XBMC
+*** Plusses:
+    - Using mysql database, sync between players
+*** Links
+    - How to Synchronize Your XBMC Media Center Between Every Room in the House
+      http://lifehacker.com/5634515/how-to-synchronize-your-xbmc-media-center-across-every-room-in-the-house
+    - [HELP] Start XBMC with custom windowed resolution - XBMC Community Forum
+      http://forum.xbmc.org/showthread.php?t=63349
+    - Browsing Xbox Media Center on deviantART
+      http://browse.deviantart.com/customization/skins/media/mediacenter/
+    - Installing XBMC for Linux - XBMC
+      http://wiki.xbmc.org/index.php?title=Installing_XBMC_for_Linux
+
 
 * DONE Download New Captain Scarlet
   :LOGBOOK:
@@ -121,3 +135,13 @@
 ** TODO [#A] recompile synergy client with scroll fix
    - Stormy Productions Blog: SynergyKM Mouse Scrolling Fix
      http://blog.stormyprods.com/2008/09/synergykm-mouse-scrolling-fix.html
+** TODO Examine Glims and install if it's worth it
+   - Glims for Safari | www.MacHangout.com
+     http://www.machangout.com/
+** TODO Check out Cowbell for music tagging
+   - Main Page - Cowbell
+     http://more-cowbell.org/index.php/Main_Page
+   - Cowbell, By the Numbers - Cowbell
+     http://more-cowbell.org/index.php/Cowbell%2C_By_the_Numbers
+   - Advanced Guide - Cowbell
+     http://more-cowbell.org/index.php/Advanced_Guide

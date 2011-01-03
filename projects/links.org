@@ -2,3 +2,33 @@
 
 * Daevl.Plugs Audio Transmogrification Suite                       :@plugins:
   http://www.daevlmakr.com/Pages/daevlplugs.html
+
+* Installing and configuring Sick Beard                  :@usenet:@sickbeard:
+   - Sick Beard Install, Setup, and Configuration Guide for Ubuntu 10.04 LTS (Lucid Lynx) at
+     http://www.ainer.org/?p=747
+   - sickbeard growl - Google Search
+     http://www.google.ca/search?client=safari&rls=en&q=sickbeard+growl&ie=UTF-8&oe=UTF-8&redir_esc=&ei=Y4_NTKm2E5CengeItZTcDw
+   - Issue 112 - sickbeard - Growl notification from linux to osx timing out - Project Hosting on Google Code
+     http://code.google.com/p/sickbeard/issues/detail?id=112
+   - HowToConfigureGrowl - sickbeard - How to get Growl to work with Sick Beard - Project Hosting on Google Code
+     http://code.google.com/p/sickbeard/wiki/HowToConfigureGrowl
+
+* Low-tech - unix philosophy browsing                               :@webkit:
+   - luakit - browser framework - Overview - luakit.org
+     http://luakit.org/projects/luakit/
+   - jumanji - a web browser - Overview - pwmt.org
+     http://pwmt.org/projects/jumanji
+   - surf a WebKit based browser
+     http://surf.suckless.org/
+   - Uzbl - web interface tools which adhere to the unix philosophy.
+     http://www.uzbl.org/
+   - Uzbl - web interface tools which adhere to the unix philosophy.
+     http://www.uzbl.org/get.php
+   - uzbl_tabbed [Uzbl Wiki]
+     http://www.uzbl.org/wiki/uzbl_tabbed
+   - FrontPage - Conkeror
+     http://conkeror.org/
+   - Vimprobable WWW browser
+     http://www.vimprobable.org/
+   - tabbed
+     http://tools.suckless.org/tabbed

@@ -1,0 +1,38 @@
+#+TITLE: Synchronize tags between IMAP flags and a header
+#+FILETAGS: @project:@tagging
+
+* Links
+  - Overview — Python v2.7 documentation
+    http://docs.python.org/index.html
+  - 20.10. imaplib — IMAP4 protocol client — Python v2.7 documentation
+    http://docs.python.org/library/imaplib.html
+  - 5. Data Structures — Python v2.7 documentation
+    http://docs.python.org/tutorial/datastructures.html
+  - imaplib - IMAP4 client library - Python Module of the Week
+    http://www.doughellmann.com/PyMOTW/imaplib/
+  - [Tutor] imaplib append() question
+    http://mail.python.org/pipermail/tutor/2002-September/017269.html
+  - RFC 2060 - Internet Message Access Protocol - Version 4rev1
+    http://tools.ietf.org/html/rfc2060.html
+  - 7.1. string — Common string operations — Python v2.7 documentation
+    http://docs.python.org/library/string.html
+  - 7.3. Filtering lists revisited
+    http://www.faqs.org/docs/diveintopython/regression_filter.html
+  - 2.5. Filtering lists
+    http://www.faqs.org/docs/diveintopython/apihelper_filter.html
+  - An Introduction to Python Lists
+    http://effbot.org/zone/python-list.htm
+
+* Ideas
+** IMAP Flags can only be lower case?
+   Is this true?
+** For adding tags to existing (or not) headers
+   - Read the raw message into an email.message instance, using
+     imaplib to fetch the original's RFC822 data.
+     See
+     - imaplib - IMAP4 client library - Python Module of the Week
+       http://www.doughellmann.com/PyMOTW/imaplib/
+   - Add/modify the instance
+   - Append to the mailbox
+   - Flag the original as deleted
+   - Expunge the mailbox

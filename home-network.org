@@ -50,3 +50,6 @@
 ** Filesystems
    - why-reiserfs-is-teh-sukc
      http://zork.net/~nick/mail/why-reiserfs-is-teh-sukc
+
+* Documentation – collectd – The system statistics collection daemon :@stats:
+   Source: [2010-10-31 Sun], [[http://collectd.org/documentation.shtml][Documentation – collectd – The system statistics collection daemon:Safari]]
