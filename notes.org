@@ -1,5 +1,26 @@
 * Remember
 ** org-protocol on mac
+  	•	org-protocol.el -- Intercept calls from emacsclient to trigger custom actions (Source)
+	•	 
+	•	JCardente: Saving weblinks to org-mode from Safari (Source)
+	•	 
+	•	[Orgmode] [ANN] org-mac-protocol, fully updated for 10.6 and with added (Source)
+	•	 
+	•	claviclaws's org-mac-protocol at master - GitHub (Source)
+	•	 
+	•	org-mac-protocol.org at master from claviclaws's org-mac-protocol - GitHub (Source)
+
    Source: [2010-10-28 Thu], [[message://b4a7c84644eded5e1e95bc12840a2065@imap.bouzou.org][org-protocol on mac:Mail]]
 ** YouTube - Level - Living Inside Of Me                        :@todownload:
+   
     Source: [2010-10-31 Sun], [[http://www.youtube.com/watch?v%3DQRo_gCzSRUU][YouTube - Level - Living Inside Of Me:Safari]]
+
+** Mocapped live series - Marc Takerkart   
+   - New app exports Kinect motion data as BVH files | CG Channel
+     http://www.cgchannel.com/2011/01/new-app-exports-kinect-motion-data-as-bvh-files/
+   - ACTINIA Software
+     http://actinia-software.com/
+   - Twinmotion®2 - Real Time Rendering - Twinmotion®2 - Overview
+     http://www.twinmotion.com/twinmotion2/overview.html
+   - UDK - Unreal Development Kit - Epic Games
+     http://udk.com/index.html
