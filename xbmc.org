@@ -1,0 +1,28 @@
+#+LAST_MOBILE_CHANGE: 2009-12-04 10:28:56
+#+DESCRIPTION: XBMC usage as a house-wide and multi-user media center
+#+FILETAGS: :@xbmc:
+
+* Journal
+** [2011-01-09 Sun]
+   After failed attempt to get video sources added on Moya to sync on
+   Nermal, wiped the install on Moya, installed latest version and
+   created a new database.
+   - Added the database settings to advancedsettings.xml
+   - Switched to windowed mode and added the resolution settings to
+     advancedsettings.xml. 
+
+* Notes
+** Starting XBMC with custom window resolution.
+   Add the following to advancedsettings.xml in your user folder.
+   : <window> 
+   :     <height>720</height> 
+   :     <width>1280</width> 
+   : </window>  
+
+* Links
+  - XBMC
+    http://xbmc.org/
+  - How to Synchronize Your XBMC Media Center Between Every Room in the House
+    http://lifehacker.com/5634515/how-to-synchronize-your-xbmc-media-center-across-every-room-in-the-house
+  - XBMC Community Forum - View Single Post - [HELP] Start XBMC with custom windowed resolution
+    http://forum.xbmc.org/showpost.php?p=452233&postcount=2
