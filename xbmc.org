@@ -5,11 +5,36 @@
 * Journal
 ** [2011-01-09 Sun]
    After failed attempt to get video sources added on Moya to sync on
-   Nermal, wiped the install on Moya, installed latest version and
-   created a new database.
+   Nermal, wiped the install on Moya, installed latest version of XBMC
+   (10.0 r35648) and created a new database.
    - Added the database settings to advancedsettings.xml
    - Switched to windowed mode and added the resolution settings to
      advancedsettings.xml. 
+   - Checked that the database tables were created. Good.
+   - Setting the domain for the SMB client and restarting.
+   - Adding a source for series (FARSCAPE workgroup not seen, so I
+     added the URL by hand):
+     : smb://paul:<PWD>@aurorachair/paul-aurorachair/media/video/series/english
+     Named "Series - English"
+   - Scanned the contents.
+   - Scanned again. Some series were not scanned the first
+     time. Titles, but no episodes. Might be the unRAID delays.
+   - Some banners/thumbnails are not there. Might be due to SickBeard.
+
+   - Erased profile on Nermal. Checked that directory is gone.
+   - Created profile again, with all default options.
+   - Copied advancedsettings.xml and logged in.
+   - Series are there, with number of episodes, but the seasons and
+     episodes are not there when selecting a series.
+     - There are a lot of "no matching source" errors in the logs.
+
+   - Second try
+     - Erased profile on Nermal. Checked that directory is gone.
+     - Created profile again, with all default options.
+     - Logged in, and added the same source, but do not update it.
+     - Logged out, copied advancedsettings.xml and logged in.
+     - Updated library (unsure if needed). Seems to be working
+       (episodes are there and watched marks are ok).
 
 * Notes
 ** Starting XBMC with custom window resolution.
@@ -18,6 +43,13 @@
    :     <height>720</height> 
    :     <width>1280</width> 
    : </window>  
+** Cleaning data / making nfo/tbn files automatically
+   - The only non-windows-only option seems to be [[http://www.24hourloop.com/projects/mediareader][Media Reader]] (java,
+     but, well). Dependencies are easier to install on Linux, so
+     installing on Marauder. Documentation is in a PDF file called
+     "Media Reader.pdf".
+     - Install mediainfo from deb packages [[http://mediainfo.sourceforge.net/en/Download/Ubuntu][here]].
+     - Install ffmpeg from repository
 
 * Links
   - XBMC

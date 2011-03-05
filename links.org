@@ -150,9 +150,11 @@
   http://blog.nethazard.net/identica-mode-for-emacs/
 - Pwytter: Twitter for Windows, Mac, Linux » Free Twitter client for Windows, Mac & Linux
   http://www.pwytter.com/
+
 * [2010-11-05 Fri] Backuppc stuff                                 :@backuppc:
   - Back Up Linux And Windows Systems With BackupPC - Page 3 | HowtoForge - Linux Howtos and Tutorials
     http://www.howtoforge.com/linux_backuppc_p3
+
 * [2010-11-05 Fri] Check avi file for errors                         :@video:
   - Scanning AVI files for errors - MvixCommunity - Forums & Wiki Dedicated to Mvix Products - Powered by FusionBB
     http://mvixcommunity.com/showtopic.php?tid/1407
@@ -160,9 +162,21 @@
     http://forum.videohelp.com/threads/243934-Program-to-verify-quality-of-avi-files
   - HOWTO: Check avi file for errors
     http://606u.dir.bg/avicheck/
+
 * [2011-01-03 Mon] Commander-like interface for emacs                :@emacs:
  - EmacsWiki: Sunrise Commander Tips
    http://www.emacswiki.org/emacs/Sunrise_Commander_Tips
  - EmacsWiki: Sunrise Commander
    http://www.emacswiki.org/emacs/Sunrise_Commander
 
+* [2011-01-25 Tue] Yasnippet notes - usage for templates             :@emacs:
+  - yasnippet - Project Hosting on Google Code
+    http://code.google.com/p/yasnippet/
+  - smart-snippet and YASnippet | Google Groups
+    http://groups.google.com/group/smart-snippet/search?group=smart-snippet&q=new&qt_g=Search+this+group
+  - Issue 124 in yasnippet: yas/new-snippet default template creates spurious 'k-e-y-b-i-n-d-i-n-g' binding - smart-snippet and YASnippet | Google Groups
+    http://groups.google.com/group/smart-snippet/browse_thread/thread/7e6d0b3c6448a7f7/400e1c6ceecfd5da?lnk=gst&q=new#400e1c6ceecfd5da
+  - Issue 150 in yasnippet: Insertion for new created file fails - smart-snippet and YASnippet | Google Groups
+    http://groups.google.com/group/smart-snippet/browse_thread/thread/b3027718dc13bc/57c0d20087253021?lnk=gst&q=new#57c0d20087253021
+  - Expand snippet on visiting new file? - smart-snippet and YASnippet | Google Groups
+    http://groups.google.com/group/smart-snippet/browse_thread/thread/6299b29069be4cf0/1b06c9499669cd65?lnk=gst&q=new#1b06c9499669cd65
