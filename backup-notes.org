@@ -1,0 +1,61 @@
+#+TITLE: Notes on machine backups
+#+AUTHOR: Paul Provost
+#+EMAIL: paul@bouzou.org
+#+DESCRIPTION: 
+#+FILETAGS: @homenetwork
+
+* Backup solution of choice: [[http://backuppc.sourceforge.net/][backuppc]]
+** SSH setup
+** How to delete backups
+   Script available [[http://sourceforge.net/apps/mediawiki/backuppc/index.php?title%3DHow_to_delete_backups][here]].
+
+* Journal
+** [2011-02-15 Tue] Maildir problem
+   - Dovecot adds information to file names of mail messages by using a
+     colon (:). This is an issue when backing up to samba shares, as
+     the following characters are not allowed in a file name:
+     : 
+     : \/:*?"<>|
+     :
+       - Tried using NFS shares, but the unRAID implementation had
+         issues with non-root users creating hard links, which is a
+         requirement for BackupPC. In other words,
+         : 
+         : ln /net/backups/foo /net/backups/test
+         : 
+         did not work, but 
+         : 
+         : sudo ln /net/backups/foo /net/backups/test
+         : 
+         worked.
+         - Running BackupPC as root (aside from the nasty security
+           issues) proved to be difficult. The final straw was getting
+           the web interface to run as root. Gave up.
+       - Back to samba shares (they are more stable in unRAID
+         anyways).
+   - Path (somewhat risky, since it involves changing the separator
+     that Maildir uses when moving messages from "new" to "cur". Must
+     be sure to catch all code that deals directly with the files in
+     the Maildir directory):
+     - Recompile dovecot to use something other than colon (:) as a
+       data separator. [[http://docs.python.org/release/2.5.4/lib/mailbox-maildir.html][Apparently]], people have been using bang
+       (!). The author details how to do this [[http://www.dovecot.org/list/dovecot/2006-March/011950.html][here]]. Basically,
+       : 
+       : src/lib-storage/index/maildir/maildir-storage.h
+       : 
+       : MAILDIR_INFO_SEP
+       : MAILDIR_INFO_SEP_S
+       : 
+       He also mentions that this breaks the Maildir standard. I was
+       under the impression that the imap server was the one adding
+       the info. Maybe the Maildir standard has something about
+       separators.
+     - For mutt, [[http://tech.groups.yahoo.com/group/mutt-dev/message/10891][here]]'s a patch to change the separator.
+     - The maildir python library has an option to set the value of
+       "colon". See [[http://docs.python.org/release/2.5.4/lib/mailbox-maildir.html][here]] (again).
+     - That should be about it for code playing directly with Maildir
+       directories and files.  
+     - Find a way to rename all mail messages from
+       <stuff>:<more_stuff> to <stuff>!<more_stuff>
+       - Use a python script. See the file-episodes.py project for
+         gathering the files and creating "renamers" for them.

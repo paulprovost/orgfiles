@@ -1,0 +1,23 @@
+#+TITLE: Notes on VirtualBox usage
+#+AUTHOR: Paul Provost
+#+EMAIL: paul@bouzou.org
+#+DESCRIPTION: 
+#+FILETAGS: @virtualbox
+
+* [[http://www.vbox.me/][Portable]] VirtualBox
+  Additional hints [[http://maketecheasier.com/install-virtualbox-in-usb/2010/01/02][here]]
+** Do not run on a machine where VirtualBox is already installed
+   - On quit, the portable version will trash the installed version's
+     drivers.
+   - Instead, create a new machine on the installed version and point
+     it to the image on the USB key.
+
+* [[http://crunchbanglinux.org/][CrunchBang]] linux
+** Installing Guest additions
+   - Install kernel headers 
+     : sudo apt-get install linux-headers-2.6.32-5-686
+   - Install the additions
+     There is an execute permission issue. Use
+     : cd /media/<drive>
+     : sudo sh ./VBoxLinuxAdditions.run
+

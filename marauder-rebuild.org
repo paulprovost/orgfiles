@@ -1,0 +1,43 @@
+#+TITLE: Marauder rebuild
+#+AUTHOR: Paul Provost
+#+EMAIL: paul@bouzou.org
+#+DESCRIPTION: Step-by-step rebuild of the marauder Linux Desktop
+#+FILETAGS: @marauder:@ubuntu
+
+* Enable VNC (System->Preferences->Remote Desktop)
+* Install ssh
+* Install exim4-daemon-light
+  or else, installing mdadm will pull in postfix.
+** dpkg-reconfigure exim4-config
+   configure as satellite
+* Install mdadm
+  : mdadm --assemble /dev/md0 /dev/sdb1 /dev/sdc1
+** Write the /etc/mdadm.conf file
+* Detour - Zero all superblocks on all devices.
+  The old RAID drive used as a system disk was getting picked up as a
+  member of a RAID5 array.
+  : mdadm --zero-superblock <device>
+** Also, do not use GPT partition tables. Use msdos
+* Mount the RAID as /home using UUID
+  Get partition UUID with
+  : tune2fs -l <partition>
+* Go get /etc from the old install - Use SysRescueCD
+* Install git and mercurial
+* Mount shadow samba shares:
+** Install smbfs
+** Add to fstab
+   : # Media server
+   : //shadow.bouzou.org/media-video /net/media/video/ cifs username=media,password=medibouz03,_netdev,uid=media-video,gid=media-video 0 0
+   : //shadow.bouzou.org/media-music /net/media/audio/music cifs username=media,password=medibouz03,_netdev,uid=media-audio,gid=media-audio 0 0
+   : 
+   : # Private mounts of media server
+   : //shadow.bouzou.org/media-music /home/paul/mnt/shadow/media-music cifs credentials=/home/paul/.smbcredentials,_netdev,uid=paul,gid=paul 0 0
+   : //shadow.bouzou.org/media-video /home/paul/mnt/shadow/media-video cifs credentials=/home/paul/.smbcredentials,_netdev,uid=paul,gid=paul 0 0
+   : //shadow.bouzou.org/paul /home/paul/mnt/shadow/paul cifs credentials=/home/paul/.smbcredentials,_netdev,uid=paul,gid=paul 0 0
+** add media-audio and media-video users and groups
+* Update SickBeard and run
+** Install cheetah (python-cheetah)
+** Adjust and install initscript from distribution
+* Install Sabnzbd+ from ppa.
+* Install transmission-daemon from ppa.
+* Install webmin from .deb file at website.
