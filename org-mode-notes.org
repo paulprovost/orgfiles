@@ -31,6 +31,7 @@
         have to be loaded first).
 ***** Maybe a python script to generate a list for a particular item
 ***** Use org-depend
+***** As a starting point: [[http://www.mail-archive.com/emacs-orgmode@gnu.org/msg07134.html][{Orgmode} First extension: cycling through links]]
 
 * In use:
   - [[http://orgmode.org/worg/org-contrib/org-mac-message.php][org-mac-message.el]] – linking to messages in OS X Mail.app
