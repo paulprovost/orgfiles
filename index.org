@@ -1,7 +1,13 @@
 * Index file for MobileOrg
+** file:apple-tv.org    
+** file:audio-notes.org 
+** file:backup-notes.org
 ** [[file:books.org]]
 ** [[file:chalet.org]]
+** file:crunchbang-notes.org
+** file:dev-notes.org
 ** [[file:emacs.org]]
+** file:hg-notes.org
 ** [[file:mail-notes.org]]
 ** [[file:maison.org]]
 ** [[file:media.org]]
