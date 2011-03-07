@@ -208,7 +208,10 @@
    :END:
 [2010-02-09 Tue 13:04]
    Maybe later. Not for this project
-** NEXT [#A] Write an iPad app that sends and receives OSC
+** TODO [#A] Write an iPad app that sends and receives OSC
+   :LOGBOOK:
+   - State "TODO"       from "NEXT"       [2011-03-07 Mon 12:14]
+   :END:
    :PROPERTIES:
    :ID:       CB42D8B5-8489-4A29-9D80-391638E16566
    :END:
@@ -224,7 +227,10 @@
    iPhone / iPod Touch Max 5 external
    http://www.nr74.org/c74.html
    So, start from here and build up controllers, or rewrite?
-** NEXT [#A] Write an iPad view app
+** TODO [#A] Write an iPad view app
+   :LOGBOOK:
+   - State "TODO"       from "NEXT"       [2011-03-07 Mon 12:14]
+   :END:
    :PROPERTIES:
    :ID:       82859C14-CA70-4650-BA32-E0FE6AA68686
    :END:

@@ -20,7 +20,10 @@
    : [#imap/Bouzou/Sent]
    followed by a bunch of options. The insteresting one here is:
    : newmailcheck=0
-*** TODO Write a script to update the claws-mail folderitemrc file
+*** NEXT Write a script to update the claws-mail folderitemrc file
+    :LOGBOOK:
+    - State "NEXT"       from "TODO"       [2011-03-07 Mon 12:14]
+    :END:
     - Read the list of folders on the IMAP server.
     - Update the folderitemrc file using From a list of files that we
       _do_ want to scan.
