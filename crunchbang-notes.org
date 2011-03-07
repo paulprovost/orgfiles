@@ -33,3 +33,14 @@
     - Read the list of folders on the IMAP server.
     - Update the folderitemrc file using From a list of files that we
       _do_ want to scan.
+
+* Surf
+  Building the [[http://surf.suckless.org][surf]] light browser
+** Install dependencies
+   : sudo apt-get install libx11-dev
+   : sudo apt-get install pkg-config
+   : sudo apt-get install libgtk2.0-dev
+   : sudo apt-get install libwebkit-dev
+
+* [[http://code.google.com/p/stjerm-terminal/][stjerm]]
+  Popup terminal. Some settings [[http://linuxtidbits.wordpress.com/2007/12/28/a-gnome-terminal-replacement/][here]].
