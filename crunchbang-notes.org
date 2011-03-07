@@ -1,0 +1,26 @@
+#+TITLE: Notes on CrunchBang Linux
+#+AUTHOR: Paul Provost
+#+EMAIL: paul@bouzou.org
+#+DESCRIPTION: 
+#+FILETAGS: @linux:@crunchbang
+
+* I am using [[http://crunchbanglinux.org/][CrunchBang linux]] as a portable linux install
+
+* Keyboard
+  I like to use the us-intl keyboard (or equivalent)
+  everywhere. Here's how to do it in CrunchBang
+  : setxkbmap us -variant intl
+  I have not found how to do it on startup (yet)
+
+* Claws-Mail                                                         :@claws:
+** Setting most folders to not be checked for new mail
+   In the .claws-mail directory, there is a folderitemrc file. Each
+   customized folder has an entry in this file. it starts with the
+   folder name, e.g.
+   : [#imap/Bouzou/Sent]
+   followed by a bunch of options. The insteresting one here is:
+   : newmailcheck=0
+*** TODO Write a script to update the claws-mail folderitemrc file
+    - Read the list of folders on the IMAP server.
+    - Update the folderitemrc file using From a list of files that we
+      _do_ want to scan.
