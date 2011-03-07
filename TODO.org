@@ -133,12 +133,21 @@
     http://macmagna.com/filefinder/index.htm
 
 ** TODO [#A] recompile synergy client with scroll fix
+   :PROPERTIES:
+   :ID:       4102a6ac-95d2-4620-9c96-d602390baa8b
+   :END:
    - Stormy Productions Blog: SynergyKM Mouse Scrolling Fix
      http://blog.stormyprods.com/2008/09/synergykm-mouse-scrolling-fix.html
 ** TODO Examine Glims and install if it's worth it
+   :PROPERTIES:
+   :ID:       b00c2503-789c-4999-a572-446658fbd5b0
+   :END:
    - Glims for Safari | www.MacHangout.com
      http://www.machangout.com/
 ** TODO Check out Cowbell for music tagging
+   :PROPERTIES:
+   :ID:       6570096f-f570-4ecc-b4fa-8e5246a1f5de
+   :END:
    - Main Page - Cowbell
      http://more-cowbell.org/index.php/Main_Page
    - Cowbell, By the Numbers - Cowbell

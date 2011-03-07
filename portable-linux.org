@@ -12,4 +12,7 @@
    :LOGBOOK:
    - State "NEXT"       from "TODO"       [2011-03-07 Mon 12:34]
    :END:
+   :PROPERTIES:
+   :ID:       9e03b830-7496-4482-88a9-81f78981c540
+   :END:
    [[http://bendingmcp.blogspot.com/2011/02/setting-up-permanent-ubuntu-ssh-tunnel.html][This guy]] has an init.d script to start this up. Might be worth it.

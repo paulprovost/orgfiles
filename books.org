@@ -4,6 +4,9 @@
   :LOGBOOK:
   - State "STARTED"    from "STARTED"    [2011-01-31 Mon 16:37]
   :END:
+  :PROPERTIES:
+  :ID:       93a97bfc-7c9e-40d9-a43a-26ce41a44e96
+  :END:
 * DONE Stephen Baxter - Manifold Time 
   :LOGBOOK:
   - State "DONE"       from "STARTED"    [2011-01-31 Mon 16:36]

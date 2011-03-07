@@ -16,6 +16,9 @@
   For now, using xvnc4viewer. I wrapped the calls in some sh scripts
   so that I can start them from dmenu (Alt-F3) or gmrun (Alt-F2)
 ** TODO Figure how to store VNC passwords
+   :PROPERTIES:
+   :ID:       69a4d838-32d1-46d8-8da7-35910fd24207
+   :END:
    There should be a passwd file in ~/.vnc. But what's the format?
 
 * Claws-Mail                                                         :@claws:
@@ -29,6 +32,9 @@
 *** NEXT Write a script to update the claws-mail folderitemrc file
     :LOGBOOK:
     - State "NEXT"       from "TODO"       [2011-03-07 Mon 12:14]
+    :END:
+    :PROPERTIES:
+    :ID:       f50b0ed2-fdd7-44af-9a94-beedc006d9ac
     :END:
     - Read the list of folders on the IMAP server.
     - Update the folderitemrc file using From a list of files that we
