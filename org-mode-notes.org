@@ -1,52 +1,70 @@
+#+TITLE: Notes on using Org-Mode
+#+AUTHOR: Paul Provost
+#+EMAIL: paul@bouzou.org
+#+DESCRIPTION: 
+#+FILETAGS: @org
+
+* Journal
+** [2011-03-07 Mon]
+*** My current usage                                               :@journal:
+    My current usage for day-to-day tracking is a large journal file
+    (or entry, like this one). Typically:
+    - One dated top level entry per day.
+    - Each thing done during the day that warrants talking about is a
+      level 2 item below that.
+    - Some items inside those will be tasks (TODOs).
+    - As I work on a task, I make an entry with either a comment or
+      additional notes.
+    I'm not saying this is the correct/optimal way to do this, but
+    this is what gelled for me after about a year.
+**** Problem: Show all related entries in a journal
+     Basically, I would like a way to loosely relate entries to each
+     other, but on different days.
+***** Use links
+      - The originating item is a link target
+      - Every new item that relates back should have a link to the
+        target (maybe inside properties)
+      - id:<id> links work to find an item within a file
+      - org-id-copy copies the id of the current item to the kill
+        ring, creating one if needed.
+      - C-c l will store the current item with its link (org-id might
+        have to be loaded first).
+***** Maybe a python script to generate a list for a particular item
+***** Use org-depend
+
 * In use:
   - [[http://orgmode.org/worg/org-contrib/org-mac-message.php][org-mac-message.el]] – linking to messages in OS X Mail.app
 
 * Notes on org-mode (Meta!)
 ** [[http://doc.norang.ca/org-mode.html][Org Mode - Organize Your Life In Plain Text!]]
-
 ** [[http://sachachua.com/wp/2007/12/28/emacs-getting-things-done-with-org-basic/][Getting Things Done with Org . Basic]]
-
 ** Custom Agenda Commands [[http://orgmode.org/worg/org-tutorials/org-custom-agenda-commands.php][here]].
-
 ** [[http://orgmode.org/worg/org-contrib/org-protocol.php][org-protocol.el]] - Intercept calls from emacsclient to trigger custom actions
-
 ** Remember notes
    - [[http://sachachua.com/wp/2008/07/20/emacs-smarter-interactive-prompts-with-org-remember-templates/][Smarter interactive prompts with Org remember templates]]
 
 * Using org-mode
-
   - Remember - The Org Manual
     http://orgmode.org/manual/Remember.html#Remember
-
   - Org-mode Contributed Packages
     http://orgmode.org/worg/org-contrib/
-
   - org-depend.el . TODO dependencies for Org-mode
     http://orgmode.org/worg/org-contrib/org-depend.php
-
   - TODO dependencies - The Org Manual
     http://orgmode.org/manual/TODO-dependencies.html#TODO-dependencies
-
   - Agenda Views - The Org Manual
     http://orgmode.org/manual/Agenda-Views.html#Agenda-Views
-
   - Storing searches - The Org Manual
     http://orgmode.org/manual/Storing-searches.html#Storing-searches
-
   - Tag inheritance - The Org Manual
     http://orgmode.org/manual/Tag-inheritance.html#Tag-inheritance
-
   - Refiling notes - The Org Manual
     http://orgmode.org/manual/Refiling-notes.html#Refiling-notes
-
   - org-protocol.el . Intercept calls from emacsclient to trigger custom actions
     http://orgmode.org/worg/org-contrib/org-protocol.php
-
   - org-mode dated meeting - Google Search
     http://www.google.com/search?hl=en&q=org-mode+dated+meeting&btnG=Search
-
   - site:orgmode.org org-mode dated meeting - Google Search
     http://www.google.com/search?q=site:orgmode.org+org-mode+dated+meeting&hl=en&start=20&sa=N
-
   - Repeated tasks - The Org Manual
     http://orgmode.org/manual/Repeated-tasks.html#Repeated-tasks

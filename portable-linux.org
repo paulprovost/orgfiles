@@ -1,0 +1,15 @@
+#+TITLE: Having a Portable Linux distro
+#+AUTHOR: Paul Provost
+#+EMAIL: paul@bouzou.org
+#+DESCRIPTION: Notes on running a portable linux distro from a USB Key
+#+FILETAGS: @linux:@portable
+
+* Creating and keeping SSH tunnels
+** Used tips from the [[http://en.gentoo-wiki.com/wiki/Autossh#Using_OpenSSH.27s_built_in_connection_monitoring][Gentoo Wiki]]
+   This uses the connection check from ssh. I just made an sh script
+   to wrap that and I start it manually. It logs to syslog.
+** NEXT Start SSH Tunnels at startup.
+   :LOGBOOK:
+   - State "NEXT"       from "TODO"       [2011-03-07 Mon 12:34]
+   :END:
+   [[http://bendingmcp.blogspot.com/2011/02/setting-up-permanent-ubuntu-ssh-tunnel.html][This guy]] has an init.d script to start this up. Might be worth it.

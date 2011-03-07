@@ -12,6 +12,12 @@
   : setxkbmap us -variant intl
   I have not found how to do it on startup (yet)
 
+* VNC viewer                                                           :@vnc:
+  For now, using xvnc4viewer. I wrapped the calls in some sh scripts
+  so that I can start them from dmenu (Alt-F3) or gmrun (Alt-F2)
+** TODO Figure how to store VNC passwords
+   There should be a passwd file in ~/.vnc. But what's the format?
+
 * Claws-Mail                                                         :@claws:
 ** Setting most folders to not be checked for new mail
    In the .claws-mail directory, there is a folderitemrc file. Each
