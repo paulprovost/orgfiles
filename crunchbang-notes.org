@@ -50,3 +50,22 @@
 
 * [[http://code.google.com/p/stjerm-terminal/][stjerm]]
   Popup terminal. Some settings [[http://linuxtidbits.wordpress.com/2007/12/28/a-gnome-terminal-replacement/][here]].
+
+* Getting org-protocol links to open in emacs.
+  For some reason, xdg-open thinks we are running xfce, and calls
+  exo-open, which, as far as I could tell, is not
+  customizable. Therefore, I hacked xdg-open and commented out the
+  : elif [ -x /usr/bin/exo-open ]; then DE=xfce;
+  Then, I added some code (from [[http://www.mail-archive.com/emacs-orgmode@gnu.org/msg33861.html][this]] thread) to the open_generic()
+  function to force org-protocol:// links to go to emacsclient. With
+  stdout and stderr redirection, that gave:
+  : # Handle org-protocol
+  : if (echo "$1" | grep -q '^org-protocol://'); then
+  :     emacsclient "$1" >/dev/null 2>&1
+  :     if [ $? -eq 0 ]; then
+  :         exit_success
+  :     fi
+  : else
+  : <rest of script>
+  Then the links from the [[http://orgmode.org/worg/org-contrib/org-protocol.html#sec-3_4][verify the installation]] section started to
+  work. W00t!
