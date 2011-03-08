@@ -41,6 +41,9 @@
 ** [[http://sachachua.com/wp/2007/12/28/emacs-getting-things-done-with-org-basic/][Getting Things Done with Org . Basic]]
 ** Custom Agenda Commands [[http://orgmode.org/worg/org-tutorials/org-custom-agenda-commands.php][here]].
 ** [[http://orgmode.org/worg/org-contrib/org-protocol.php][org-protocol.el]] - Intercept calls from emacsclient to trigger custom actions
+*** Writing some python scripts to collect data from Safari
+*** Use [[http://www.vergenet.net/~conrad/software/xsel/][xsel]] and [[http://docs.python.org/library/subprocess.html#subprocess.check_output][subprocess.check_output()]] to get the clipboard on Linux
+    [[http://developer.apple.com/library/mac/#documentation/Darwin/Reference/ManPages/man1/pbpaste.1.html][pbpaste]] on the mac
 ** Remember notes
    - [[http://sachachua.com/wp/2008/07/20/emacs-smarter-interactive-prompts-with-org-remember-templates/][Smarter interactive prompts with Org remember templates]]
 
