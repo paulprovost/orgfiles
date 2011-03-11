@@ -69,3 +69,52 @@
   : <rest of script>
   Then the links from the [[http://orgmode.org/worg/org-contrib/org-protocol.html#sec-3_4][verify the installation]] section started to
   work. W00t!
+
+* Remote controlling vlc                                               :@vlc:
+  The stock .vlcrc file seems to Remote controlling vlc seems to break
+  the oldrc interface. Start vlc like this:
+  : vlc --config vlcrc --extraintf oldrc --rc-host=0.0.0.0:9999 --rc-fake-tty
+  Then it will be controllable by sending command to port 9999. python
+  code:
+  : #!/usr/bin/python
+  : import socket
+  : import sys
+  : 
+  : if len(sys.argv) != 2:
+  :     sys.exit()
+  : command = sys.argv[1]
+  : 
+  : HOST = 'localhost'
+  : PORT = 9999
+  : s = socket.socket(socket.AF_INET, socket.SOCK_STREAM)
+  : s.connect((HOST, PORT))
+  : s.send(command + '\n')
+  : s.close()
+
+* Getting m3u files to open in my vlc (see [[*Remote%20controlling%20vlc][here]])       :@vlc:@m3u:@mime:@xdg:
+  - Add a ".desktop" file in ~/.local/share/applications, as follows:
+    : [Desktop Entry]
+    : Encoding=UTF-8
+    : Type=Application
+    : NoDisplay=true
+    : Name=vlc-ctrl
+    : Exec=vlc-ctrl "%f"
+  - Assign it to the type of the m3u files
+    : xdg-mime default vlc-ctrl.desktop audio/mpegurl
+  - Works in Thunar... but not in chromium or using xdg-open - still gedit
+    - The info_generic() handler in xdg-mime uses the "file -i" command,
+      which returns text/plain on a .m3u file. Straight "file" _does_
+      return m3u...
+      - the file command uses magic files to associate. So, create
+        one.
+        : 0	string	#EXTM3U	M3U playlist
+        : !:mime	audio/mpegurl
+        : 0	string	#EXTM3U	M3U playlist
+        : !:mime	audio/x-mpegurl
+      - Compile to <file>.mdc
+        : file -C -m <filename>
+      - Install (both, for reference) to "~/.magic" and "~/.magic.mgc"
+      - Success for xdg-open and chromium!!!
+        - But if the playlist contains a space, failure.
+        
+        
