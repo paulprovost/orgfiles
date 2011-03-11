@@ -40,7 +40,7 @@
     - Update the folderitemrc file using From a list of files that we
       _do_ want to scan.
 
-* Surf
+* Surf                                                                 :@web:
   Building the [[http://surf.suckless.org][surf]] light browser
 ** Install dependencies
    : sudo apt-get install libx11-dev
@@ -51,7 +51,7 @@
 * [[http://code.google.com/p/stjerm-terminal/][stjerm]]
   Popup terminal. Some settings [[http://linuxtidbits.wordpress.com/2007/12/28/a-gnome-terminal-replacement/][here]].
 
-* Getting org-protocol links to open in emacs.
+* Getting org-protocol links to open in emacs.                         :@org:
   For some reason, xdg-open thinks we are running xfce, and calls
   exo-open, which, as far as I could tell, is not
   customizable. Therefore, I hacked xdg-open and commented out the
@@ -115,6 +115,7 @@
         : file -C -m <filename>
       - Install (both, for reference) to "~/.magic" and "~/.magic.mgc"
       - Success for xdg-open and chromium!!!
-        - But if the playlist contains a space, failure.
-        
-        
+        - But if the playlist contains a space, failure. Need to quote
+          the parameter forwarding in the vlc line:
+          : vlc --config vlcrc --extraintf oldrc \
+          :     --rc-host=0.0.0.0:9999 --rc-fake-tty "$*"
