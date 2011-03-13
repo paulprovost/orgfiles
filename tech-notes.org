@@ -1,3 +1,9 @@
+#+TITLE: Technical Notes
+#+AUTHOR: Paul Provost
+#+EMAIL: paul@bouzou.org
+#+DESCRIPTION: 
+#+FILETAGS: 
+
 * SSH login without password 					       :@ssh:
   From [[http://linuxproblem.org/art_9.html][here]]:
   - First log in on A as user a and generate a pair of authentication
@@ -30,7 +36,7 @@
   - Change the permissions of .ssh to 700
   - Change the permissions of .ssh/authorized\n_keys2 to 640
 
-* Automounting sshfs filesystems using autofs
+* Automounting sshfs filesystems using autofs                :@sshfs:@autofs:
   Totally Seamless SSHFS under Linux using Fuse and Autofs
   http://www.mccambridge.org/blog/2007/05/totally-seamless-sshfs-under-linux-using-fuse-and-autofs/
   Watch out for the root access. This did not work when mounting under
@@ -224,3 +230,15 @@
    - [[http://stackoverflow.com/questions/85736/can-anyone-recommend-a-good-modern-alternative-to-bash][Can anyone recommend a good modern alternative to bash? - Stack Overflow:Safari]]
 
 ** Candidates:
+
+* Connecting to ssl IMAP server from the command line            :@imap:@ssl:
+  - Using OpenSSL to securely connect to your IMAP account
+    http://www.jaharmi.com/2007/09/26/using_openssl_securely_connect_your_imap_account
+  - In a nutshell:
+    : $ openssl s_client -connect server:port -crlf
+    : ? LOGIN username password
+    : ? SELECT Inbox
+    : ? LOGOUT
+
+* Selecting browser from alternatives                                :@linux:
+  : sudo update-alternatives --config x-www-browser

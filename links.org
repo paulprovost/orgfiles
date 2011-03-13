@@ -179,3 +179,4 @@
     http://groups.google.com/group/smart-snippet/browse_thread/thread/b3027718dc13bc/57c0d20087253021?lnk=gst&q=new#57c0d20087253021
   - Expand snippet on visiting new file? - smart-snippet and YASnippet | Google Groups
     http://groups.google.com/group/smart-snippet/browse_thread/thread/6299b29069be4cf0/1b06c9499669cd65?lnk=gst&q=new#1b06c9499669cd65
+
