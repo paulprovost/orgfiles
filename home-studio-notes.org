@@ -1,7 +1,7 @@
 #+TITLE: Notes on home studio
 #+FILETAGS: @homestudio
 
-* NEXT [#B] Wire firebox guitar input to patch bay with high quality cable 
+* NEXT [#B] Wire interface guitar input to patch bay with high quality cable 
   :LOGBOOK:
   - State "NEXT"       from "TODO"       [2010-02-19 Fri 07:18]
   - State "TODO"       from ""           [2009-12-21 Mon 16:53]
@@ -11,7 +11,7 @@
   :END:
 [2009-12-21 Mon 16:24]
 
-* NEXT [#B] Wire vg-99 guitar input to patch bay with high quality cable 
+* NEXT [#B] Wire vg-99 guitar input to patch bay with high quality cable :@vg99:
   :LOGBOOK:
   - State "NEXT"       from "TODO"       [2010-02-19 Fri 07:18]
   - State "TODO"       from "TODO"       [2009-12-21 Mon 16:53]
@@ -22,7 +22,7 @@
   :END:
 [2009-12-21 Mon 16:24]
 
-* STARTED [#A] Try to match vg-99 amps to podxt with natural electric guitar
+* STARTED [#A] Try to match vg-99 amps to podxt with natural electric guitar :@vg99:
   :LOGBOOK:
   - State "STARTED"    from "NEXT"       [2010-10-10 Sun 22:17]
   - State "NEXT"       from "TODO"       [2010-02-19 Fri 07:18]
@@ -33,7 +33,7 @@
   :END:
 [2009-12-21 Mon 16:23]
 
-* TODO Try VG-99 output into podxt
+* TODO Try VG-99 output into podxt                                    :@vg99:
   :LOGBOOK:
   - State "TODO"       from ""           [2009-12-21 Mon 16:54]
   :END:
@@ -51,7 +51,7 @@
   - Short JSynthLib Guide
     http://www.ucapps.de/jsynthlib.html
 
-* Line6 devices on Snow Leopard
+* Line6 devices on Snow Leopard                                      :@line6:
   - Community: Space Search
     http://line6.com/community/search.jspa;jsessionid=046F19287363090335221EC1A3CEFBE3?resultTypes=BLOG_POST&resultTypes=DOCUMENT&resultTypes=MESSAGE&resultTypes=BLOG&resultTypes=COMMUNITY&resultTypes=TASK&resultTypes=PROJECT&resultTypes=SOCIAL_GROUP&resultTypes=COMMENT&peopleEnabled=true&q=snow+leopard
   - Community: Pod XT Live / Variax 500 / Variax...
@@ -64,3 +64,11 @@
     http://www.google.com/search?client=safari&rls=en&q=gearbox+snow+leopard&ie=UTF-8&oe=UTF-8
   - Community: Snow Leopard OSX Support Status
     http://line6.com/community/docs/DOC-1576
+
+* VG-99 string patches                                                :@vg99:
+ - Lush Strings, Padding from the VG-99
+   http://acapella.harmony-central.com/showthread.php?2605652-Lush-Strings-Padding-from-the-VG-99
+ - VG-99 MIDI with Soft Synths - Examples by Todd Madson
+   http://www.vguitarforums.com/smf/index.php?topic=2444.msg14104#msg14104
+ - VGuitar Forums - VGuitarForums VG-99 Bulk User Patches
+   http://www.vguitarforums.com/smf/index.php?action=downloads;cat=14
