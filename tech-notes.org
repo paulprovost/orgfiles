@@ -242,3 +242,18 @@
 
 * Selecting browser from alternatives                                :@linux:
   : sudo update-alternatives --config x-www-browser
+
+* How to get the exit code of -exec in the find command               :@find:
+  http://www.unix.com/shell-programming-scripting/120233-how-get-exit-code-exec-find-command-2.html
+
+* Configuring fetchmail to get mail from FastMail
+  - ConfiguringFetchmail - FastMailWiki
+    http://fastmail.wikia.com/wiki/ConfiguringFetchmail
+
+* Setting up VPN (OpenVPN)                                             :@vpn:
+** [[http://tomatousb.org/tut:openvpn][Server]] on tomato USB
+   - In addition, in the Advanced tab, enable "Respond to DNS" and
+     "Advertise DNS to clients".
+** Client on CrunchBang
+   - Install [[http://lists.debian.org/debian-devel/2003/07/msg00438.html][resolvconf]] (needed by the up/down scripts installed in
+     /etc/openvpn)
