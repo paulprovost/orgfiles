@@ -132,7 +132,7 @@
   - MacMagna | FileFinder
     http://macmagna.com/filefinder/index.htm
 
-** TODO [#A] recompile synergy client with scroll fix
+** TODO [#A] recompile synergy client with scroll fix         :@mac:@synergy:
    :PROPERTIES:
    :ID:       4102a6ac-95d2-4620-9c96-d602390baa8b
    :END:
@@ -154,3 +154,7 @@
      http://more-cowbell.org/index.php/Cowbell%2C_By_the_Numbers
    - Advanced Guide - Cowbell
      http://more-cowbell.org/index.php/Advanced_Guide
+
+** Upgrade macbook (Talyn) with SSD                                    :@SSD:
+   - [[http://www.ifixit.com/Guide/Repair/MacBook-Pro-15-Inch-Core-2-Duo-Model-A1211-Hard-Drive-Replacement/459/1][MacBook Pro 15" Core 2 Duo Model A1211 Hard Drive Replacement - iFixit]]
+   - [[http://eshop.macsales.com/shop/internal_storage/Mercury_Extreme_SSD_Sandforce/Solid_State_Pro][OWC Mercury Extreme Pro Solid State Drive (SSD) Solutions - High Performance, Reliability, and Endurance]]
