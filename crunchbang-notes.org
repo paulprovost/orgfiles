@@ -119,3 +119,24 @@
           the parameter forwarding in the vlc line:
           : vlc --config vlcrc --extraintf oldrc \
           :     --rc-host=0.0.0.0:9999 --rc-fake-tty "$*"
+
+* Directories open in Chromium!                                        :@xdg:
+  - xdg-open <directory> opens the directory in Chromium and returns:
+    : Warning: unknown mime-type for "/tmp" -- using "application/octet-stream"
+    : Error: no "view" mailcap rules found for type "application/octet-stream"
+  - Fix [[http://ubuntuforums.org/showthread.php?t%3D1545051][here]]. Basically:
+    - Install libfile-mimeinfo-perl
+      : sudo apt-get install libfile-mimeinfo-perl
+    - Make a private copy of xdg-open (I should have done this with
+      the org-protocol hack...)
+      : cp /usr/bin/xdg-open ~/bin/
+    - In the open_generic function of xdg-open, change the following lines
+      : if which run-mailcap >/dev/null &&
+      to
+      : if mimeopen -v 2>/dev/null 1>&2 &&
+      and the line
+      : run-mailcap --action=view "$file"
+      to
+      : mimeopen -n "$file"
+    - Done.
+      
