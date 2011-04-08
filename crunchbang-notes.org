@@ -140,3 +140,10 @@
       : mimeopen -n "$file"
     - Done.
       
+* Fixing c-acute issue.                                             :@cacute:
+  I have a dead-keys keyboard selected, but for some reason, this
+  insists on inputting c-acute instead of c-cedilla when I type
+  'c. This is a locale mixup. The solution is [[http://ubuntuforums.org/showthread.php?t%3D1330912][here]]. I basically mixed
+  up the ".env" file with the editing of 
+  : /usr/lib/gtk-2.0/2.10.0/immodule-files.d/libgtk2.0-0.immodules
+  Seems to work.
