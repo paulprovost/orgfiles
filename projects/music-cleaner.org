@@ -107,6 +107,12 @@
     - Beautiful Soup: We called him Tortoise because he taught us.
       http://www.crummy.com/software/BeautifulSoup/
 
+*** Updating in files
+    - How do you embed album art into an MP3 using Python? - Stack Overflow
+      http://stackoverflow.com/questions/409949/how-do-you-embed-album-art-into-an-mp3-using-python
+    - Source Checkout - pyalbumart - An album art grabber written in python. - Google Project Hosting
+      http://code.google.com/p/pyalbumart/source/checkout
+
 * Ui Ideas
   - To pick cover art, build a jpg with all the candidates and label
     them with a number. At the same time, ask for the number at the
