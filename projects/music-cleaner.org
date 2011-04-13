@@ -96,6 +96,17 @@
       http://www.freeopenbook.com/amazon-hacks/amazonhks-chp-6-sect-13.html
       - pyamazon
         http://www.josephson.org/projects/pyamazon/
+
+*** Using Google images
+    - Python Library for Google Search - good coders code, great reuse
+      http://www.catonmat.net/blog/python-library-for-google-search/
+    - Google Image Results
+      http://www.mit.edu/~kimo/blog/google_image.html
+    - Black Code SEO » Blog Archive » Google Image Search in Python
+      http://blackcodeseo.com/google-image-search-in-python/
+    - Beautiful Soup: We called him Tortoise because he taught us.
+      http://www.crummy.com/software/BeautifulSoup/
+
 * Ui Ideas
   - To pick cover art, build a jpg with all the candidates and label
     them with a number. At the same time, ask for the number at the
