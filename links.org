@@ -1,3 +1,4 @@
+
 * [2010-03-20 Sat] Great EBow video                                 :@guitar:
   - YouTube - Phil Keaggy Ebow
     http://www.youtube.com/watch?v=wwq0i6jP7dQ&feature=related
@@ -180,3 +181,8 @@
   - Expand snippet on visiting new file? - smart-snippet and YASnippet | Google Groups
     http://groups.google.com/group/smart-snippet/browse_thread/thread/6299b29069be4cf0/1b06c9499669cd65?lnk=gst&q=new#1b06c9499669cd65
 
+* [2011-04-13 Wed] Recording BBC 4 shows                :@internetradio:@bbc:
+  - http://forums.linuxmint.com/viewtopic.php?f=48&t=62200#p357271
+    Basically use
+    : get_iplayer --modes=flashaacstd --pid  http://www.bbc.co.uk/iplayer/console/...
+    where http://www.bbc... is the "listen now" link on the show page.
