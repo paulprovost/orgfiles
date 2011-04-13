@@ -1,3 +1,21 @@
+#+TITLE: Emacs notes
+#+AUTHOR: Paul Provost
+#+EMAIL: paul@bouzou.org
+#+DESCRIPTION: Tips for emacs usage
+#+FILETAGS: @emacs
 
-* Reading mail from IMAP server in gnus			    :@emacs:@imap:@gnus:
+* Reading mail from IMAP server in gnus                         :@imap:@gnus:
   - 
+* Updating the index.org file for MobileOrg
+  From a list of files in the directory pointed to by the
+  org-directory variable:
+  : (shell-command "cd ~/documents/orgfiles; find -type f -name \"*.org\" | sort" (quote (4)) nil)
+** TODO Make a Python script for this!
+   - Called with the directory name and returns the formatted list to
+     stdout, ready for index.org
+     - .org extension only
+     - paths relative to the org directory
+     - Prepended with file: (to make links)
+     - file names prepended with ** + the directory level
+     - List of excluded files
+
