@@ -106,6 +106,12 @@
       http://blackcodeseo.com/google-image-search-in-python/
     - Beautiful Soup: We called him Tortoise because he taught us.
       http://www.crummy.com/software/BeautifulSoup/
+    - JSON Developer's Guide - Google Image Search API - Google Code
+      http://code.google.com/apis/imagesearch/v1/jsondevguide.html#json_snippets_python
+    - Getting Started - Google Image Search API - Google Code
+      http://code.google.com/apis/imagesearch/v1/index.html
+    - Sign-up for an API Key - Google Loader - Google Code
+      http://code.google.com/apis/loader/signup.html?url=http://www.bouzou.org&key=ABQIAAAAXjvvW22Ed2W4IIkNfDdbRRRRgtHHTi3Ro3_RYr2GkpcoNaxjlBScbnOodM1rzrjOmz3NyHK26anvcA
 
 *** Updating in files
     - How do you embed album art into an MP3 using Python? - Stack Overflow
