@@ -72,3 +72,13 @@
     http://www.google.com/search?q=site:orgmode.org+org-mode+dated+meeting&hl=en&start=20&sa=N
   - Repeated tasks - The Org Manual
     http://orgmode.org/manual/Repeated-tasks.html#Repeated-tasks
+
+* Table mode as a spreadsheet
+  - Org as a spreadsheet system: a short introduction
+    http://orgmode.org/worg/org-tutorials/org-spreadsheet-intro.html
+  - References - The Org Manual
+    http://orgmode.org/manual/References.html#References
+  - Field and range formulas - The Org Manual
+    http://orgmode.org/manual/Field-and-range-formulas.html#Field-and-range-formulas
+  - Editing and debugging formulas - The Org Manual
+    http://orgmode.org/manual/Editing-and-debugging-formulas.html#Editing-and-debugging-formulas
