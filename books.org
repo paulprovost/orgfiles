@@ -1,7 +1,16 @@
 #+LAST_MOBILE_CHANGE: 2010-10-02 14:45:51
 #+FILETAGS: :@books:
-* STARTED John Scalzi - The Android's Dream
+* STARTED Robert J. Sawyer - Watch
   :LOGBOOK:
+  - State "STARTED"    from "STARTED"    [2011-05-19 Thu 13:44]
+  :END:
+* DONE Greg Bear - Mariposa
+  :LOGBOOK:
+  - State "DONE"       from "STARTED"    [2011-05-19 Thu 13:45]
+  :END:
+* DONE John Scalzi - The Android's Dream
+  :LOGBOOK:
+  - State "DONE"       from "STARTED"    [2011-03-19 Sat 13:44]
   - State "STARTED"    from "STARTED"    [2011-01-31 Mon 16:37]
   :END:
   :PROPERTIES:
