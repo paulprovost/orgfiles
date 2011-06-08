@@ -186,3 +186,186 @@
     Basically use
     : get_iplayer --modes=flashaacstd --pid  http://www.bbc.co.uk/iplayer/console/...
     where http://www.bbc... is the "listen now" link on the show page.
+
+* [2011-06-07 Tue] Controlling iTunes - Example code           :@dev:@itunes:
+  - Open Alexandria » Blog Archive » My Tunes Controller – control iTunes on menu bar
+    http://openalexandria.com/2010/10/my-tunes-controller/
+  - iTunesController.m - mytunescontroller - MyTunesController - Google Project Hosting
+    http://code.google.com/p/mytunescontroller/source/browse/trunk/iTunesController.m
+
+* [2011-06-07 Tue] Some Cocoa source code                       :@dev:@cocoa:
+  - Cocoa Source Code » Matt Legend Gemmell
+    http://mattgemmell.com/source
+    - MGSplitViewController
+      MGSplitViewController is an enhanced replacement for
+      UISplitViewController on the iPad. It allows displaying the
+      master view in either orientation, toggling it with animation,
+      changing the split from horizontal to vertical, dragging the
+      divider, and more.
+    - MGImageUtilities
+      MGImageUtilities is a collection of useful UIImage categories
+      for iPad and iPhone, including image-tinting and image-cropping
+      functionality(which explicitly supports multiple orientations,
+      and high-resolution Retina Displays).
+    - iPad VGA Output
+      iPad VGA Output is an open source iPad application showing how
+      you can display content on an external display via the iPad VGA
+      adapter. It includes a window which goes on the external screen,
+      and a window which goes on the iPad, and shows how to detect
+      supported external resolutions.
+    - iPad Multi Touch
+      iPad Multi Touch is an open source iPad application which lets
+      you visually track multiple touches, up to the maximum number
+      the iPad supports simultaneously (which is eleven, by the
+      way). It has some nice Core Animation effects too.
+    - Shady
+      Shady is an open source Mac OS X application which lets you dim
+      the screen beyond its usual limit, ideal for tired (or
+      photo-sensitive) eyes.
+    - MGScopeBar
+      MGScopeBar provides a scope/filter bar much like you’ll find in
+      Mail, the Finder (in the Find/Spotlight window), iTunes and
+      elsewhere. You can see a demo movie of it here.
+    - MGTemplateEngine
+      MGTemplateEngine is a native Cocoa system for generating text
+      output based on templates and data. It’s a close cousin of
+      systems like Smarty, FreeMarker, Django‘s template language, and
+      other such systems.
+      It’s ideal for Cocoa or iPhone apps needing to generate text
+      output using variable-substitution (with looping and/or
+      conditional logic), including HTML for export or for apps with
+      WebKit-based UIs, invoices or printable templates, mail merge,
+      data export or any number of other things. It’s also great (in
+      combination with WebKit) for letting your users create
+      themes/styles for your application.
+    - Skinnable App
+      This is a small application demonstrating how to use an embedded
+      WebKit WebView to easily “skin” your applications, i.e. style
+      your app’s UI using standard CSS files. It shows how to switch
+      CSS themes dynamically, how to use Objective-C to add HTML
+      content into a WebView, how to retrieve data from the HTML
+      document, how to replace existing content, and how to allow HTML
+      controls (form elements) to call methods in Cocoa objects.
+    - MGTwitterEngine (on github) 
+      MGTwitterEngine is a class which lets you integrate Twitter
+      support into your Cocoa application, by making use of the
+      Twitter API. The entire API is covered, and appropriate data is
+      returned as simple Cocoa objects (NSArrays, NSDictionarys,
+      NSStrings, NSDates and so on), for very easy integration with
+      your code. Creating a TwitterEngine is as easy as instantiating
+      it, setting your Twitter username and password, and you’re
+      done. See this blog post for more.
+    - NSImage+QuickLook
+      A category on NSImage allowing you to get an image containing a
+      Quick Look preview of the file at a given path. You can specify
+      the size, and whether the preview should be rendered as an icon
+      (i.e. with a document border, drop-shadow, page-curl and file
+      type/extension label superimposed). If Quick Look can’t generate
+      a preview for the specified file, you’ll be given the file’s
+      Finder icon instead (which is how the Quick Look panel itself
+      behaves in Leopard).
+    - MAAttachedWindow
+      A cool NSWindow subclass which lets you easily attach a view to
+      another window, displayed in a floating “speech-bubble”-like
+      borderless window. Very handy for contextual help, showing
+      options for a certain control, or just to draw attention to
+      things. Have a look at this screenshot to see how it works. You
+      can also grab a project showing how to use an MAAttachedWindow
+      with an NSStatusItem.
+    - MATrackingArea
+      A simple category on NSView and an accompanying class which
+      together allow you to add “tracking areas” to your
+      views. Tracking areas are like tracking rectangles but are more
+      robust and effective, and can be configured to track the mouse
+      either at all times, only when the view’s app is active, only
+      when the view’s window is key, or only when the view is First
+      Responder. You can also choose whether to use the view’s visible
+      rect in preference to the rect you pass in. See the example for
+      details.
+    - MGViewAnimation
+      An NSAnimation subclass which provides more desirable behaviour
+      than NSViewAnimation itself in most circumstances; i.e. it
+      animates the views’ frames itself in the same thread, leading to
+      visually synchronised movement. Try out the included sample app
+      to see the difference between regular NSViewAnimations and
+      these.
+    - NSColor+ContrastingLabelExtensions
+      A category on NSColor which returns another NSColor for use when
+      drawing label text on top of the receiver. Either white or black
+      is returned, depending on which will have most visual contrast
+      with the receiver’s color. In the event of the receiver’s
+      colorspace not being converted to RGB, black is returned by
+      default.
+    - ImageCrop
+      A category on NSImage allowing you to obtain a resized version
+      of the image to fit an arbitrary size, with a choice of cropping
+      or scaling methods (crop center, crop start, crop end, or scale
+      to fit). Uses high-quality interpolation too.
+    - HUDWindow
+      An NSPanel subclass which creates a translucent window like
+      iPhoto “Adjust” palette. Useful for graphics applications where
+      a non-intrusive, high-contrast UI style is needed. Or just to
+      look cool.
+    - RoundedBox
+      An NSBox subclass which draws a pretty rounded-rectangle box
+      with a gradient background; take a look at the screenshot to see
+      how it looks. Includes lots of configurable options, and it’s
+      ready to drop right into your project.
+    - TunesWindow
+      A project which displays a window in the iTunes 5/6
+      (i.e. “polished metal”) style. Like the Unified look, but
+      darker. Get the iTunes look in your own apps easily.
+    - iCal Calendars
+      A simple application which reads iCal’s calendars and returns an
+      NSDictionary whose keys are the names of the calendars, and
+      whose values are Calendar objects, with fields “title”
+      (NSString), “notes” (NSString), “color” (NSColor), and both GUID
+      keys used by iCal to keep track of calendars and their source
+      data.
+    - NSBezierPath+StrokeExtensions
+      A simple category on NSBezierPath allowing you stroke inside a
+      path, rather than stroking centered on the path.
+    - RoundedFloatingPanel
+      An NSView subclass and accompanying NSWindow subclass which
+      provide the same rounded floating panel overlay which the
+      Panther application switcher uses.
+    - iTableColumnHeader
+      An NSTableHeaderCell subclass providing the metallic column
+      headers seen in iApps, including the Calendars list in iCal and
+      the Source list in iTunes.
+    - iTableView (Source List and Colored Checkboxes)
+      A pair of NSTextFieldCell and NSImageCell subclasses (and a
+      simple NSTableView subclass) which provide the blue-gradient
+      selection highlighting behaviour you see in iCal’s “Calendars”
+      list, iTunes’ “Source” list, and the sidebar in the Panther
+      Finder. Apple calls this kind of control a Source List.
+      Also includes code to draw colored checkboxes as in iCal, using
+      any color you want!
+    - Address Book Test
+      Shows how to make use of the Mac OS X 10.2 Address Book
+      API. Includes a live-filtering field which locates Address Book
+      entries by forename, surname or company, and demonstrates
+      finding the primary email address for a specified person, as
+      well as their name and picture.
+    - Better TextFinder
+      Easily implement Find and Replace in your application. Adapted
+      and improved from TextEdit’s implementation. Includes both the
+      class and a Nib file containing an appropriate Find panel. Read
+      more about the improvements here.
+    - SS_PrefsController
+      A class which lets you easily create Mail/iTunes/Safari-style
+      Preferences windows, with toolbars and multiple panes loaded
+      from bundles. Loads of configurable options and flexibility, and
+      professional results. Take a look at the class documentation
+      (also included in the download).
+    - Window Fade-out
+      Ever felt the need to have a window fade out of existence,
+      instead of just closing? Here’s how.
+    - Grab-Scrolling
+      Shows how to implement grab-scrolling, like in Preview,
+      Photoshop, Acrobat and more. Includes the two requisite
+      hand-cursors.
+    - Screen Sharing
+      Source for two apps, a client and a server, letting you send
+      full-screen screenshots of your Mac via Rendezvous. This is a
+      modification of Apple’s Picture Sharing code.
