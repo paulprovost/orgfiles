@@ -257,3 +257,11 @@
 ** Client on CrunchBang
    - Install [[http://lists.debian.org/debian-devel/2003/07/msg00438.html][resolvconf]] (needed by the up/down scripts installed in
      /etc/openvpn)
+
+* Ethernet driver fix for Ubuntu and Gigabyte GA-MA74GM-S2
+  - [SOLVED]How to fix failing Realtek NIC RTL8111/8168B (Page 1) / Networking, Server, and Protection / Arch Linux Forums
+    https://bbs.archlinux.org/viewtopic.php?id=101836
+  - Bug #141343 in linux (Ubuntu): “r8169 driver does not work with Realtek "PCI-E" 8111B integrated network controller”
+    https://bugs.launchpad.net/ubuntu/+source/linux/+bug/141343
+  - Script to Fix R8168 and R8111 in Debian/Ubuntu GNU/Linux
+    http://www.jamesonwilliams.com/hardy-r8168
