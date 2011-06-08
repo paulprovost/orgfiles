@@ -11,8 +11,8 @@
 	•	org-mac-protocol.org at master from claviclaws's org-mac-protocol - GitHub (Source)
 
    Source: [2010-10-28 Thu], [[message://b4a7c84644eded5e1e95bc12840a2065@imap.bouzou.org][org-protocol on mac:Mail]]
+
 ** YouTube - Level - Living Inside Of Me                        :@todownload:
-   
     Source: [2010-10-31 Sun], [[http://www.youtube.com/watch?v%3DQRo_gCzSRUU][YouTube - Level - Living Inside Of Me:Safari]]
 
 ** Mocapped live series - Marc Takerkart   
@@ -24,6 +24,15 @@
      http://www.twinmotion.com/twinmotion2/overview.html
    - UDK - Unreal Development Kit - Epic Games
      http://udk.com/index.html
+
+** iPad stylus                                                        :@ipad:
+  - Amazon.com: BoxWave Capacitive iPad Stylus (Jet Black): Electronics
+    http://www.amazon.com/BoxWave-Capacitive-iPad-Stylus-Black/dp/B000BUI76S%3FSubscriptionId%3D14H876SFAKFS0EHBYQ02%26tag%3Dhubp09f0-20%26linkCode%3Dxm2%26camp%3D2025%26creative%3D165953%26creativeASIN%3DB000BUI76S
+
+** Transmission e-mail notification           :@transmission:@email:@torrent:
+   - Transmission • View topic - Email notification
+     https://forum.transmissionbt.com/viewtopic.php?f=1&t=10617&p=49385&hilit=email+script#p49385
+
 
 * Tasks
 
