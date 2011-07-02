@@ -1,7 +1,12 @@
 #+LAST_MOBILE_CHANGE: 2010-10-02 14:45:51
 #+FILETAGS: :@books:
-* STARTED Robert J. Sawyer - Watch
+* STARTED Joe Haldeman - Starsbound
   :LOGBOOK:
+  - State "STARTED"    from ""           [2011-06-29 Wed 15:16]
+  :END:
+* DONE Robert J. Sawyer - Watch
+  :LOGBOOK:
+  - State "DONE"       from "STARTED"    [2011-06-28 Tue 15:16]
   - State "STARTED"    from "STARTED"    [2011-05-19 Thu 13:44]
   :END:
 * DONE Greg Bear - Mariposa
