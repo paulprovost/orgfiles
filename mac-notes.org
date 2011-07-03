@@ -57,6 +57,7 @@
   - EmacsWiki: Carbon Emacs Package
     http://www.emacswiki.org/emacs-en/CarbonEmacsPackage
 
+
 * How To Make MacFUSE Follow Symlinks Using SSHFS           :@macfuse:@sshfs:
   http://philnelson.name/2007/01/30/a-quick-note-on-macfuse-sshfs-and-how-to-make-fuse-follow-symlinks/
 
@@ -68,3 +69,14 @@
   : launchctl load -w /Library/LaunchAgents/org.freedesktop.dbus-session.plist
   : sudo launchctl load -w /Library/LaunchDaemons/org.freedesktop.dbus-system.plist
 
+* Hiding application dock icon                                        :@dock:
+  - From the LaunchBar web page:
+
+    In order to get rid of the dock icon, you must modify the file
+    named 'Info.plist' inside the Application's package
+    (i.e. Sherlock.app/Contents/Info.plist). Open this file in your
+    favorite text editor and add the following section (if it's
+    already present simply change the 0 to a 1 in the string tag:
+
+    : [KEY]NSUIElement[/KEY]
+    : [STRING]1[/STRING]
