@@ -56,7 +56,12 @@
     http://www.emacswiki.org/cgi-bin/emacs-en/MacKeyMode
   - EmacsWiki: Carbon Emacs Package
     http://www.emacswiki.org/emacs-en/CarbonEmacsPackage
-
+  - Switching to Cocoa Emacs « davidb dives in
+    http://blacka.com/david/2010/01/17/switching-to-cocoa-emacs/
+    Switch the meta key back to the command key, where it is meant to
+    be. This can either be done via Customize, or you can do it
+    manually with elisp. Manually, add:
+    : (setq ns-command-modifier 'meta)
 
 * How To Make MacFUSE Follow Symlinks Using SSHFS           :@macfuse:@sshfs:
   http://philnelson.name/2007/01/30/a-quick-note-on-macfuse-sshfs-and-how-to-make-fuse-follow-symlinks/
