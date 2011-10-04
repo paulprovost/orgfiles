@@ -373,3 +373,19 @@
      Source for two apps, a client and a server, letting you send
      full-screen screenshots of your Mac via Rendezvous. This is a
      modification of Apple’s Picture Sharing code.
+
+* [2011-10-04 Tue] Bash completion/expansion notes
+   - Bash Alias Utilities
+     http://www.logicalpoetry.com/bashalias/
+   - Working more productively with bash 2.x/3.x
+     http://caliban.org/bash/#completion
+   - Bashrun - X11 application launcher based on bash
+     http://bashrun.sourceforge.net/
+   - An introduction to bash completion: part 1
+     http://www.debian-administration.org/articles/316
+   - revans/bash-it - GitHub
+     https://github.com/revans/bash-it
+   - robbyrussell/oh-my-zsh - GitHub
+     https://github.com/robbyrussell/oh-my-zsh
+   - Themes - GitHub
+     https://github.com/robbyrussell/oh-my-zsh/wiki/themes
