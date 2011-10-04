@@ -374,7 +374,7 @@
      full-screen screenshots of your Mac via Rendezvous. This is a
      modification of Apple’s Picture Sharing code.
 
-* [2011-10-04 Tue] Bash completion/expansion notes
+* [2011-10-04 Tue] Bash completion/expansion notes             :@linux:@bash:
    - Bash Alias Utilities
      http://www.logicalpoetry.com/bashalias/
    - Working more productively with bash 2.x/3.x
