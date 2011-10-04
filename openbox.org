@@ -1,0 +1,25 @@
+#+TITLE: Notes on Openbox
+#+AUTHOR: Paul Provost
+#+EMAIL: paul@bouzou.org
+#+DESCRIPTION: Using Openbox on a standard Ubuntu install instead of metacity.
+#+FILETAGS: @linux:@Openbox
+
+* Guide
+  http://urukrama.wordpress.com/openbox-guide/
+
+* Config files from depot:
+  - .config/openbox/*
+  - .config/tint2/*
+  - .conkyrc
+
+* Installs:
+  - conky
+  - nitrogen
+  - parcellite
+  - tint2
+  - xfce4-power-manager
+  - xscreensaver
+  - xsession
+
+* Logout script
+  From the guide above. http://crunchbang.org/archives/2008/04/01/openbox-logout-reboot-and-shutdown-script/
