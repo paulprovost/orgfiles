@@ -17,22 +17,22 @@
      : 
      : \/:*?"<>|
      :
-       - Tried using NFS shares, but the unRAID implementation had
-         issues with non-root users creating hard links, which is a
-         requirement for BackupPC. In other words,
-         : 
-         : ln /net/backups/foo /net/backups/test
-         : 
-         did not work, but 
-         : 
-         : sudo ln /net/backups/foo /net/backups/test
-         : 
-         worked.
-         - Running BackupPC as root (aside from the nasty security
-           issues) proved to be difficult. The final straw was getting
-           the web interface to run as root. Gave up.
-       - Back to samba shares (they are more stable in unRAID
-         anyways).
+     - Tried using NFS shares, but the unRAID implementation had
+       issues with non-root users creating hard links, which is a
+       requirement for BackupPC. In other words,
+       : 
+       : ln /net/backups/foo /net/backups/test
+       : 
+       did not work, but 
+       : 
+       : sudo ln /net/backups/foo /net/backups/test
+       : 
+       worked.
+       - Running BackupPC as root (aside from the nasty security
+         issues) proved to be difficult. The final straw was getting
+         the web interface to run as root. Gave up.
+     - Back to samba shares (they are more stable in unRAID
+       anyways).
    - Path (somewhat risky, since it involves changing the separator
      that Maildir uses when moving messages from "new" to "cur". Must
      be sure to catch all code that deals directly with the files in
@@ -50,6 +50,8 @@
        under the impression that the imap server was the one adding
        the info. Maybe the Maildir standard has something about
        separators.
+       - Compiling dovecot from source. Use the mercurial repository.
+         
      - For mutt, [[http://tech.groups.yahoo.com/group/mutt-dev/message/10891][here]]'s a patch to change the separator.
      - The maildir python library has an option to set the value of
        "colon". See [[http://docs.python.org/release/2.5.4/lib/mailbox-maildir.html][here]] (again).

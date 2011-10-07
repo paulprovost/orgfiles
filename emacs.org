@@ -11,6 +11,9 @@
   org-directory variable:
   : (shell-command "cd ~/documents/orgfiles; find -type f -name \"*.org\" | sort" (quote (4)) nil)
 ** TODO Make a Python script for this!
+   :PROPERTIES:
+   :ID:       bcb1ff20-0cf8-4596-8a37-824927a61536
+   :END:
    - Called with the directory name and returns the formatted list to
      stdout, ready for index.org
      - .org extension only

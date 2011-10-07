@@ -4,6 +4,9 @@
   :LOGBOOK:
   - State "STARTED"    from ""           [2011-06-29 Wed 15:16]
   :END:
+  :PROPERTIES:
+  :ID:       b9889b65-6841-414c-a857-b7f8b54d2efb
+  :END:
 * DONE Robert J. Sawyer - Watch
   :LOGBOOK:
   - State "DONE"       from "STARTED"    [2011-06-28 Tue 15:16]
