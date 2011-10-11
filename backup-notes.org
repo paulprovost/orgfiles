@@ -68,3 +68,4 @@
        <stuff>:<more_stuff> to <stuff>!<more_stuff>
        - Use a python script. See the file-episodes.py project for
          gathering the files and creating "renamers" for them.
+         - Done. see rename-re.py
