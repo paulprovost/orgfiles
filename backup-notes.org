@@ -39,7 +39,8 @@
      the Maildir directory):
      - Recompile dovecot to use something other than colon (:) as a
        data separator. [[http://docs.python.org/release/2.5.4/lib/mailbox-maildir.html][Apparently]], people have been using bang
-       (!). The author details how to do this [[http://www.dovecot.org/list/dovecot/2006-March/011950.html][here]]. Basically,
+       (!). I think I'll use dash (-). The author details how to do
+       this [[http://www.dovecot.org/list/dovecot/2006-March/011950.html][here]]. Basically,
        : 
        : src/lib-storage/index/maildir/maildir-storage.h
        : 
@@ -50,14 +51,18 @@
        under the impression that the imap server was the one adding
        the info. Maybe the Maildir standard has something about
        separators.
-       - Compiling dovecot from source. Use the mercurial repository.
-         
+       - Compiling dovecot from source. Use the [[http://hg.dovecot.org/][mercurial repository]].
+         Instructions are [[http://wiki2.dovecot.org/CompilingSource#mercurial][here]]. The configure command line looks like:
+         : 
+         : configure -enable-imap -enable-hcache --with-ssl
+         :     --prefix=$HOME/local --enable-maintainer-mode
+         : 
      - For mutt, [[http://tech.groups.yahoo.com/group/mutt-dev/message/10891][here]]'s a patch to change the separator.
      - The maildir python library has an option to set the value of
        "colon". See [[http://docs.python.org/release/2.5.4/lib/mailbox-maildir.html][here]] (again).
      - That should be about it for code playing directly with Maildir
        directories and files.  
      - Find a way to rename all mail messages from
-       <stuff>:<more_stuff> to <stuff>!<more_stuff>
+       <stuff>:<more_stuff> to <stuff>-<more_stuff>
        - Use a python script. See the file-episodes.py project for
          gathering the files and creating "renamers" for them.

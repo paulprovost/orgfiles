@@ -7,7 +7,7 @@
 * Guide
   http://urukrama.wordpress.com/openbox-guide/
 
-* Config files from depot:
+* Config files from depot (initially from crunchbang):
   - .config/openbox/*
   - .config/tint2/*
   - .conkyrc
@@ -23,3 +23,5 @@
 
 * Logout script
   From the guide above. http://crunchbang.org/archives/2008/04/01/openbox-logout-reboot-and-shutdown-script/
+
+* dmenu-bind from crunchbang
