@@ -1,7 +1,13 @@
 #+LAST_MOBILE_CHANGE: 2010-10-02 14:45:51
 #+FILETAGS: :@books:
-* STARTED Joe Haldeman - Starsbound
+* STARTED Stephen Baxter - Ark
   :LOGBOOK:
+  - State "STARTED"    from "DONE"       [2011-11-02 Wed 19:10]
+  :END:
+* DONE Joe Haldeman - Starsbound
+  :LOGBOOK:
+  - State "DONE"       from "STARTED"    [2011-11-02 Wed 19:09] \\
+    not at this date...
   - State "STARTED"    from ""           [2011-06-29 Wed 15:16]
   :END:
   :PROPERTIES:
