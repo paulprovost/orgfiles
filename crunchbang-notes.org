@@ -29,8 +29,10 @@
    : [#imap/Bouzou/Sent]
    followed by a bunch of options. The insteresting one here is:
    : newmailcheck=0
-*** NEXT Write a script to update the claws-mail folderitemrc file
+*** CANCELLED Write a script to update the claws-mail folderitemrc file
     :LOGBOOK:
+    - State "CANCELLED"  from "NEXT"       [2011-11-08 Tue 07:51] \\
+      Not using claws-mail any longer. Wanderlust rules.
     - State "NEXT"       from "TODO"       [2011-03-07 Mon 12:14]
     :END:
     :PROPERTIES:

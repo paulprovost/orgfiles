@@ -390,3 +390,169 @@
      https://github.com/robbyrussell/oh-my-zsh
    - Themes - GitHub
      https://github.com/robbyrussell/oh-my-zsh/wiki/themes
+
+* [2011-11-08 Tue] Using ediff as a mercurial merge tool  :@emacs:@mercurial:
+  - emacs - Using ediff as git mergetool - Stack Overflow
+    http://stackoverflow.com/questions/1817370/using-ediff-as-git-mergetool
+  - configuration - How can I use ediff (emacs diff) as a diff/merge tool in Windows ClearCase? - Stack Overflow
+    http://stackoverflow.com/questions/658127/how-can-i-use-ediff-emacs-diff-as-a-diff-merge-tool-in-windows-clearcase
+  - Flow-Geek: Using Emacs ediff as a graphical merge tool for Subversion
+    http://zaakbeekman.blogspot.com/2011/04/using-emacs-ediff-as-graphical-merge.html
+  - MergingWithEmacs - Mercurial
+    http://mercurial.selenic.com/wiki/MergingWithEmacs
+  - MergeToolConfiguration - Mercurial
+    http://mercurial.selenic.com/wiki/MergeToolConfiguration
+  - ExtdiffExtension - Mercurial
+    http://mercurial.selenic.com/wiki/ExtdiffExtension
+  - Merging with Emacs and ediff-mode
+    http://www.selenic.com/pipermail/mercurial/2008-November/022599.html
+
+* [2011-11-08 Tue] mkv/ac3 Conversion          :@video:@conversion:@mkv:@ac3:
+  - Convert mkv movies into mp4 - Page 4 - MacRumors Forums
+    http://forums.macrumors.com/showthread.php?t=301017&page=4
+  - Convert mkv movies into mp4 - Page 5 - MacRumors Forums
+    http://att.macrumors.com/showthread.php?t=301017&page=5
+  - Converting an MKV (h264) File to PS3 MP4 Without Re-encoding on Mac OS X « Just Another Odd Man Out
+    http://oddmanout.wordpress.com/2008/01/26/converting-an-mkv-h264-file-to-ps3-mp4-without-re-encoding-on-mac-os-x/
+  - Help: Need to put AC3 into MP4 with ffmpeg
+    http://forum.videohelp.com/threads/311525-Help-Need-to-put-AC3-into-MP4-with-ffmpeg
+
+* [2011-11-08 Tue] Ambient music                            :@music:@ambient:
+  - www.darkwinter.com
+    http://www.darkwinter.com/index1.html
+
+* [2011-11-08 Tue] org-mode on MacOS                          :@orgmode:@mac:
+  - org-protocol - Google Search
+    http://www.google.ca/search?client=safari&rls=en&q=org-protocol&ie=UTF-8&oe=UTF-8&redir_esc=&ei=wJKHTuaVH4XK0AH-iJ37Dw
+  - Remember Mode Tutorial
+    http://members.optusnet.com.au/~charles57/GTD/remember.html
+  - org-protocol.el – Intercept calls from emacsclient to trigger custom actions
+    http://orgmode.org/worg/org-contrib/org-protocol.html
+  - Org and Mac OS X
+    http://orgmode.org/worg/org-mac.html
+  - org-mac-message.el – linking to messages in OS X Mail.app
+    http://orgmode.org/worg/org-contrib/org-mac-message.html
+  - claviclaws/org-mac-protocol - GitHub
+    https://github.com/claviclaws/org-mac-protocol
+  - org-mac-protocol.org at master from claviclaws/org-mac-protocol - GitHub
+    https://github.com/claviclaws/org-mac-protocol/blob/master/org-mac-protocol.org
+  - org-mac-protocol.el at master from claviclaws/org-mac-protocol - GitHub
+    https://github.com/claviclaws/org-mac-protocol/blob/master/org-mac-protocol.el
+  - org-note.applescript at master from claviclaws/org-mac-protocol - GitHub
+    https://github.com/claviclaws/org-mac-protocol/blob/master/org-note.applescript
+
+* [2011-11-08 Tue] Use Spotlight to globally index any text file :@spotlight:
+  - 10.4: Use Spotlight to globally index any text file - Mac OS X Hints
+    http://hints.macworld.com/article.php?story=2005052015041510
+
+* [2011-11-08 Tue] Blade Runner soundtracks             :@bladerunner:@music:
+  - The Blade Runner Soundtracks Ultimate Thread - Page 18
+    http://forums.ffshrine.org/f92/blade-runner-soundtracks-ultimate-thread-72496/18.html#post1604062
+  - blade runner esper retirement edition torrent - Google Search
+    http://www.google.ca/search?client=safari&rls=en&q=blade+runner+esper+retirement+edition+torrent&ie=UTF-8&oe=UTF-8&redir_esc=&ei=SDJ-TvfSBozp0QH4rqX4Dw
+  - Scifi.dead-donkey.com • View topic - Blade Runner - Esper Retirement Edition
+    http://scifi.dead-donkey.com/viewtopic.php?f=13&t=4553
+  - Various Artists Blade Runner Esper 039 Retirement 039 Edit Torrent - TorrentFunk
+    http://www.torrentfunk.com/torrent/2775394/various-artists-blade-runner-esper-039-retirement-039-edit.html
+  - The Blade Runner Soundtracks Ultimate Thread - Page 28
+    http://forums.ffshrine.org/f92/blade-runner-soundtracks-ultimate-thread-72496/28.html
+  - blade runner ems2011 - Google Search
+    http://www.google.ca/search?client=safari&rls=en&q=blade+runner+ems2011&ie=UTF-8&oe=UTF-8&redir_esc=&ei=6DV-TsGgLqHy0gG91pzXDw
+  - EMS Recombination
+    http://emsrecombination.blogspot.com/
+  - ems recombination definitive 3 disc edition - Google Search
+    http://www.google.ca/search?client=safari&rls=en&q=EMS+Recombination+Definitive+3+Disc+Edition&ie=UTF-8&oe=UTF-8&redir_esc=&ei=7zl-TsK7MILn0QG6rt0K
+  - Do Androids Dream Of Lossless Audio Files? A Blade Runner Soundtrack Thread - Page 22
+    http://forums.ffshrine.org/f92/do-androids-dream-lossless-audio-files-blade-75274/22.html
+
+* [2011-11-08 Tue] tmux notes                              :@linux:@terminal:
+  - tmux
+    http://tmux.sourceforge.net/
+  - Manual Pages: tmux(1)
+    http://www.openbsd.org/cgi-bin/man.cgi?query=tmux&sektion=1
+  - TMUX – The Terminal Multiplexer (Part 1) | Hawk Host Blog
+    http://blog.hawkhost.com/2010/06/28/tmux-the-terminal-multiplexer/
+  - TMUX – The Terminal Multiplexer (Part 2) | Hawk Host Blog
+    http://blog.hawkhost.com/2010/07/02/tmux-%e2%80%93-the-terminal-multiplexer-part-2/
+  - dayid's screen and tmux cheat sheet
+    http://www.dayid.org/os/notes/tm.html
+
+* [2011-11-08 Tue] Great color scheme                :@terminal:@colorscheme:
+  - mayansmoke - Ergonomic light-background color scheme. : vim online
+    http://www.vim.org/scripts/script.php?script_id=3065
+
+* [2011-11-08 Tue] byobu notes                             :@byobu:@terminal:
+  - Canonical Voices
+    http://voices.canonical.com/tag/byobu/
+  - Byobu - Community Ubuntu Documentation
+    https://help.ubuntu.com/community/Byobu
+  - Ubuntu Manpage: byobu - wrapper script for seeding a user's byobu configuration and
+    http://manpages.ubuntu.com/manpages/oneiric/en/man1/byobu.1.html
+  - byobu in Launchpad
+    https://launchpad.net/byobu
+  - From the Canyon Edge - :-Dustin Kirkland: Byobu
+    http://blog.dustinkirkland.com/search/label/Byobu
+
+* [2011-11-08 Tue] HOWTORead Feeds In Emacs Via Email    :@feeds:@wanderlust:
+  - EmacsWiki: HOWTORead Feeds In Emacs Via Email
+    http://www.emacswiki.org/emacs/HOWTOReadFeedsInEmacsViaEmail#toc5
+
+* [2011-11-08 Tue] Cabinet simulator links              :@musicmaker:@cabsim:
+  - Condor Cab Sim
+    http://runoffgroove.com/condor.html
+  - Op-Amp review page
+    http://www.rock-grotto.co.uk/opamp.htm
+
+* TODO [#A] [2011-11-08 Tue] Time machine tweaks           :@mac:timemachine:
+  - Good folders to exclude from Time Machine backups – Ryan Block
+    http://ryanblock.com/2008/05/good-folders-to-exclude-from-time-machine-backups/
+
+* [2011-11-08 Tue] Amp sim                              :@musicmaker:@ampsim:
+  - Head Case | AcmeBarGig
+    http://www.acmebargig.com/product/head-case/
+
+* [2011-11-08 Tue] Impulse response AU plugins      :@musicmaker:@cabsim:@au:
+  - Amplifikation Lite at Kuassa Amplifikation
+    http://www.kuassa.com/products/amplifikation-lite
+  - Mellowmuse IR1A - Zero Latency convolver RTAS, AudioUnit and VST plug-in for OSX and Windows
+    http://www.mellowmuse.com/IR1A.html
+
+* [2011-11-08 Tue] Embed album cover art from the command line :@music:@tag:@cover:
+  - How do you embed album art into an MP3 using Python? - Stack Overflow
+    http://stackoverflow.com/questions/409949/how-do-you-embed-album-art-into-an-mp3-using-python
+  - Howto Write APIC Tag with Mutagen - Quod Libet Development | Google Groups
+    http://groups.google.com/group/quod-libet-development/browse_thread/thread/72a19593a44d6243?pli=1
+  - eyeD3 0.6.17
+    http://eyed3.nicfit.net/
+  - Embedded Album Covers, Your PSP, Amarok, and You – Kasperian Moving Parts
+    http://movingparts.net/2007/12/09/embedded-album-covers-your-psp-amarok-and-you/
+
+* [2011-11-08 Tue] Openbox links                        :@linux:@wm:@openbox:
+  - Openbox guide « urukrama’s weblog
+    http://urukrama.wordpress.com/openbox-guide/
+
+* [2011-11-08 Tue] Remove accents from filenames/dirnames      :@dev:@python:
+  - \xe9 - Google Search
+    http://www.google.ca/search?client=safari&rls=en&q=%5Cxe9&ie=UTF-8&oe=UTF-8&redir_esc=&ei=CPhvToKwGIH50gHKirn-CA
+  - Python Unicode Objects
+    http://effbot.org/zone/unicode-objects.htm
+  - Converting Unicode Strings to 8-bit Strings
+    http://effbot.org/zone/unicode-convert.htm
+  - string.translate - Google Search
+    http://www.google.ca/search?client=safari&rls=en&q=string.translate&ie=UTF-8&oe=UTF-8&redir_esc=&ei=EI5wTrTfCqrD0AH4uYH3CQ
+  - 7.1. string — Common string operations — Python v2.7.2 documentation
+    http://docs.python.org/library/string.html
+  - Python String translate() Method
+    http://www.tutorialspoint.com/python/string_translate.htm
+  - Simple Wrapper for string.translate « Python recipes « ActiveState Code
+    http://code.activestate.com/recipes/303342-simple-wrapper-for-stringtranslate/
+  - pythno string translate accented - Google Search
+    http://www.google.ca/search?client=safari&rls=en&q=pythno+string+translate+accented&ie=UTF-8&oe=UTF-8&redir_esc=&ei=rY5wToybEqjL0QHi2fn3CQ
+  - library - What is the best way to remove accents in a python unicode string? - Stack Overflow
+    http://stackoverflow.com/questions/517923/what-is-the-best-way-to-remove-accents-in-a-python-unicode-string
+  - regex - Python String Cleanup + Manipulation (Accented Characters) - Stack Overflow
+    http://stackoverflow.com/questions/930303/python-string-cleanup-manipulation-accented-characters
+  - How to convert an accented character in an unicode string to its unicode character code using Python? - Stack Overflow
+    http://stackoverflow.com/questions/3499087/how-to-convert-an-accented-character-in-an-unicode-string-to-its-unicode-charact
+  - Latin1 to ASCII -- The UNICODE Hammer « Python recipes « ActiveState Code
+    http://code.activestate.com/recipes/251871-latin1-to-ascii-the-unicode-hammer/

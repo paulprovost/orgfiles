@@ -12,7 +12,7 @@
    :PROPERTIES:
    :ID:       12C75868-7893-412A-A0B8-711F8834DABA
    :END:
-* TODO [#A] Charge de $13.95 de mon compte perso au 30 Novembre pour "programme performance" à vérifier :@banking:
+* TODO [#B] Charge de $13.95 de mon compte perso au 30 Novembre pour "programme performance" à vérifier :@banking:
   :LOGBOOK:
   - State "TODO"       from ""           [2009-12-11 Fri 14:05]
   :END:
@@ -82,7 +82,10 @@
   - iDentify
     http://identifyapp.wordpress.com/
 
-* TODO Setup logging for File Thingie
+* SOMEDAY Setup logging for File Thingie
+  :LOGBOOK:
+  - State "SOMEDAY"    from "TODO"       [2011-11-08 Tue 07:52]
+  :END:
   :PROPERTIES:
   :ID:       0E46395C-BCF7-44E3-8EE2-988036862B3E
   :END: 
@@ -132,7 +135,7 @@
   - MacMagna | FileFinder
     http://macmagna.com/filefinder/index.htm
 
-** TODO [#A] recompile synergy client with scroll fix         :@mac:@synergy:
+** TODO [#B] recompile synergy client with scroll fix         :@mac:@synergy:
    :PROPERTIES:
    :ID:       4102a6ac-95d2-4620-9c96-d602390baa8b
    :END:
