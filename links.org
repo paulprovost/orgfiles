@@ -556,3 +556,31 @@
     http://stackoverflow.com/questions/3499087/how-to-convert-an-accented-character-in-an-unicode-string-to-its-unicode-charact
   - Latin1 to ASCII -- The UNICODE Hammer « Python recipes « ActiveState Code
     http://code.activestate.com/recipes/251871-latin1-to-ascii-the-unicode-hammer/
+
+* [2011-11-09 Wed] Making Impulse Responses                 :@musicmaker:@ir:
+  - Making Impulse Responses with Logic's IR Utility
+    http://www.soundonsound.com/sos/feb08/articles/logictech_0208.htm
+  - GuitarAmpModeling.com • View topic - Creating Your OWN IR Files in Cubase!!
+    http://www.guitarampmodeling.com/viewtopic.php?f=32&t=12276
+  - Creating Your OWN IR Files by Cubase! - YouTube
+    http://www.youtube.com/watch?v=Z4-L5cPYHl4
+
+* [2011-11-09 Wed] Music file tags on the command line          :@music:@tag:
+- eyeD3 0.6.17
+  http://eyed3.nicfit.net/
+- EyeD3 | SavvyAdmin.com - Strip All Unwanted MP3 ID3 Tags
+  http://savvyadmin.com/tag/eyed3/
+- mp3sort.pl - template based mp3 sorter using ID3 tags
+  https://github.com/aptituz/mp3sort/blob/master/mp3sort.pl
+- GNU Songanizer Home Page
+  GNU Songanizer is a shell script to organize a directory containing
+  a collection of Ogg Vorbis and MP3 files.
+  http://www.gnu.org/s/songanizer/
+- arename
+  http://ft.bewatermyfriend.org/comp/arename.html
+- arename - automatically rename audio files by tagging information
+  http://ft.bewatermyfriend.org/comp/arename/arename.html
+- ftblog: audio helpers - zsh function atag()
+  atag() provides a consistent way to the aforementioned file formats meta
+  information
+  http://bewatermyfriend.org/posts/2008/03-10.10-53-11-computer.html
