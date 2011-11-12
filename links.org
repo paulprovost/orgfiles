@@ -584,3 +584,50 @@
   atag() provides a consistent way to the aforementioned file formats meta
   information
   http://bewatermyfriend.org/posts/2008/03-10.10-53-11-computer.html
+
+* [2011-11-12 Sat] Python Music/MIDI               :@dev:@python:@musicmaker:
+  - PythonInMusic - PythonInfo Wiki
+    http://wiki.python.org/moin/PythonInMusic
+** General Tools                                               :@audio:@midi:
+   - The MusicKit V5.6.2
+     http://musickit.sourceforge.net/
+     The MusicKit is an object-oriented software system for building
+     music, sound, signal processing, and MIDI applications.
+** Audio Tools                                                       :@audio:
+   - Python Audio Tools
+     http://audiotools.sourceforge.net/
+     Python Audio Tools are a collection of audio handling programs
+     which work from the command line.
+   - zyne - Modular synthesizer - Google Project Hosting
+     http://code.google.com/p/zyne/
+     Zyne is a Python modular synthesizer using pyo as its audio engine.
+** MIDI Tools                                                         :@midi:
+   - pyrtmidi – pkaudio
+     http://trac.assembla.com/pkaudio/wiki/pyrtmidi
+     pyrtmidi is a Python interface to RtMidi?. It provides real-time
+     midi input and output.
+   - mididings - a MIDI router/processor based on Python
+     http://das.nasophon.de/mididings/
+     mididings is a MIDI router and processor based on Python, supporting
+     ALSA and JACK MIDI. It is available under the GNU GPL and currently
+     runs on Linux. 
+   - pyPortMidi
+     http://alumni.media.mit.edu/~harrison/code.html
+     pyPortMidi is a Python wrapper I wrote for PortMidi. PortMidi is a
+     cross-platform C library for realtime MIDI control. Using
+     pyPortMidi, you can send and receive MIDI data in realtime from
+     Python.
+   - pgreloaded - PyGame Reloaded - Multimedia Framework for Python
+     http://code.google.com/p/pgreloaded/
+     Pygame2 is a cross-platform multimedia framework for the
+     excellent Python programming language. Its purpose is to make
+     writing multimedia applications, such as games, with Python as easy
+     as possible, while providing the developer a reliable and
+     extensible programming interface.
+
+* [2011-11-12 Sat] edna -- an MP3 server               :@mediaserver:@python:
+  http://edna.sourceforge.net/
+  edna allows you to access your MP3 collection from any networked
+  computer. This software streams your MP3s via HTTP to any MP3 player
+  that supports playing off a remote connection (e.g. Winamp, FreeAmp,
+  Sonique, XMMS, WMP).
