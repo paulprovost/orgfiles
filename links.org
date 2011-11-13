@@ -631,3 +631,13 @@
   computer. This software streams your MP3s via HTTP to any MP3 player
   that supports playing off a remote connection (e.g. Winamp, FreeAmp,
   Sonique, XMMS, WMP).
+
+* [2011-11-13 Sun] virtualenv                                  :@python:@dev:
+  - virtualenvwrapper - Doug Hellmann
+    http://www.doughellmann.com/projects/virtualenvwrapper/
+  - virtualenvwrapper 2.10.1 — virtualenvwrapper v2.10.1 documentation
+    http://www.doughellmann.com/docs/virtualenvwrapper/
+  - Presentation: pip and virtualenv | mathematism
+    http://mathematism.com/2009/07/30/presentation-pip-and-virtualenv/
+  - virtualenvwrapper on Vimeo
+    http://vimeo.com/5894881
