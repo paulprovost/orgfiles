@@ -709,6 +709,10 @@
     https://github.com/lakshmivyas/hyde
   - Hyde - A Python Static Website Generator
     http://ringce.com/hyde
+    - Ringce : Introducing Hyde
+      http://ringce.com/blog/2009/introducing_hyde
+    - Hyde Templates - GitHub
+      https://github.com/lakshmivyas/hyde/wiki/Templating-Guide
     - Hyde | Google Groups
       http://groups.google.com/group/hyde-dev
     - New Hyde Layout based on Bootstrap - Hyde | Google Groups
@@ -737,14 +741,12 @@
     https://bitbucket.org/jek/blatter/
   - Welcome to lanyon’s documentation! — Lanyon v6 documentation
     http://lanyon.readthedocs.org/en/latest/index.html
-  - Ringce : Introducing Hyde
-    http://ringce.com/blog/2009/introducing_hyde
   - ikiwiki
     http://ikiwiki.info/
-  - features
-    http://ikiwiki.info/features/
-  - blog
-    http://ikiwiki.info/examples/blog/
+    - features
+      http://ikiwiki.info/features/
+    - blog
+      http://ikiwiki.info/examples/blog/
   - What is FlatPress?
    http://flatpress.org/home/
   - Stacey, The Lightweight Content Management System
@@ -761,8 +763,6 @@
     http://www.makotemplates.org/
   - obensonne / poole overview / Bitbucket
     https://bitbucket.org/obensonne/poole
-  - Hyde Templates - GitHub
-    https://github.com/lakshmivyas/hyde/wiki/Templating-Guide
   - Hyde - A Python Static Website Generator
     http://ringce.com/hyde
   - lakshmivyas/hyde - GitHub
