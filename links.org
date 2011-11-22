@@ -641,3 +641,189 @@
     http://mathematism.com/2009/07/30/presentation-pip-and-virtualenv/
   - virtualenvwrapper on Vimeo
     http://vimeo.com/5894881
+
+* [2011-11-20 Sun] Tagging audio files       :@python:@audio:@music:@discogs:
+  - oliparcol/tagog - GitHub
+    https://github.com/oliparcol/tagog
+  - API / DiscogsTagger: A console based python metadata tagger based on the Discogs API
+    http://www.discogs.com/help/forums/topic/251892
+  - jesseward/discogstagger - GitHub
+    https://github.com/jesseward/discogstagger
+  - Requests: Python HTTP Module
+    http://kennethreitz.com/requests-python-http-module.html
+  - requests 0.8.2 : Python Package Index
+    http://pypi.python.org/pypi/requests
+  - kennethreitz/requests - GitHub
+    https://github.com/kennethreitz/requests
+  - discogs python api - Google Search
+    http://www.google.ca/search?client=safari&rls=en&q=discogs+python&ie=UTF-8&oe=UTF-8&redir_esc=&ei=eXnJTvrnBMn20gHN2tEP#sclient=psy-ab&hl=en&client=safari&rls=en&source=hp&q=discogs+python+api&pbx=1&oq=discogs+python+api&aq=f&aqi=g-v1&aql=&gs_sm=e&gs_upl=37951l38255l0l38530l4l3l0l0l0l0l146l429l0.3l3l0&bav=on.2,or.r_gc.r_pw.r_cp.,cf.osb&fp=1c55a80a74b83adf&biw=1033&bih=871
+  - API v2.0 Documentation
+    http://www.discogs.com/help/api
+  - discogs/discogs-python-client - GitHub
+    https://github.com/discogs/discogs-python-client
+
+* [2011-11-20 Sun] Move windows on Macos                          :@dev:@mac:
+  - cocoa - How can I programatically move one Terminal.app window to another space? - Stack Overflow
+    http://stackoverflow.com/questions/2308820/how-can-i-programatically-move-one-terminal-app-window-to-another-space
+  - Move window to second display | Cocoabuilder
+    http://www.cocoabuilder.com/archive/cocoa/213109-move-window-to-second-display.html
+  - objective c - Controlling OSX windows - Stack Overflow
+    http://stackoverflow.com/questions/1730859/controlling-osx-windows
+
+* [2011-11-20 Sun] Blogging with org-mode                    :@blog:@orgmode:
+  - Blorgit: Org-Mode based, git amenable, blogging engine
+    http://orgmode.org/worg/blorgit.html
+  - Using org to Blog with Jekyll
+    http://orgmode.org/worg/org-tutorials/org-jekyll.html
+
+* [2011-11-20 Sun] org-mode tagging                           :@orgmode:@tag:
+  - http://lisperati.com/tagging.html
+    http://lisperati.com/tagging.html
+  - EmacsWiki: Bookmark Plus
+    http://www.emacswiki.org/emacs-se/BookmarkPlus#BookmarkTags
+  - EmacsWiki: free-tagging.el
+    http://www.emacswiki.org/emacs/free-tagging.el
+  - Tag searches - The Org Manual
+    http://orgmode.org/manual/Tag-searches.html#Tag-searches
+  - Org-Mode for GNU Emacs
+    http://comments.gmane.org/gmane.emacs.orgmode/34038
+  - Generate list of all tags in use?
+    http://permalink.gmane.org/gmane.emacs.orgmode/34069
+  - Automatic global tag list?
+    http://permalink.gmane.org/gmane.emacs.orgmode/33995
+
+* [2011-11-20 Sun] Static blog generation and scm   :@blog:@python:@markdown:
+  - Byteflow - a Python/Django Blog Engine
+    http://byteflow.su/
+  - blohg
+    http://blohg.org/
+  - blohg » About blohg
+    http://blohg.org/about/
+  - Welcome to blohg’s documentation! — blohg v0.8 documentation
+    http://docs.blohg.org/
+  - dz/chisel - GitHub
+    https://github.com/dz/chisel
+  - Cyrax — Cyrax v2.5
+    http://cyrax.readthedocs.org/en/latest/index.html
+  - lakshmivyas/hyde - GitHub
+    https://github.com/lakshmivyas/hyde
+  - Hyde - A Python Static Website Generator
+    http://ringce.com/hyde
+    - New Hyde Layout based on Bootstrap - Hyde | Google Groups
+      http://groups.google.com/group/hyde-dev/browse_thread/thread/7b928bddc29d74f0#
+    - auzigog/hyde-bootstrap - GitHub
+      https://github.com/auzigog/hyde-bootstrap
+    - Bootstrap, from Twitter
+      http://twitter.github.com/bootstrap/
+    - Merlin Rebrovic
+      http://merlin.rebrovic.net/
+    - Hyde Starter Kit
+      http://merlin.rebrovic.net/hyde-starter-kit/
+  - Tahchee
+    http://ivy.fr/tahchee/
+  - Markdoc Documentation » Index
+    http://markdoc.org/
+  - Markdoc Documentation » Barebones Wikis
+    http://markdoc.org/tips/barebones
+  - obensonne / poole / overview — Bitbucket
+    https://bitbucket.org/obensonne/poole
+  - Static Blog Generators
+    http://www.subspacefield.org/~travis/static_blog_generators.html
+  - xfire/growl - GitHub
+    https://github.com/xfire/growl/tree
+  - jek / blatter / overview — Bitbucket
+    https://bitbucket.org/jek/blatter/
+  - Welcome to lanyon’s documentation! — Lanyon v6 documentation
+    http://lanyon.readthedocs.org/en/latest/index.html
+  - Ringce : Introducing Hyde
+    http://ringce.com/blog/2009/introducing_hyde
+  - ikiwiki
+    http://ikiwiki.info/
+  - features
+    http://ikiwiki.info/features/
+  - blog
+    http://ikiwiki.info/examples/blog/
+  -  What is FlatPress?
+    http://flatpress.org/home/
+  - Stacey, The Lightweight Content Management System
+    http://staceyapp.com/
+  - In Use, Stacey
+    http://staceyapp.com/in-use/
+  - Blogofile
+    http://www.blogofile.com/
+  - Blogofile
+    http://www.blogofile.com/blog/
+  - Documentation Blogofile Blogofile v1.0 DEV documentation
+    http://www.blogofile.com/documentation/
+  - welcome to Mako!
+    http://www.makotemplates.org/
+  - obensonne / poole overview / Bitbucket
+    https://bitbucket.org/obensonne/poole
+  - Hyde Templates - GitHub
+    https://github.com/lakshmivyas/hyde/wiki/Templating-Guide
+  - Hyde - A Python Static Website Generator
+    http://ringce.com/hyde
+  - lakshmivyas/hyde - GitHub
+    https://github.com/lakshmivyas/hyde
+  - sjl/stevelosh - GitHub
+    https://github.com/sjl/stevelosh
+  - Blog / Steve Losh
+    http://stevelosh.com/blog/
+  - Moving from Django to Hyde / Steve Losh
+    http://stevelosh.com/blog/2010/01/moving-from-django-to-hyde/
+  - Stango - Static web site generator for Python programmers
+    http://www.digip.org/stango/
+  - Welcome Jinja2 to Jinja2 2.7-dev documentation
+    http://jinja.pocoo.org/docs/
+  - jinja2 themes - Google Search
+    https://www.google.com/search?q=jinja2+themes
+  - FlatPress     # Flask-Themes Flask-Themes v0.1 documentation
+    http://packages.python.org/Flask-Themes/
+  - python hyde themes - Google Search
+    https://www.google.com/search?hl=en&q=python+hyde+themes&oq=python+hyde+themes&aq=f&aqi=&aql=&gs_sm=e&gs_upl=34704l35805l0l36032l7l7l0l0l0l1l235l457l2-2l2l0
+  - Pelican vs. Hyde- static website generators? : Python
+    http://www.reddit.com/r/Python/comments/jaqn2/pelican_vs_hyde_static_website_generators/
+  - Kenneth Reitz
+    http://kennethreitz.com/
+  - poxd/hyde-themes - GitHub
+    https://github.com/poxd/hyde-themes
+  - Pelican - Pelican v2 documentation
+    http://readthedocs.org/docs/pelican/en/2.7.2/
+  
+* [2011-11-20 Sun] System info on a web page :@server:@homenetwork:@monitoring:
+  - phpSysInfo
+    http://phpsysinfo.sourceforge.net/
+  - System information: vz-web-3.sog (192.168.42.1)
+    http://phpsysinfo.sourceforge.net/phpsysinfo/index.php?disp=dynamic
+
+* [2011-11-20 Sun] Managing dotfiles in mercurial             :@dotfiles:@hg:
+  - Smarter Code: Versioning Dotfiles in Mercurial
+    http://blog.smartercode.net/2010/02/versioning-dotfiles-in-mercurial.html
+  - Smarter Code: Managing Divergent Dotfiles with Mercurial Queues
+    http://blog.smartercode.net/2010/02/managing-divergent-dotfiles-with.html
+  - garybernhardt/dotfiles - GitHub
+    https://github.com/garybernhardt/dotfiles
+  - Carousel is a <i>lie!</i>: Mercurial for dotfiles
+    http://saintaardvarkthecarpeted.com/blog/archive/2009/02/Mercurial_for_dotfiles.html
+  - SingleDeveloperMultipleComputers - Mercurial
+    http://mercurial.selenic.com/wiki/SingleDeveloperMultipleComputers
+  - dotfiles « xyld
+    http://xylld.wordpress.com/tag/dotfiles/
+
+* [2011-11-20 Sun] Quicksilver notes                           :@quicksilver:
+  - osasubr - a OS X unix command-line utility to pass arguments to an applescript.
+    http://www.turbozen.com/mac/osasubr/
+  - some Quicksilver goodness | Tamara Temple's Blog - Run [with arguments]
+    http://www.tamaratemple.com/2010/08/20/some-quicksilver-goodness/
+  - Quicksilver and the Command Line — Apple News, Tips and Reviews
+    http://gigaom.com/apple/quicksilver-and-the-command-line/
+  - "Open In" or "Run In" - Blacktree: Quicksilver | Google Groups
+    http://groups.google.com/group/blacktree-quicksilver/browse_thread/thread/6dd5162d3e3108a7/e0377dca6988620e?lnk=gst&q=arguments&pli=1
+  - Console commands using QS - Google Groups
+    https://groups.google.com/forum/#!topic/blacktree-quicksilver/_EbnWc4oCM4
+  - Executing actions - Quicksilver Wiki
+    http://qsapp.com/wiki/Executing_actions
+  - How to use Quicksilver's Shelf
+    http://lifehacker.com/111278/how-to-use-quicksilvers-shelf
+  - Mac snippet solution: Quicksilver Shelf | dotjay.co.uk
+    http://dotjay.co.uk/2008/apr/mac-snippet-solution-quicksilver-shelf
