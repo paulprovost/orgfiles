@@ -709,6 +709,8 @@
     https://github.com/lakshmivyas/hyde
   - Hyde - A Python Static Website Generator
     http://ringce.com/hyde
+    - Hyde | Google Groups
+      http://groups.google.com/group/hyde-dev
     - New Hyde Layout based on Bootstrap - Hyde | Google Groups
       http://groups.google.com/group/hyde-dev/browse_thread/thread/7b928bddc29d74f0#
     - auzigog/hyde-bootstrap - GitHub
@@ -743,8 +745,8 @@
     http://ikiwiki.info/features/
   - blog
     http://ikiwiki.info/examples/blog/
-  -  What is FlatPress?
-    http://flatpress.org/home/
+  - What is FlatPress?
+   http://flatpress.org/home/
   - Stacey, The Lightweight Content Management System
     http://staceyapp.com/
   - In Use, Stacey
