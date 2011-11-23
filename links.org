@@ -734,8 +734,14 @@
         http://jeffcroft.com/blog/2006/feb/25/django-templates-the-power-of-inheritance/
       - 960 Grid System
         http://960.gs/
-      - Django Slingshot - Home
-        http://www.djangoslingshot.com/
+        - Prototyping With The Grid 960 CSS Framework | Nettuts+
+          http://net.tutsplus.com/tutorials/html-css-techniques/prototyping-with-the-grid-960-css-framework/
+        - A Detailed Look at the 960 CSS Framework | Nettuts+
+          http://net.tutsplus.com/videos/screencasts/a-detailed-look-at-the-960-css-framework/
+        - Episode 0.3.2 - 960.gs with Nathan Smith - The Changelog - Open Source moves fast. Keep up.
+          http://thechangelog.com/post/980148470/episode-0-3-2-960-gs-with-nathan-smith
+    - Django Slingshot - Home
+      http://www.djangoslingshot.com/
   - Tahchee
     http://ivy.fr/tahchee/
   - Markdoc Documentation » Index
