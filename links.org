@@ -725,6 +725,17 @@
       http://merlin.rebrovic.net/
     - Hyde Starter Kit
       http://merlin.rebrovic.net/hyde-starter-kit/
+    - Template links
+      - Use Templates in Django | Webmonkey | Wired.com
+        http://www.webmonkey.com/2010/02/use_templates_in_django/
+      - Django snippets: Tag "template"
+        http://djangosnippets.org/tags/template/
+      - JeffCroft.com: Django Templates: The Power of Inheritance
+        http://jeffcroft.com/blog/2006/feb/25/django-templates-the-power-of-inheritance/
+      - 960 Grid System
+        http://960.gs/
+      - Django Slingshot - Home
+        http://www.djangoslingshot.com/
   - Tahchee
     http://ivy.fr/tahchee/
   - Markdoc Documentation » Index
