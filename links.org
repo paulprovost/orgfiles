@@ -740,6 +740,8 @@
           http://net.tutsplus.com/videos/screencasts/a-detailed-look-at-the-960-css-framework/
         - Episode 0.3.2 - 960.gs with Nathan Smith - The Changelog - Open Source moves fast. Keep up.
           http://thechangelog.com/post/980148470/episode-0-3-2-960-gs-with-nathan-smith
+        - Fluid 960 Grid System | 16-column Grid
+          http://www.designinfluences.com/fluid960gs/
     - Django Slingshot - Home
       http://www.djangoslingshot.com/
     - Free website templates | andreasviklund.com
