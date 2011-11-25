@@ -867,3 +867,10 @@
 ** Security                                                     :@encryption:
    - emacs-fu: keeping your secrets secret
      http://emacs-fu.blogspot.com/2011/02/keeping-your-secrets-secret.html
+
+* [2011-11-25 Fri]                                                    :@htpc:
+  - ASUSTeK Computer Inc. - Eee- ASUS EeeBox PC EB1021
+    http://ca.asus.com/en/Eee/EeeBox_PC/EeeBox_PC_EB1021/
+  - ASUSTeK Computer Inc. - Eee- ASUS EeeBox PC EB1012P
+    http://ca.asus.com/en/Eee/EeeBox_PC/EeeBox_PC_EB1012P/
+
