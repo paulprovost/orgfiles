@@ -1,0 +1,14 @@
+#+TITLE: Read a Twitter timeline through an RSS feed
+#+DESCRIPTION: Use the twitter API to write the timeline (or lists) to an RSS feed, to be picked up by rss2email.
+#+FILETAGS: @project:@twitter:@rss
+
+* Links
+** [2011-11-20 Sun]
+   - tweepy/tweepy - GitHub
+     https://github.com/tweepy/tweepy
+   - sclm/tweepy-examples - GitHub
+     https://github.com/sclm/tweepy-examples
+   - » Streaming Tweets With Tweepy » John Hobbs on coding, Omaha, and life in general » Blog Archive
+     http://www.velvetcache.org/2010/07/05/streaming-tweets-with-tweepy
+   - GET lists/statuses | Twitter Developers
+     https://dev.twitter.com/docs/api/1/get/lists/statuses
