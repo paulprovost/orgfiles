@@ -504,9 +504,6 @@
     http://www.rock-grotto.co.uk/opamp.htm
 
 * TODO [#A] [2011-11-08 Tue] Time machine tweaks           :@mac:timemachine:
-  :PROPERTIES:
-  :ID:       acccde48-2fdb-4629-97a2-cc6ba3218383
-  :END:
   - Good folders to exclude from Time Machine backups – Ryan Block
     http://ryanblock.com/2008/05/good-folders-to-exclude-from-time-machine-backups/
 
@@ -728,29 +725,6 @@
       http://merlin.rebrovic.net/
     - Hyde Starter Kit
       http://merlin.rebrovic.net/hyde-starter-kit/
-    - Template links
-      - Use Templates in Django | Webmonkey | Wired.com
-        http://www.webmonkey.com/2010/02/use_templates_in_django/
-      - Django snippets: Tag "template"
-        http://djangosnippets.org/tags/template/
-      - JeffCroft.com: Django Templates: The Power of Inheritance
-        http://jeffcroft.com/blog/2006/feb/25/django-templates-the-power-of-inheritance/
-      - 960 Grid System
-        http://960.gs/
-        - Prototyping With The Grid 960 CSS Framework | Nettuts+
-          http://net.tutsplus.com/tutorials/html-css-techniques/prototyping-with-the-grid-960-css-framework/
-        - A Detailed Look at the 960 CSS Framework | Nettuts+
-          http://net.tutsplus.com/videos/screencasts/a-detailed-look-at-the-960-css-framework/
-        - Episode 0.3.2 - 960.gs with Nathan Smith - The Changelog - Open Source moves fast. Keep up.
-          http://thechangelog.com/post/980148470/episode-0-3-2-960-gs-with-nathan-smith
-        - Fluid 960 Grid System | 16-column Grid
-          http://www.designinfluences.com/fluid960gs/
-    - Django Slingshot - Home
-      http://www.djangoslingshot.com/
-    - Free website templates | andreasviklund.com
-      http://andreasviklund.com/templates/
-      - 1024px | andreasviklund.com
-        http://andreasviklund.com/templates/1024px/
   - Tahchee
     http://ivy.fr/tahchee/
   - Markdoc Documentation » Index
@@ -856,28 +830,36 @@
   - Mac snippet solution: Quicksilver Shelf | dotjay.co.uk
     http://dotjay.co.uk/2008/apr/mac-snippet-solution-quicksilver-shelf
 
-* [2011-11-23 Wed] Emacs links                                       :@emacs:
-** Deft                                                      :@deft:@orgmode:
-   - A Lightweight Alternative To Emacs Org Mode | Irreal
-     http://irreal.org/blog/?p=252
-   - emacs-fu: quick note-taking with deft and org-mode
-     http://emacs-fu.blogspot.com/2011/09/quick-note-taking-with-deft-and-org.html
-   - Deft
-     http://jblevins.org/projects/deft/
-** Security                                                     :@encryption:
-   - emacs-fu: keeping your secrets secret
-     http://emacs-fu.blogspot.com/2011/02/keeping-your-secrets-secret.html
+* [2011-11-26 Sat]                                             :@python:@mac:
+  - Multiple Python Versions on OSX with Virtualenv and Homebrew | insomnihack
+    http://www.insomnihack.com/?p=442
 
-* [2011-11-25 Fri] HTPC Suggestions                                   :@htpc:
-  - ASUSTeK Computer Inc. - Eee- ASUS EeeBox PC EB1021
-    http://ca.asus.com/en/Eee/EeeBox_PC/EeeBox_PC_EB1021/
-  - ASUSTeK Computer Inc. - Eee- ASUS EeeBox PC EB1012P
-    http://ca.asus.com/en/Eee/EeeBox_PC/EeeBox_PC_EB1012P/
+* [2011-11-26 Sat]                                           :@linux:@rescue:
+  - Rescatux - Super Grub Disk
+    Rescatux is a GNU/Linux rescue cd (and eventually also Windows)
+    but it is not like other rescue disks. Rescatux comes with
+    Rescapp. Rescapp is a nice wizard that will guide you through your
+    rescue tasks.
+    http://www.supergrubdisk.org/rescatux/
 
-* [2011-11-25 Fri] Markdown editor                                :@markdown:
-  - ReText / Home / ReText
-    http://sourceforge.net/p/retext/home/ReText/
+* [2011-11-26 Sat] MacOS Location handling                             :@mac:
+  - MarcoPolo - Context-aware computing for Mac OS X
+    http://www.symonds.id.au/marcopolo/
+  - Location X — The Power of X, to Go!
+    http://homepage.mac.com/locationmanager/
+  - Mac OS X LocationChanger - TECH.inhelsinki.nl
+    http://tech.inhelsinki.nl/locationchanger/
 
-* [2011-12-01 Thu] Guest networking                            :@homenetwork:
-  - Multiple WLANs - DD-WRT Wiki
-    http://www.dd-wrt.com/wiki/index.php/Multiple_WLANs
+* [2011-11-26 Sat] PaulStretch for MacOS                        :@audio:@mac:
+  - Paul's Extreme Sound Stretch
+    http://hypermammut.sourceforge.net/paulstretch/
+  - PaulStretch 2.1 is Out! New build instructions + new x86 OS X build | Do My Eyes Look Scary?
+    http://music.cornwarning.com/2011/02/11/paulstretch-2-1-is-out-new-build-instructions-new-x86-os-x-build/
+
+* [2011-11-26 Sat] Bandwidth monitoring                        :@homenetwork:
+  - wrtbwmon - Per-user bandwidth monitoring tool for linux-based routers - Google Project Hosting
+    http://code.google.com/p/wrtbwmon/
+  - IPTables Bandwidth Monitor - Soft-hausWiki
+    http://soft-haus.com/wiki/index.php5?title=IPTables_Bandwidth_Monitor
+  - The OpenNMS Project
+    http://www.opennms.org/
