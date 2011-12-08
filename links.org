@@ -870,3 +870,6 @@
 
 * [2011-12-08 Thu 14:45] LaTeX Tutorial - YouTube                    :@latex:
   https://www.youtube.com/playlist?list=PLDD406480D35CE390
+
+* [2011-12-08 Thu 15:04] GRC | Ultra High Security Password Generator :@online:@password:
+  https://www.grc.com/passwords.htm
