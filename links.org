@@ -863,3 +863,7 @@
     http://soft-haus.com/wiki/index.php5?title=IPTables_Bandwidth_Monitor
   - The OpenNMS Project
     http://www.opennms.org/
+
+* [2011-12-08 Thu 14:04] Quicksilver scripting            :@mac:@quicksliver:
+  - AppleScript Action template - Quicksilver Wiki
+    http://qsapp.com/wiki/AppleScript_Action_template
