@@ -867,3 +867,6 @@
 * [2011-12-08 Thu 14:04] Quicksilver scripting            :@mac:@quicksliver:
   - AppleScript Action template - Quicksilver Wiki
     http://qsapp.com/wiki/AppleScript_Action_template
+
+* [2011-12-08 Thu 14:45] LaTeX Tutorial - YouTube                    :@latex:
+  https://www.youtube.com/playlist?list=PLDD406480D35CE390
