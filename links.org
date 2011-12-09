@@ -873,3 +873,11 @@
 
 * [2011-12-08 Thu 15:04] GRC | Ultra High Security Password Generator :@online:@password:
   https://www.grc.com/passwords.htm
+
+* [2011-12-09 Fri 12:51] YouTube video formats                     :@youtube:
+  - YouTube - Wikipedia, the free encyclopedia
+    http://en.wikipedia.org/wiki/YouTube#Quality_and_codecs
+
+* [2011-12-09 Fri 15:48] Displaying notifications without Growl :@mac:@notifications:
+  - cocoaDialog
+    http://mstratman.github.com/cocoadialog/

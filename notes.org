@@ -38,3 +38,11 @@
   - C-u SPC on the Desktop folder makes the folders appear (on top)
   - m s on the Inbox folder sorts the folders under the Inbox (do not
     do on Desktop if ordering that is important.
+
+* [2011-12-09 Fri] Extract audio from mp4                       :@audio:@mp4:
+  - List the tracks:
+    : MP4Box -info <file>
+  - Extract the audio track:
+    : MP4Box -raw <track number> <file>
+  - Make the .aac file into a proper music file (.m4a)
+    :  MP4Box -add <file.aac> <file.m4a>
