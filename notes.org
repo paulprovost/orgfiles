@@ -33,6 +33,8 @@
    - Transmission • View topic - Email notification
      https://forum.transmissionbt.com/viewtopic.php?f=1&t=10617&p=49385&hilit=email+script#p49385
 
-
-* Tasks
-
+* [2011-12-09 Fri 11:44] Wanderlust new folders           :@wanderlust:@mail:
+  Updating the folder list when new folders were created:
+  - C-u SPC on the Desktop folder makes the folders appear (on top)
+  - m s on the Inbox folder sorts the folders under the Inbox (do not
+    do on Desktop if ordering that is important.
