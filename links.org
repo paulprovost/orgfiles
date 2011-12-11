@@ -881,3 +881,15 @@
 * [2011-12-09 Fri 15:48] Displaying notifications without Growl :@mac:@notifications:
   - cocoaDialog
     http://mstratman.github.com/cocoadialog/
+
+* [2011-12-11 Sun] Using VLC as a media center on AppleTV     :@vlc:@appletv:
+  - Mount a Remote Drive via SMBFS - AwkwardTV
+    http://wiki.awkwardtv.org/wiki/Mount_a_Remote_Drive_via_SMBFS
+  - Mount a Remote Drive via AFP under 1.1 - AwkwardTV
+    http://wiki.awkwardtv.org/wiki/Mount_a_Remote_Drive_via_AFP_under_1.1
+  - Mount external drive via SMB on AppleTV « Jiradett BLOG
+    http://kerdsri.com/2010/01/13/mount-external-drive-via-smb-on-appletv/
+  - Applications Menu - AwkwardTV
+    http://wiki.awkwardtv.org/wiki/Applications_Menu
+  - AwkwardTV Plugin Directory
+    http://plugins.awkwardtv.org/det.php?recordID=applauncher
