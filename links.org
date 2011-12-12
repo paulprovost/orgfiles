@@ -791,6 +791,12 @@
     https://github.com/poxd/hyde-themes
   - Pelican - Pelican v2 documentation
     http://readthedocs.org/docs/pelican/en/2.7.2/
+    - Getting started — Pelican v2 documentation
+      http://readthedocs.org/docs/pelican/en/2.7.2/getting_started.html#writing-articles-using-pelican
+    - Settings — Pelican v2 documentation
+      http://readthedocs.org/docs/pelican/en/2.7.2/settings.html#theming
+    - notmyidea-cms/screenshot.png at master from ametaireau/pelican-themes - GitHub
+      https://github.com/ametaireau/pelican-themes/blob/master/notmyidea-cms/screenshot.png
   
 * [2011-11-20 Sun] System info on a web page :@server:@homenetwork:@monitoring:
   - phpSysInfo
@@ -893,3 +899,4 @@
     http://wiki.awkwardtv.org/wiki/Applications_Menu
   - AwkwardTV Plugin Directory
     http://plugins.awkwardtv.org/det.php?recordID=applauncher
+a
