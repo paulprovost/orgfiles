@@ -899,4 +899,7 @@
     http://wiki.awkwardtv.org/wiki/Applications_Menu
   - AwkwardTV Plugin Directory
     http://plugins.awkwardtv.org/det.php?recordID=applauncher
-a
+
+* [2011-12-13 Tue 12:24] find duplicate mails in maildir   :@maildir:@python:
+  - maildir-deduplicate.py at master from kdeldycke/scripts - GitHub
+    https://github.com/kdeldycke/scripts/blob/master/maildir-deduplicate.py
