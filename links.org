@@ -903,3 +903,13 @@
 * [2011-12-13 Tue 12:24] find duplicate mails in maildir   :@maildir:@python:
   - maildir-deduplicate.py at master from kdeldycke/scripts - GitHub
     https://github.com/kdeldycke/scripts/blob/master/maildir-deduplicate.py
+
+* [2011-12-15 Thu 10:47] Progess for pipes                :@linux:@scripting:
+  - ivarch.com: Pipe Viewer
+    http://www.ivarch.com/programs/pv.shtml
+
+* [2011-12-15 Thu 10:48] Execute scripts on entering directory :@linux:@scripting:
+  - OnDir - SwapOff
+    http://swapoff.org/ondir.html
+  - mikas blog » Blog Archive » Directory specific shell configuration with Zsh
+    http://michael-prokop.at/blog/2009/05/30/directory-specific-shell-configuration-with-zsh/
