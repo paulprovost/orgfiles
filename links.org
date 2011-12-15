@@ -913,3 +913,17 @@
     http://swapoff.org/ondir.html
   - mikas blog » Blog Archive » Directory specific shell configuration with Zsh
     http://michael-prokop.at/blog/2009/05/30/directory-specific-shell-configuration-with-zsh/
+
+* [2011-12-15 Thu] Emacs as a Python IDE                     :@emacs:@python:
+  - Configuring Emacs as a Python IDE | Pedro Kroger
+    http://pedrokroger.com/2010/07/configuring-emacs-as-a-python-ide-2/
+  - IPython: Productive Interactive Computing — IPython
+    http://ipython.org/
+  - EnigmaCurry
+    http://www.enigmacurry.com/2008/05/09/emacs-as-a-powerful-python-ide/
+  - Setup Perfect Python Environment In Emacs « The website of Lei Chen
+    http://hide1713.wordpress.com/2009/01/30/setup-perfect-python-environment-in-emacs/
+  - ropemacs, rope in emacs
+    http://rope.sourceforge.net/ropemacs.html
+  - pinard/Pymacs - GitHub
+    https://github.com/pinard/Pymacs
