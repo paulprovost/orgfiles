@@ -7,8 +7,6 @@
   :PROPERTIES:
   :ID:       08EB595C-547D-447F-9B01-1A4239D0040B
   :END:
-* DONE Stephen Baxter - Ark
-  Dates unknown
 * DONE Joe Haldeman - Starsbound
   :LOGBOOK:
   - State "DONE"       from "STARTED"    [2011-11-02 Wed 19:09] \\
