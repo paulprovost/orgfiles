@@ -3,4 +3,10 @@
 * Development directory is [[file:~/projects/tv-series-grabber][here]]
 * Technologies
   - Python
+    - [[http://docs.python-requests.org/][Requests library]]
+      Requests is an ISC Licensed HTTP library, written in Python, for
+      human beings.
   - [[TheTVDB]] for data
+    - API registration is [[http://thetvdb.com/index.php?tab%3Dapiregister][here]].
+    - API Key is 832DA222BDFBEDA1
+
