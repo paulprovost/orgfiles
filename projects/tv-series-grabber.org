@@ -1,0 +1,6 @@
+#+TITLE: Grab TV series info from the web
+#+FILETAGS: @project:@tv:@htpc:@mediacenter
+* Development directory is [[file:~/projects/tv-series-grabber][here]]
+* Technologies
+  - Python
+  - [[TheTVDB]] for data
