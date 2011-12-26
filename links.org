@@ -927,3 +927,9 @@
     http://rope.sourceforge.net/ropemacs.html
   - pinard/Pymacs - GitHub
     https://github.com/pinard/Pymacs
+
+* [2011-12-25 Sun] Some pedalboard links                :@guitar:@pedalboard:
+  - Bottom Plate For Small Bear 125-B, BOSS, Ibanez
+    http://www.smallbearelec.com/Detail.bok?no=973
+  - Dual Lock Reclosable Fasteners - 3M US
+    http://solutions.3m.com/wps/portal/3M/en_US/3M-Industrial/Adhesives/Promotions-New-Products/Reclosable-Fasteners/
