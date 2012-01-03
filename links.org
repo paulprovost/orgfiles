@@ -943,3 +943,19 @@
     http://pymedia.org/faq.html
   - »Using ffmpeg in Python« by David Murmann — thefoundation.de
     http://www.thefoundation.de/david/2008/sep/11/using-ffmpeg-python/
+
+* [2012-01-03 Tue 16:40] Podcatchers                              :@podcasts:
+  - Podracer - The winner of the pod race - Home
+    http://podracer.sourceforge.net/
+  - BashPodder - the best podcatcher
+    http://lincgeek.org/bashpodder/
+  - Armangil's podcatcher
+    http://podcatcher.rubyforge.org/
+  - Podget: A Simple Podcast Aggregator.
+    http://podget.sourceforge.net/
+  - grabpod
+    http://jbaber.freeshell.org/scripts/grabpod/
+  - Software Gubbins by Matthew Gates
+    http://porpoisehead.net/mysw/index.php?pgid=mpodder
+  - GoldenPod
+    http://random.zerodogg.org/goldenpod
