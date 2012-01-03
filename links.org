@@ -933,3 +933,13 @@
     http://www.smallbearelec.com/Detail.bok?no=973
   - Dual Lock Reclosable Fasteners - 3M US
     http://solutions.3m.com/wps/portal/3M/en_US/3M-Industrial/Adhesives/Promotions-New-Products/Reclosable-Fasteners/
+
+* [2012-01-03 Tue 10:31] Scripting ffmpeg with python :@dev:@scripting:@video:
+  - pyffmpeg - Python FFmpeg wrapper - Google Project Hosting
+    http://code.google.com/p/pyffmpeg/
+  - ffvideo - A python wrapper around ffmpeg - Google Project Hosting
+    http://code.google.com/p/ffvideo/
+  - PyMedia - Python module for avi, mp3, dvd, wma, ogg processing - pymedia
+    http://pymedia.org/faq.html
+  - »Using ffmpeg in Python« by David Murmann — thefoundation.de
+    http://www.thefoundation.de/david/2008/sep/11/using-ffmpeg-python/
