@@ -967,3 +967,12 @@
     http://www.altaro.com/home-pc-backup/index.php
   - Windows Backup Software - Continuous Data Protection - Like a Time Machine for Windows
     http://rebit.com/products/rebit/
+
+* [2012-01-04 Wed 17:10] Bash initialization notes                    :@bash:
+  - Bash: about .bashrc, .bash_profile, .profile, /etc/profile, etc/bash.bashrc and others | Stefaan Lippens' webface
+    http://stefaanlippens.net/bashrc_and_others
+  - .bash_profile vs .bashrc
+    http://www.joshstaiger.org/archives/2005/07/bash_profile_vs.html
+  - Execution sequence for .bash_profile, .bashrc, .bash_login, .profile and .bash_logout
+    http://www.thegeekstuff.com/2008/10/execution-sequence-for-bash_profile-bashrc-bash_login-profile-and-bash_logout/
+
