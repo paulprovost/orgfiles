@@ -959,3 +959,11 @@
     http://porpoisehead.net/mysw/index.php?pgid=mpodder
   - GoldenPod
     http://random.zerodogg.org/goldenpod
+
+* [2012-01-04 Wed 11:19] Time machine for Windows     :@windows:@timemachine:
+  - Genie9 (Formerly Genie-soft) Free Timeline | Download Free Backup Software for Windows
+    http://www.genie9.com/Free_products/free_timeline.aspx
+  - Time Machine for Windows - Altaro Oops!Backup
+    http://www.altaro.com/home-pc-backup/index.php
+  - Windows Backup Software - Continuous Data Protection - Like a Time Machine for Windows
+    http://rebit.com/products/rebit/
