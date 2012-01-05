@@ -976,3 +976,17 @@
   - Execution sequence for .bash_profile, .bashrc, .bash_login, .profile and .bash_logout
     http://www.thegeekstuff.com/2008/10/execution-sequence-for-bash_profile-bashrc-bash_login-profile-and-bash_logout/
 
+* [2012-01-05 Thu 10:00] Vector editing tools                   :@svg:@ctrlr:
+  - Delineate - raster to SVG converter
+    http://delineate.sourceforge.net/index.html
+  - sK1 Project
+    http://sk1project.org/
+  - Skencil, a vector drawing program
+    http://www.skencil.org/
+  - Intaglio — Macintosh Drawing & Illustration
+    http://www.purgatorydesign.com/Intaglio/
+  - Freeverse: Mac: Games & Apps: Lineform
+    http://www.freeverse.com/mac/product/?id=6020
+  - Synfig Studio :: Home
+    http://www.synfig.org/cms/
+
