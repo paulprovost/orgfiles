@@ -990,3 +990,15 @@
   - Synfig Studio :: Home
     http://www.synfig.org/cms/
 
+* [2012-01-05 Thu 11:48] Download Tou.tv videos     :@download:@flash:@video:
+  - Accès à tou.tv à partir d’un Système libre
+    http://store-it.appspot.com/tou/tou.html
+  - Unable to play RTMP files off Tou.TV. Are they RTMPE? - Audio/video stream recording forums
+    http://stream-recorder.com/forum/unable-play-rtmp-files-off-tou-tv-t5883.html
+  - get-flash-videos - A command line program to download flash videos - Google Project Hosting
+    http://code.google.com/p/get-flash-videos/
+  - Installation - get-flash-videos - How to install get_flash_videos - A command line program to download flash videos - Google Project Hosting
+    http://code.google.com/p/get-flash-videos/wiki/Installation
+  - Tou.pm - get-flash-videos - A command line program to download flash videos - Google Project Hosting
+    http://code.google.com/p/get-flash-videos/source/browse/trunk/FlashVideo/Site/Tou.pm?r=364
+
