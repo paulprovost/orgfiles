@@ -1,0 +1,5 @@
+* NEXT Tag mails                                            :@tagging:@email:
+  - Index maildir so that mails are retreivable by ID
+  - Forward mail to a specific address (paul-tag@bouzou.org)
+  - Mail for that address is picked up by a script. It finds the
+    original mail and adds the specified tags.
