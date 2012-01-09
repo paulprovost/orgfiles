@@ -3,3 +3,7 @@
   - Forward mail to a specific address (paul-tag@bouzou.org)
   - Mail for that address is picked up by a script. It finds the
     original mail and adds the specified tags.
+* Track changes made when installing                        :@install:@linux
+  - Use
+    : find ~/local -type f -exec ls -l {} \;
+    before and after the install, and diff between them.
