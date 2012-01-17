@@ -2,7 +2,20 @@
 #+DESCRIPTION: Use the twitter API to write the timeline (or lists) to an RSS feed, to be picked up by rss2email.
 #+FILETAGS: @project:@twitter:@rss
 
+* Design
+** [2012-01-17 Tue] Revisit as a cgi script
+   - Run simply via http request (instead of writing an xml feed file
+     that has to be served).
+   - Keep the most recent tweet served as a preference and continue
+     from there.
+
 * Links
+** [2012-01-17 Tue]
+   - WebOb — WSGI request and response objects
+     http://www.webob.org/
+   - JSON-RPC Example — WebOb 1.2b2 documentation
+     http://docs.webob.org/en/latest/jsonrpc-example.html
+
 ** [2011-11-20 Sun]
    - tweepy/tweepy - GitHub
      https://github.com/tweepy/tweepy

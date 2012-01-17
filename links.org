@@ -135,21 +135,21 @@
     http://blogs.perl.org/users/smash/2010/07/watching-directories-for-new-files.html
 * [2010-11-05 Fri] Twitter stuff                            :@twitter:@emacs:
   - MRR Software
-  http://www.mrrsoftware.com/MRRSoftware/Syrinx.html
-- EmacsWiki: Twitter
-  http://www.emacswiki.org/emacs/Twitter
-- EmacsWiki: Tw It
-  http://www.emacswiki.org/emacs/TwIt
-- EmacsWiki: Twittering Mode
-  http://www.emacswiki.org/emacs/TwitteringMode
-- EmacsWiki: Identica-mode
-  http://www.emacswiki.org/emacs/Identica-mode
-- identica emacs - Google Search
-  http://www.google.ca/search?client=safari&rls=en&q=identica+emacs&ie=UTF-8&oe=UTF-8&redir_esc=&ei=YeHTTIe9GtCgnQeJ8eSGBg
-- Identi.ca mode for Emacs | Nethazard.net
-  http://blog.nethazard.net/identica-mode-for-emacs/
-- Pwytter: Twitter for Windows, Mac, Linux » Free Twitter client for Windows, Mac & Linux
-  http://www.pwytter.com/
+    http://www.mrrsoftware.com/MRRSoftware/Syrinx.html
+  - EmacsWiki: Twitter
+    http://www.emacswiki.org/emacs/Twitter
+  - EmacsWiki: Tw It
+    http://www.emacswiki.org/emacs/TwIt
+  - EmacsWiki: Twittering Mode
+    http://www.emacswiki.org/emacs/TwitteringMode
+  - EmacsWiki: Identica-mode
+    http://www.emacswiki.org/emacs/Identica-mode
+  - identica emacs - Google Search
+    http://www.google.ca/search?client=safari&rls=en&q=identica+emacs&ie=UTF-8&oe=UTF-8&redir_esc=&ei=YeHTTIe9GtCgnQeJ8eSGBg
+  - Identi.ca mode for Emacs | Nethazard.net
+    http://blog.nethazard.net/identica-mode-for-emacs/
+  - Pwytter: Twitter for Windows, Mac, Linux » Free Twitter client for Windows, Mac & Linux
+    http://www.pwytter.com/
 
 * [2010-11-05 Fri] Backuppc stuff                                 :@backuppc:
   - Back Up Linux And Windows Systems With BackupPC - Page 3 | HowtoForge - Linux Howtos and Tutorials
