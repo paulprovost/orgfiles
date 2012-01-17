@@ -19,6 +19,8 @@
      http://blog.ianbicking.org/2010/03/12/a-webob-app-example/
    - Deploy Python Code with WSGI using uWSGI and nginx on Ubuntu 10.10 (Maverick) – Linode Library
      http://library.linode.com/web-servers/nginx/python-uwsgi/ubuntu-10.10-maverick
+   - Deploying circuits.web with Nginx/uwsgi » KBeezie
+     http://kbeezie.com/view/circuits-nginx-uwsgi/
 
 ** [2011-11-20 Sun]
    - tweepy/tweepy - GitHub
