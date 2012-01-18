@@ -1,7 +1,12 @@
-#+LAST_MOBILE_CHANGE: 2010-10-02 14:45:51
+#+LAST_MOBILE_CHANGE: 2012-01-18 11:27:36
 #+FILETAGS: :@books:
-* STARTED Stephen Baxter - Ark
+* STARTED Dan Abnett - Embedded
   :LOGBOOK:
+  - State "STARTED"    from ""           [2012-01-18 Wed 12:31]
+  :END:
+* DONE Stephen Baxter - Ark
+  :LOGBOOK:
+  - State "DONE"       from "STARTED"    [2012-01-18 Wed 11:27]
   - State "STARTED"    from "DONE"       [2011-11-02 Wed 19:10]
   :END:
   :PROPERTIES:

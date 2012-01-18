@@ -1,2 +1,5 @@
 * http://wiki.python.org/moin/MacPython/AppscriptModule
 [2011-03-07 Mon 18:50]
+* http://wiki.python.org/moin/MacPython/AppscriptModule
+[2011-03-07 Mon 18:50]
+** Note ID: (null)
