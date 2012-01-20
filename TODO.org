@@ -164,5 +164,8 @@
 
 * Tasks
 ** TODO Play around with this                             :@python:@graphics:
+   :PROPERTIES:
+   :ID:       4cf5f528-79df-40f9-91b8-5054c6a82c61
+   :END:
    - NodeBox | Home
      http://www.nodebox.net/code/index.php/Home

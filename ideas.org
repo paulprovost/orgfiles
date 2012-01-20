@@ -1,4 +1,7 @@
 * NEXT Tag mails                                            :@tagging:@email:
+  :PROPERTIES:
+  :ID:       5df69ece-ea7a-43c5-903f-9649c6a363b7
+  :END:
   - Index maildir so that mails are retreivable by ID
   - Forward mail to a specific address (paul-tag@bouzou.org)
   - Mail for that address is picked up by a script. It finds the

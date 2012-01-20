@@ -4,6 +4,9 @@
   :LOGBOOK:
   - State "STARTED"    from ""           [2012-01-18 Wed 12:31]
   :END:
+  :PROPERTIES:
+  :ID:       5ae886c3-16dd-412b-8dae-be08a276e9a4
+  :END:
 * DONE Stephen Baxter - Ark
   :LOGBOOK:
   - State "DONE"       from "STARTED"    [2012-01-18 Wed 11:27]

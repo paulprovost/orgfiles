@@ -504,6 +504,9 @@
     http://www.rock-grotto.co.uk/opamp.htm
 
 * TODO [#A] [2011-11-08 Tue] Time machine tweaks           :@mac:timemachine:
+  :PROPERTIES:
+  :ID:       d0a001af-917a-4168-819a-97ea5208eb7e
+  :END:
   - Good folders to exclude from Time Machine backups – Ryan Block
     http://ryanblock.com/2008/05/good-folders-to-exclude-from-time-machine-backups/
 
@@ -1013,3 +1016,13 @@
     http://www.pythonregex.com/
   - c THE dot retest - regular expression tester for Python
     http://cthedot.de/retest/
+
+* [2012-01-20 Fri 16:32] Mail processing in python    :@script:@python:@mail:
+  - 18.4. mailbox — Manipulate mailboxes in various formats — Python v2.7.2 documentation
+    http://docs.python.org/library/mailbox.html
+  - Processing Mailbox Files with mailbox.py - O'Reilly Media
+    http://onlamp.com/pub/a/python/2007/06/28/processing-mailbox-files-with-mailboxpy.html
+  - Processing Mailbox Files with mailbox.py - O'Reilly Media
+    http://onlamp.com/pub/a/python/2007/06/28/processing-mailbox-files-with-mailboxpy.html?page=2
+  - Processing Mailbox Files with mailbox.py - O'Reilly Media
+    http://onlamp.com/pub/a/python/2007/06/28/processing-mailbox-files-with-mailboxpy.html?page=3
