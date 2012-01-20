@@ -21,3 +21,6 @@
      : cd /media/<drive>
      : sudo sh ./VBoxLinuxAdditions.run
 
+* [[http://lubuntu.net/][lubuntu]]
+** Installing Guest addtions:
+   : apt-get install dkms build-essential linux-headers-$(uname -r)
