@@ -928,8 +928,14 @@
     http://www.enigmacurry.com/2008/05/09/emacs-as-a-powerful-python-ide/
   - Setup Perfect Python Environment In Emacs « The website of Lei Chen
     http://hide1713.wordpress.com/2009/01/30/setup-perfect-python-environment-in-emacs/
-  - ropemacs, rope in emacs
-    http://rope.sourceforge.net/ropemacs.html
+  - rope python refactoring library
+    http://rope.sourceforge.net/
+    - ropemacs, rope in emacs
+      http://rope.sourceforge.net/ropemacs.html
+    - agr / ropemacs / overview — Bitbucket
+      https://bitbucket.org/agr/ropemacs
+    - Using Rope As A Library
+      http://rope.sourceforge.net/library.html
   - pinard/Pymacs - GitHub
     https://github.com/pinard/Pymacs
 
