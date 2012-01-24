@@ -1032,3 +1032,11 @@
     http://onlamp.com/pub/a/python/2007/06/28/processing-mailbox-files-with-mailboxpy.html?page=2
   - Processing Mailbox Files with mailbox.py - O'Reilly Media
     http://onlamp.com/pub/a/python/2007/06/28/processing-mailbox-files-with-mailboxpy.html?page=3
+
+* [2012-01-24 Tue 13:55] Time management in plain text :@timemanagement:@plaintext:
+  - Clocking Time with Emacs Org | sacha chua :: living an awesome life
+    http://sachachua.com/blog/2007/12/clocking-time-with-emacs-org/
+  - Org Mode - Organize Your Life In Plain Text!
+    http://doc.norang.ca/org-mode.html#ClockSetup
+  - kisom/timecard - GitHub
+    https://github.com/kisom/timecard
