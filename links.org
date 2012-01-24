@@ -1040,3 +1040,11 @@
     http://doc.norang.ca/org-mode.html#ClockSetup
   - kisom/timecard - GitHub
     https://github.com/kisom/timecard
+
+* [2012-01-24 Tue 14:00] org-mode blogging        :@emacs:@orgmode:@blogging:
+   - Org Blogs and Wikis
+     http://orgmode.org/worg/org-blog-wiki.html
+   - Quick start Guide
+     http://renard.github.com/o-blog/
+   - Using org to Blog with Jekyll
+     http://orgmode.org/worg/org-tutorials/org-jekyll.html
