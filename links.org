@@ -1048,3 +1048,15 @@
      http://renard.github.com/o-blog/
    - Using org to Blog with Jekyll
      http://orgmode.org/worg/org-tutorials/org-jekyll.html
+
+* [2012-01-27 Fri 11:52] Emacs tips from Phil Hagelberg              :@emacs:
+  - An interview with Phil Hagelberg
+    http://phil.hagelberg.usesthis.com/
+  - ELIM - Summary [Savannah]
+    http://savannah.nongnu.org/projects/elim
+  - EmacsWiki: ELIM
+    http://www.emacswiki.org/emacs/ELIM
+  - technomancy/scpaste - GitHub
+    https://github.com/technomancy/scpaste
+  - technomancy/erythrina - GitHub
+    https://github.com/technomancy/erythrina
