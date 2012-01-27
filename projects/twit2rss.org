@@ -1,6 +1,6 @@
 #+TITLE: Read a Twitter timeline through an RSS feed
 #+DESCRIPTION: Use the twitter API to write the timeline (or lists) to an RSS feed, to be picked up by rss2email.
-#+FILETAGS: @project:@twitter:@rss
+#+FILETAGS: @project:@twitter:@rss:@twit2rss
 
 * Design
 ** [2012-01-17 Tue] Revisit as a cgi script
@@ -8,6 +8,19 @@
      that has to be served).
    - Keep the most recent tweet served as a preference and continue
      from there.
+** [2012-01-27 Fri] Revisit as a simple executable
+   - Just spit out the xml for the RSS feed to stdout.
+   - Mod rss2email to accept executables as well as http[s]
+     links. Added the "exec:" URL. Still a hack, but it's localized
+     and works.
+*** TODO publish rss2email hack on BitBucket
+
+* Ideas
+** TODO [#A] Deference links.
+   : curl --silent --head <link> | grep Location:
+   gives
+   : Location: <link>
+   if there's a redirect, and nothing if there is not (final link).
 
 * Links
 ** [2012-01-17 Tue]
