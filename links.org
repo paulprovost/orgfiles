@@ -504,6 +504,9 @@
     http://www.rock-grotto.co.uk/opamp.htm
 
 * TODO [#A] [2011-11-08 Tue] Time machine tweaks           :@mac:timemachine:
+  :PROPERTIES:
+  :ID:       d0c8af46-c466-422f-bb22-b5362ba66c09
+  :END:
   - Good folders to exclude from Time Machine backups – Ryan Block
     http://ryanblock.com/2008/05/good-folders-to-exclude-from-time-machine-backups/
 
