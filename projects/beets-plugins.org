@@ -1,0 +1,25 @@
+#+TITLE: Plugin(s) for the beets tagger
+#+FILETAGS: @music:@media:@tag
+
+* Links
+  - beets: the music geek’s media organizer
+    http://beets.radbox.org/
+
+* sorting-helper plugin
+  Enable better (!) handling of sorting and filing.
+** Ideas
+   - Automatically move opening articles (the, le, les la, ...) to the
+     end of the sorting field.
+   - For two (configurable) word artists, ask whether to invert the
+     words for sorting.
+     - Remember matches so that they can be used again.
+   - Add path format fields for
+     - artist sort order
+     - artist sorting alpha group (09, A-Z)
+
+* Ref
+  - mp3 tags for sortable fields (from [[http://www.id3.org/id3v2.4.0-frames][here]])
+    - TSOA Album sort order
+    - TSOP Performer sort order
+    - TSOT Title sort order
+  - mp4 tags for sortable fields
