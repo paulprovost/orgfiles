@@ -1060,3 +1060,12 @@
     https://github.com/technomancy/scpaste
   - technomancy/erythrina - GitHub
     https://github.com/technomancy/erythrina
+
+* [2012-02-23 Thu 12:05] Mail filtering        :@dovecot:@mailfilter:@incron:
+  Refiltering mail when received in a folder. Some incron tips as well.
+ - HowTo/RefilterMail - Dovecot Wiki
+   http://wiki.dovecot.org/HowTo/RefilterMail
+ - LDA - Dovecot Wiki
+   http://wiki.dovecot.org/LDA
+ - LDA/Sieve - Dovecot Wiki
+   http://wiki.dovecot.org/LDA/Sieve#Plus_Addressed_mail_filtering
