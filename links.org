@@ -1069,3 +1069,9 @@
    http://wiki.dovecot.org/LDA
  - LDA/Sieve - Dovecot Wiki
    http://wiki.dovecot.org/LDA/Sieve#Plus_Addressed_mail_filtering
+
+* [2012-02-24 Fri 10:27] xpra                                     :@linux:@x:
+  [[http://xpra.org/][Xpra]] is 'screen for X': it allows you to run X programs, usually on
+  a remote host, direct their display to your local machine, and then
+  to disconnect from these programs and reconnect from the same or
+  another machine, without losing any state.
