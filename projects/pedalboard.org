@@ -12,7 +12,7 @@
 ** Effect Loop
    - ISP Technologies Decimator G String (35 mA)
    - Electro-Harmonix Neo Clone (12 mA)
-   - Red Witch Deluxe Moon Phaser
+   - Red Witch Deluxe Moon Phaser (23 mA)
    - TC Electronics Flashback (90 mA)
    - Electro-Harmonix Cathedral (200 mA)
    - TC Electronics Hall of Fame (90 mA)
