@@ -1004,3 +1004,9 @@
     http://code.google.com/p/get-flash-videos/wiki/Installation
   - Tou.pm - get-flash-videos - A command line program to download flash videos - Google Project Hosting
     http://code.google.com/p/get-flash-videos/source/browse/trunk/FlashVideo/Site/Tou.pm?r=364
+
+* [2012-02-25 Sat] Packaging python scripts                    :@dev:@python:
+  - PyInstaller
+    http://www.pyinstaller.org/
+  - py2app - Create standalone Mac OS X applications with Python
+    http://svn.pythonmac.org/py2app/py2app/trunk/doc/index.html
