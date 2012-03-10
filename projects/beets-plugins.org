@@ -32,3 +32,7 @@
     - TSOP Performer sort order
     - TSOT Title sort order
   - mp4 tags for sortable fields
+  - Mapping - MusicBrainz
+    Table of mapping between Picard internal tag names and various
+    tagging formats.
+    http://musicbrainz.org/doc/MusicBrainz_Picard/Tags/Mapping
