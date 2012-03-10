@@ -16,6 +16,15 @@
    - Add path format fields for
      - artist sort order
      - artist sorting alpha group (09, A-Z)
+*** Do it in the main line
+    [[http://groups.google.com/group/beets-users/browse_thread/thread/1189b47fcfd2dadc][Asked]] the author on the mailing list, and got the ok to do it in
+    the main line. Tasks:
+    - Add sort fields to the AlbumInfo and TrackInfo objects in
+      beets/autotag/hooks.py.
+    - Populate these fields from the MB data in beets/autotag/mb.py.
+    - Add tag mappings to MediaFile (mediafile.py).
+    - Add the fields to the DB schema at the top of library.py.
+    - Modify SQL "sort by" clauses in library.py to prefer sort fields.
 
 * Ref
   - mp3 tags for sortable fields (from [[http://www.id3.org/id3v2.4.0-frames][here]])
