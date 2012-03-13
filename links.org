@@ -1017,6 +1017,12 @@
   - HDHomeRun (US/CA) | Welcome to SiliconDust
     http://www.silicondust.com/products/hdhomerun/atsc/
 
+* [2012-02-25 Sat] Packaging python scripts                    :@dev:@python:
+  - PyInstaller
+    http://www.pyinstaller.org/
+  - py2app - Create standalone Mac OS X applications with Python
+    http://svn.pythonmac.org/py2app/py2app/trunk/doc/index.html
+
 * [2012-01-12 Thu 14:23] Python regexp checking              :@python:@regex:
   - Python Regex Tool
     http://www.pythonregex.com/
