@@ -265,3 +265,10 @@
     https://bugs.launchpad.net/ubuntu/+source/linux/+bug/141343
   - Script to Fix R8168 and R8111 in Debian/Ubuntu GNU/Linux
     http://www.jamesonwilliams.com/hardy-r8168
+
+* Search and replace in text files from the command line             :@linux:
+  : find <directory> -type f -print0
+  :     | xargs -0 file
+  :     | grep -P text
+  :     | cut -d: -f1
+  :     | xargs sed -i 's/<initial_text>/<new_text>/g'

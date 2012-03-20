@@ -161,3 +161,11 @@
 ** Upgrade macbook (Talyn) with SSD                                    :@SSD:
    - [[http://www.ifixit.com/Guide/Repair/MacBook-Pro-15-Inch-Core-2-Duo-Model-A1211-Hard-Drive-Replacement/459/1][MacBook Pro 15" Core 2 Duo Model A1211 Hard Drive Replacement - iFixit]]
    - [[http://eshop.macsales.com/shop/internal_storage/Mercury_Extreme_SSD_Sandforce/Solid_State_Pro][OWC Mercury Extreme Pro Solid State Drive (SSD) Solutions - High Performance, Reliability, and Endurance]]
+
+* Tasks
+** TODO Play around with this                             :@python:@graphics:
+   :PROPERTIES:
+   :ID:       4cf5f528-79df-40f9-91b8-5054c6a82c61
+   :END:
+   - NodeBox | Home
+     http://www.nodebox.net/code/index.php/Home

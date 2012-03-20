@@ -8,6 +8,7 @@
 ** file:dev-notes.org
 ** [[file:emacs.org]]
 ** file:hg-notes.org
+** file:ideas.org
 ** [[file:mail-notes.org]]
 ** [[file:maison.org]]
 ** [[file:media.org]]

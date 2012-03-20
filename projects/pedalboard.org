@@ -1,0 +1,22 @@
+#+TITLE: Guitar pedalboard
+#+FILETAGS: @project:@guitar:@pedalboard
+
+* Pedals:
+** Before Amp
+   - JHS Little Black Buffer (25 mA)
+   - ISP Technologies Decimator G String (35 mA)
+   - Mad Professor Forest Green Compressor (14 mA)
+   - Mad Professor Sweet Honey Overdrive (5 mA)
+   - Suhr Riot (8 mA)
+   - Wampler Triple Wreck (23 mA)
+** Effect Loop
+   - ISP Technologies Decimator G String (35 mA)
+   - Electro-Harmonix Neo Clone (12 mA)
+   - Red Witch Deluxe Moon Phaser
+   - TC Electronics Flashback (90 mA)
+   - Electro-Harmonix Cathedral (200 mA)
+   - TC Electronics Hall of Fame (90 mA)
+** Power
+   - Carl MartinPro Power
+     1-6: 150mA @ 9V DC
+     7-8: 400mA @ 9v DC

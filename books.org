@@ -1,14 +1,20 @@
-#+LAST_MOBILE_CHANGE: 2010-10-02 14:45:51
+#+LAST_MOBILE_CHANGE: 2012-01-18 11:27:36
 #+FILETAGS: :@books:
-* STARTED Stephen Baxter - Ark
+* STARTED Dan Abnett - Embedded
   :LOGBOOK:
+  - State "STARTED"    from ""           [2012-01-18 Wed 12:31]
+  :END:
+  :PROPERTIES:
+  :ID:       5ae886c3-16dd-412b-8dae-be08a276e9a4
+  :END:
+* DONE Stephen Baxter - Ark
+  :LOGBOOK:
+  - State "DONE"       from "STARTED"    [2012-01-18 Wed 11:27]
   - State "STARTED"    from "DONE"       [2011-11-02 Wed 19:10]
   :END:
   :PROPERTIES:
   :ID:       08EB595C-547D-447F-9B01-1A4239D0040B
   :END:
-* DONE Stephen Baxter - Ark
-  Dates unknown
 * DONE Joe Haldeman - Starsbound
   :LOGBOOK:
   - State "DONE"       from "STARTED"    [2011-11-02 Wed 19:09] \\
