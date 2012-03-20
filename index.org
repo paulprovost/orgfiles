@@ -35,4 +35,5 @@
 *** file:projects/music-player.org
 *** file:projects/remote-media-access.org
 *** file:projects/rss-filter.org
+*** file:projects/twit2rss.org
 *** file:projects/usenet-indexer.org
