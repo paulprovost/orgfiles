@@ -1,7 +1,8 @@
 #+LAST_MOBILE_CHANGE: 2012-01-18 11:27:36
 #+FILETAGS: :@books:
-* STARTED Dan Abnett - Embedded
+* DONE Dan Abnett - Embedded
   :LOGBOOK:
+  - State "DONE"       from "STARTED"    [2012-03-19 Mon 20:22]
   - State "STARTED"    from ""           [2012-01-18 Wed 12:31]
   :END:
   :PROPERTIES:
