@@ -1,0 +1,17 @@
+#+TITLE: Compiling cclive on Ubuntu
+#+FILETAGS: @dev:@youtube
+
+* Info:
+  - [[http://cclive.sourceforge.net/][cclive]] - the command line media download tool with low footprint
+  - [[http://quvi.sourceforge.net/][libquvi]] is a small C library that can be used to parse flash media
+    stream URLs.
+
+* Download cclive and libquvi
+
+* Install libquvi dependencies
+  : sudo apt-get install build-essential liblua5.1-dev libcurl3-dev
+
+* Install cclive dependencies:
+  : sudo apt-get install libboost-dev libboost-graph-dev libboost-iostreams-dev
+  :    libboost-date-time-dev libboost-program-options-dev libboost-system-dev
+  :    libboost-filesystem-dev

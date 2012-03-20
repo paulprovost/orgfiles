@@ -135,21 +135,21 @@
     http://blogs.perl.org/users/smash/2010/07/watching-directories-for-new-files.html
 * [2010-11-05 Fri] Twitter stuff                            :@twitter:@emacs:
   - MRR Software
-  http://www.mrrsoftware.com/MRRSoftware/Syrinx.html
-- EmacsWiki: Twitter
-  http://www.emacswiki.org/emacs/Twitter
-- EmacsWiki: Tw It
-  http://www.emacswiki.org/emacs/TwIt
-- EmacsWiki: Twittering Mode
-  http://www.emacswiki.org/emacs/TwitteringMode
-- EmacsWiki: Identica-mode
-  http://www.emacswiki.org/emacs/Identica-mode
-- identica emacs - Google Search
-  http://www.google.ca/search?client=safari&rls=en&q=identica+emacs&ie=UTF-8&oe=UTF-8&redir_esc=&ei=YeHTTIe9GtCgnQeJ8eSGBg
-- Identi.ca mode for Emacs | Nethazard.net
-  http://blog.nethazard.net/identica-mode-for-emacs/
-- Pwytter: Twitter for Windows, Mac, Linux » Free Twitter client for Windows, Mac & Linux
-  http://www.pwytter.com/
+    http://www.mrrsoftware.com/MRRSoftware/Syrinx.html
+  - EmacsWiki: Twitter
+    http://www.emacswiki.org/emacs/Twitter
+  - EmacsWiki: Tw It
+    http://www.emacswiki.org/emacs/TwIt
+  - EmacsWiki: Twittering Mode
+    http://www.emacswiki.org/emacs/TwitteringMode
+  - EmacsWiki: Identica-mode
+    http://www.emacswiki.org/emacs/Identica-mode
+  - identica emacs - Google Search
+    http://www.google.ca/search?client=safari&rls=en&q=identica+emacs&ie=UTF-8&oe=UTF-8&redir_esc=&ei=YeHTTIe9GtCgnQeJ8eSGBg
+  - Identi.ca mode for Emacs | Nethazard.net
+    http://blog.nethazard.net/identica-mode-for-emacs/
+  - Pwytter: Twitter for Windows, Mac, Linux » Free Twitter client for Windows, Mac & Linux
+    http://www.pwytter.com/
 
 * [2010-11-05 Fri] Backuppc stuff                                 :@backuppc:
   - Back Up Linux And Windows Systems With BackupPC - Page 3 | HowtoForge - Linux Howtos and Tutorials
@@ -505,7 +505,7 @@
 
 * TODO [#A] [2011-11-08 Tue] Time machine tweaks           :@mac:timemachine:
   :PROPERTIES:
-  :ID:       d0c8af46-c466-422f-bb22-b5362ba66c09
+  :ID:       d0a001af-917a-4168-819a-97ea5208eb7e
   :END:
   - Good folders to exclude from Time Machine backups – Ryan Block
     http://ryanblock.com/2008/05/good-folders-to-exclude-from-time-machine-backups/
@@ -805,6 +805,14 @@
     https://github.com/poxd/hyde-themes
   - Pelican - Pelican v2 documentation
     http://readthedocs.org/docs/pelican/en/2.7.2/
+    - Getting started — Pelican v2 documentation
+      http://readthedocs.org/docs/pelican/en/2.7.2/getting_started.html#writing-articles-using-pelican
+    - Settings — Pelican v2 documentation
+      http://readthedocs.org/docs/pelican/en/2.7.2/settings.html#theming
+    - notmyidea-cms/screenshot.png at master from ametaireau/pelican-themes - GitHub
+      https://github.com/ametaireau/pelican-themes/blob/master/notmyidea-cms/screenshot.png
+  - marcoarment/secondcrack - GitHub
+    https://github.com/marcoarment/secondcrack
   
 * [2011-11-20 Sun] System info on a web page :@server:@homenetwork:@monitoring:
   - phpSysInfo
@@ -855,3 +863,244 @@
 ** Security                                                     :@encryption:
    - emacs-fu: keeping your secrets secret
      http://emacs-fu.blogspot.com/2011/02/keeping-your-secrets-secret.html
+
+* [2011-11-26 Sat]                                             :@python:@mac:
+  - Multiple Python Versions on OSX with Virtualenv and Homebrew | insomnihack
+    http://www.insomnihack.com/?p=442
+
+* [2011-11-26 Sat]                                           :@linux:@rescue:
+  - Rescatux - Super Grub Disk
+    Rescatux is a GNU/Linux rescue cd (and eventually also Windows)
+    but it is not like other rescue disks. Rescatux comes with
+    Rescapp. Rescapp is a nice wizard that will guide you through your
+    rescue tasks.
+    http://www.supergrubdisk.org/rescatux/
+
+* [2011-11-26 Sat] MacOS Location handling                             :@mac:
+  - MarcoPolo - Context-aware computing for Mac OS X
+    http://www.symonds.id.au/marcopolo/
+  - Location X — The Power of X, to Go!
+    http://homepage.mac.com/locationmanager/
+  - Mac OS X LocationChanger - TECH.inhelsinki.nl
+    http://tech.inhelsinki.nl/locationchanger/
+
+* [2011-11-26 Sat] PaulStretch for MacOS                        :@audio:@mac:
+  - Paul's Extreme Sound Stretch
+    http://hypermammut.sourceforge.net/paulstretch/
+  - PaulStretch 2.1 is Out! New build instructions + new x86 OS X build | Do My Eyes Look Scary?
+    http://music.cornwarning.com/2011/02/11/paulstretch-2-1-is-out-new-build-instructions-new-x86-os-x-build/
+
+* [2011-11-26 Sat] Bandwidth monitoring                        :@homenetwork:
+  - wrtbwmon - Per-user bandwidth monitoring tool for linux-based routers - Google Project Hosting
+    http://code.google.com/p/wrtbwmon/
+  - IPTables Bandwidth Monitor - Soft-hausWiki
+    http://soft-haus.com/wiki/index.php5?title=IPTables_Bandwidth_Monitor
+  - The OpenNMS Project
+    http://www.opennms.org/
+
+* [2011-12-08 Thu 14:04] Quicksilver scripting            :@mac:@quicksliver:
+  - AppleScript Action template - Quicksilver Wiki
+    http://qsapp.com/wiki/AppleScript_Action_template
+
+* [2011-12-08 Thu 14:45] LaTeX Tutorial - YouTube                    :@latex:
+  https://www.youtube.com/playlist?list=PLDD406480D35CE390
+
+* [2011-12-08 Thu 15:04] GRC | Ultra High Security Password Generator :@online:@password:
+  https://www.grc.com/passwords.htm
+
+* [2011-12-09 Fri 12:51] YouTube video formats                     :@youtube:
+  - YouTube - Wikipedia, the free encyclopedia
+    http://en.wikipedia.org/wiki/YouTube#Quality_and_codecs
+
+* [2011-12-09 Fri 15:48] Displaying notifications without Growl :@mac:@notifications:
+  - cocoaDialog
+    http://mstratman.github.com/cocoadialog/
+
+* [2011-12-11 Sun] Using VLC as a media center on AppleTV     :@vlc:@appletv:
+  - Mount a Remote Drive via SMBFS - AwkwardTV
+    http://wiki.awkwardtv.org/wiki/Mount_a_Remote_Drive_via_SMBFS
+  - Mount a Remote Drive via AFP under 1.1 - AwkwardTV
+    http://wiki.awkwardtv.org/wiki/Mount_a_Remote_Drive_via_AFP_under_1.1
+  - Mount external drive via SMB on AppleTV « Jiradett BLOG
+    http://kerdsri.com/2010/01/13/mount-external-drive-via-smb-on-appletv/
+  - Applications Menu - AwkwardTV
+    http://wiki.awkwardtv.org/wiki/Applications_Menu
+  - AwkwardTV Plugin Directory
+    http://plugins.awkwardtv.org/det.php?recordID=applauncher
+
+* [2011-12-13 Tue 12:24] find duplicate mails in maildir   :@maildir:@python:
+  - maildir-deduplicate.py at master from kdeldycke/scripts - GitHub
+    https://github.com/kdeldycke/scripts/blob/master/maildir-deduplicate.py
+
+* [2011-12-15 Thu 10:47] Progess for pipes                :@linux:@scripting:
+  - ivarch.com: Pipe Viewer
+    http://www.ivarch.com/programs/pv.shtml
+
+* [2011-12-15 Thu 10:48] Execute scripts on entering directory :@linux:@scripting:
+  - OnDir - SwapOff
+    http://swapoff.org/ondir.html
+  - mikas blog » Blog Archive » Directory specific shell configuration with Zsh
+    http://michael-prokop.at/blog/2009/05/30/directory-specific-shell-configuration-with-zsh/
+
+* [2011-12-15 Thu] Emacs as a Python IDE                     :@emacs:@python:
+  - Configuring Emacs as a Python IDE | Pedro Kroger
+    http://pedrokroger.com/2010/07/configuring-emacs-as-a-python-ide-2/
+  - IPython: Productive Interactive Computing — IPython
+    http://ipython.org/
+  - EnigmaCurry
+    http://www.enigmacurry.com/2008/05/09/emacs-as-a-powerful-python-ide/
+  - Setup Perfect Python Environment In Emacs « The website of Lei Chen
+    http://hide1713.wordpress.com/2009/01/30/setup-perfect-python-environment-in-emacs/
+  - rope python refactoring library
+    http://rope.sourceforge.net/
+    - ropemacs, rope in emacs
+      http://rope.sourceforge.net/ropemacs.html
+    - agr / ropemacs / overview — Bitbucket
+      https://bitbucket.org/agr/ropemacs
+    - Using Rope As A Library
+      http://rope.sourceforge.net/library.html
+  - pinard/Pymacs - GitHub
+    https://github.com/pinard/Pymacs
+
+* [2011-12-25 Sun] Some pedalboard links                :@guitar:@pedalboard:
+  - Bottom Plate For Small Bear 125-B, BOSS, Ibanez
+    http://www.smallbearelec.com/Detail.bok?no=973
+  - Dual Lock Reclosable Fasteners - 3M US
+    http://solutions.3m.com/wps/portal/3M/en_US/3M-Industrial/Adhesives/Promotions-New-Products/Reclosable-Fasteners/
+
+* [2012-01-03 Tue 10:31] Scripting ffmpeg with python :@dev:@scripting:@video:
+  - pyffmpeg - Python FFmpeg wrapper - Google Project Hosting
+    http://code.google.com/p/pyffmpeg/
+  - ffvideo - A python wrapper around ffmpeg - Google Project Hosting
+    http://code.google.com/p/ffvideo/
+  - PyMedia - Python module for avi, mp3, dvd, wma, ogg processing - pymedia
+    http://pymedia.org/faq.html
+  - »Using ffmpeg in Python« by David Murmann — thefoundation.de
+    http://www.thefoundation.de/david/2008/sep/11/using-ffmpeg-python/
+
+* [2012-01-03 Tue 16:40] Podcatchers                              :@podcasts:
+  - Podracer - The winner of the pod race - Home
+    http://podracer.sourceforge.net/
+  - BashPodder - the best podcatcher
+    http://lincgeek.org/bashpodder/
+  - Armangil's podcatcher
+    http://podcatcher.rubyforge.org/
+  - Podget: A Simple Podcast Aggregator.
+    http://podget.sourceforge.net/
+  - grabpod
+    http://jbaber.freeshell.org/scripts/grabpod/
+  - Software Gubbins by Matthew Gates
+    http://porpoisehead.net/mysw/index.php?pgid=mpodder
+  - GoldenPod
+    http://random.zerodogg.org/goldenpod
+
+* [2012-01-04 Wed 11:19] Time machine for Windows     :@windows:@timemachine:
+  - Genie9 (Formerly Genie-soft) Free Timeline | Download Free Backup Software for Windows
+    http://www.genie9.com/Free_products/free_timeline.aspx
+  - Time Machine for Windows - Altaro Oops!Backup
+    http://www.altaro.com/home-pc-backup/index.php
+  - Windows Backup Software - Continuous Data Protection - Like a Time Machine for Windows
+    http://rebit.com/products/rebit/
+
+* [2012-01-04 Wed 17:10] Bash initialization notes                    :@bash:
+  - Bash: about .bashrc, .bash_profile, .profile, /etc/profile, etc/bash.bashrc and others | Stefaan Lippens' webface
+    http://stefaanlippens.net/bashrc_and_others
+  - .bash_profile vs .bashrc
+    http://www.joshstaiger.org/archives/2005/07/bash_profile_vs.html
+  - Execution sequence for .bash_profile, .bashrc, .bash_login, .profile and .bash_logout
+    http://www.thegeekstuff.com/2008/10/execution-sequence-for-bash_profile-bashrc-bash_login-profile-and-bash_logout/
+
+* [2012-01-05 Thu 10:00] Vector editing tools                   :@svg:@ctrlr:
+  - Delineate - raster to SVG converter
+    http://delineate.sourceforge.net/index.html
+  - sK1 Project
+    http://sk1project.org/
+  - Skencil, a vector drawing program
+    http://www.skencil.org/
+  - Intaglio — Macintosh Drawing & Illustration
+    http://www.purgatorydesign.com/Intaglio/
+  - Freeverse: Mac: Games & Apps: Lineform
+    http://www.freeverse.com/mac/product/?id=6020
+  - Synfig Studio :: Home
+    http://www.synfig.org/cms/
+
+* [2012-01-05 Thu 11:48] Download Tou.tv videos     :@download:@flash:@video:
+  - Accès à tou.tv à partir d’un Système libre
+    http://store-it.appspot.com/tou/tou.html
+  - Unable to play RTMP files off Tou.TV. Are they RTMPE? - Audio/video stream recording forums
+    http://stream-recorder.com/forum/unable-play-rtmp-files-off-tou-tv-t5883.html
+  - get-flash-videos - A command line program to download flash videos - Google Project Hosting
+    http://code.google.com/p/get-flash-videos/
+  - Installation - get-flash-videos - How to install get_flash_videos - A command line program to download flash videos - Google Project Hosting
+    http://code.google.com/p/get-flash-videos/wiki/Installation
+  - Tou.pm - get-flash-videos - A command line program to download flash videos - Google Project Hosting
+    http://code.google.com/p/get-flash-videos/source/browse/trunk/FlashVideo/Site/Tou.pm?r=364
+
+* [2012-01-12 Thu 12:57] IP TV tuner                           :@htpc:@tuner:
+  - HDHomeRun (US/CA) | Welcome to SiliconDust
+    http://www.silicondust.com/products/hdhomerun/atsc/
+
+* [2012-02-25 Sat] Packaging python scripts                    :@dev:@python:
+  - PyInstaller
+    http://www.pyinstaller.org/
+  - py2app - Create standalone Mac OS X applications with Python
+    http://svn.pythonmac.org/py2app/py2app/trunk/doc/index.html
+
+* [2012-01-12 Thu 14:23] Python regexp checking              :@python:@regex:
+  - Python Regex Tool
+    http://www.pythonregex.com/
+  - c THE dot retest - regular expression tester for Python
+    http://cthedot.de/retest/
+
+* [2012-01-20 Fri 16:32] Mail processing in python    :@script:@python:@mail:
+  - 18.4. mailbox — Manipulate mailboxes in various formats — Python v2.7.2 documentation
+    http://docs.python.org/library/mailbox.html
+  - Processing Mailbox Files with mailbox.py - O'Reilly Media
+    http://onlamp.com/pub/a/python/2007/06/28/processing-mailbox-files-with-mailboxpy.html
+  - Processing Mailbox Files with mailbox.py - O'Reilly Media
+    http://onlamp.com/pub/a/python/2007/06/28/processing-mailbox-files-with-mailboxpy.html?page=2
+  - Processing Mailbox Files with mailbox.py - O'Reilly Media
+    http://onlamp.com/pub/a/python/2007/06/28/processing-mailbox-files-with-mailboxpy.html?page=3
+
+* [2012-01-24 Tue 13:55] Time management in plain text :@timemanagement:@plaintext:
+  - Clocking Time with Emacs Org | sacha chua :: living an awesome life
+    http://sachachua.com/blog/2007/12/clocking-time-with-emacs-org/
+  - Org Mode - Organize Your Life In Plain Text!
+    http://doc.norang.ca/org-mode.html#ClockSetup
+  - kisom/timecard - GitHub
+    https://github.com/kisom/timecard
+
+* [2012-01-24 Tue 14:00] org-mode blogging        :@emacs:@orgmode:@blogging:
+   - Org Blogs and Wikis
+     http://orgmode.org/worg/org-blog-wiki.html
+   - Quick start Guide
+     http://renard.github.com/o-blog/
+   - Using org to Blog with Jekyll
+     http://orgmode.org/worg/org-tutorials/org-jekyll.html
+
+* [2012-01-27 Fri 11:52] Emacs tips from Phil Hagelberg              :@emacs:
+  - An interview with Phil Hagelberg
+    http://phil.hagelberg.usesthis.com/
+  - ELIM - Summary [Savannah]
+    http://savannah.nongnu.org/projects/elim
+  - EmacsWiki: ELIM
+    http://www.emacswiki.org/emacs/ELIM
+  - technomancy/scpaste - GitHub
+    https://github.com/technomancy/scpaste
+  - technomancy/erythrina - GitHub
+    https://github.com/technomancy/erythrina
+
+* [2012-02-23 Thu 12:05] Mail filtering        :@dovecot:@mailfilter:@incron:
+  Refiltering mail when received in a folder. Some incron tips as well.
+ - HowTo/RefilterMail - Dovecot Wiki
+   http://wiki.dovecot.org/HowTo/RefilterMail
+ - LDA - Dovecot Wiki
+   http://wiki.dovecot.org/LDA
+ - LDA/Sieve - Dovecot Wiki
+   http://wiki.dovecot.org/LDA/Sieve#Plus_Addressed_mail_filtering
+
+* [2012-02-24 Fri 10:27] xpra                                     :@linux:@x:
+  [[http://xpra.org/][Xpra]] is 'screen for X': it allows you to run X programs, usually on
+  a remote host, direct their display to your local machine, and then
+  to disconnect from these programs and reconnect from the same or
+  another machine, without losing any state.

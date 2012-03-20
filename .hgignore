@@ -8,4 +8,4 @@ syntax: regexp
 
 # Ignore emacs backups
 ^.*~
-
+^#.*#
