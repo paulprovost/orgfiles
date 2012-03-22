@@ -1,95 +1,97 @@
 #+LAST_MOBILE_CHANGE: 2012-01-18 11:27:36
 #+FILETAGS: :@books:
-* STARTED Rollins, James - Sandstorm
+#+TODO: TOREAD TOBUY READING | READ ABANDONED
+
+* READING Rollins, James - Sandstorm
   :LOGBOOK:
-  - State "STARTED"    from ""           [2012-03-21 Wed 12:00]
+  - State "READING"    from ""           [2012-03-21 Wed 12:00]
   :END:
-* DONE Dan Abnett - Embedded
+* READ Dan Abnett - Embedded
   :LOGBOOK:
-  - State "DONE"       from "STARTED"    [2012-03-19 Mon 20:22]
-  - State "STARTED"    from ""           [2012-01-18 Wed 12:31]
+  - State "READ"       from "READING"    [2012-03-19 Mon 20:22]
+  - State "READING"    from ""           [2012-01-18 Wed 12:31]
   :END:
   :PROPERTIES:
   :ID:       5ae886c3-16dd-412b-8dae-be08a276e9a4
   :END:
-* DONE Stephen Baxter - Ark
+* READ Stephen Baxter - Ark
   :LOGBOOK:
-  - State "DONE"       from "STARTED"    [2012-01-18 Wed 11:27]
-  - State "STARTED"    from "DONE"       [2011-11-02 Wed 19:10]
+  - State "READ"       from "READING"    [2012-01-18 Wed 11:27]
+  - State "READING"    from "READ"       [2011-11-02 Wed 19:10]
   :END:
   :PROPERTIES:
   :ID:       08EB595C-547D-447F-9B01-1A4239D0040B
   :END:
-* DONE Joe Haldeman - Starsbound
+* READ Joe Haldeman - Starsbound
   :LOGBOOK:
-  - State "DONE"       from "STARTED"    [2011-11-02 Wed 19:09] \\
+  - State "READ"       from "READING"    [2011-11-02 Wed 19:09] \\
     not at this date...
-  - State "STARTED"    from ""           [2011-06-29 Wed 15:16]
+  - State "READING"    from ""           [2011-06-29 Wed 15:16]
   :END:
   :PROPERTIES:
   :ID:       b9889b65-6841-414c-a857-b7f8b54d2efb
   :END:
-* DONE Robert J. Sawyer - Watch
+* READ Robert J. Sawyer - Watch
   :LOGBOOK:
-  - State "DONE"       from "STARTED"    [2011-06-28 Tue 15:16]
-  - State "STARTED"    from "STARTED"    [2011-05-19 Thu 13:44]
+  - State "READ"       from "READING"    [2011-06-28 Tue 15:16]
+  - State "READING"    from "READING"    [2011-05-19 Thu 13:44]
   :END:
-* DONE Greg Bear - Mariposa
+* READ Greg Bear - Mariposa
   :LOGBOOK:
-  - State "DONE"       from "STARTED"    [2011-05-19 Thu 13:45]
+  - State "READ"       from "READING"    [2011-05-19 Thu 13:45]
   :END:
-* DONE John Scalzi - The Android's Dream
+* READ John Scalzi - The Android's Dream
   :LOGBOOK:
-  - State "DONE"       from "STARTED"    [2011-03-19 Sat 13:44]
-  - State "STARTED"    from "STARTED"    [2011-01-31 Mon 16:37]
+  - State "READ"       from "READING"    [2011-03-19 Sat 13:44]
+  - State "READING"    from "READING"    [2011-01-31 Mon 16:37]
   :END:
   :PROPERTIES:
   :ID:       93a97bfc-7c9e-40d9-a43a-26ce41a44e96
   :END:
-* DONE Stephen Baxter - Manifold Time 
+* READ Stephen Baxter - Manifold Time 
   :LOGBOOK:
-  - State "DONE"       from "STARTED"    [2011-01-31 Mon 16:36]
-  - State "STARTED"    from ""           [2010-10-02 Sat 14:47]
+  - State "READ"       from "READING"    [2011-01-31 Mon 16:36]
+  - State "READING"    from ""           [2010-10-02 Sat 14:47]
   :END:
   :PROPERTIES:
   :ID:       B9A1A4CD-1170-4A99-95A0-DBC0634361A1
   :END:
 [2010-10-02 Sat 10:16]
-* DONE John Varley - Rolling Thunder
+* READ John Varley - Rolling Thunder
   :LOGBOOK:
-  - State "DONE"       from "STARTED"    [2010-10-02 Sat 14:45]
-  - State "STARTED"    from ""           [2010-07-20 Tue 12:45]
+  - State "READ"       from "READING"    [2010-10-02 Sat 14:45]
+  - State "READING"    from ""           [2010-07-20 Tue 12:45]
   :END:
   :PROPERTIES:
   :ID:       7146897B-07AA-4B79-A1C5-8B52FD1FD89A
   :END:
 [2010-07-20 Tue 12:41]
-* DONE The Ghost Brigades - John Scalzi
+* READ The Ghost Brigades - John Scalzi
   :LOGBOOK:
-  - State "DONE"       from "STARTED"    [2009-11-18 Wed]
+  - State "READ"       from "READING"    [2009-11-18 Wed]
   :END:
   :PROPERTIES:
   :ID:       7D46EA2C-DA96-4D46-9222-909DE028CEA6
   :END:
 [2009-11-04 Wed 13:14]
-* DONE The Last Colony - John Scalzi
+* READ The Last Colony - John Scalzi
   :LOGBOOK:
-  - State "DONE"       from "STARTED"    [2010-02-05 Fri]
-  - State "STARTED"    from "STARTED"    [2009-12-02 Wed]
+  - State "READ"       from "READING"    [2010-02-05 Fri]
+  - State "READING"    from "READING"    [2009-12-02 Wed]
   :END:
   :PROPERTIES:
   :ID:       91729768-3391-4190-9821-0FCF65A7973D
   :END:
-* DONE Marsbound - Joe Haldeman
+* READ Marsbound - Joe Haldeman
   :LOGBOOK:
-  - State "DONE"       from "STARTED"    [2010-06-30 Wed 15:06]
-  - State "STARTED"    from ""           [2010-02-09 Tue]
+  - State "READ"       from "READING"    [2010-06-30 Wed 15:06]
+  - State "READING"    from ""           [2010-02-09 Tue]
   :END:
   :PROPERTIES:
   :ID:       151C88C1-9EC5-4208-A077-C9A3D0CDEFDB
   :END:
-* Les maisons nature de Pierre Thibault au Quebec 
-[2010-04-21 Wed 21:42]
+* TOBUY Les maisons nature de Pierre Thibault au Quebec 
+  [2010-04-21 Wed 21:42]
 ** Note ID: (null)
-* Book: big book of Apple hacks
-[2010-07-23 Fri 13:00]
+* TOBUY Book: big book of Apple hacks
+  [2010-07-23 Fri 13:00]
