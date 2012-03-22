@@ -1,5 +1,9 @@
 #+LAST_MOBILE_CHANGE: 2012-01-18 11:27:36
 #+FILETAGS: :@books:
+* STARTED Rollins, James - Sandstorm
+  :LOGBOOK:
+  - State "STARTED"    from ""           [2012-03-21 Wed 12:00]
+  :END:
 * DONE Dan Abnett - Embedded
   :LOGBOOK:
   - State "DONE"       from "STARTED"    [2012-03-19 Mon 20:22]
