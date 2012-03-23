@@ -24,7 +24,14 @@
    :END:
     - Cover
     - Links
-** TODO Sort by TODO Status
+** DONE Sort by TODO Status
+   :LOGBOOK:
+   - State "DONE"       from "TODO"       [2012-03-23 Fri 12:05]
+   :END:
+   - Select region
+   - M-x org-sort
+   - type 'o'
+*** TODO Automate sorting book list
 
 * STARTED Export org directory to DropBox as HTML                      :@org:
   :LOGBOOK:
