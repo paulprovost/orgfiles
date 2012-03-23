@@ -1,3 +1,5 @@
+#+TITLE: My book list
+#+DESCRIPTION: My personal book list.
 #+LAST_MOBILE_CHANGE: 2012-01-18 11:27:36
 #+FILETAGS: :@books:
 #+TODO: TOREAD TOBUY READING | READ ABANDONED
@@ -5,6 +7,9 @@
 * READING Rollins, James - Sandstorm
   :LOGBOOK:
   - State "READING"    from ""           [2012-03-21 Wed 12:00]
+  :END:
+  :PROPERTIES:
+  :ID:       de970816-7589-4e78-8149-f7cb9bf464b5
   :END:
 * READ Dan Abnett - Embedded
   :LOGBOOK:
@@ -90,8 +95,13 @@
   :PROPERTIES:
   :ID:       151C88C1-9EC5-4208-A077-C9A3D0CDEFDB
   :END:
-* TOBUY Les maisons nature de Pierre Thibault au Quebec 
+* TOBUY Les maisons nature de Pierre Thibault au Quebec
+  :PROPERTIES:
+  :ID:       51d44390-27f4-4094-a0ab-0b35cdea010c
+  :END: 
   [2010-04-21 Wed 21:42]
-** Note ID: (null)
 * TOBUY Book: big book of Apple hacks
+  :PROPERTIES:
+  :ID:       ec5a41c6-90ba-4b0c-a20b-6bd7727da1c0
+  :END:
   [2010-07-23 Fri 13:00]

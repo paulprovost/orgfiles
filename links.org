@@ -1104,3 +1104,15 @@
   a remote host, direct their display to your local machine, and then
   to disconnect from these programs and reconnect from the same or
   another machine, without losing any state.
+
+* [2012-03-23 Fri] org/markdown/static blog notes :@org:@markdown:@staticblog:
+   - Re: [O] embed markdown?
+     http://lists.gnu.org/archive/html/emacs-orgmode/2011-03/msg00637.html
+   - github/markup
+     https://github.com/github/markup
+   - Pandoc - About pandoc
+     http://johnmacfarlane.net/pandoc/
+   - Rustic Reverie: WP to org-mode + hyde + disqus
+     http://punchagan.muse-amuse.in/blog/wp-to-org-mode-hyde-disqus
+   - punchagan/org-hyde
+     https://github.com/punchagan/org-hyde

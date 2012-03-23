@@ -14,9 +14,15 @@
      links. Added the "exec:" URL. Still a hack, but it's localized
      and works.
 *** TODO publish rss2email hack on BitBucket
+    :PROPERTIES:
+    :ID:       f77be5df-f2f6-4332-8f4b-b52e0b0edee4
+    :END:
 
 * Ideas
 ** TODO [#A] Deference links.
+   :PROPERTIES:
+   :ID:       a18aa723-1c2c-47aa-9692-d8b2b32a8e9c
+   :END:
    : curl --silent --head <link> | grep Location:
    gives
    : Location: <link>
