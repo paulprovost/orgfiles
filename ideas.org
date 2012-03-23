@@ -33,6 +33,6 @@
 ** MobileOrg is not quite right:
    - Sync is unreliable
    - Can't edit files.
-** Make a project for the org directory
-** Make a style sheet that displays nicely
+** TODO Make a project for the org directory
+** TODO Make a style sheet that displays nicely
    Using markdown.css as a starting point.
