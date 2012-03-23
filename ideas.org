@@ -10,3 +10,29 @@
   - Use
     : find ~/local -type f -exec ls -l {} \;
     before and after the install, and diff between them.
+
+* STARTED Use org-mode for book list                         :@org:@booklist:
+  :LOGBOOK:
+  - State "STARTED"    from ""           [2012-03-23 Fri 11:40]
+  :END:
+  Use the books.org file as a book list
+** DONE Book status defined as TODO keywords:
+    TOREAD TOBUY READING | READ ABANDONED
+** SOMEDAY Add info?
+   :LOGBOOK:
+   - State "SOMEDAY"    from ""           [2012-03-23 Fri 11:41]
+   :END:
+    - Cover
+    - Links
+** TODO Sort by TODO Status
+
+* STARTED Export org directory to DropBox as HTML                      :@org:
+  :LOGBOOK:
+  - State "STARTED"    from ""           [2012-03-23 Fri 11:42]
+  :END:
+** MobileOrg is not quite right:
+   - Sync is unreliable
+   - Can't edit files.
+** Make a project for the org directory
+** Make a style sheet that displays nicely
+   Using markdown.css as a starting point.
