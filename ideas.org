@@ -43,3 +43,13 @@
 ** TODO Make a project for the org directory
 ** TODO Make a style sheet that displays nicely
    Using markdown.css as a starting point.
+** [2012-03-23 Fri] Publish org files                                  :@org:
+    - Publishing Org-mode files to HTML
+      http://orgmode.org/worg/org-tutorials/org-publish-html-tutorial.html
+    - Website with org-mode
+      http://thenybble.de/projects/orgsite.html
+    - CSS support - The Org Manual
+      http://orgmode.org/manual/CSS-support.html
+    - [Orgmode] Re: How to remove the automatically generated css codes from e
+      http://www.mail-archive.com/emacs-orgmode@gnu.org/msg08857.html
+      
