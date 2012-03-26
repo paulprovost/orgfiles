@@ -3,10 +3,7 @@
 #+EMAIL: paul@bouzou.org
 #+DESCRIPTION: 
 #+FILETAGS: 
-#+SETUPFILE: .publish-style.org
-# Local Variables:
-# org-export-html-style-include-default: nil
-# End:
+#+SETUPFILE: .publish-style
 
 * NEXT Tag mails                                            :@tagging:@email:
   :PROPERTIES:

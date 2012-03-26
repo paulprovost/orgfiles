@@ -56,3 +56,6 @@
 #+STYLE: p.date { font-size: 10px; color: #bebebe; margin: 0 0 5px 0; }
 #+STYLE: p.creator { font-size: 10px; color: #bebebe; margin: 0 0 5px 0; }
 #+STYLE: </style>
+# Local Variables:
+# org-export-html-style-include-default: nil
+# End:
