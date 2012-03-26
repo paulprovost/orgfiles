@@ -1,3 +1,9 @@
+#+TITLE: Ideas
+#+AUTHOR: Paul Provost
+#+EMAIL: paul@bouzou.org
+#+DESCRIPTION: 
+#+FILETAGS: 
+
 * NEXT Tag mails                                            :@tagging:@email:
   :PROPERTIES:
   :ID:       5df69ece-ea7a-43c5-903f-9649c6a363b7
@@ -6,7 +12,7 @@
   - Forward mail to a specific address (paul-tag@bouzou.org)
   - Mail for that address is picked up by a script. It finds the
     original mail and adds the specified tags.
-* Track changes made when installing                        :@install:@linux
+* Track changes made when installing                        :@install:@linux:
   - Use
     : find ~/local -type f -exec ls -l {} \;
     before and after the install, and diff between them.
