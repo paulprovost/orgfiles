@@ -1,0 +1,58 @@
+#+STYLE: <style type="text/css">
+#+STYLE: body{
+#+STYLE:     margin: 0 auto;
+#+STYLE:     font: normal 100%/1.4 Frutiger, "Frutiger Linotype", Univers, Calibri, Myriad, "Liberation Sans", Tahoma, Geneva, "Helvetica Neue", Helvetica, Arial, sans-serif;
+#+STYLE:     color: #444444;
+#+STYLE:     line-height: 1;
+#+STYLE:     padding: 30px;
+#+STYLE: }
+#+STYLE: h1.title {
+#+STYLE:     color: #0AA;
+#+STYLE:     background-color: #EEE;
+#+STYLE:     border: 1px solid #CCC;
+#+STYLE:     margin-top: 0;
+#+STYLE:     padding: 10px 0 10px 0;
+#+STYLE: }
+#+STYLE: h1, h2, h3, h4, h5, h6, caption, legend {
+#+STYLE:     font-family: Constantia,Utopia,Lucidabright,Lucida,Georgia,serif;
+#+STYLE:     font-weight: bold;
+#+STYLE:     color: #666;
+#+STYLE: }
+#+STYLE: li {
+#+STYLE:     line-height: 24px;
+#+STYLE: }
+#+STYLE: pre {
+#+STYLE:     overflow: auto;
+#+STYLE:     white-space: pre-wrap;
+#+STYLE:     font-family: Consolas, Inconsolata, Monaco, Andale Mono, monospace;
+#+STYLE:     font-size: 14px;
+#+STYLE:     line-height: 1.5;
+#+STYLE:     background-color: #EEE;
+#+STYLE:     border: 1px solid #CCC;
+#+STYLE: }
+#+STYLE: .todo { font-size: small; color: #A00; }
+#+STYLE: .done { font-size: small; color: #0A0; }
+#+STYLE: .tag {
+#+STYLE:     float:right;
+#+STYLE:     font-size: small;
+#+STYLE:     font-weight: normal;
+#+STYLE:     color: #00A;
+#+STYLE: }
+#+STYLE: .timestamp { font-size: small; font-weight: normal; color: #bebebe; }
+#+STYLE: .timestamp-kwd { font-size: small; fotnt-weight: normal; color: #5f9ea0; }
+#+STYLE: #table-of-contents {
+#+STYLE:     float: right;
+#+STYLE:     margin: 0 0 0 1.4em;
+#+STYLE:     padding-left: 1.4em;
+#+STYLE:     padding-right: 1.4em;
+#+STYLE:     font-size: small;
+#+STYLE:     background-color: #EEE;
+#+STYLE:     border: 1px solid #CCC;
+#+STYLE: }
+#+STYLE: #table-of-contents {
+#+STYLE:     list-style-type: none;
+#+STYLE: }
+#+STYLE: p.author { font-size: 10px; color: #bebebe; margin: 0 0 5px 0; }
+#+STYLE: p.date { font-size: 10px; color: #bebebe; margin: 0 0 5px 0; }
+#+STYLE: p.creator { font-size: 10px; color: #bebebe; margin: 0 0 5px 0; }
+#+STYLE: </style>

@@ -12,7 +12,13 @@
   :ID:       de970816-7589-4e78-8149-f7cb9bf464b5
   :END:
 * TOREAD Halting State - Charles Stross
+  :PROPERTIES:
+  :ID:       cab2fcaf-4b40-48de-aae4-597af50cb0a0
+  :END:
 * TOREAD Glasshouse - Charles Stross
+  :PROPERTIES:
+  :ID:       eb347302-cfd1-4dfc-a7b8-90a8e1f30d77
+  :END:
 * TOBUY Les maisons nature de Pierre Thibault au Quebec
   :PROPERTIES:
   :ID:       51d44390-27f4-4094-a0ab-0b35cdea010c

@@ -3,6 +3,10 @@
 #+EMAIL: paul@bouzou.org
 #+DESCRIPTION: 
 #+FILETAGS: @homenetwork
+#+SETUPFILE: .publish-style.org
+# Local Variables:
+# org-export-html-style-include-default: nil
+# End:
 
 * Backup solution of choice: [[http://backuppc.sourceforge.net/][backuppc]]
 ** SSH setup

@@ -3,6 +3,10 @@
 #+EMAIL: paul@bouzou.org
 #+DESCRIPTION: 
 #+FILETAGS: 
+#+SETUPFILE: .publish-style.org
+# Local Variables:
+# org-export-html-style-include-default: nil
+# End:
 
 * NEXT Tag mails                                            :@tagging:@email:
   :PROPERTIES:
@@ -21,12 +25,18 @@
   :LOGBOOK:
   - State "STARTED"    from ""           [2012-03-23 Fri 11:40]
   :END:
+  :PROPERTIES:
+  :ID:       3fc74413-c136-42d4-a4da-80903ef2119c
+  :END:
   Use the books.org file as a book list
 ** DONE Book status defined as TODO keywords:
     TOREAD TOBUY READING | READ ABANDONED
 ** SOMEDAY Add info?
    :LOGBOOK:
    - State "SOMEDAY"    from ""           [2012-03-23 Fri 11:41]
+   :END:
+   :PROPERTIES:
+   :ID:       7bc8dfff-0982-41a8-934c-1b50269b7c34
    :END:
     - Cover
     - Links
@@ -38,16 +48,28 @@
    - M-x org-sort
    - type 'o'
 *** TODO Automate sorting book list
+    :PROPERTIES:
+    :ID:       93756109-54f9-44b0-8615-02f72766bd5f
+    :END:
 
 * STARTED Export org directory to DropBox as HTML                      :@org:
   :LOGBOOK:
   - State "STARTED"    from ""           [2012-03-23 Fri 11:42]
   :END:
+  :PROPERTIES:
+  :ID:       6f0721e2-0746-46ae-87bf-9b632729aa5d
+  :END:
 ** MobileOrg is not quite right:
    - Sync is unreliable
    - Can't edit files.
 ** TODO Make a project for the org directory
+   :PROPERTIES:
+   :ID:       297b513b-5f62-453e-b4d6-0ebe20769ae0
+   :END:
 ** TODO Make a style sheet that displays nicely
+   :PROPERTIES:
+   :ID:       e940d551-eeac-466a-8f7c-421b81188a4f
+   :END:
    Using markdown.css as a starting point.
 ** [2012-03-23 Fri] Publish org files                                  :@org:
     - Publishing Org-mode files to HTML

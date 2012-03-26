@@ -1,5 +1,11 @@
-#+LAST_MOBILE_CHANGE: 2009-12-04 10:28:56
+#+TITLE: TODO file
+#+AUTHOR: Paul Provost
+#+EMAIL: paul@bouzou.org
 #+DESCRIPTION: General tasks
+#+SETUPFILE: .publish-style.org
+# Local Variables:
+# org-export-html-style-include-default: nil
+# End:
 * DONE Move medical information from Notes to 1Passwd and verify sync to desktop
    :LOGBOOK:
    :END:

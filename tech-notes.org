@@ -3,6 +3,10 @@
 #+EMAIL: paul@bouzou.org
 #+DESCRIPTION: 
 #+FILETAGS: 
+#+SETUPFILE: .publish-style.org
+# Local Variables:
+# org-export-html-style-include-default: nil
+# End:
 
 * SSH login without password 					       :@ssh:
   From [[http://linuxproblem.org/art_9.html][here]]:
