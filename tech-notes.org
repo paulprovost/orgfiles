@@ -206,12 +206,33 @@
   http://detox.sourceforge.net/detox.1.html
 
 * Installing vsftpd with virtual accounts                              :@ftp:
-  - Setup Virtual Users and Directories in VSFTPD
-    http://howto.gumph.org/content/setup-virtual-users-and-directories-in-vsftpd/
-
+  - [[http://howto.gumph.org/content/setup-virtual-users-and-directories-in-vsftpd/][Setup Virtual Users and Directories in VSFTPD]]
     - This is very nice, but it needs htpasswd to create a passwd
       file. But I do not want to install Apache.
     - Ah. Install apache2-utils. Much smaller.
+    - Password generation notes
+      It [[http://blog.irreverence.co.uk/?p%3D858][appears]] that the salt for crypt is stored in the generated
+      key. First off, try generating an htpasswd value for ‘foo’, three
+      times, and confirm that you get different values each time:
+      : user@host:~$ > openssl passwd -crypt foo
+      : NdvuO3.Ki960s
+      : user@host:~$ > openssl passwd -crypt foo
+      : weaIHa2FdRhR6
+      : user@host:~$ > openssl passwd -crypt foo
+      : /OLzr1ObOaktU
+      The format for an htpasswd entry seems to be:
+      - username (variable length)
+      - : (fixed length, 1 character, the colon character)
+      - salt (fixed length, 2 characters)
+      - crypted password (variable length, I think, although does tend
+        to be 11 chars)
+      So you need to feed the salt (first two characters of the
+      encrypted password) to the openssl command:
+      : user@host:~$ > openssl passwd -crypt -salt ab foo
+      : abQ9KY.KfrYrc
+      : user@host:~$ > openssl passwd -crypt -salt ab foo
+      : abQ9KY.KfrYrc
+      All is well.
   - PASV issues. Try with the FTP helper in pfSense. Nice, but no true
     IP address in logs.
     - Some info here:
