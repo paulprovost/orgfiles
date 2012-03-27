@@ -79,7 +79,6 @@
   :PROPERTIES:
   :ID:       B9A1A4CD-1170-4A99-95A0-DBC0634361A1
   :END:
-[2010-10-02 Sat 10:16]
 * READ John Varley - Rolling Thunder
   :LOGBOOK:
   - State "READ"       from "READING"    [2010-10-02 Sat 14:45]

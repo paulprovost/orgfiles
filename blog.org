@@ -4,6 +4,15 @@
 #+DESCRIPTION: 
 #+FILETAGS: @blog:@prt
 
+* [2012-03-27 Tue] Org-mode discoveries                         :@emacs:@org:
+  Today's discoveries in org-mode's agenda view:
+  - Follow mode ('F'): going through the agenda view displays the
+    related lines in another window. Using 'o' gets rid of the other
+    windows.
+  - Entry text mode ('E'): shows some lines (as per the
+    org-agenda-add-entry-text-maxlines variable) from the entry inline
+    in the agenda buffer.
+
 * [2012-03-26 Mon] Started using deft                     :@emacs:@org:@deft:
   Started using [[http://jblevins.org/projects/deft/][deft]] for quickly accessing my [[http://orgmode.org/][org]] files. My setup so
   far (adapted from [[http://emacs-fu.blogspot.ca/2011/09/quick-note-taking-with-deft-and-org.html][here]]):
