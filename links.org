@@ -700,10 +700,10 @@
     http://byteflow.su/
   - blohg
     http://blohg.org/
-  - blohg » About blohg
-    http://blohg.org/about/
-  - Welcome to blohg’s documentation! — blohg v0.8 documentation
-    http://docs.blohg.org/
+    - blohg » About blohg
+      http://blohg.org/about/
+    - Welcome to blohg’s documentation! — blohg v0.8 documentation
+      http://docs.blohg.org/
   - dz/chisel - GitHub
     https://github.com/dz/chisel
   - Cyrax — Cyrax v2.5
@@ -765,28 +765,28 @@
    http://flatpress.org/home/
   - Stacey, The Lightweight Content Management System
     http://staceyapp.com/
-  - In Use, Stacey
-    http://staceyapp.com/in-use/
+    - In Use, Stacey
+      http://staceyapp.com/in-use/
   - Blogofile
     http://www.blogofile.com/
-  - Blogofile
-    http://www.blogofile.com/blog/
-  - Documentation Blogofile Blogofile v1.0 DEV documentation
-    http://www.blogofile.com/documentation/
+    - Blogofile
+      http://www.blogofile.com/blog/
+    - Documentation Blogofile Blogofile v1.0 DEV documentation
+      http://www.blogofile.com/documentation/
   - welcome to Mako!
     http://www.makotemplates.org/
   - obensonne / poole overview / Bitbucket
     https://bitbucket.org/obensonne/poole
   - Hyde - A Python Static Website Generator
     http://ringce.com/hyde
-  - lakshmivyas/hyde - GitHub
-    https://github.com/lakshmivyas/hyde
-  - sjl/stevelosh - GitHub
-    https://github.com/sjl/stevelosh
-  - Blog / Steve Losh
-    http://stevelosh.com/blog/
-  - Moving from Django to Hyde / Steve Losh
-    http://stevelosh.com/blog/2010/01/moving-from-django-to-hyde/
+    - lakshmivyas/hyde - GitHub
+      https://github.com/lakshmivyas/hyde
+    - sjl/stevelosh - GitHub
+      https://github.com/sjl/stevelosh
+    - Blog / Steve Losh
+      http://stevelosh.com/blog/
+    - Moving from Django to Hyde / Steve Losh
+      http://stevelosh.com/blog/2010/01/moving-from-django-to-hyde/
   - Stango - Static web site generator for Python programmers
     http://www.digip.org/stango/
   - Welcome Jinja2 to Jinja2 2.7-dev documentation
@@ -812,7 +812,7 @@
     - notmyidea-cms/screenshot.png at master from ametaireau/pelican-themes - GitHub
       https://github.com/ametaireau/pelican-themes/blob/master/notmyidea-cms/screenshot.png
   - marcoarment/secondcrack - GitHub
-    https://github.com/marcoarment/secondcrack
+    https://github.com/macoarment/secondcrack
   
 * [2011-11-20 Sun] System info on a web page :@server:@homenetwork:@monitoring:
   - phpSysInfo
@@ -1116,6 +1116,8 @@
     http://punchagan.muse-amuse.in/blog/wp-to-org-mode-hyde-disqus
   - punchagan/org-hyde
     https://github.com/punchagan/org-hyde
+  - A new Hyde?
+    https://github.com/hyde/hyde
 ** NEXT [#A] Investigate this - Org-mode to Jekyll
    - org-jekyll, export blog posts from org-mode
      http://juanreyero.com/open/org-jekyll/

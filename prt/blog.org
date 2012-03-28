@@ -2,7 +2,7 @@
 #+AUTHOR: Paul Provost
 #+EMAIL: paul@bouzou.org
 #+DESCRIPTION: 
-#+FILETAGS: @blog:@prt
+#+FILETAGS: :blog:@prt
 
 * [2012-03-27 Tue] Org-mode discoveries                         :@emacs:@org:
   Today's discoveries in org-mode's agenda view:
