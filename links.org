@@ -1125,3 +1125,12 @@
      http://orgmode.org/worg/org-tutorials/org-jekyll.html
    - mojombo/jekyll
      https://github.com/mojombo/jekyll
+
+* [2012-03-28 Wed] MAX-based iPad controller                :@max:@ipad:@osc:
+  - preview of a new multitouch iPad OSC controller, used to play the
+    ag.granular.suite on Vimeo
+    http://vimeo.com/27190010
+  - Jamoma.org
+    http://jamoma.org/
+  - Software - ag.granular.suite for Max/MSP
+    http://www.audibledata.com/Software.html
