@@ -503,7 +503,10 @@
   - Op-Amp review page
     http://www.rock-grotto.co.uk/opamp.htm
 
-* TODO [#A] [2011-11-08 Tue] Time machine tweaks           :@mac:timemachine:
+* DONE [#A] [2011-11-08 Tue] Time machine tweaks           :@mac:timemachine:
+  :LOGBOOK:
+  - State "DONE"       from "TODO"       [2012-03-29 Thu 10:37]
+  :END:
   :PROPERTIES:
   :ID:       d0a001af-917a-4168-819a-97ea5208eb7e
   :END:
@@ -820,17 +823,21 @@
   - System information: vz-web-3.sog (192.168.42.1)
     http://phpsysinfo.sourceforge.net/phpsysinfo/index.php?disp=dynamic
 
-* [2011-11-20 Sun] Managing dotfiles in mercurial             :@dotfiles:@hg:
-  - Smarter Code: Versioning Dotfiles in Mercurial
-    http://blog.smartercode.net/2010/02/versioning-dotfiles-in-mercurial.html
-  - Smarter Code: Managing Divergent Dotfiles with Mercurial Queues
-    http://blog.smartercode.net/2010/02/managing-divergent-dotfiles-with.html
-  - garybernhardt/dotfiles - GitHub
-    https://github.com/garybernhardt/dotfiles
-  - Carousel is a <i>lie!</i>: Mercurial for dotfiles
-    http://saintaardvarkthecarpeted.com/blog/archive/2009/02/Mercurial_for_dotfiles.html
-  - SingleDeveloperMultipleComputers - Mercurial
-    http://mercurial.selenic.com/wiki/SingleDeveloperMultipleComputers
+* NEXT [#A] [2011-11-20 Sun] Managing dotfiles with revision control :@dotfiles:@hg:
+** Requirements
+** Links
+  - Mercurial
+    - Smarter Code: Versioning Dotfiles in Mercurial
+      http://blog.smartercode.net/2010/02/versioning-dotfiles-in-mercurial.html
+    - Smarter Code: Managing Divergent Dotfiles with Mercurial Queues
+      http://blog.smartercode.net/2010/02/managing-divergent-dotfiles-with.html
+    - Carousel is a <i>lie!</i>: Mercurial for dotfiles
+      http://saintaardvarkthecarpeted.com/blog/archive/2009/02/Mercurial_for_dotfiles.html
+    - SingleDeveloperMultipleComputers - Mercurial
+      http://mercurial.selenic.com/wiki/SingleDeveloperMultipleComputers
+  - git
+    - garybernhardt/dotfiles - GitHub
+      https://github.com/garybernhardt/dotfiles
   - dotfiles « xyld
     http://xylld.wordpress.com/tag/dotfiles/
 
@@ -1136,3 +1143,7 @@
     http://jamoma.org/
   - Software - ag.granular.suite for Max/MSP
     http://www.audibledata.com/Software.html
+
+* NEXT [#A] [2012-03-29 Thu] Installing meld on Mac OS X             :@macos:
+  - How to install meld in Mac OS X Lion
+    http://scoobygalletas.blogspot.ca/2011/09/how-to-install-meld-in-mac-os-x-lion.html

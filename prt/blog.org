@@ -5,6 +5,9 @@
 #+FILETAGS: :blog:@prt
 
 * [2012-03-27 Tue] Org-mode discoveries                         :@emacs:@org:
+  :PROPERTIES:
+  :on: [2012-03-27 Tue]
+  :END:
   Today's discoveries in org-mode's agenda view:
   - Follow mode ('F'): going through the agenda view displays the
     related lines in another window. Using 'o' gets rid of the other
@@ -14,6 +17,9 @@
     in the agenda buffer.
 
 * [2012-03-26 Mon] Started using deft                     :@emacs:@org:@deft:
+  :PROPERTIES:
+  :on: [2012-03-26 Mon]
+  :END:
   Started using [[http://jblevins.org/projects/deft/][deft]] for quickly accessing my [[http://orgmode.org/][org]] files. My setup so
   far (adapted from [[http://emacs-fu.blogspot.ca/2011/09/quick-note-taking-with-deft-and-org.html][here]]):
   : (when (require 'deft nil 'noerror) 
