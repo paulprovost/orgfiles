@@ -1119,10 +1119,6 @@
     https://github.com/github/markup
   - Pandoc - About pandoc
     http://johnmacfarlane.net/pandoc/
-  - Rustic Reverie: WP to org-mode + hyde + disqus
-    http://punchagan.muse-amuse.in/blog/wp-to-org-mode-hyde-disqus
-  - punchagan/org-hyde
-    https://github.com/punchagan/org-hyde
   - A new Hyde?
     https://github.com/hyde/hyde
 ** NEXT [#A] Investigate this - Org-mode to Jekyll
@@ -1134,6 +1130,14 @@
      http://orgmode.org/worg/org-tutorials/org-jekyll.html
    - mojombo/jekyll
      https://github.com/mojombo/jekyll
+** NEXT [#A] Investigate
+  - punchagan/blog-files
+    https://github.com/punchagan/blog-files
+  - Rustic Reverie: WP to org-mode + hyde + disqus
+    http://punchagan.muse-amuse.in/blog/wp-to-org-mode-hyde-disqus
+  - punchagan/org-hyde
+    https://github.com/punchagan/org-hyde
+
 
 * [2012-03-28 Wed] MAX-based iPad controller                :@max:@ipad:@osc:
   - preview of a new multitouch iPad OSC controller, used to play the
