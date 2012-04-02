@@ -1130,7 +1130,11 @@
      http://orgmode.org/worg/org-tutorials/org-jekyll.html
    - mojombo/jekyll
      https://github.com/mojombo/jekyll
-** NEXT [#A] Investigate
+** CANCELLED [#A] Investigate
+   :LOGBOOK:
+   - State "CANCELLED"  from "NEXT"       [2012-04-02 Mon 16:41] \\
+     Old version of Hyde. See [[file:links.org::*%5B2012-04-02%20Mon%5D%20Hyde%20notes%20and%20examples][{2012-04-02 Mon} Hyde notes and examples]]
+   :END:
   - punchagan/blog-files
     https://github.com/punchagan/blog-files
   - Rustic Reverie: WP to org-mode + hyde + disqus
@@ -1155,3 +1159,30 @@
 * [2012-04-02 Mon] Static CMS generator                :@python:@static:@cms:
    - AYM CMS
      http://aymcms.com/
+
+* NEXT [#A] [2012-04-02 Mon] Hyde notes and examples :@python@hyde:@prt:@blog:
+  :LOGBOOK:
+  - State "NEXT"       from ""           [2012-04-02 Mon 16:42]
+  :END:
+   - Hyde Starter Kit | About
+     http://merlin.rebrovic.net/hyde-starter-kit/about.html
+   - Overview
+     http://hyde.github.com/
+   - Overview
+     http://hyde.github.com/
+   - hyde/hyde
+     https://github.com/hyde/hyde
+   - hyde/hyde-mode
+     https://github.com/hyde/hyde-mode
+   - auzigog/hyde-bootstrap
+     https://github.com/auzigog/hyde-bootstrap
+   - Hyde Powered · hyde/hyde Wiki
+     https://github.com/hyde/hyde/wiki/Hyde-Powered
+   - latest entries - aleph.nu
+     http://aleph.nu/
+   - idank / site / source — Bitbucket
+     https://bitbucket.org/idank/site/src
+   - Adam's Blog » Blog Archive » Website Overhaul UpdateHyde research/examples/deployment
+     http://www.adamtindale.com/blog/uncategorized/145/
+   - jd's homepage | Julien Danjou
+     http://julien.danjou.info/
