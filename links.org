@@ -1151,3 +1151,7 @@
 * NEXT [#A] [2012-03-29 Thu] Installing meld on Mac OS X             :@macos:
   - How to install meld in Mac OS X Lion
     http://scoobygalletas.blogspot.ca/2011/09/how-to-install-meld-in-mac-os-x-lion.html
+
+* [2012-04-02 Mon] Static CMS generator                :@python:@static:@cms:
+   - AYM CMS
+     http://aymcms.com/
