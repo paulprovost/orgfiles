@@ -1,0 +1,45 @@
+#+TITLE: Blog entries for Paul's Random Thoughts
+#+AUTHOR: Paul Provost
+#+EMAIL: paul@bouzou.org
+#+DESCRIPTION: 
+#+FILETAGS: :blog:@prt:
+
+* [2012-04-03 Tue] Saving a read-only file in vi                  :@unix:@vi:
+  From here. This has happened to me more times than I care to
+  mention. A trick for saving a file you edited in vim/vi without the
+  needed permissions:
+  : :w !sudo tee %
+
+* [2012-03-27 Tue] Org-mode discoveries                    :@emacs:@org:blog:
+  :PROPERTIES:
+  :POST_DATE: [2012-03-27 Tue]
+  :WEB_CAT: test
+  :END:
+  Today's discoveries in org-mode's agenda view:
+  - Follow mode ('F'): going through the agenda view displays the
+    related lines in another window. Using 'o' gets rid of the other
+    windows.
+  - Entry text mode ('E'): shows some lines (as per the
+    org-agenda-add-entry-text-maxlines variable) from the entry inline
+    in the agenda buffer.
+
+* [2012-03-26 Mon] Started using deft             :@emacs:@org:@deft:ol:blog:
+  :PROPERTIES:
+  :POST_DATE: [2012-03-26 Mon]
+  :WEB_CAT: test
+  :END:
+  Started using [[http://jblevins.org/projects/deft/][deft]] for quickly accessing my [[http://orgmode.org/][org]] files. My setup so
+  far (adapted from [[http://emacs-fu.blogspot.ca/2011/09/quick-note-taking-with-deft-and-org.html][here]]):
+  : (when (require 'deft nil 'noerror) 
+  :    (setq
+  :       deft-extension "org"
+  :       deft-directory "~/Documents/orgfiles/"
+  :       deft-text-mode 'org-mode
+  :       deft-use-filename-as-title t
+  :       )
+  :    (global-set-key (kbd "<f9>") 'deft)
+  :    )
+  This works nicely so far, although F9 on the Mac is already assigned
+  to Mission Control (which I rarely use). I'll have to decide which
+  is more important, I guess.
+
