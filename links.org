@@ -1130,8 +1130,9 @@
      http://orgmode.org/worg/org-tutorials/org-jekyll.html
    - mojombo/jekyll
      https://github.com/mojombo/jekyll
-** CANCELLED [#A] Investigate
+** NEXT [#A] Investigate
    :LOGBOOK:
+   - State "NEXT"       from "CANCELLED"  [2012-04-03 Tue 17:46]
    - State "CANCELLED"  from "NEXT"       [2012-04-02 Mon 16:41] \\
      Old version of Hyde. See [[file:links.org::*%5B2012-04-02%20Mon%5D%20Hyde%20notes%20and%20examples][{2012-04-02 Mon} Hyde notes and examples]]
    :END:
@@ -1160,8 +1161,10 @@
    - AYM CMS
      http://aymcms.com/
 
-* NEXT [#A] [2012-04-02 Mon] Hyde notes and examples :@python@hyde:@prt:@blog:
+* CANCELLED [#A] [2012-04-02 Mon] Hyde notes and examples :@python@hyde:@prt:@blog:
   :LOGBOOK:
+  - State "CANCELLED"  from "NEXT"       [2012-04-03 Tue 17:45] \\
+    Turns out that the "other" hyde may be better...
   - State "NEXT"       from ""           [2012-04-02 Mon 16:42]
   :END:
    - Hyde Starter Kit | About
@@ -1186,3 +1189,5 @@
      http://www.adamtindale.com/blog/uncategorized/145/
    - jd's homepage | Julien Danjou
      http://julien.danjou.info/
+
+* 
