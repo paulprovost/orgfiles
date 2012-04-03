@@ -5,10 +5,12 @@
 #+FILETAGS: :blog:@prt:
 
 * [2012-04-03 Tue] Saving a read-only file in vi                  :@unix:@vi:
-  From here. This has happened to me more times than I care to
+  From [[http://www.unixmen.com/10-great-and-powerful-linux-commands-you-may-need-to-know/][here]]. This has happened to me more times than I care to
   mention. A trick for saving a file you edited in vim/vi without the
   needed permissions:
   : :w !sudo tee %
+  And a version for emacs, using tramp:
+  : C-c C-f /sudo::/path/to/file
 
 * [2012-03-27 Tue] Org-mode discoveries                    :@emacs:@org:blog:
   :PROPERTIES:
