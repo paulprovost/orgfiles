@@ -10,7 +10,7 @@
   needed permissions:
   : :w !sudo tee %
   And a version for emacs, using tramp:
-  : C-c C-f /sudo::/path/to/file
+  : C-x C-w /sudo::/path/to/file
 
 * [2012-03-27 Tue] Org-mode discoveries                    :@emacs:@org:blog:
   :PROPERTIES:
