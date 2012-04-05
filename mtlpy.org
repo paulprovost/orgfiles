@@ -1,0 +1,17 @@
+* list comprehensions
+* Unicode strings - \N{CHARACTER_NAME}
+* List vs tuples - tuples are immutable
+** Tuples can be used to index dicts
+** Tuples - minimal overhead for parameter / return value passing.
+* frozenset - immuable set that can be used as a dict hash.
+* Syntax for dict: d = {frozenset([1, 2, 3]): 'foo'}
+* Ranges are first included, last excluded.
+** slice [0:2] returns 2 elements
+** step included in slice [1:2:3]
+** list assign using slices l[7:1:2] = ['a', 'b', 'c']
+* dict.setdefault() return the value that was set
+  : d.setdefault('E', []).append('Rita')
+* @property decorator - access variable transparently
+* TODO make a yasnippet
+  : # -=- encoding: utf-8 -=-
+* Sets are optimized for searching (btree'ed)
