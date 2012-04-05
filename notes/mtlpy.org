@@ -19,8 +19,10 @@
 * dict.setdefault() return the value that was set
   : d.setdefault('E', []).append('Rita')
 * @property decorator - access variable transparently
-* NEXT make a yasnippet
+* DONE make a yasnippet
   :LOGBOOK:
+  - State "DONE"       from "NEXT"       [2012-04-05 Thu 13:01] \\
+    Snippet added
   - State "NEXT"       from "TODO"       [2012-04-05 Thu 10:44]
   :END:
   : # -=- encoding: utf-8 -=-
