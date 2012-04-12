@@ -12,7 +12,7 @@
   titles of open windows. Pretty sweet. I'm always hunting for my
   youTube window...
 
-  So I figured there *must* be a way to do this in Quicksilver. Lo and
+  So I figured there *must* be a way to do this in [[http://qsapp.com/][Quicksilver]]. Lo and
   behold, there's the =Show All Windows= command, as well as the =Show
   Windows= command for application targets. Whip up a couple of
   triggers for =Opt-TAB= and =Ctrl-TAB=, and I might be able to get
