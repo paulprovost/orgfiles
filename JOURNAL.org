@@ -30,3 +30,9 @@
   into =~/.bash_completion.d/=. I can now complete elvis' and
   bookmarks (=sr= =TAB= =TAB=).
 
+* TODO [#A] [2012-04-12 Thu 15:27] Bad handling of periods in links. :@issue:@twit2rss:
+  :LOGBOOK:
+  - State "TODO"       from ""           [2012-04-12 Thu 15:27]
+  :END:
+  Periods are swallowed into the link text when links are linkified.
+
