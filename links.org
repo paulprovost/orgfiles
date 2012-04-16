@@ -1190,4 +1190,12 @@
    - jd's homepage | Julien Danjou
      http://julien.danjou.info/
 
-* 
+* [2012-04-16 Mon] File tagging for Linux / universal              :@tagging:
+  - What's a good solution for file-tagging in linux? - Super User
+   http://superuser.com/questions/81563/whats-a-good-solution-for-file-tagging-in-linux/97245#97245
+  - Talking Point: Could Linux Abandon Directories In Favour Of Tagging? | Linux Journal
+    http://www.linuxjournal.com/content/talking-point-could-linux-abandon-directories-favour-tagging
+  - www.tagsistant.net
+    http://www.tagsistant.net/
+  - TMSU
+    http://tmsu.org/
