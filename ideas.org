@@ -78,3 +78,9 @@
     - [Orgmode] Re: How to remove the automatically generated css codes from e
       http://www.mail-archive.com/emacs-orgmode@gnu.org/msg08857.html
       
+* STARTED Script to copy surf URLs to clipboard               :@script:@surf:
+  : wmctrl -l -x | grep surf.surf | awk  '{print $1}' | xargs -n 1 xprop -id \
+  :     | grep -i -e "^WM_NAME(.*) = " -e "^_SURF_URI(.*) = " \
+  :     | awk -F= '{print $2}' | tr -d '"' | tac \
+  :     |  sed -e 's/\(http[s]*:\)/   \1/; /http[s]*/!s/\(.*\)/ - \1/'
+  :     | xclip
