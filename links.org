@@ -1202,6 +1202,8 @@
 
 * [2012-04-17 Tue 12:15] Scripting window manager           :@script:@window:
   - [[http://www.burtonini.com/blog/computers/devilspie][Devil's Pie]]
+    - [[http://www.foosel.org/linux/devilspie][Devil's Pie documentation]]]
+    - [[http://live.gnome.org/DevilsPie][DevilsPie Help]]
   - [[http://tomas.styblo.name/wmctrl/][wmctrl]] A command line tool to interact with an EWMH/NetWM
     compatible X Window Manager.
   - [[http://code.google.com/p/wmectrl/][wmectrl]] - An enhanced window manager control.
