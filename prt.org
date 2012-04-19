@@ -8,3 +8,5 @@
   - Real site (with content) is at http://prts.wordpress.com/
   - Wordpress attempt on my own domain is at http://www.ohtoo.net/prt/
   - Test site is at http://marauder/~paul/blog/pyblosxom.fcgi
+  - files are [[file:prt/][here]]
+
