@@ -4,6 +4,36 @@
 #+DESCRIPTION: 
 #+FILETAGS: :blog:@prt:
 
+* [2012-04-19 Thu] Emacs and applescript integration    :@emacs:@applescript:
+  You can run applescript code from emacs-lisp using the
+  =do-applescript= function. I haven't figured out a good use for it
+  yet, but I see possibilities... For now, this defines a bit of
+  utilities and inserts the current tab open in Safari in org-mode
+  format:
+
+  #+BEGIN_SRC emacs-lisp 
+  (defun as-tell-app (app something)
+     (let ((res (do-applescript (concat "tell application \""
+                                        app "\" to " something))))
+       )
+     res
+     )
+
+  (defun as-safari-doc ()
+     (interactive)
+     (let ((url (as-tell-app "Safari" 
+                                 "get the URL of document 1"))
+           (name (as-tell-app "Safari" 
+                                 "get the name of window 1")))
+       (cons url name)))
+
+  (defun org-insert-safari-link ()
+     (interactive)
+     (let ((l (as-safari-doc)))
+       (insert (org-make-link-string (car l) (cdr l)))
+       (message "Link to %s inserted" (car l))))
+  #+END_SRC
+
 * [2012-04-03 Tue] Saving a read-only file in vi                  :@unix:@vi:
   From [[http://www.unixmen.com/10-great-and-powerful-linux-commands-you-may-need-to-know/][here]]. This has happened to me more times than I care to
   mention. A trick for saving a file you edited in vim/vi without the
