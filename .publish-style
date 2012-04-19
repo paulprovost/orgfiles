@@ -30,6 +30,15 @@
 #+STYLE:     background-color: #EEE;
 #+STYLE:     border: 1px solid #CCC;
 #+STYLE: }
+#+STYLE: code {
+#+STYLE:     overflow: auto;
+#+STYLE:     white-space: pre-wrap;
+#+STYLE:     font-family: Consolas, Inconsolata, Monaco, Andale Mono, monospace;
+#+STYLE:     font-size: 14px;
+#+STYLE:     line-height: 1.5;
+#+STYLE:     background-color: #EEE;
+#+STYLE:     border: 1px solid #CCC;
+#+STYLE: }
 #+STYLE: .todo { font-size: small; color: #A00; }
 #+STYLE: .done { font-size: small; color: #0A0; }
 #+STYLE: .tag {

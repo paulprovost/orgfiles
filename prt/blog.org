@@ -34,6 +34,21 @@
        (message "Link to %s inserted" (car l))))
   #+END_SRC
 
+* [2012-04-12 Thu 13:37] Navigating windows with Quicksilver       :@qs:blog:
+  This started with me finding plug-ins for the Windows
+  Quicksilver-like app that I've been using, [[http://www.launchy.net/][Launchy]]. First was the
+  [[http://code.google.com/p/putty-launchy-plugin/][PuTTY plug-in]], which lets me launch SSH sessions from Launchy. Very
+  nice. Then came the [[http://sourceforge.net/projects/tasky-launchy/][tasky]] plug-in, which lets Launchy search the
+  titles of open windows. Pretty sweet. I'm always hunting for my
+  youTube window...
+
+  So I figured there *must* be a way to do this in [[http://qsapp.com/][Quicksilver]]. Lo and
+  behold, there's the =Show All Windows= command, as well as the =Show
+  Windows= command for application targets. Whip up a couple of
+  triggers for =Opt-TAB= and =Ctrl-TAB=, and I might be able to get
+  rid of [[http://manytricks.com/witch/][Witch]]. I like it fine, but why have an extra thing running
+  when Quicksilver can do the job.
+
 * [2012-04-03 Tue] Saving a read-only file in vi                  :@unix:@vi:
   From [[http://www.unixmen.com/10-great-and-powerful-linux-commands-you-may-need-to-know/][here]]. This has happened to me more times than I care to
   mention. A trick for saving a file you edited in vim/vi without the

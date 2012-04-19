@@ -1,0 +1,38 @@
+#+TITLE: Journal file
+#+AUTHOR: Paul Provost
+#+EMAIL: paul@bouzou.org
+#+DESCRIPTION: Day-to-day tracking
+#+SETUPFILE: .publish-style
+* New Ideas
+** Track changes made when installing                        :@install:@linux
+   - Use
+     : find ~/local -type f -exec ls -l {} \;
+     before and after the install, and diff between them.
+* [2012-04-05 Thu] Installed surfraw from source on drd1812 :@install:@surfraw:
+  The packaged surfraw was having trouble with opening web
+  pages. Chrome would start, but only show a blank page. I figured I
+  would install from [[http://surfraw.alioth.debian.org/][source]]. All went well, but the bash completion
+  was gone with the Debian package. To bring it back, I added the
+  following (with inspiration from [[http://www.scons.org/wiki/BashCompletion][here]], which is for another package,
+  but showed me how to create a =.bash_completion.d= directory and
+  source all its contents). I ended up with a =.bash_completion= as
+  follows:
+  #+BEGIN_SRC shell-script
+  # -*- mode:shell-script -*-
+  for file in ~/.bash_completion.d/*
+  do
+      [[ ${file##*/} != @(*~|*.bak|*.swp|\#*\#|*.dpkg*|.rpm*) ]] &&
+          [ \( -f $file -o -h $file \) -a -r $file ] &&
+          . $file
+  done
+  #+END_SRC
+  Then I copied the =surfraw-bash-completion= file from the install
+  into =~/.bash_completion.d/=. I can now complete elvis' and
+  bookmarks (=sr= =TAB= =TAB=).
+
+* TODO [#A] [2012-04-12 Thu 15:27] Bad handling of periods in links. :@issue:@twit2rss:
+  :LOGBOOK:
+  - State "TODO"       from ""           [2012-04-12 Thu 15:27]
+  :END:
+  Periods are swallowed into the link text when links are linkified.
+

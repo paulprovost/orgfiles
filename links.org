@@ -1189,3 +1189,31 @@
      http://www.adamtindale.com/blog/uncategorized/145/
    - jd's homepage | Julien Danjou
      http://julien.danjou.info/
+
+* [2012-04-16 Mon] File tagging for Linux / universal              :@tagging:
+  - What's a good solution for file-tagging in linux? - Super User
+   http://superuser.com/questions/81563/whats-a-good-solution-for-file-tagging-in-linux/97245#97245
+  - Talking Point: Could Linux Abandon Directories In Favour Of Tagging? | Linux Journal
+    http://www.linuxjournal.com/content/talking-point-could-linux-abandon-directories-favour-tagging
+  - www.tagsistant.net
+    http://www.tagsistant.net/
+  - TMSU
+    http://tmsu.org/
+
+* [2012-04-17 Tue 12:15] Scripting window manager           :@script:@window:
+  - [[http://www.burtonini.com/blog/computers/devilspie][Devil's Pie]]
+    - [[http://www.foosel.org/linux/devilspie][Devil's Pie documentation]]]
+    - [[http://live.gnome.org/DevilsPie][DevilsPie Help]]
+  - [[http://tomas.styblo.name/wmctrl/][wmctrl]] A command line tool to interact with an EWMH/NetWM
+    compatible X Window Manager.
+  - [[http://code.google.com/p/wmectrl/][wmectrl]] - An enhanced window manager control.
+  - [[http://code.google.com/p/xctrl/][xctrl]] - Shared library to control an X11 window manager. 
+
+* [2012-04-17 Tue 14:17] Backpack                    :@laptop:@backpack:@bag:
+  - [[http://www.chromebagsstore.com/bags/laptop-bags/soyuz.html][Soyuz - Laptop Bags - Bags | CHROME | Official Site]]
+  - [[http://www.booqbags.com/laptop-backpacks-laptop-bags/15-inch-macbook-pro-bags/Mamba-shift-M-denim][Laptop Backpacks by booq - Mamba-shift-M-denim]]
+  - [[http://www.tombihn.com/page/001/PROD/300/TB0103][The Smart Alec Backpack is cooler than you. Even cooler than: TOM BIHN]]
+  - [[http://www.timbuk2.com/tb2/custom#/features/13][Timbuk2 - Build Your Own Bag - Choose Your Bag]]
+  - [[http://www.rickshawbags.com/customize/custom-bag/fabric_selection/skinny-commuter-backpack#!cordura-steel/cordura-foliage/label-turquoise][Skinny Commuter Backpack | Rickshaw Bag Customizer]]
+    - Detachable key ring, usable for USB key
+

@@ -1,3 +1,10 @@
+#+TITLE: Notes from the mtlpy python workshop
+#+AUTHOR: Paul Provost
+#+EMAIL: paul@bouzou.org
+#+DESCRIPTION: [[http://montrealpython.org/r/projects/workshops/wiki/2012-04-04][Python : notions plus avancées et exploitation de l'API Twitter]]
+#+FILETAGS: @python
+
+* [[http://montrealpython.org/r/projects/workshops/wiki/2012-04-04][Python : notions plus avancées et exploitation de l'API Twitter]]
 * list comprehensions
 * Unicode strings - \N{CHARACTER_NAME}
 * List vs tuples - tuples are immutable
@@ -12,6 +19,11 @@
 * dict.setdefault() return the value that was set
   : d.setdefault('E', []).append('Rita')
 * @property decorator - access variable transparently
-* TODO make a yasnippet
+* DONE make a yasnippet
+  :LOGBOOK:
+  - State "DONE"       from "NEXT"       [2012-04-05 Thu 13:01] \\
+    Snippet added
+  - State "NEXT"       from "TODO"       [2012-04-05 Thu 10:44]
+  :END:
   : # -=- encoding: utf-8 -=-
 * Sets are optimized for searching (btree'ed)
