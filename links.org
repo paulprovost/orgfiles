@@ -1217,3 +1217,20 @@
   - [[http://www.rickshawbags.com/customize/custom-bag/fabric_selection/skinny-commuter-backpack#!cordura-steel/cordura-foliage/label-turquoise][Skinny Commuter Backpack | Rickshaw Bag Customizer]]
     - Detachable key ring, usable for USB key
 
+* [2012-04-26 Thu] Running foobar2000 on Linux/Mac        :@wine:@foobar2000:
+  - foobar2000 for Mac OS X - Hydrogenaudio Forums
+    http://www.hydrogenaudio.org/forums/index.php?showtopic=77261
+  - WineBottler - Run Windows Programs directly on OS X
+    http://winebottler.kronenberg.org/
+  - Running Foobar in Linux - Hydrogenaudio Forums
+    http://www.hydrogenaudio.org/forums/index.php?showtopic=54933
+  - polishlinux.org » Foobar2000 under Wine in Ubuntu
+    http://polishlinux.org/apps/multimedia/foobar2000-under-wine-in-ubuntu/
+  - wine osx - Google Search
+    https://www.google.com/search?q=wine+osx
+  - MacOSX/Installing - The Official Wine Wiki
+    http://wiki.winehq.org/MacOSX/Installing
+  - Wineskin, Play your favorite Windows games on Mac OS X without needing Microsoft Windows
+    http://wineskin.doh123.com/
+  - Home - PlayOnMac - Run your Windows applications on Mac easily!
+    http://www.playonmac.com/en
