@@ -36,3 +36,16 @@
   :END:
   Periods are swallowed into the link text when links are linkified.
 
+* [2012-04-30 Mon] Montreal Python #29                       :@python:@mtlpy:
+  - pyramid + bottlecap for ux
+  - Redis - noSQL key-value store
+  - Metaphone - indexing words from pronunciation
+  - Levenshtein distance - distance between two words
+  - Gunicorn - WSGI server
+  - Supervisor - manage daemon processes (like WSGI servers)
+  - WebCore
+    - toscawidgets?
+    - scrypt for encryption?
+  - other image processing library: OpenCV
+  - buildout for distribution?
+  - Watch for pysetup to replace pip!
