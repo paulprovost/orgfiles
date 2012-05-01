@@ -8,6 +8,7 @@
    - Use
      : find ~/local -type f -exec ls -l {} \;
      before and after the install, and diff between them.
+
 * [2012-04-05 Thu] Installed surfraw from source on drd1812 :@install:@surfraw:
   The packaged surfraw was having trouble with opening web
   pages. Chrome would start, but only show a blank page. I figured I
