@@ -46,3 +46,11 @@
     : MP4Box -raw <track number> <file>
   - Make the .aac file into a proper music file (.m4a)
     :  MP4Box -add <file.aac> <file.m4a>
+
+* [2012-05-01 Tue] Git - fix initial commit without name and mail      :@git:
+  This is mentioned when you do the commit, but on a large one, it quickly
+  disappears.
+  : git config --global user.name "Your Name"
+  : git config --global user.email you@example.com
+   Then the identity used for the commit with:
+  : git commit --amend --reset-author
