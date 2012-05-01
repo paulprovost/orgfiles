@@ -29,6 +29,7 @@
   :ID:       ec5a41c6-90ba-4b0c-a20b-6bd7727da1c0
   :END:
   [2010-07-23 Fri 13:00]
+* TOBUY Michel Houellebecq [[http://fr.wikipedia.org/wiki/H._P._Lovecraft._Contre_le_monde,_contre_la_vie][H. P. Lovecraft. Contre le monde, contre la vie]]
 * READ Dan Abnett - Embedded
   :LOGBOOK:
   - State "READ"       from "READING"    [2012-03-19 Mon 20:22]
