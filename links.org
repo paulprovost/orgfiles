@@ -1234,3 +1234,9 @@
     http://wineskin.doh123.com/
   - Home - PlayOnMac - Run your Windows applications on Mac easily!
     http://www.playonmac.com/en
+
+* [2012-05-02 Wed] Graphics engines                          :@dev:@graphics:
+   - cairographics.org
+     http://www.cairographics.org/
+   - Anti-Grain Geometry -
+     http://www.antigrain.com/
