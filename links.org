@@ -1240,3 +1240,19 @@
      http://www.cairographics.org/
    - Anti-Grain Geometry -
      http://www.antigrain.com/
+
+* [2012-05-02 Wed] Using org-mode as an agenda - notifications  :@emacs:@org:
+   - orgmode.org/w/?p=org-mode.git;a=blob_plain;f=contrib/lisp/org-notify.el;hb=HEAD
+     http://orgmode.org/w/?p=org-mode.git;a=blob_plain;f=contrib/lisp/org-notify.el;hb=HEAD
+   - Org-mode Frequently Asked Questions
+     http://orgmode.org/worg/org-faq.html
+   - todo items and email
+     http://thread.gmane.org/gmane.emacs.orgmode/6112
+   - automatic reminders in Emacs as pop ups was: Re: Survey results
+     http://article.gmane.org/gmane.emacs.orgmode/5271
+   - EmacsWiki: Appointment Mode
+     http://www.emacswiki.org/emacs/AppointmentMode
+   - EmacsWiki: Diary Mode
+     http://www.emacswiki.org/emacs/DiaryMode
+   - emacs-fu: showing pop-ups
+     http://emacs-fu.blogspot.ca/2009/11/showing-pop-ups.html
