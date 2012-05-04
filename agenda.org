@@ -7,6 +7,9 @@
 * Paye EA
   SCHEDULED: <2012-01-05 Thu +2w>
 
+* Jour de glycémie
+  SCHEDULED: <2012-01-05 Thu +10d>
+
 * Paiement hypothèque Noyan
   SCHEDULED: <2012-04-20 Fri +2w>
 
