@@ -1256,3 +1256,7 @@
      http://www.emacswiki.org/emacs/DiaryMode
    - emacs-fu: showing pop-ups
      http://emacs-fu.blogspot.ca/2009/11/showing-pop-ups.html
+
+* [2012-05-03 Thu] Textastic                                   :@ipad:@tobuy:
+  - [[http://www.textasticapp.com/][Textastic - Text, Code and Markup Editor with Syntax Highlighting - FTP, SFTP, Dropbox - for iPad]]
+  - [[http://itunes.apple.com/gb/app/textastic-code-editor/id383577124?mt][http://www.textasticapp.com/]]
