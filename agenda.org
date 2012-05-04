@@ -1,0 +1,14 @@
+#+TITLE: Tenue d'agenda
+#+AUTHOR: Paul Provost
+#+EMAIL: paul@bouzou.org
+#+DESCRIPTION: Essai de tenir un agenda dans org
+#+FILETAGS: @agenda
+
+* Paye EA
+  SCHEDULED: <2012-01-05 Thu +2w>
+
+* Paiement hypothèque Noyan
+  SCHEDULED: <2012-04-20 Fri +2w>
+
+* Remboursement de $460.23 par Elisabeth - Marge hypothécaire
+  SCHEDULED: <2012-05-04 Fri>
