@@ -1216,6 +1216,7 @@
   - [[http://www.timbuk2.com/tb2/custom#/features/13][Timbuk2 - Build Your Own Bag - Choose Your Bag]]
   - [[http://www.rickshawbags.com/customize/custom-bag/fabric_selection/skinny-commuter-backpack#!cordura-steel/cordura-foliage/label-turquoise][Skinny Commuter Backpack | Rickshaw Bag Customizer]]
     - Detachable key ring, usable for USB key
+    - Ordered - [2012-04-18 Wed]
 
 * [2012-04-26 Thu] Running foobar2000 on Linux/Mac        :@wine:@foobar2000:
   - foobar2000 for Mac OS X - Hydrogenaudio Forums
