@@ -3,6 +3,7 @@
 #+EMAIL: paul@bouzou.org
 #+DESCRIPTION: Textes de chanson à garder sous l'oreiller
 #+FILETAGS: @texte:@chanson
+#+SETUPFILE: .publish-style
 
 * Brest - Miossec
   - [[http://www.lacoccinelle.net/300613.html][Paroles et traduction Christophe Miossec : Brest - paroles de chanson]]
@@ -48,3 +49,161 @@
   Est-ce qu'aujourd'hui au moins quelqu'un
   Te berce ?
 
+* Tu verras - Claude Nougaro
+  Ah, tu verras, tu verras
+  Tout recommencera, tu verras, tu verras
+  L´amour c´est fait pour ça, tu verras, tu verras
+  Je ferai plus le con, j´apprendrai ma leçon
+  Sur le bout de tes doigts, tu verras, tu verras
+  Tu l´auras, ta maison avec des tuiles bleues
+  Des croisées d´hortensias, des palmiers plein les cieux
+  Des hivers crépitants, près du chat angora
+  Et je m´endormirai, tu verras, tu verras
+  Le devoir accompli, couché tout contre toi
+  Avec dans mes greniers, mes caves et mes toits
+  Tous les rêves du monde
+
+  Ah, tu verras, tu verras
+  Tout recommencera, tu verras, tu verras
+  La vie, c´est fait pour ça, tu verras, tu verras
+  Tu verras mon stylo emplumé de soleil
+  Neiger sur le papier l´archange du réveil
+  Je me réveillerai, tu verras, tu verras
+  Tout rayé de soleil, ah, le joli forçat!
+  Et j´irai réveiller le bonheur dans ses draps
+  Je crèv´rai son sommeil, tu verras, tu verras
+  Je crèv´rai le sommier, tu verras, tu verras
+  En t´inventant l´amour dans le cœur de mes bras
+  Jusqu´au matin du monde
+
+  Ah, tu verras, tu verras
+  Tout recommencera, tu verras, tu verras
+  Le diable est fait pour ça, tu verras, tu verras
+  Je ferai le voyou, tu verras, tu verras
+  Je boirai comme un trou et qui vivra mourra
+  Tu me ramasseras dans tes yeux de rosée
+  Et je t´insulterai dans du verre brisé
+  Je serai fou furieux, tu verras, tu verras
+  Contre toi, contre tous, et surtout contre moi
+  La porte de mon cœur grondera, sautera
+  Car la poudre et la foudre, c´est fait pour que les rats
+  Envahissent le monde
+
+  Ah, tu verras, tu verras
+  Tout recommencera, tu verras, tu verras
+  Mozart est fait pour ça, tu verras, entendras
+  Tu verras notre enfant étoilé de sueur
+  S´endormir gentiment à l´ombre de ses sœurs
+  Et revenir vers nous scintillant de vigueur
+  Tu verras mon ami dans les os de mes bras
+  Craquer du fin bonheur de se sentir aidé
+  Tu me verras, chérie, allumer des clartés
+  Et tu verras tous ceux qu´on croyait décédés
+  Reprendre souffle et vie dans la chair de ma voix
+  Jusqu´à la fin des mondes
+
+  Ah, tu verras, tu verras
+
+* Everybody Knows - Leonard Cohen
+  Everybody knows that the dice are loaded 
+  Everybody rolls with their fingers crossed 
+  Everybody knows that the war is over 
+  Everybody knows the good guys lost 
+  Everybody knows the fight was fixed 
+  The poor stay poor, the rich get rich 
+  That's how it goes 
+  Everybody knows 
+  Everybody knows that the boat is leaking 
+  Everybody knows that the captain lied 
+  Everybody got this broken feeling 
+  Like their father or their dog just died 
+
+  Everybody talking to their pockets 
+  Everybody wants a box of chocolates 
+  And a long stem rose 
+  Everybody knows 
+
+  Everybody knows that you love me baby 
+  Everybody knows that you really do 
+  Everybody knows that you've been faithful 
+  Ah give or take a night or two 
+  Everybody knows you've been discreet 
+  But there were so many people you just had to meet 
+  Without your clothes 
+  And everybody knows 
+
+  Everybody knows, everybody knows 
+  That's how it goes 
+  Everybody knows 
+
+  Everybody knows, everybody knows 
+  That's how it goes 
+  Everybody knows 
+
+  And everybody knows that it's now or never 
+  Everybody knows that it's me or you 
+  And everybody knows that you live forever 
+  Ah when you've done a line or two 
+  Everybody knows the deal is rotten 
+  Old Black Joe's still pickin' cotton 
+  For your ribbons and bows 
+  And everybody knows 
+
+  And everybody knows that the Plague is coming 
+  Everybody knows that it's moving fast 
+  Everybody knows that the naked man and woman 
+  Are just a shining artifact of the past 
+  Everybody knows the scene is dead 
+  But there's gonna be a meter on your bed 
+  That will disclose 
+  What everybody knows 
+
+  And everybody knows that you're in trouble 
+  Everybody knows what you've been through 
+  From the bloody cross on top of Calvary 
+  To the beach of Malibu 
+  Everybody knows it's coming apart 
+  Take one last look at this Sacred Heart 
+  Before it blows 
+  And everybody knows 
+
+  Everybody knows, everybody knows 
+  That's how it goes 
+  Everybody knows 
+
+  Oh everybody knows, everybody knows 
+  That's how it goes 
+  Everybody knows 
+
+  Everybody knows
+
+* Dance me to the End of Love - Leonard Cohen
+
+  Dance me to your beauty with a burning violin 
+  Dance me through the panic 'til I'm gathered safely in 
+  Lift me like an olive branch and be my homeward dove 
+  Dance me to the end of love 
+  Dance me to the end of love 
+  Oh let me see your beauty when the witnesses are gone 
+  Let me feel you moving like they do in Babylon 
+  Show me slowly what I only know the limits of 
+  Dance me to the end of love 
+  Dance me to the end of love 
+
+  Dance me to the wedding now, dance me on and on 
+  Dance me very tenderly and dance me very long 
+  We're both of us beneath our love, we're both of us above 
+  Dance me to the end of love 
+  Dance me to the end of love 
+
+  Dance me to the children who are asking to be born 
+  Dance me through the curtains that our kisses have outworn 
+  Raise a tent of shelter now, though every thread is torn 
+  Dance me to the end of love 
+
+  Dance me to your beauty with a burning violin 
+  Dance me through the panic till I'm gathered safely in 
+  Touch me with your naked hand or touch me with your glove 
+  Dance me to the end of love 
+  Dance me to the end of love 
+  Dance me to the end of love
