@@ -1,0 +1,67 @@
+#+TITLE: Liste incontournables musique symphonique OSM-DLR
+#+DESCRIPTION: Compilation des incontournables de la musique symphonique Projet d’exposition/concert de mai 2011 Partenariat entre DANS LA RUE & L’ORCHESTRE SYMPHONIQUE DE MONTREAL
+#+FILETAGS: @classique
+
+| 1677 | Johann PACHELBEL            | Canon de Pachelbel                                        |  4:50 |
+| 1689 | Henry PURCELL               | When I am laid in earth                                   |  8:03 |
+| 1720 | Johann Sebastian BACH       | Prélude-Suite pour violoncelle No.1                       |  2:54 |
+| 1725 | Antonio VIVALDI             | Les quatre saisons-Printemps-Concerto en mi majeur        |  3:34 |
+| 1725 | Antonio VIVLADI             | L'été/Concerto No.2 en sol mineur                         |  2:40 |
+| 1736 | Giovanni Battista PERGOLESI | Stabat Mater                                              |  4:09 |
+| 1786 | Wolfgang Amadeus MOZART     | Les noces de Figaro                                       |  4:12 |
+| 1787 | Wolfgang Amadeus MOZART     | Eine Kleine Nachtmusik                                    |  6:33 |
+| 1791 | Wolfgang Amadeus MOZART     | Requiem Lacrimosa 1                                       |  5:57 |
+| 1801 | Ludwig Von BEETHOVEN        | Sonate au clair de Lune                                   |  5:31 |
+| 1822 | Ludwig Von BEETHOVEN        | Symphonie No.6-Orage                                      |  3:42 |
+| 1822 | Ludwig Von BEETHOVEN        | Symphonie No.9                                            |  1:13 |
+| 1824 | Franz SCHUBERT              | La jeune fille et la mort - Quatuor à cordes en ré mineur |  7:23 |
+| 1825 | Ludwig Von BEETHOVEN        | Symphonie No.9 en ré mineur                               |  3:35 |
+| 1829 | Gioachino ROSSINI           | Guillaume Tell                                            |  3:21 |
+| 1830 | Frédéric CHOPIN             | Nocturne en do mineur                                     |  5:00 |
+| 1867 | Modeste MOUSSORGSKI         | Une nuit sur le Mont Chauve                               |  6:31 |
+| 1870 | Richard WAGNER              | Die Walkure (La Walkyrie)                                 |  1:25 |
+| 1871 | Piotr Illitch TCHAIKOVSKI   | Valse du Lac des cygnes                                   |  2:28 |
+| 1874 | Bedřich SMETANA             | La Moldau                                                 |  4:03 |
+| 1874 | Camille ST SAENS            | Danse macabre                                             |  6:28 |
+| 1874 | Edvard GRIEG                | Au matin                                                  |  4:44 |
+| 1877 | Piotr Illitch TCHAIKOVSKI   | Symphonie No.4                                            |  5:28 |
+| 1877 | Piotr Illitch TCHAIKOVSKI   | Symphonie No.4-Opus 36                                    |  3:56 |
+| 1888 | Nicolaï RIMSKI-KORSAKOV     | Shéhérazade, la mer et le vaisseau                        |  7:03 |
+| 1890 | Claude DEBUSSY              | Clair de Lune                                             |  4:22 |
+| 1892 | Piotr Illitch TCHAIKOVSKI   | Casse Noisette                                            |  1:12 |
+| 1893 | Anton DVORAK                | Symphonie No.9 -Du Nouveau Monde-Allegro                  | 12:02 |
+| 1894 | Claude DEBUSSY              | Prélude à l'après-midi d'un faune                         | 10:17 |
+| 1896 | Richard STRAUSS             | Ainsi Parlait Zarathoustra                                |  1:30 |
+| 1899 | Nikolaï RIMSKY-KORSAKOV     | Le vol du bourdon                                         |  1:22 |
+| 1902 | Scott JOPLIN                | The  Entertainer                                          |  4:17 |
+| 1908 | Gustav MALHER               | Der Abschied-Schwer (Kent Nagano/OSM)                     | 29:08 |
+| 1909 | Maurice RAVEL               | Daphnis et Chloé-Suite No2                                |  6:12 |
+| 1914 | Gustav HOLST                | The planets-Mars                                          |  2:11 |
+| 1928 | Maurice RAVEL               | Bolero                                                    | 15:28 |
+| 1935 | Carl ORFF                   | Carmina Burana-Cantate                                    |  2:48 |
+| 1936 | Samuel BARBER               | Adagio pour Cordes                                        |  8:07 |
+| 1936 | Serge PROKOFIEV             | Pierre & le loup                                          |  2:28 |
+| 1941 | Dmitri CHOSTAKOVITCH        | Symphonie No.10                                           |  1:09 |
+| 1942 | André MATHIEU               | Concertino No.2                                           |  2:37 |
+| 1943 | Benjamin BRITTEN            | Préludes                                                  |  4:12 |
+| 1961 | Leonard BERNSTEIN           | Mambo - West Side Story                                   |  9:27 |
+| 1962 | John BARRY                  | James Bond-Dr. No                                         |  1:47 |
+| 1966 | Alexander COURAGE           | Star Trek-Main Theme                                      |  3:50 |
+| 1974 | Ennio MORRICONE             | Once upon a time in the west-Man with a harmonica         |  3:30 |
+| 1977 | Arvo PÄRT                   | Tabula Rasa                                               | 10:00 |
+| 1977 | John WILLIAMS               | Star Wars-Main theme                                      |  2:11 |
+| 1978 | Arvo PÄRT                   | Spiegel Im Spiegel                                        |  9:09 |
+| 1978 | John ADAMS                  | Shaker Loops                                              |  8:51 |
+| 1978 | John WILLIAMS               | Superman-Main theme                                       |  5:37 |
+| 1982 | John WILLIAMS               | E.T. The Extra-Terrestrial-End Credits 1                  |  5:19 |
+| 1984 | John WILLIAMS               | Indiana Jones and the Temple of Doom-End Credits          |  6:25 |
+| 1992 | VANGELIS                    | Conquest of the paradise                                  |  4:48 |
+| 1993 | John WILLIAMS               | Jurassic Park-Main theme                                  |  3:20 |
+| 1993 | John WILLIAMS               | Schindler's List-Main theme                               |  4:59 |
+| 1993 | Michael NYMAN               | La Leçon de Piano                                         |  3:09 |
+| 1998 | John ESTACIO                | Borealis                                                  |  3:40 |
+| 2000 | Clint MANSELL               | Requiem for a Dream                                       |  2:22 |
+| 2000 | Shigeru UMEBAYASHI          | In the Mood For Love                                      |  3:07 |
+| 2002 | Philip GLASS                | The Hours-The Poet Acts                                   |  3:43 |
+| 2003 | Vicente AMIGO/EL PELE       | Parle avec elle                                           |  5:18 |
+| 2009 | Alexina LOUIE               | Take the dog sled                                         |  1:14 |
