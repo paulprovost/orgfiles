@@ -1,5 +1,5 @@
 #+TITLE: Lemur-like iPad (also iPhone and iPod Touch) app
-#+FILETAGS: @project:@iPad
+#+FILETAGS: @project:@ipad:@ctrlr
 
 * Name ideas
   - Control-R
@@ -85,8 +85,15 @@
 
 * References
 ** OSC                                                                 :@osc:
-   - vvopensource - frameworks for working with OSC and MIDI data on OS X
-     http://code.google.com/p/vvopensource/
+   - VVOpenSource
+     - vvopensource - frameworks for working with OSC and MIDI data on OS X
+       http://code.google.com/p/vvopensource/
+     - [[https://github.com/pizthewiz/VVOpenSource][pizthewiz/VVOpenSource]]
+     - [[http://www.trembl.org/codec/532/][OSC to and from the iPhone with VVOSC]]
+
+   - [[https://github.com/danieldickison/CocoaOSC][danieldickison/CocoaOSC]]
+     Does not support bundles.
+
 ** iPhone development                                       :@iphone:@opengl:
    - How To Write an iPhone App in 14 Days
      http://www.smallnetbuilder.com/content/view/30712/87/
@@ -121,6 +128,8 @@
      http://www.cycling74.com/docs/max5/vignettes/core/live_resources_abstractions.html#m4l_api_abstractions
 
 * Links
+** [2012-05-20 Sun]
+   - [[http://www.mikeash.com/pyblog/friday-qa-2009-12-11-a-gcd-case-study-building-an-http-server.html][mikeash.com: Friday Q&A 2009-12-11: A GCD Case Study: Building an HTTP Server]]
 ** [2010-03-20 Sat]
   - How to make sprite look like it is lighted up when touched « cocos2d for iPhone
     http://www.cocos2d-iphone.org/forum/topic/4262
