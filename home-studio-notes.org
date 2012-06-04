@@ -79,7 +79,6 @@
     - Device Name: Mackie Control
     - Manufacturer: Mackie
     - Model: Mackie Control
-  - Connect the in and out of the device to the MIDI port 1 of the
-  BCF2000
+  - Connect the in and out of the device to the MIDI port 1 of the BCF2000
 
       
