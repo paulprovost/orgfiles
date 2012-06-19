@@ -52,3 +52,49 @@
      http://polluxapp.com/index.php
    - Tunatic: free music identification software
      http://www.wildbits.com/tunatic/
+
+* Misc
+** Compiling ffmpeg for extra codecs.
+   - [[https://ffmpeg.org/trac/ffmpeg/wiki/UbuntuCompilationGuide][Source]]
+*** Notes:
+    - Really remove the installed packages as suggested by the
+      guide. The compiled packages' names collide with the packages
+      from the repository.
+    - After the check install and the installation of the x264 deb file,
+      the following message is displayed:
+      : **********************************************************************
+      : 
+      : Done. The new package has been installed and saved to
+      : 
+      : /home/paul/dev/x264/x264_0.122.2184+git5c85e0a-1_i386.deb
+      : 
+      : You can remove it from your system anytime using: 
+      : 
+      : dpkg -r x264
+      : 
+      : **********************************************************************
+    - After the check install and the installation of the libvpx deb file,
+      the following message is displayed:
+      : **********************************************************************
+      : 
+      : Done. The new package has been installed and saved to
+      : 
+      : /home/paul/dev/libvpx/libvpx_201206191130-git-1_i386.deb
+      : 
+      : You can remove it from your system anytime using: 
+      : 
+      : dpkg -r libvpx
+      : 
+      : **********************************************************************
+    - And finally after the ffmpeg compilation and install:
+      : **********************************************************************
+      : 
+      : Done. The new package has been installed and saved to
+      : 
+      : /home/paul/dev/ffmpeg/ffmpeg_201206191155-git-1_i386.deb
+      : 
+      : You can remove it from your system anytime using: 
+      : 
+      : dpkg -r ffmpeg
+      : 
+      : **********************************************************************
