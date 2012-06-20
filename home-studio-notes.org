@@ -73,3 +73,12 @@
    http://www.vguitarforums.com/smf/index.php?topic=2444.msg14104#msg14104
  - VGuitar Forums - VGuitarForums VG-99 Bulk User Patches
    http://www.vguitarforums.com/smf/index.php?action=downloads;cat=14
+
+* Connecting Behringer BCF2000 to CueMix             :@bcf2000:@cuemix:@motu:
+  - Add a device and set it as follows:
+    - Device Name: Mackie Control
+    - Manufacturer: Mackie
+    - Model: Mackie Control
+  - Connect the in and out of the device to the MIDI port 1 of the BCF2000
+
+      
