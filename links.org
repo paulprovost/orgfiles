@@ -1261,3 +1261,10 @@
 * [2012-05-03 Thu] Textastic                                   :@ipad:@tobuy:
   - [[http://www.textasticapp.com/][Textastic - Text, Code and Markup Editor with Syntax Highlighting - FTP, SFTP, Dropbox - for iPad]]
   - [[http://itunes.apple.com/gb/app/textastic-code-editor/id383577124?mt][http://www.textasticapp.com/]]
+
+* [2012-07-05 Thu] Parcel re-mailing sevices from US             :@remailing:
+  - [[http://www.shipito.com/][Shipito - USA Address & Mail Forwarding]]
+    Seems to be the favorite and cheapest.
+  - [[http://www.myus.com/][MyUS.com]]
+  - [[http://myusaddress.ca/][MyUSAddress.ca]]
+  - [[http://www.reship.com/?gclid=CJWAwsOug7ECFekZQgod9DTJZA][Reship.com]]
