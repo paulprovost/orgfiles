@@ -1,8 +1,13 @@
 #+TITLE: Manager for MegaDrum drum brain
 #+AUTHOR: Paul Provost
 #+EMAIL: paul@bouzou.org
-#+DESCRIPTION: 
+#+DESCRIPTION: Editor / manager for the MegaDrum drum brain - Collab w Alex Paquette
 #+FILETAGS: @megadrum
 
 * Links
-   - [[http://www.megadrum.info/forums/viewtopic.php?f%3D4&t%3D1504][MegaDrum Manager]]
+  - [[http://www.megadrum.info/][MegaDrum MIDI Drum Trigger]]
+  - [[http://www.megadrum.info/content/megadrum-sysex-messages-and-formats][MegaDrum SysEx messages and formats]]
+  - [[http://www.megadrum.info/forums/viewtopic.php?f%3D4&t%3D1504][MegaDrum Manager]]
+  - [[http://cycling74.com/docs/max6/dynamic/c74_docs.html#sxformat][sxformat Reference]]
+  - [[http://cycling74.com/forums/tags.php?tag=sysex][SysEx « Tags « Cycling '74 Forums]]
+  - [[http://post.monome.org/comments.php?DiscussionID=8013][monome - decoding sysex with max/msp]]
