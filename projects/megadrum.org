@@ -1,0 +1,8 @@
+#+TITLE: Manager for MegaDrum drum brain
+#+AUTHOR: Paul Provost
+#+EMAIL: paul@bouzou.org
+#+DESCRIPTION: 
+#+FILETAGS: @megadrum
+
+* Links
+   - [[http://www.megadrum.info/forums/viewtopic.php?f%3D4&t%3D1504][MegaDrum Manager]]
