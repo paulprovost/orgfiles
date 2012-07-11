@@ -63,5 +63,15 @@
   - When a region is selected, undo only undoes in the region.
   - Same with replacing.
 
-
+* [2012-05-25 Fri 07:24] Manual mkv conversion to mp4      :@mp4:@mkv:@video:
+  - Find the FPS
+    : mkvinfo <input_file>
+  - Extracting tracks
+    : mkvextract tracks <input_file> <track_number>:<output_file>
+  - Converting audio
+    : ffmpeg -i <input_file> -acodec libfaac -ab 128 output.aac
+  - Muxing
+    : MP4Box -fps <framerate> -add <audio_file> -add <video_file> <output_file>
+  - Bonus
+    : aacgain -c <output_file>
 
