@@ -2,18 +2,23 @@
 #+DESCRIPTION: My personal book list.
 #+LAST_MOBILE_CHANGE: 2012-01-18 11:27:36
 #+FILETAGS: :@books:
-#+TODO: READING TOREAD TOBUY | READ ABANDONED
+#+TODO: READING(!) TOREAD TOBUY | READ(@) ABANDONED(@)
 
-* READING Rollins, James - Sandstorm
+* READING Halting State - Charles Stross
   :LOGBOOK:
+  - State "READING"    from "TOREAD"     [2012-07-19 Thu 13:00]
+  :END:
+  :PROPERTIES:
+  :ID:       cab2fcaf-4b40-48de-aae4-597af50cb0a0
+  :END:
+* READ Rollins, James - Sandstorm
+  :LOGBOOK:
+  - State "READ"       from "READING"    [2012-07-18 Wed 13:00] \\
+    Good yarn. Fast paced with enough science to keep it interesting.
   - State "READING"    from ""           [2012-03-21 Wed 12:00]
   :END:
   :PROPERTIES:
   :ID:       de970816-7589-4e78-8149-f7cb9bf464b5
-  :END:
-* TOREAD Halting State - Charles Stross
-  :PROPERTIES:
-  :ID:       cab2fcaf-4b40-48de-aae4-597af50cb0a0
   :END:
 * TOREAD Glasshouse - Charles Stross
   :PROPERTIES:
