@@ -4,6 +4,8 @@
 #+FILETAGS: :@books:
 #+TODO: READING(!) TOREAD TOBUY | READ(@) ABANDONED(@)
 
+* Hint: C-u C-c C-t to change state.
+
 * READING Halting State - Charles Stross
   :LOGBOOK:
   - State "READING"    from "TOREAD"     [2012-07-19 Thu 13:00]
