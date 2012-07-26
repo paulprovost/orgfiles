@@ -75,3 +75,42 @@
   - Bonus
     : aacgain -c <output_file>
 
+* [2012-07-25 Wed 10:58] vlc command line compression             :@vlc:@drc:
+  - from [[http://wiki.videolan.org/How_to_Batch_Encode][How to Batch Encode - VideoLAN Wiki]]
+    : vcodec="h264"
+    : acodec="mp4a"
+    : bitrate="1024"
+    : arate="192"
+    : ext="mpg"
+    : mux="ts"
+    : vlc="/usr/bin/vlc"
+    : fmt="VOB"
+    : dst="/home/user/"
+    : 
+    : for a in *$fmt; do
+    :    $vlc -I dummy -vvv "./$a" --sout "#transcode{vcodec=$vcodec,vb=$bitrate,acodec=$acodec,ab=$arate,channels=6}:standard{mux=$mux,dst=\"$dst$a.$ext\",access=file}" vlc://quit
+    : done
+
+* [2012-07-25 Wed 12:18] vlc remote control                            :@vlc:
+  - Enable the telnet interface.
+  - Python script to issue commands:
+    : import telnetlib
+    : 
+    : HOST = 'localhost'    # The remote host
+    : PORT = '4212'         # The same port as used by the server
+    : tn = telnetlib.Telnet(HOST, PORT)
+    : tn.read_until('Password:')
+    : tn.write('admin\n')
+    : tn.read_until('>')
+    : tn.write('pause\n')
+    : tn.close()
+
+* [2012-07-26 Thu 12:21] split flac file with cue file    :@music:@flac:@cue:
+  - Do the split
+    : shntool split -f $CUEFILE -o 'flac flac --output-name=%f -' -t '%n - %t' $ORIGINALFLAC
+  - Fix the tags:
+    : cuetag <cue-file> <flac-files>
+  - Verify:
+    : metaflac --list <flac-files>
+
+
