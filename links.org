@@ -1207,8 +1207,10 @@
   - [[http://tomas.styblo.name/wmctrl/][wmctrl]] A command line tool to interact with an EWMH/NetWM
     compatible X Window Manager.
     - [[http://www.joeldare.com/wiki/linux:resize_a_window_with_the_wmctrl_command][Resize a Window with the wmctrl Command - Joel Dare]]
+    - [[http://spiralofhope.com/wmctrl-examples.html][wmctrl-examples]]
   - [[http://code.google.com/p/wmectrl/][wmectrl]] - An enhanced window manager control.
   - [[http://code.google.com/p/xctrl/][xctrl]] - Shared library to control an X11 window manager. 
+  - [[http://melp.nl/2011/01/10-must-have-key-and-mouse-binding-configs-in-openbox/][10 must-have key and mouse binding configs in Openbox]]
 
 * [2012-04-17 Tue 14:17] Backpack                    :@laptop:@backpack:@bag:
   - [[http://www.chromebagsstore.com/bags/laptop-bags/soyuz.html][Soyuz - Laptop Bags - Bags | CHROME | Official Site]]
