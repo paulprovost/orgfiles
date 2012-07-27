@@ -1206,6 +1206,7 @@
     - [[http://live.gnome.org/DevilsPie][DevilsPie Help]]
   - [[http://tomas.styblo.name/wmctrl/][wmctrl]] A command line tool to interact with an EWMH/NetWM
     compatible X Window Manager.
+    - [[http://www.joeldare.com/wiki/linux:resize_a_window_with_the_wmctrl_command][Resize a Window with the wmctrl Command - Joel Dare]]
   - [[http://code.google.com/p/wmectrl/][wmectrl]] - An enhanced window manager control.
   - [[http://code.google.com/p/xctrl/][xctrl]] - Shared library to control an X11 window manager. 
 
