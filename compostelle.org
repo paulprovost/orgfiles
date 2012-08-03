@@ -3,6 +3,41 @@
 #+EMAIL: paul@bouzou.org
 #+DESCRIPTION: 
 #+FILETAGS: @compostelle
+#+TODO: TOBUY | DONE
+#+SETUPFILE: .publish-style
+
+* Quoi apporter
+** Moi
+*** Culotte
+*** T-shirt
+*** Pantalon
+*** Chaussettes (sans liner pour le voyage)
+** Le sac
+*** TOBUY 2x Culottes
+*** 2x T-shirt
+*** 1x pantalon
+*** 4x liners chaussette
+*** TOBUY 2-3x chaussettes
+*** TOBUY Drap de voyage
+*** TOBUY Poncho de pluie
+*** 2x bouteille d'eau
+*** Bouchons pour les oreilles
+*** Electronique
+**** Lecteur mp3 + écouteurs + fils + adapteur (iPhone?)
+**** Appareil photo + adapteur
+**** Cartes mémoire
+**** Adapteur europe
+**** TOBUY Téléphone (pré-payé à acheter)
+     [[http://www.phonerentalfrance.com/fr/services.asp][PhoneRental Francia]]
+*** TOBUY Lampe frontale
+*** Livres
+**** Miam-Miam Dodo
+**** Petit futé
+**** Roman
+*** TOBUY Carnet de notes et stylo
+*** TOBUY Crédencial
+    - [[http://www.compostelle.asso.fr/][Où se procurer la Credencial?]]
+*** Premiers soins
 
 * Links
 ** Pantalons
