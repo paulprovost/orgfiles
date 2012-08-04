@@ -3,6 +3,7 @@
 #+EMAIL: paul@bouzou.org
 #+DESCRIPTION: 
 #+FILETAGS: @compostelle
+#+OPTIONS: toc:nil
 #+TODO: TOBUY | DONE
 #+SETUPFILE: .publish-style
 
