@@ -42,6 +42,18 @@
 #+STYLE:     background-color: #EEE;
 #+STYLE:     border: 1px solid #CCC;
 #+STYLE: }
+#+STYLE: div.outline-3 {
+#+STYLE:     padding-left: 20px;
+#+STYLE: }
+#+STYLE: div.outline-4 {
+#+STYLE:     padding-left: 40px;
+#+STYLE: }
+#+STYLE: div.outline-5 {
+#+STYLE:     padding-left: 60px;
+#+STYLE: }
+#+STYLE: div.outline-6 {
+#+STYLE:     padding-left: 80px;
+#+STYLE: }
 #+STYLE: .todo { font-size: small; color: #A00; }
 #+STYLE: .done { font-size: small; color: #0A0; }
 #+STYLE: .tag {
