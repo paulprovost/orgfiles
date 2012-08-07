@@ -3,7 +3,7 @@
 #+EMAIL: paul@bouzou.org
 #+DESCRIPTION: 
 #+FILETAGS: @compostelle
-#+OPTIONS: toc:nil
+#+OPTIONS: toc:nil num:nil
 #+TODO: TOBUY | DONE
 #+SETUPFILE: .publish-style
 
@@ -29,7 +29,7 @@
 **** Cartes mémoire
 **** Adapteur europe
 **** TOBUY Téléphone (pré-payé à acheter)
-     [[http://www.phonerentalfrance.com/fr/services.asp][PhoneRental Francia]]
+     - [[http://www.phonerentalfrance.com/fr/services.asp][PhoneRental Francia]]
 *** TOBUY Lampe frontale
 *** Livres
 **** Miam-Miam Dodo
