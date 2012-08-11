@@ -25,7 +25,7 @@
 *** 4x liners chaussette
 *** TOBUY 2-3x chaussettes
 *** DONE Drap de voyage
-*** TOBUY Poncho de pluie
+*** DONE Poncho de pluie
 *** 2x bouteille d'eau
 *** Bouchons pour les oreilles
 *** Electronique
@@ -55,6 +55,7 @@
 *** Médicaments
 *** Couteau
 *** Canif
+*** Ustensiles (couteau, cuillère, fourchette)
 *** Sifflet
 *** DONE Serviette de douche
 *** Serviette de marche
