@@ -1271,3 +1271,38 @@
   - [[http://www.myus.com/][MyUS.com]]
   - [[http://myusaddress.ca/][MyUSAddress.ca]]
   - [[http://www.reship.com/?gclid=CJWAwsOug7ECFekZQgod9DTJZA][Reship.com]]
+
+* [2012-08-11 Sat] emacs and python                          :@emacs:@python:
+  - [[http://jesselegg.com/archives/2010/03/14/emacs-python-programmers-2-virtualenv-ipython-daemon-mode/][Emacs for Python Programmers #2: Virtualenv, IPython & Daemon Mode | JesseLegg.com]]
+  - [[http://stackoverflow.com/questions/304049/emacs-23-and-ipython][python - Emacs 23 and iPython - Stack Overflow]]
+  - [[http://sunnyeves.blogspot.ca/2011/04/debugging-python-on-emacs-ide.html][An Engineer's Options & Futures: Debugging Python on Emacs IDE]]
+  - [[http://page.sourceforge.net/tricks.html][Python Tricks]]
+  - [[http://pythonconquerstheuniverse.wordpress.com/2009/09/10/debugging-in-python/][Debugging in Python « Python Conquers The Universe]]
+  - [[http://bashdb.sourceforge.net/pydb/][Pydb - Extended Python Debugger]]
+  - [[http://code.google.com/p/pydbgr/][pydbgr - Modular Python Debugger - Google Project Hosting]]
+
+* [2012-08-11 Sat] Amazon and python                        :@amazon:@python:
+  - [[http://pypi.python.org/pypi/python-amazon-product-api][python-amazon-product-api 0.2.5 : Python Package Index]]
+  - [[http://stackoverflow.com/questions/4589813/amazon-book-api-for-python-or-ruby][Amazon Book API for Python or Ruby? - Stack Overflow]]
+
+* [2012-08-11 Sat] LoopDelay Max for Live device                :@maxforlive:
+  - [[http://www.maxforlive.com/library/device/1150/loopdelay][LoopDelay]] a live looping and pitchshifting plugin. The loop can be
+    reversed, pitched and modulated by two sinewaves which can result in
+    frequency modulated granular screeches of subtle stutter effects.
+    The audiobuffer can be constantly refreshed or locked. Bufferlength
+    in sync with BPM or choose milliseconds. Also you can scroll through
+    the buffer with your mouse or of course through plain and simple
+    automation.
+
+* [2012-08-11 Sat] Making fractals                     :@art:@fractal:@image:
+  - [[http://fractalarchitect.net/][Fractal Architect 2 - Flame Fractal Designer & Editor for Mac OS X]]
+
+* [2012-08-11 Sat] Handle MTP device without Windoze                   :@mtp:
+  - [[http://sourceforge.net/projects/playedit/][MTP Playlist Editor | Free Audio & Video software downloads at SourceForge.net]]
+  - [[http://www.linux-magazine.com/Issues/2009/104/MTP-in-Linux][MTP in Linux - Linux Magazine Online]]
+
+* [2012-08-11 Sat] Remux mkv files to mp4                       :@video:@mp4:
+  - [[http://code.google.com/p/mkvtomp4/][mkvtomp4 - Convert H.264 mkv files (without re-encoding the video) to mp4 files playable on the PS3 - Google Project Hosting]]
+
+* [2012-08-11 Sat] One-liner for-loop in bash            :@commandline:@bash:
+  - [[http://penguinpetes.com/b2evo/index.php?p=215][Penguin Pete's Blog - How the One-Liner For-Loop in Bash Goes]]

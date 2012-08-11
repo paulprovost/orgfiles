@@ -3,7 +3,7 @@
 #+EMAIL: paul@bouzou.org
 #+DESCRIPTION: 
 #+FILETAGS: @compostelle
-#+TODO: TOBUY | DONE
+#+TODO: TODO TOBUY | DONE
 #+SETUPFILE: .publish-style
 
 * Quoi apporter
@@ -12,13 +12,18 @@
 *** T-shirt
 *** Pantalon
 *** Chaussettes (sans liner pour le voyage)
+** TODO Le sac banane
+*** Argent
+*** Passeport
+*** Petit futé (trajet)
+*** Lecteur mp3 et écouteurs (trajet)
 ** Le sac
-*** TOBUY 2x Culottes
+*** DONE 2x Culottes
 *** 2x T-shirt
 *** 1x pantalon
 *** 4x liners chaussette
 *** TOBUY 2-3x chaussettes
-*** TOBUY Drap de voyage
+*** DONE Drap de voyage
 *** TOBUY Poncho de pluie
 *** 2x bouteille d'eau
 *** Bouchons pour les oreilles
@@ -29,7 +34,8 @@
 **** Adapteur europe
 **** TOBUY Téléphone (pré-payé à acheter)
      [[http://www.phonerentalfrance.com/fr/services.asp][PhoneRental Francia]]
-*** TOBUY Lampe frontale
+     Plutôt carte d'appel...
+*** DONE Lampe frontale
 *** Livres
 **** Miam-Miam Dodo
 **** Petit futé
@@ -49,17 +55,18 @@
 *** Couteau
 *** Canif
 *** Sifflet
-*** TOBUY Serviette de douche
+*** DONE Serviette de douche
 *** Serviette de marche
 *** 3x Mouchoirs
-*** Premiers soins
+*** TODO Premiers soins
+*** DONE Light jacket
 
 * Links
 ** Pantalons
  - [[http://www.altrec.com/columbia/mens-tall-silver-ridge-convertible-pants?sku_id=1661623&cm_mmc=Mercent-_-NexTag-_-Columbia-_-133596-1661623&mr:referralID=adf80b93-c5de-11e1-8e16-001b2166becc][Columbia Men's Tall Silver Ridge Convertible Pants - FREE SHIPPING at Altrec.com]]
  - [[https://www.google.com/search?q=Columbia+Men's+Tall+Silver+Ridge+Convertible+Pants][columbia men's tall silver ridge convertible pants - Google Search]]
  - [[http://www.columbia.com/Men's-Silver-Ridge%E2%84%A2-Convertible-Pant---Tall/AJ8004,default,pd.html][Columbia Sportswear | Men's Silver Ridge™ Convertible Pant - Tall]]
- - [[http://www.sierratradingpost.com/columbia-sportswear-silver-ridge-ii-pants-upf-30-convertible-for-tall-men~p~4507x/?utm_source=GoogleBase&utm_medium=PaidShopping&utm_term=Columbia_Sportswear_Silver_Ridge_Ii_Pants_-_Upf_30_Convertible_For_Tall_Men&utm_campaign=PCGOOGLEB2&codes-processed=true][Columbia Sportswear Silver Ridge II Pants - UPF 30, Convertible (For Tall Men) - Save 35%]]
+   - [[http://www.sierratradingpost.com/columbia-sportswear-silver-ridge-ii-pants-upf-30-convertible-for-tall-men~p~4507x/?utm_source=GoogleBase&utm_medium=PaidShopping&utm_term=Columbia_Sportswear_Silver_Ridge_Ii_Pants_-_Upf_30_Convertible_For_Tall_Men&utm_campaign=PCGOOGLEB2&codes-processed=true][Columbia Sportswear Silver Ridge II Pants - UPF 30, Convertible (For Tall Men) - Save 35%]]
  - [[http://www.amazon.com/Columbia-Mens-Silver-Ridge-Convertible/dp/B00511PES6][Amazon.com: Columbia Men's Silver Ridge II Convertible Pant, Tall: Clothing]]
  - [[http://www.backcountry.com/the-north-face-paramount-peak-convertible-pant-mens][The North Face Paramount Peak Convertible Pant - Men's from Backcountry.com]]
 

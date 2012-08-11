@@ -13,16 +13,16 @@
   :PROPERTIES:
   :ID:       cab2fcaf-4b40-48de-aae4-597af50cb0a0
   :END:
-  file://books/charles-stross-halting-state.jpg
-  In the year 2018, Sergeant Sue Smith of the Edinburgh constabulary
-  is called in on a special case. A daring bank robbery has taken
-  place at Hayek Associates, a dot-com startup company that's just
-  been floated on the London stock exchange. The suspects are a band
-  of marauding orcs, with a dragon in tow for fire support, and the
-  bank is located within the virtual reality land of Avalon Four. For
-  Smith, the investigation seems pointless. But she soon realizes that
-  the virtual world may have a devastating effect in the real one-and
-  that someone is about to launch an attack upon both...
+  file://books/charles-stross-halting-state.jpg In the year 2018,
+  Sergeant Sue Smith of the Edinburgh constabulary is called in on a
+  special case. A daring bank robbery has taken place at Hayek
+  Associates, a dot-com startup company that's just been floated on
+  the London stock exchange. The suspects are a band of marauding
+  orcs, with a dragon in tow for fire support, and the bank is located
+  within the virtual reality land of Avalon Four. For Smith, the
+  investigation seems pointless. But she soon realizes that the
+  virtual world may have a devastating effect in the real one-and that
+  someone is about to launch an attack upon both...
 * TOREAD Glasshouse - Charles Stross
   :PROPERTIES:
   :ID:       eb347302-cfd1-4dfc-a7b8-90a8e1f30d77
@@ -40,10 +40,21 @@
   :END:
   [2010-07-23 Fri 13:00]
 * TOBUY Michel Houellebecq [[http://fr.wikipedia.org/wiki/H._P._Lovecraft._Contre_le_monde,_contre_la_vie][H. P. Lovecraft. Contre le monde, contre la vie]]
+* TOBUY [[http://www.amazon.com/gp/product/1891830430?ie%3DUTF8&ref%3Daw_bottom_links&force-full-site%3D1][Blankets - Craig Thompson]]                             :@graphicnovel:
+  At 592 pages, Blankets may well be the single largest graphic novel
+  ever published without being serialized first. Wrapped in the
+  landscape of a blustery Wisconsin winter, Blankets explores the
+  sibling rivalry of two brothers growing up in the isolated country,
+  and the budding romance of two coming-of-age lovers. A tale of
+  security and discovery, of playfulness and tragedy, of a fall from
+  grace and the origins of faith. A profound and utterly beautiful
+  work from Craig Thompson. The New Printing corrects 3 small typos,
+  widening the spine graphics, but otherwise is identical to the first
+  printing.
 * READ Rollins, James - Sandstorm
   :LOGBOOK:
-  - State "READ" from "READING" [2012-07-18 Wed 13:00] \\ Good
-    yarn. Fast paced with enough science to keep it interesting.
+  - State "READ" from "READING" [2012-07-18 Wed 13:00] \\ Good yarn.
+  Fast paced with enough science to keep it interesting.
   - State "READING" from "" [2012-03-21 Wed 12:00]
   :END:
   :PROPERTIES:
@@ -68,7 +79,7 @@
 * READ Joe Haldeman - Starsbound
   :LOGBOOK:
   - State "READ" from "READING" [2011-11-02 Wed 19:09] \\ not at this
-    date...
+  date...
   - State "READING" from "" [2011-06-29 Wed 15:16]
   :END:
   :PROPERTIES:

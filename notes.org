@@ -113,4 +113,9 @@
   - Verify:
     : metaflac --list <flac-files>
 
+* [2012-08-05 Sun 16:50] Quicksilver OpenMeta integration :@qs:@tags:@openmeta:
+  - [[http://code.google.com/p/openmeta/][OpenMeta]] info
+  - Install the OpenMeta plugin in Quicksilver
+  - Install the OpenMeta [[http://code.google.com/p/openmeta/downloads/detail?name%3Dopenmeta_commandline_1.3.0.zip&can%3D2&q%3D][command line tool]] in /usr/bin/
+
 
