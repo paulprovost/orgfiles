@@ -6,12 +6,15 @@
 #+STYLE:     line-height: 1;
 #+STYLE:     padding: 30px;
 #+STYLE: }
+#+STYLE: .title {
+#+STYLE:     text-align: left;
+#+STYLE: }
 #+STYLE: h1.title {
 #+STYLE:     color: #0AA;
 #+STYLE:     background-color: #EEE;
 #+STYLE:     border: 1px solid #CCC;
 #+STYLE:     margin-top: 0;
-#+STYLE:     padding: 10px 0 10px 0;
+#+STYLE:     padding: 10px 10px 10px 10px;
 #+STYLE: }
 #+STYLE: h1, h2, h3, h4, h5, h6, caption, legend {
 #+STYLE:     font-family: Constantia,Utopia,Lucidabright,Lucida,Georgia,serif;
@@ -38,6 +41,18 @@
 #+STYLE:     line-height: 1.5;
 #+STYLE:     background-color: #EEE;
 #+STYLE:     border: 1px solid #CCC;
+#+STYLE: }
+#+STYLE: div.outline-3 {
+#+STYLE:     padding-left: 30px;
+#+STYLE: }
+#+STYLE: div.outline-4 {
+#+STYLE:     padding-left: 30px;
+#+STYLE: }
+#+STYLE: div.outline-5 {
+#+STYLE:     padding-left: 30px;
+#+STYLE: }
+#+STYLE: div.outline-6 {
+#+STYLE:     padding-left: 30x;
 #+STYLE: }
 #+STYLE: .todo { font-size: small; color: #A00; }
 #+STYLE: .done { font-size: small; color: #0A0; }

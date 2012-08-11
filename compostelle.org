@@ -4,6 +4,7 @@
 #+DESCRIPTION: 
 #+FILETAGS: @compostelle
 #+TODO: TODO TOBUY | DONE
+#+OPTIONS: toc:nil num:nil
 #+SETUPFILE: .publish-style
 
 * Quoi apporter
@@ -33,8 +34,8 @@
 **** Cartes mémoire
 **** Adapteur europe
 **** TOBUY Téléphone (pré-payé à acheter)
-     [[http://www.phonerentalfrance.com/fr/services.asp][PhoneRental Francia]]
-     Plutôt carte d'appel...
+     - [[http://www.phonerentalfrance.com/fr/services.asp][PhoneRental Francia]]
+       Plutôt carte d'appel...
 *** DONE Lampe frontale
 *** Livres
 **** Miam-Miam Dodo
