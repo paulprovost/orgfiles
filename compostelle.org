@@ -13,7 +13,7 @@
 *** T-shirt
 *** Pantalon
 *** Chaussettes (sans liner pour le voyage)
-** TODO Le sac banane
+** TOBUY Le sac banane
 *** Argent
 *** Passeport
 *** Petit futé (trajet)
