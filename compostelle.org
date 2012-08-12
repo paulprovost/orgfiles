@@ -13,7 +13,7 @@
 *** T-shirt
 *** Pantalon
 *** Chaussettes (sans liner pour le voyage)
-** TOBUY Le sac banane
+** TODO Le sac banane
 *** Argent
 *** Passeport
 *** Petit futé (trajet)
@@ -30,6 +30,7 @@
 *** Bouchons pour les oreilles
 *** Electronique
 **** Lecteur mp3 + écouteurs + fils + adapteur (iPhone?)
+***** TODO chansons et 2-3 films
 **** Appareil photo + adapteur
 **** Cartes mémoire
 **** Adapteur europe
