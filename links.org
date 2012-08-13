@@ -1308,5 +1308,6 @@
   - [[http://penguinpetes.com/b2evo/index.php?p=215][Penguin Pete's Blog - How the One-Liner For-Loop in Bash Goes]]
 
 * [2012-08-13 Mon 13:51] Making my own YubNub          :@python:@web:@yubnub:
-  - [[http://webpy.org/][Welcome to web.py! (web.py)]]
   - [[http://bottlepy.org/docs/dev/][Bottle: Python Web Framework — Bottle 0.11.dev documentation]]
+  - [[http://blog.coderonfire.com/running-bottle-python-micro-framework-on-drea][Running Bottle Python Micro-Framework on Dreamhost - Coder on Fire. Blog]]
+  - [[http://hitesh.in/2011/running-a-bottle-py-app-on-dreamhost/][Running a bottle.py app on Dreamhost | Hitesh Sarda]]
