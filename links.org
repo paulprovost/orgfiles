@@ -1311,3 +1311,4 @@
   - [[http://bottlepy.org/docs/dev/][Bottle: Python Web Framework — Bottle 0.11.dev documentation]]
   - [[http://blog.coderonfire.com/running-bottle-python-micro-framework-on-drea][Running Bottle Python Micro-Framework on Dreamhost - Coder on Fire. Blog]]
   - [[http://hitesh.in/2011/running-a-bottle-py-app-on-dreamhost/][Running a bottle.py app on Dreamhost | Hitesh Sarda]]
+  - [[http://code.activestate.com/recipes/475148-fuzzy-matching-dictionary/][Fuzzy matching dictionary « Python recipes « ActiveState Code]]
