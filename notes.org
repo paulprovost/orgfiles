@@ -117,5 +117,26 @@
   - [[http://code.google.com/p/openmeta/][OpenMeta]] info
   - Install the OpenMeta plugin in Quicksilver
   - Install the OpenMeta [[http://code.google.com/p/openmeta/downloads/detail?name%3Dopenmeta_commandline_1.3.0.zip&can%3D2&q%3D][command line tool]] in /usr/bin/
+  - Added [2012-08-16 Thu 11:46]
+    The OpenMeta command line tool crashes when given a single file as
+    an argument and that file has no tags. There's a call in the
+    OpenMeta library that expects a path (so that it can create a
+    backup file in the directory). This crashes when a simple file
+    name is given. Workaround is using
+    : `pwd`/file
+    or (untested)
+    : ./file
+    as a file path to the -p option.
+
+* [2012-08-16 Thu 11:42] Outlook notes                             :@outlook:
+  - [[http://www.groovypost.com/howto/microsoft/how-to-automatically-bcc-in-outlook-2010/][How to Automatically BCC in Outlook 2010]]
+  - Activating Visual Basic (if greyed out in the Developer ribbon)
+    - Control Panel\All Control Panel Items\Programs and Features
+    - Right Click Microsoft Office
+    - Click Change
+    - Continue on Add or Remove Features
+    - Go down to and expand Office Shared Features
+    - for the two features "Digital Certificate for VBA Projects" and
+      "Visiual Basic for Applications" select 'Run from my Computer'
 
 
