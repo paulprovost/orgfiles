@@ -139,4 +139,12 @@
     - for the two features "Digital Certificate for VBA Projects" and
       "Visiual Basic for Applications" select 'Run from my Computer'
 
-
+* [2012-08-30 Thu 13:50] Convert and normalize audio :@video:@recode:@normalize:
+  - Extract the audio and convert to a 2 channel wav file:
+    : ffmpeg -i <filename>.avi -acodec pcm_s16le -ac 2 <filename>.wav
+  - Normalize the gain of the wav file:
+    : wavegain -y <filename>.wav
+  - Remux the avi file from the original video and recoding the
+    normalized wav file as mp3:
+    : ffmpeg -i <filename>.avi -i <filename>.wav -map 0:0 -map 1:0
+    :   -c:v copy -c:a:0 libmp3lame -b:a:0 128k <filename>.norm.avi

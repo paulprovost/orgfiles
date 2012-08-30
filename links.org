@@ -1312,3 +1312,12 @@
   - [[http://blog.coderonfire.com/running-bottle-python-micro-framework-on-drea][Running Bottle Python Micro-Framework on Dreamhost - Coder on Fire. Blog]]
   - [[http://hitesh.in/2011/running-a-bottle-py-app-on-dreamhost/][Running a bottle.py app on Dreamhost | Hitesh Sarda]]
   - [[http://code.activestate.com/recipes/475148-fuzzy-matching-dictionary/][Fuzzy matching dictionary « Python recipes « ActiveState Code]]
+
+* [2012-08-24 Fri] Writing bookmarklets         :@dev:@bookmarklet:@workflow:
+  - [[http://teamtreehouse.com/blog/creating-bookmarklets-for-fun-and-profit][Creating Bookmarklets for Fun and Profit | Treehouse BlogTreehouse Blog]]
+  - [[http://coding.smashingmagazine.com/2010/05/23/make-your-own-bookmarklets-with-jquery/][Make Your Own Bookmarklets With jQuery | Smashing Coding]]
+  - [[http://betterexplained.com/articles/how-to-make-a-bookmarklet-for-your-web-application/][How To Make a Bookmarklet For Your Web Application | BetterExplained]]
+  - [[http://net.tutsplus.com/tutorials/javascript-ajax/create-bookmarklets-the-right-way/][How to Create Bookmarklets | Nettuts+]]
+  - [[http://alexkehayias.tumblr.com/post/20526151518/how-to-make-an-interactive-bookmarklet-part-1][Alex Kehayias's Blog • How to make an interactive bookmarklet part 1]]
+  - [[http://alexkehayias.tumblr.com/post/21324220210/how-to-make-an-interactive-bookmarklet-part-2][Alex Kehayias's Blog • How to make an interactive bookmarklet part 2]]
+  - [[http://alexkehayias.tumblr.com/post/22191305271/how-to-make-an-interactive-bookmarklet-part-3][Alex Kehayias's Blog • How to make an interactive bookmarklet part 3]]
