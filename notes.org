@@ -150,8 +150,11 @@
     :   -c:v copy -c:a:0 libmp3lame -b:a:0 128k <filename>.norm.avi
 
 * [2012-08-31 Fri 08:11] Convert video for walkman  :@video:@recode:@walkman:
-  The ffmpeg line used by VideoMonkey
-  : ffmpeg -threads 8 -y -i <input> -s 320x144 -aspect 320:144 -r 23.976
-  :   -vcodec libx264 -b 449719 -async 50 -acodec libfaac -ar 48000 -ac 2
-  :   -ab 128000 -vpre ffpresets/libx264-medium
-  :   -vpre ffpresets/libx264-baseline <output>.mp4
+  - The ffmpeg line used by VideoMonkey
+    : ffmpeg -threads 8 -y -i <input> -s 320x144 -aspect 320:144 -r 23.976
+    :   -vcodec libx264 -b 449719 -async 50 -acodec libfaac -ar 48000 -ac 2
+    :   -ab 128000 -vpre ffpresets/libx264-medium
+    :   -vpre ffpresets/libx264-baseline <output>.mp4
+  - Resizing for width only:
+    : -vf "scale=320,-1"
+

@@ -13,7 +13,7 @@
 *** T-shirt
 *** Pantalon
 *** Chaussettes (sans liner pour le voyage)
-** TODO Le sac banane
+** DONE Le sac banane
 *** Argent
 *** Passeport
 *** Petit futé (trajet)
@@ -23,14 +23,14 @@
 *** 2x T-shirt
 *** 1x pantalon
 *** 4x liners chaussette
-*** TOBUY 2-3x chaussettes
+*** DONE 2-3x chaussettes
 *** DONE Drap de voyage
 *** DONE Poncho de pluie
 *** 2x bouteille d'eau
 *** Bouchons pour les oreilles
 *** Electronique
 **** Lecteur mp3 + écouteurs + fils + adapteur (iPhone?)
-***** TODO chansons et 2-3 films
+***** DONE chansons et 2-3 films
 **** Appareil photo + adapteur
 **** Cartes mémoire
 **** Adapteur europe
@@ -43,9 +43,9 @@
 **** Petit futé
 **** Roman
 *** TOBUY Carnet de notes et stylo
-*** TOBUY Crédencial
+*** DONE Crédencial
     - [[http://www.compostelle.asso.fr/][Où se procurer la Credencial?]]
-*** TOBUY Corde à linge et pinces à linge
+*** DONE Corde à linge et pinces à linge
 *** Trousse de toilette
 **** Brosse à cheveux
 **** Brosse à dents
@@ -61,7 +61,7 @@
 *** DONE Serviette de douche
 *** Serviette de marche
 *** 3x Mouchoirs
-*** TODO Premiers soins
+*** DONE Premiers soins
 *** DONE Light jacket
 
 * Links

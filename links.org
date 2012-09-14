@@ -1321,3 +1321,11 @@
   - [[http://alexkehayias.tumblr.com/post/20526151518/how-to-make-an-interactive-bookmarklet-part-1][Alex Kehayias's Blog • How to make an interactive bookmarklet part 1]]
   - [[http://alexkehayias.tumblr.com/post/21324220210/how-to-make-an-interactive-bookmarklet-part-2][Alex Kehayias's Blog • How to make an interactive bookmarklet part 2]]
   - [[http://alexkehayias.tumblr.com/post/22191305271/how-to-make-an-interactive-bookmarklet-part-3][Alex Kehayias's Blog • How to make an interactive bookmarklet part 3]]
+
+* [2012-09-14 Fri] Zooming presentations                      :@presentation:
+  - [[http://prezi.com/][Prezi - The Zooming Presentation Editor]]
+  - [[https://github.com/adityab/Awwation][adityab/Awwation]]
+  - [[https://github.com/bartaz/impress.js][bartaz/impress.js]]
+  - [[http://www.1stwebdesigner.com/css/creating-stunning-visualizations-with-impress-js/][Creating Stunning Visualizations With Impress.js]]
+  - [[https://github.com/hsivaramx/Impressionist][hsivaramx/Impressionist]]
+  - [[https://github.com/kinjo/org-impress-js.el][kinjo/org-impress-js.el]]
