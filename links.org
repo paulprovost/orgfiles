@@ -1329,3 +1329,6 @@
   - [[http://www.1stwebdesigner.com/css/creating-stunning-visualizations-with-impress-js/][Creating Stunning Visualizations With Impress.js]]
   - [[https://github.com/hsivaramx/Impressionist][hsivaramx/Impressionist]]
   - [[https://github.com/kinjo/org-impress-js.el][kinjo/org-impress-js.el]]
+  - [[http://dontkry.com/jmpress.js/#/home][jmpress.js | a jQuery plugin to build a website on the infinite canvas]]
+  - [[http://meyerweb.com/eric/tools/s5/][S5: A Simple Standards-Based Slide Show System]]
+  - [[http://www.linuxforu.com/2010/05/s5-a-simple-web-based-slideshow-system/][S5: A Simple Web-based Presentation System - LINUX For You]]
