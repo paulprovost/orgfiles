@@ -50,3 +50,24 @@
   - other image processing library: OpenCV
   - buildout for distribution?
   - Watch for pysetup to replace pip!
+
+* [2012-10-29 Mon 11:54] Upgrade linux boxen to 12.10   :@homenetwork:@linux:
+** Issue with NX Client on Windows not showing the text.
+  - [[https://bbs.archlinux.org/viewtopic.php?id=141884][No fonts in NX (Page 1) / Newbie Corner / Arch Linux Forums]]
+    Root cause. Does not play nicely with libcairo2 1.12. Suggest
+    downgrading to 1.10
+  - Notes on downgrading
+    - [[http://r3dux.org/2012/07/how-to-downgrade-libcairo2-in-debian-and-fix-evince/][How To: Downgrade libcairo2 in Debian (and fix Evince) | r3dux.org]]
+    - [[http://forums.debian.net/viewtopic.php?f=6&t=80382][Debian User Forums • View topic - [HOWTO] Fix unresponsive Chromium/Iceweasel in Wheezy/SID]]
+    - [[http://www.howtogeek.com/117929/how-to-downgrade-packages-on-ubuntu/][How to Downgrade Packages on Ubuntu - How-To Geek]]
+  - For Aurorachair, only this
+    - [[https://launchpad.net/ubuntu/quantal/amd64/libcairo2/1.10.2-6.1ubuntu2][1.10.2-6.1ubuntu2 : libcairo2 : amd64 : Quantal (12.10) : Ubuntu]]
+  - For Marauder, apt gets broken. Had to do all this, but still
+    broken. Hm.
+    - [[https://launchpad.net/ubuntu/quantal/i386/libcairo2/1.10.2-6.1ubuntu2][1.10.2-6.1ubuntu2 : libcairo2 : i386 : Quantal (12.10) : Ubuntu]]
+    - [[https://launchpad.net/ubuntu/quantal/i386/libcairo2-dev/1.10.2-6.1ubuntu2][1.10.2-6.1ubuntu2 : libcairo2-dev : i386 : Quantal (12.10) : Ubuntu]]
+    - [[https://launchpad.net/ubuntu/quantal/i386/libcairo-script-interpreter2/1.10.2-6.1ubuntu2][1.10.2-6.1ubuntu2 : libcairo-script-interpreter2 : i386 : Quantal (12.10) : Ubuntu]]
+    - [[https://launchpad.net/ubuntu/quantal/i386/libcairo-gobject2/1.10.2-6.1ubuntu2][1.10.2-6.1ubuntu2 : libcairo-gobject2 : i386 : Quantal (12.10) : Ubuntu]]
+    - [[https://launchpad.net/ubuntu/quantal/i386/libpoppler-glib8/0.18.4-1ubuntu2][0.18.4-1ubuntu2 : libpoppler-glib8 : i386 : Quantal (12.10) : Ubuntu]]
+    - [[https://launchpad.net/ubuntu/quantal/i386/libpoppler19/0.18.4-1ubuntu2][0.18.4-1ubuntu2 : libpoppler19 : i386 : Quantal (12.10) : Ubuntu]]
+
