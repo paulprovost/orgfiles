@@ -75,7 +75,7 @@
 ** Received the Broadcom CrystalHD card
    - Ordered from - [[http://jhetech.com/broadcom-bcm970015-vd-920-70015-mini-pci-e-hd-decoder-720-1080-apple-tv][Jhe Technology]]
    - Installed as per [[http://www.youtube.com/watch?v%3DARx5Dh7t90E][this]]. Removing the rubber boot _was_ indeed a bitch.
-** Removed the hard disk and the fan.
+** Removed the hard disk and the fan.                   :@headphones:@iphone:
    While I was at it, I removed the hard disk and the fan. The unit
    refused to reboot after that. Yet another disk order issue. To fix:
    - Boot with the hard disk attached. I could not find a way to mount
@@ -94,4 +94,4 @@
      and =/dev/sdb2= to =LABEL=SWAP=.
    I should have watched [[http://www.youtube.com/watch?v%3D-9yYN-DUP-I][this]]
 
-
+* [2012-11-11 Sun 17:58] TODO - [[http://www.tested.com/tech/smartphones/2292-how-to-make-any-pair-of-headphones-smart-phone-capable/][How To Make Any Pair of Headphones Smart Phone Capable]] :@headphones:@iphone:
