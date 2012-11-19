@@ -4,10 +4,43 @@
 #+FILETAGS: :@books:
 #+TODO: READING(!) TOREAD TOBUY | READ(@) ABANDONED(@)
 
-* Hint: C-u C-c C-t to change state.
+* Hints
+** C-u C-c C-t to change state.
+** Thumbnails
+*** In books subdirectory
+*** Resize using =mogrify -resize x100=
+*** Insert using =file://books/<imagefile>
 
-* READING Halting State - Charles Stross
+* READING Map of Bones - James Rollins
   :LOGBOOK:
+  - State "READING" from "TOBUY" [2012-11-19 Mon 14:37]
+  :END:
+  file://books/james-rollins-map-of-bones.jpg During a crowded service
+  at a cathedral in Germany, armed intruders in monks' robes unleash a
+  nightmare of blood and destruction. But the killers have not come
+  for gold; they seek a more valuable prize: the bones of the Magi who
+  once paid homage to a newborn savior ... a treasure that could
+  reshape the world.
+
+* READ Wonder - Robert J. Sawyer
+  :LOGBOOK:
+  - State "READ" from "READING" [2012-11-19 Mon 14:35] \\ Good
+    conclusion to the trilogy
+  - State "READING" from "TOBUY" [2012-11-19 Mon 14:35]
+  :END:
+  file://books/robert-j-sawyer-www-wonder.jpg Webmind-the vast
+  consciousness that spontaneously emerged from the infrastructure of
+  the World Wide Web-has proven its worth to humanity by aiding in
+  everything from curing cancer to easing international tensions. But
+  the brass at the Pentagon see Webmind as a threat that needs to be
+  eliminated.  Caitlin Decter-the once-blind sixteen-year-old math
+  genius who discovered, and bonded with, Webmind-wants desperately to
+  protect her friend. And if she doesn't act, everything-Webmind
+  included-may come crashing down.
+
+* READ Halting State - Charles Stross
+  :LOGBOOK:
+  - State "READ" from "TOBUY" [2012-11-19 Mon 14:33]
   - State "READING" from "TOREAD" [2012-07-19 Thu 13:00]
   :END:
   :PROPERTIES:
