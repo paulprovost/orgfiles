@@ -71,3 +71,27 @@
     - [[https://launchpad.net/ubuntu/quantal/i386/libpoppler-glib8/0.18.4-1ubuntu2][0.18.4-1ubuntu2 : libpoppler-glib8 : i386 : Quantal (12.10) : Ubuntu]]
     - [[https://launchpad.net/ubuntu/quantal/i386/libpoppler19/0.18.4-1ubuntu2][0.18.4-1ubuntu2 : libpoppler19 : i386 : Quantal (12.10) : Ubuntu]]
 
+* [2012-11-11 Sun 13:38] AppleTV upgrade                     :@appletv:@htpc:
+** Received the Broadcom CrystalHD card
+   - Ordered from - [[http://jhetech.com/broadcom-bcm970015-vd-920-70015-mini-pci-e-hd-decoder-720-1080-apple-tv][Jhe Technology]]
+   - Installed as per [[http://www.youtube.com/watch?v%3DARx5Dh7t90E][this]]. Removing the rubber boot _was_ indeed a bitch.
+** Removed the hard disk and the fan.                   :@headphones:@iphone:
+   While I was at it, I removed the hard disk and the fan. The unit
+   refused to reboot after that. Yet another disk order issue. To fix:
+   - Boot with the hard disk attached. I could not find a way to mount
+     the Recovery partition writeable on Linux.
+   - Run a file system check and remount the partition as writeable:
+     : sudo fsck.hfsplus -f /dev/sdb1
+     : sudo mount -o rw,force /dev/sdb1 /media/Recovery
+   - Label the root and swap partitions so that they can be referred
+     to independently of their letter assignement.
+     : sudo e2label /dev/sdb3 ROOT
+     : sudo swapoff -a
+     : sudo mkswap -L SWAP /dev/sdb2
+   - Edit =/media/Recovery/com.apple.Boot.plist= and change
+     =root=/dev/sdb3= to =root=LABEL=ROOT=.
+   - Edit =/etc/fstab= and change =/dev/sdb3= to =LABEL=ROOT=
+     and =/dev/sdb2= to =LABEL=SWAP=.
+   I should have watched [[http://www.youtube.com/watch?v%3D-9yYN-DUP-I][this]]
+
+* [2012-11-11 Sun 17:58] TODO - [[http://www.tested.com/tech/smartphones/2292-how-to-make-any-pair-of-headphones-smart-phone-capable/][How To Make Any Pair of Headphones Smart Phone Capable]] :@headphones:@iphone:

@@ -158,3 +158,8 @@
   - Resizing for width only:
     : -vf "scale=320,-1"
 
+* [2012-11-10 Sat 12:19] Extract a portion of audio   :@video:@audio:@ffmpeg:
+  : ffmpeg -i <input-video> -ss <start time in hh:mm:ss.fff>
+  :     -t <length in hh:mm:ss:fff> -vn -acodec copy
+  :     <output-audio with right extension for the stream type>
+
