@@ -95,3 +95,5 @@
    I should have watched [[http://www.youtube.com/watch?v%3D-9yYN-DUP-I][this]]
 
 * [2012-11-11 Sun 17:58] TODO - [[http://www.tested.com/tech/smartphones/2292-how-to-make-any-pair-of-headphones-smart-phone-capable/][How To Make Any Pair of Headphones Smart Phone Capable]] :@headphones:@iphone:
+
+* [2012-11-21 Wed] Posting to Usenet from the command line   :@usenet:@linux:
