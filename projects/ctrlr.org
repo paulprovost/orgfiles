@@ -160,6 +160,15 @@
   - YouTube - SDKTutor's Channel
     http://www.youtube.com/user/SDKTutor
 
+** [2013-01-03 Thu 15:11] Hardware                      :@hardware:@encoders:
+   - [[http://www.bourns.com/ProductLine.aspx?name=optical_encoders][Bourns - Optical Encoders]]
+   - [[https://www.sparkfun.com/products/10407?][Rotary Encoder LED Ring Breakout Board - Blue - SparkFun Electronics]]
+   - [[https://www.sparkfun.com/products/10595?][Circular LED Bargraphs - Red - SparkFun Electronics]]
+   - [[http://top-up.so-buy.com/front/bin/cglist.phtml?Category=325007][TOP-UP INDUSTRY CORP. -- LED CCL RING]]
+   - [[http://www.diystompboxes.com/smfforum/index.php?topic=81141.0][LED indicator rings for rotary encoders?]]
+   - [[http://radionics.rs-online.com/web/p/products/6917705/][Buy Rotary Encoders 14mm Rotary Optical Enc. w/Switch 64PPR Bourns EM14A0D-C24-L064S online from RS for next day delivery.]]
+   - [[http://mayhewlabs.com/news/rotary-encoder-led-ring-videos-and-library][Rotary Encoder LED Ring – Videos and Arduino Library | Mayhew Labs]]
+   - [[http://www.circuitsathome.com/mcu/reading-rotary-encoder-on-arduino][Reading rotary encoder on Arduino « Circuits@Home]]
 
 * Tasks                                                               :@task:
   :PROPERTIES:
