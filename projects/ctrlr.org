@@ -169,6 +169,14 @@
    - [[http://radionics.rs-online.com/web/p/products/6917705/][Buy Rotary Encoders 14mm Rotary Optical Enc. w/Switch 64PPR Bourns EM14A0D-C24-L064S online from RS for next day delivery.]]
    - [[http://mayhewlabs.com/news/rotary-encoder-led-ring-videos-and-library][Rotary Encoder LED Ring – Videos and Arduino Library | Mayhew Labs]]
    - [[http://www.circuitsathome.com/mcu/reading-rotary-encoder-on-arduino][Reading rotary encoder on Arduino « Circuits@Home]]
+   - [[http://www.youtube.com/watch?v=uZ66PkNUgZI][Mayhew Labs Rotary Encoder LED Ring - YouTube]]
+   - [[http://www.digikey.com/product-detail/en/ACZ11BR1E-20KQD1-20C/102-1764-ND/1923359][ACZ11BR1E-20KQD1-20C CUI Inc | 102-1764-ND | DigiKey]]
+
+** [2013-01-04 Fri 11:17] Raspberry Pi expansion                     :@raspi:
+   - [[http://learn.adafruit.com/reading-a-analog-in-and-controlling-audio-volume-with-the-raspberry-pi/overview][Overview | Analog Inputs for Raspberry Pi Using the MCP3008 | Adafruit Learning System]]
+   - [[http://hackaday.com/2012/07/28/reading-analog-sensors-with-the-raspberry-pi/][Reading analog sensors with the Raspberry Pi]]
+   - [[http://www.briandorey.com/post/Raspberry-Pi-I2C-Analog-to-Digital-Converter.aspx][Brian Dorey.com | Raspberry Pi I2C Analog-to-Digital Converter]]
+   - [[http://www.abelectronics.co.uk/][AB Electronics UK online electronic shop]]
 
 * Tasks                                                               :@task:
   :PROPERTIES:
