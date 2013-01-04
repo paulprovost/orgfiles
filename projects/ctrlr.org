@@ -178,6 +178,13 @@
    - [[http://www.briandorey.com/post/Raspberry-Pi-I2C-Analog-to-Digital-Converter.aspx][Brian Dorey.com | Raspberry Pi I2C Analog-to-Digital Converter]]
    - [[http://www.abelectronics.co.uk/][AB Electronics UK online electronic shop]]
 
+** [2013-01-04 Fri 16:09] OSC on OSX                           :@osc:@cinder:
+   - [[http://niltoid.com/blog/ableton-live-talks-osc-to-cinder/][Ableton Live Talks OSC to Cinder | niltoid.niltoid.]]
+   - [[http://nodebox.net/code/index.php/OSC][NodeBox | OSC]]
+
+** [2013-01-04 Fri 16:51] Motorized fader                            :@fader:
+   - [[http://www.hazelwoodsound.com/motorized-faders-and-the-arduino/][Cody Hazelwood | Motorized Faders and the Arduino]]
+
 * Tasks                                                               :@task:
   :PROPERTIES:
   :ID:       D04F39D6-E0E9-41C5-A37F-73A2E26E2CDC
