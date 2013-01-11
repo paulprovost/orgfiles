@@ -185,6 +185,13 @@
 ** [2013-01-04 Fri 16:51] Motorized fader                            :@fader:
    - [[http://www.hazelwoodsound.com/motorized-faders-and-the-arduino/][Cody Hazelwood | Motorized Faders and the Arduino]]
 
+** [2013-01-10 Thu 15:04] Reaper integration                        :@reaper:
+   Alex likes Reaper?
+   - [[http://www.cockos.com/reaper/reference.php][REAPER | Developer]]
+
+** [2013-01-11 Fri 13:48] Twisted-based OSC framework          :@osc:@python:
+   - [[https://bitbucket.org/arjan/txosc/wiki/Home][arjan / txosc / wiki / Home — Bitbucket]]
+
 * Tasks                                                               :@task:
   :PROPERTIES:
   :ID:       D04F39D6-E0E9-41C5-A37F-73A2E26E2CDC
