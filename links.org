@@ -1312,6 +1312,8 @@
   - [[http://bottlepy.org/docs/dev/][Bottle: Python Web Framework — Bottle 0.11.dev documentation]]
   - [[http://blog.coderonfire.com/running-bottle-python-micro-framework-on-drea][Running Bottle Python Micro-Framework on Dreamhost - Coder on Fire. Blog]]
   - [[http://hitesh.in/2011/running-a-bottle-py-app-on-dreamhost/][Running a bottle.py app on Dreamhost | Hitesh Sarda]]
+  - [[http://wiki.dreamhost.com/Flask][Flask - DreamHost]]
+    Applies to running bottle as well. Helps with virtualenv setup.
   - [[http://code.activestate.com/recipes/475148-fuzzy-matching-dictionary/][Fuzzy matching dictionary « Python recipes « ActiveState Code]]
 
 * [2012-08-24 Fri] Writing bookmarklets         :@dev:@bookmarklet:@workflow:
@@ -1341,3 +1343,14 @@
   - [[http://crunchbang.org/forums/viewtopic.php?id=21471][How To rip your fav Web-Radio Station to mp3 from the commandline (Page 1) / Tips, Tricks & Scripts / CrunchBang Linux Forums]]
   - [[http://blog.tdobson.net/2012/11/how-to-script-the-recording-of-your-favourite-online-radio-show/][How to script the recording of your favourite online radio show « Tim Dobson]]
   - [[http://www.instructables.com/id/Schedule-Streaming-Audio-Recordings-in-Ubuntu/][Schedule Streaming Audio Recordings in Ubuntu]]
+
+* [2013-01-23 Wed 15:17] More blogging from org-mode :@org:@jekyll:@blogging:
+  - [[http://juanreyero.com/open/org-jekyll/][org-jekyll, export blog posts from org-mode]] 
+    Extracts subtrees from your org-publish project files that have
+    a :blog: keyword and an :on: property with a timestamp, and
+    exports them to a subdirectory _posts of your project's publishing
+    directory in the year-month-day-title.html format that Jekyll
+    expects. Properties are passed over as yaml front-matter in the
+    exported files. The title of the entry is the title of the
+    subtree.
+  - [[https://github.com/punchagan/org-hyde][punchagan/org-hyde · GitHub]]
