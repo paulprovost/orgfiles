@@ -1358,3 +1358,8 @@
 * [2013-01-24 Thu 17:33] Using python to do shell scripting  :@python:@shell:
   - [[http://amoffat.github.com/sh/][sh 1.07 documentation]]
     Too cool!
+
+* [2013-01-24 Thu 17:39] Copy a file with progress in Python        :@python:
+  - [[http://stackoverflow.com/questions/274493/how-to-copy-a-file-in-python-with-a-progress-bar][How to copy a file in Python with a progress bar? - Stack Overflow]]
+    Not sure about reading and writing a whole big file in a python
+    script, though. I trust things like rsync more...
