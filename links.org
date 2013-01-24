@@ -1354,3 +1354,7 @@
     exported files. The title of the entry is the title of the
     subtree.
   - [[https://github.com/punchagan/org-hyde][punchagan/org-hyde · GitHub]]
+
+* [2013-01-24 Thu 17:33] Using python to do shell scripting  :@python:@shell:
+  - [[http://amoffat.github.com/sh/][sh 1.07 documentation]]
+    Too cool!
