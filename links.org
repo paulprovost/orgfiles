@@ -1357,9 +1357,14 @@
 
 * [2013-01-24 Thu 17:33] Using python to do shell scripting  :@python:@shell:
   - [[http://amoffat.github.com/sh/][sh 1.07 documentation]]
-    Too cool!
+    Too cool!+
 
 * [2013-01-24 Thu 17:39] Copy a file with progress in Python        :@python:
   - [[http://stackoverflow.com/questions/274493/how-to-copy-a-file-in-python-with-a-progress-bar][How to copy a file in Python with a progress bar? - Stack Overflow]]
     Not sure about reading and writing a whole big file in a python
     script, though. I trust things like rsync more...
+
+* [2013-01-25 Fri 13:05] More small Linux computers                :@diy:@pi:
+  - [[https://www.olimex.com/Products/OLinuXino/A13/A13-OLinuXino/][A13-OLinuXino]]
+  - [[http://cubieboard.org/][Cubieboard | Open ARM Box]]
+  - [[http://liliputing.com/2012/03/mele-a1000-is-a-70-hackable-linux-friendly-arm-based-pc.html][Mele A1000 is a $70 hackable, Linux-friendly ARM-based PC - Liliputing]]
