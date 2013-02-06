@@ -1368,3 +1368,10 @@
   - [[https://www.olimex.com/Products/OLinuXino/A13/A13-OLinuXino/][A13-OLinuXino]]
   - [[http://cubieboard.org/][Cubieboard | Open ARM Box]]
   - [[http://liliputing.com/2012/03/mele-a1000-is-a-70-hackable-linux-friendly-arm-based-pc.html][Mele A1000 is a $70 hackable, Linux-friendly ARM-based PC - Liliputing]]
+
+* [2013-02-06 Wed] Notetaking on iPad                          :@ipad:@notes:
+  - [[http://www.gingerlabs.com/cont/notability.php][Notability - Unleash Your Note Taking Ability.]]
+  - [[http://readdle.com/products/remarks/][Readdle]]
+  - [[http://mypaperdesk.com/][PaperDesk ● note beautifully]]
+  - [[http://inotesapp.com/features][iNotes App ~ The best note taking experience on your iPad]]
+  - [[http://leethibaultdev.com/?q=smartnote][smartNote for iPad | Mobile software development]]
