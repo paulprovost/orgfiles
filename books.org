@@ -11,8 +11,10 @@
 *** Resize using =mogrify -resize x100=
 *** Insert using =file://books/<imagefile>
 
-* READING Map of Bones - James Rollins
+* READ Map of Bones - James Rollins
   :LOGBOOK:
+  - State "READ"       from "TOBUY"      [2013-02-19 Tue 13:38] \\
+    good yarn if a bit too corny in the romance stuff
   - State "READING" from "TOBUY" [2012-11-19 Mon 14:37]
   :END:
   file://books/james-rollins-map-of-bones.jpg During a crowded service
