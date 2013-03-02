@@ -1375,3 +1375,8 @@
   - [[http://mypaperdesk.com/][PaperDesk ● note beautifully]]
   - [[http://inotesapp.com/features][iNotes App ~ The best note taking experience on your iPad]]
   - [[http://leethibaultdev.com/?q=smartnote][smartNote for iPad | Mobile software development]]
+
+* [2013-03-02 Sat] Subtitles in mp4 files                 :@video:@subtitles:
+  - [[http://www.m4.com/blog/video/adding-burned-in-subtitles-to-your-ripped-movies/][Adding Burned-in Subtitles to Your Ripped Movies]]
+  - [[http://pier.morel.perso.sfr.fr/subfix/english.html][Download SubFix]]  
+  - [[http://www.bitfield.se/submerge/index.html][Submerge]]
