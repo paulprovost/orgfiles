@@ -1376,6 +1376,11 @@
   - [[http://inotesapp.com/features][iNotes App ~ The best note taking experience on your iPad]]
   - [[http://leethibaultdev.com/?q=smartnote][smartNote for iPad | Mobile software development]]
 
+* [2013-03-02 Sat] Subtitles in mp4 files                 :@video:@subtitles:
+  - [[http://www.m4.com/blog/video/adding-burned-in-subtitles-to-your-ripped-movies/][Adding Burned-in Subtitles to Your Ripped Movies]]
+  - [[http://pier.morel.perso.sfr.fr/subfix/english.html][Download SubFix]]  
+  - [[http://www.bitfield.se/submerge/index.html][Submerge]]
+
 * [2013-03-07 Thu 09:58] Working with subtitles on Linux :@subtitles:@video:@authoring:
   - [[http://archive09.linux.com/feature/125978][Subtitle manipulation tools for Linux]]
   - [[http://www.dedoimedo.com/computers/linux-subtitles.html][Working with subtitles (create, edit, embed) in Linux]]
