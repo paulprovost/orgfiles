@@ -200,6 +200,18 @@
    - [[http://diy-fever.com/][DIY Fever – Building my own guitars, amps and pedals]]
    - [[http://www.pedalpartsplus.com/mm5/merchant.mvc?Screen=CTGY&Store_Code=PPP&Category_Code=SWI][Pedal Parts Plus: Switches]]
 
+** [2013-03-08 Fri 07:16] Ableton Live scripting                 :@live:@osc:
+   - [[http://createdigitalmusic.com/2010/03/hacking-ableton-live-unofficial-osc-scripting-for-more-control/][Hacking Ableton Live: Unofficial OSC, Scripting for More Control]]
+   - [[http://remotescripts.blogspot.ca/2010/03/introduction-to-framework-classes.html][_Framework: Introduction to the Framework Classes]]
+   - [[http://remotescripts.blogspot.ca/2010/05/introduction-to-framework-classes-3.html][_Framework: Introduction to the Framework Classes Part 3]]
+   - [[http://remotescripts.blogspot.ca/][_Framework]]
+   - [[http://blogs.bl0rg.net/netzstaub/2008/08/15/writing-ableton-control-surface-scripts/][netzstaub » Writing Ableton Control Surface Scripts]]
+   - [[http://livecontrol.q3f.org/ableton-liveapi/liveosc/][LiveOSC – Complete Control of Ableton Live Using Your iPad or iPod]]
+   - [[http://monome.q3f.org/browser/trunk/LiveOSC/OSCAPI.txt][OSCAPI.txt in trunk/LiveOSC – Monome SVN]]
+   - [[http://niltoid.com/blog/ableton-live-talks-osc-to-cinder/][Ableton Live Talks OSC to Cinder | niltoid.niltoid.]]
+   - [[http://libcinder.org/about/][About | Cinder]]
+
+
 * Tasks                                                               :@task:
   :PROPERTIES:
   :ID:       D04F39D6-E0E9-41C5-A37F-73A2E26E2CDC
