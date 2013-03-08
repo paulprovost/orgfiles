@@ -1381,6 +1381,9 @@
   - [[http://pier.morel.perso.sfr.fr/subfix/english.html][Download SubFix]]  
   - [[http://www.bitfield.se/submerge/index.html][Submerge]]
 
+* [2013-03-02 Sat] Streaming to AirTunes            :@audio:@music:@airtunes:
+  - [[http://blogs.gnome.org/danni/2009/10/22/streaming-to-airtunes-airport-express-with-pulseaudio/][Streaming to Airtunes (Airport Express) with PulseAudio]]
+
 * [2013-03-07 Thu 09:58] Working with subtitles on Linux :@subtitles:@video:@authoring:
   - [[http://archive09.linux.com/feature/125978][Subtitle manipulation tools for Linux]]
   - [[http://www.dedoimedo.com/computers/linux-subtitles.html][Working with subtitles (create, edit, embed) in Linux]]
