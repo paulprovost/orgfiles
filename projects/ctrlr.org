@@ -192,6 +192,14 @@
 ** [2013-01-11 Fri 13:48] Twisted-based OSC framework          :@osc:@python:
    - [[https://bitbucket.org/arjan/txosc/wiki/Home][arjan / txosc / wiki / Home — Bitbucket]]
 
+** [2013-03-08 Fri 07:06] Switches                      :@hardware:@switches:
+   - [[http://www.mammothelectronics.com/4SFSSPST-M-p/800-1003.htm][Single Pole Single Throw (SPST) Momentary Soft-Touch Push Button Footswitch]]
+   - [[http://buildyourownclone.com/storeswitches.html][storeswitches]]
+   - [[http://www.diystompboxes.com/wpress/][DIYstompboxes.com]]
+   - [[http://diystompboxes.com/zencart/index.php?main_page=index&zenid=0fff43ca6a12ad3f956d3c7504aa5e3c][DIYstompboxes.com Store, Build your pedal!]]
+   - [[http://diy-fever.com/][DIY Fever – Building my own guitars, amps and pedals]]
+   - [[http://www.pedalpartsplus.com/mm5/merchant.mvc?Screen=CTGY&Store_Code=PPP&Category_Code=SWI][Pedal Parts Plus: Switches]]
+
 * Tasks                                                               :@task:
   :PROPERTIES:
   :ID:       D04F39D6-E0E9-41C5-A37F-73A2E26E2CDC
