@@ -1387,3 +1387,6 @@
 * [2013-03-07 Thu 09:58] Working with subtitles on Linux :@subtitles:@video:@authoring:
   - [[http://archive09.linux.com/feature/125978][Subtitle manipulation tools for Linux]]
   - [[http://www.dedoimedo.com/computers/linux-subtitles.html][Working with subtitles (create, edit, embed) in Linux]]
+
+* [2013-03-08 Fri] Compress movie volume                :@video:@compression:
+  - [[http://lifehacker.com/5920290/how-to-fix-movies-that-are-really-quiet-then-really-loud][How to Fix Movies that Are Really Quiet, then REALLY LOUD]]
