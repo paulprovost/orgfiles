@@ -1397,3 +1397,11 @@
 * [2013-03-08 Fri 07:09] UIButton tips                  :@dev:@ios:@uibutton:
   - [[http://robots.thoughtbot.com/post/33427366406/designing-for-ios-taming-uibutton][Designing for iOS: Taming UIButton]]
   - [[http://robots.thoughtbot.com/post/36591648724/designing-for-ios-graphics-performance][Designing for iOS: Graphics & Performance]]
+
+* [2013-03-08 Fri 07:13] OSX Accessibility API     :@dev:@osx:@accessibility:
+  - [[http://googlemac.blogspot.ca/2008/01/accessibilityfs-all-access-pass-to-your.html][Official Google Mac Blog: AccessibilityFS: An All-Access Pass to Your UI]]
+  - [[https://developer.apple.com/library/mac/#documentation/Cocoa/Conceptual/Accessibility/cocoaAXIntro/cocoaAXintro.html][Accessibility Programming Guidelines for Mac: Introduction to Accessibility Programming Guidelines for Cocoa]]
+  - [[http://stackoverflow.com/questions/5052266/accessibility-api-cocoa][objective c - Accessibility API - Cocoa - Stack Overflow]]
+  - [[http://pfiddlesoft.com/uibrowser/][UI Browser]]
+  - [[http://stackoverflow.com/questions/6836278/api-for-accessing-ui-elements-in-mac-os-x][osx - API for accessing UI elements in Mac OS X - Stack Overflow]]
+  - [[http://developer.apple.com/library/mac/#samplecode/UIElementInspector/Introduction/Intro.html#//apple_ref/doc/uid/DTS10000728-Intro-DontLinkElementID_2][UIElementInspector]]
