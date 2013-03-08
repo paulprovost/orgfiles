@@ -1390,3 +1390,10 @@
 
 * [2013-03-08 Fri] Compress movie volume                :@video:@compression:
   - [[http://lifehacker.com/5920290/how-to-fix-movies-that-are-really-quiet-then-really-loud][How to Fix Movies that Are Really Quiet, then REALLY LOUD]]
+
+* [2013-03-08 Fri] Button class for iOS                           :@dev:@ios:
+  - [[http://www.cocoacontrols.com/platforms/ios/controls/imageless-gradient-buttons][Imageless Gradient Buttons for iOS - Cocoa Controls]]
+
+* [2013-03-08 Fri 07:09] UIButton tips                  :@dev:@ios:@uibutton:
+  - [[http://robots.thoughtbot.com/post/33427366406/designing-for-ios-taming-uibutton][Designing for iOS: Taming UIButton]]
+  - [[http://robots.thoughtbot.com/post/36591648724/designing-for-ios-graphics-performance][Designing for iOS: Graphics & Performance]]
