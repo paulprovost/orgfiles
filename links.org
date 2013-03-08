@@ -1405,3 +1405,12 @@
   - [[http://pfiddlesoft.com/uibrowser/][UI Browser]]
   - [[http://stackoverflow.com/questions/6836278/api-for-accessing-ui-elements-in-mac-os-x][osx - API for accessing UI elements in Mac OS X - Stack Overflow]]
   - [[http://developer.apple.com/library/mac/#samplecode/UIElementInspector/Introduction/Intro.html#//apple_ref/doc/uid/DTS10000728-Intro-DontLinkElementID_2][UIElementInspector]]
+
+* [2013-03-08 Fri 12:28] Using Emacs for Objective-C :@development:@emacs:@objc:
+  - [[http://thread.gmane.org/gmane.emacs.code-browser/1841][ECB with Objective C]]
+  - [[http://alexott.net/en/writings/emacs-devenv/EmacsCedet.html][A Gentle introduction to CEDET]]
+  - [[http://technyooz.blogspot.ca/2010/01/emacs-crash-course-and-tutorial.html][TechNyooz: Emacs ECB Crash Course and Tutorial]]
+  - [[http://cxwangyi.wordpress.com/2010/08/21/using-cedet-with-emacs/][Using CEDET and ECB with Emacs | Yi Wang's Tech Notes]]
+  - [[http://www.appsintheopen.com/articles/1-setting-up-emacs-for-rails-development/part/6-setting-up-the-emacs-code-browser][AppsInTheOpen]]
+  - [[http://stackoverflow.com/questions/3509919/emacs-c-opening-corresponding-header-file][Emacs C++, opening corresponding header file - Stack Overflow]]
+  - [[http://rawsyntax.com/blog/learn-emacs-fit-your-workflow/][Learn Emacs: Fit your Workflow - Raw Syntax]]
