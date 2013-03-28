@@ -1431,3 +1431,8 @@
   - [[http://www.youtube.com/watch?feature=player_embedded&v=cFgjhXE7MZo#!][Introduction to memoir - YouTube]]
   - [[http://mrskrummel.com/tutorials][LaTeX Tutorials]]
   - [[http://www.xm1math.net/texmaker/][Texmaker (free cross-platform latex editor)]]
+
+* [2013-03-28 Thu 14:55] From [[http://ergoemacs.org/emacs/emacs_dired_tips.html][Xah Lee]]                           :@emacs:blog:
+  In a file, how to go to its directory and place cursor on the file
+  name?  Use the command dired-jump 【Ctrl+x Ctrl+j】.
+
