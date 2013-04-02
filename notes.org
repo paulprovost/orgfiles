@@ -75,21 +75,32 @@
   - Bonus
     : aacgain -c <output_file>
 
-* [2012-07-25 Wed 10:58] vlc command line compression             :@vlc:@drc:
-  - from [[http://wiki.videolan.org/How_to_Batch_Encode][How to Batch Encode - VideoLAN Wiki]]
-    : vcodec="h264"
-    : acodec="mp4a"
-    : bitrate="1024"
-    : arate="192"
-    : ext="mpg"
-    : mux="ts"
-    : vlc="/usr/bin/vlc"
-    : fmt="VOB"
-    : dst="/home/user/"
-    : 
-    : for a in *$fmt; do
-    :    $vlc -I dummy -vvv "./$a" --sout "#transcode{vcodec=$vcodec,vb=$bitrate,acodec=$acodec,ab=$arate,channels=6}:standard{mux=$mux,dst=\"$dst$a.$ext\",access=file}" vlc://quit
-    : done
+* [2012-07-25 Wed 10:58] command line compression                 :@vlc:@drc:
+  - vlc?
+    - from [[http://wiki.videolan.org/How_to_Batch_Encode][How to Batch Encode - VideoLAN Wiki]]
+      : vcodec="h264"
+      : acodec="mp4a"
+      : bitrate="1024"
+      : arate="192"
+      : ext="mpg"
+      : mux="ts"
+      : vlc="/usr/bin/vlc"
+      : fmt="VOB"
+      : dst="/home/user/"
+      : 
+      : for a in *$fmt; do
+      :    $vlc -I dummy -vvv "./$a" --sout "#transcode{vcodec=$vcodec,vb=$bitrate,acodec=$acodec,ab=$arate,channels=6}:standard{mux=$mux,dst=\"$dst$a.$ext\",access=file}" vlc://quit
+      : done
+  - SoX?
+    : $ ffmpeg -i input.mp4 ffmpegoutput.wav
+    : $ sox ffmpegoutput.wav soxoutput.wav compand 0.3,1 6:-70,-60,-20 -5 -90 0.2
+    : $ ffmpeg -i input.mp4 -i soxoutput.wav -map 0:0 -map 1:0 -acodec libfaac -ab 96k -vcodec copy newoutput.mp4
+    - [[http://en.wikipedia.org/wiki/SoX#Examples][SoX - Wikipedia, the free encyclopedia]]
+    - [[http://sox.sourceforge.net/][SoX - Sound eXchange | HomePage]]
+    - [[http://sox.sourceforge.net/sox.html][SoX]]
+    - [[http://sourceforge.net/mailarchive/message.php?msg_id=23427259][SourceForge.net: SoX - Sound eXchange:]]
+    - [[http://linuxcommand.org/man_pages/soxexam1.html][soxexam]]
+    - [[http://www.iclarified.com/entry/index.php?enid=11343][iClarified - Mac OS X - How to Mux and Demux Video Using MP4Box for Mac]]
 
 * [2012-07-25 Wed 12:18] vlc remote control                            :@vlc:
   - Enable the telnet interface.

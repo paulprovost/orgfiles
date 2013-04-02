@@ -1,7 +1,11 @@
 #+TITLE: unraid-based file server
-#+FILETAGS: @project:@homenetwork
+#+FILETAGS: @project:@homenetwork:@unraid
 
 * Based on Lime Technology's [[http://www.lime-technology.com/][unRAID]] solution 
+
+* Links
+  - [[http://greenleaf-technology-howtos.blogspot.ca/2011/05/unraid-usb-boot-drive-creation-using-os.html][unRAID USB boot drive creation using OS X]]
+    use UNetbootin
 
 * Hardware:
   Some information on the Lime Technology Web Site [[http://lime-technology.com/home/87-for-system-builders][here]]
@@ -49,3 +53,13 @@
 ** Arrived and installed
 
 * [2010-09-12 Sun] Ordered Adaptec 1430 from [[http://ncix.com/products/index.php?sku%3D33406&vpn%3D2240900-R&manufacture%3DAdaptec][NCIX]]
+
+* Second box (for off-site backup)
+** Hardware:
+   [2013-03-22 Fri] Acquired
+   - Case: Antec P180
+   - Motherboard: ASUSTeK Computer INC. M2N-E
+     - 6 SATA ports
+   - Processor: AMD Athlon 64 X2 4200+ @ 2.21 GHz
+   - RAM: 4GB
+
