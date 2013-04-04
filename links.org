@@ -1436,4 +1436,12 @@
   In a file, how to go to its directory and place cursor on the file
   name?  Use the command dired-jump 【Ctrl+x Ctrl+j】.
 
+* [2013-04-04 Thu 11:41] "Clustered" Handbrake  :@video:@encoding:@handbrake:
+  - [[http://revxatlarge.blogspot.ca/2011/10/clustered-handbrake-encoder.html][Revx At Large: Clustered Handbrake Encoder]]
+  - [[https://code.google.com/p/clustered-handbrake/wiki/README][README - clustered-handbrake - A distributed system for farming out handbrake encoding tasks. - Google Project Hosting]]
 
+* [2013-04-04 Thu 14:20] Use tmux instead of screen     :@linux:@shell:@tmux:
+ - [[http://tmux.sourceforge.net/][tmux]]
+ - [[http://blog.hawkhost.com/2010/06/28/tmux-the-terminal-multiplexer/][TMUX – The Terminal Multiplexer (Part 1) | Hawk Host Blog]]
+ - [[http://blog.hawkhost.com/2010/07/02/tmux-%e2%80%93-the-terminal-multiplexer-part-2/][TMUX – The Terminal Multiplexer (Part 2) | Hawk Host Blog]]
+ - [[https://mutelight.org/practical-tmux][Practical Tmux]]
