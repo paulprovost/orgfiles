@@ -178,3 +178,6 @@
   : find . -maxdepth 1 -name '*.flac' -print0 \
   :    | xargs -0 -n 1 -P 2 recode-audio |
 
+* [2013-04-03 Wed 18:49] Exclude directories and files in find  :@unix:@find:
+  - Directories
+  : find . -not -path "*.AppleDouble*" <Next>

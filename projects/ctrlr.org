@@ -295,3 +295,36 @@
    :ID:       82859C14-CA70-4650-BA32-E0FE6AA68686
    :END:
    Displays graphical entites and allows them to be picked and moved.
+
+* Journal
+** Continuous NSThread class:
+   From [[https://github.com/alunbestor/Boxer][Boxer]], a DOS game emulator for OSX
+   - [[https://github.com/alunbestor/Boxer/blob/master/Other%2520Sources/ADBToolkit/ADBContinuousThread.m][ADBContinuousThread.m]], [[https://github.com/alunbestor/Boxer/blob/master/Other%2520Sources/ADBToolkit/ADBContinuousThread.h][ADBContinuousThread.h]]
+   - Usage: 
+** [2013-03-29 Fri 12:18] MIDI working. Now for OSC.
+   - Downloaded [[http://liblo.sf.net/][liblo]].
+   - Compiled (64 bits for now. Screw backwards compatibility):
+     : export CFLAGS="-arch x86_64"
+     : export CXXFLAGS=$CFLAGS
+     : export LDFLAGS=$CFLAGS
+     : ./configure --enable-static
+     : make
+     - Not a dynamic library. dylibs register where they should be
+       installed inside themselves. I do not want them installed in
+       =/usr/local/lib=, nor do I want to go through [[-%20%5B%5Bhttp://www.mikeash.com/pyblog/friday-qa-2009-11-06-linking-and-install-names.html%5D%5Bmikeash.com:%20Friday%20Q&A%202009-11-06:%20Linking%20and%20Install%20Names%5D%5D%0A][this]] to monkey
+       around with them. So static library it is.
+   - Adding to the project
+     - Library (liblo.a)
+       - Create a lib directory as a sibling of the .xcodeproj file
+       - Copy the library there
+       - Select Project
+       - Choose Build Phases tab
+       - In "Link Binary With Libraries", click "+"
+       - Click "Other" and navigate to the library
+       - Move to the Frameworks folder
+     - Includes
+       - Create include directory as sibling of .xcodeproj file
+       - Copy the include directory (=lo=) there
+       - In Project -> Build Settings, look for User Header Search Paths
+       - Double-click (without expanding) and add =$(SRCROOT)/include=
+
