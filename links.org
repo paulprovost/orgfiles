@@ -824,6 +824,9 @@
     http://phpsysinfo.sourceforge.net/phpsysinfo/index.php?disp=dynamic
 
 * NEXT [#A] [2011-11-20 Sun] Managing dotfiles with revision control :@dotfiles:@hg:
+  :PROPERTIES:
+  :ID:       d66b1892-6916-4703-a04c-a27d45930805
+  :END:
 ** Requirements
 ** Links
   - Mercurial
@@ -1122,6 +1125,9 @@
   - A new Hyde?
     https://github.com/hyde/hyde
 ** NEXT [#A] Investigate this - Org-mode to Jekyll
+   :PROPERTIES:
+   :ID:       2644f6d5-bc47-4037-ba2a-725ec5b39c6d
+   :END:
    - org-jekyll, export blog posts from org-mode
      http://juanreyero.com/open/org-jekyll/
    - juanre/org-jekyll
@@ -1135,6 +1141,9 @@
    - State "NEXT"       from "CANCELLED"  [2012-04-03 Tue 17:46]
    - State "CANCELLED"  from "NEXT"       [2012-04-02 Mon 16:41] \\
      Old version of Hyde. See [[file:links.org::*%5B2012-04-02%20Mon%5D%20Hyde%20notes%20and%20examples][{2012-04-02 Mon} Hyde notes and examples]]
+   :END:
+   :PROPERTIES:
+   :ID:       c4479868-a2d3-4384-b912-2aad50726798
    :END:
   - punchagan/blog-files
     https://github.com/punchagan/blog-files
@@ -1154,6 +1163,9 @@
     http://www.audibledata.com/Software.html
 
 * NEXT [#A] [2012-03-29 Thu] Installing meld on Mac OS X             :@macos:
+  :PROPERTIES:
+  :ID:       ff47397d-9e16-4c8e-b751-b537a419165d
+  :END:
   - How to install meld in Mac OS X Lion
     http://scoobygalletas.blogspot.ca/2011/09/how-to-install-meld-in-mac-os-x-lion.html
 
@@ -1445,3 +1457,37 @@
  - [[http://blog.hawkhost.com/2010/06/28/tmux-the-terminal-multiplexer/][TMUX – The Terminal Multiplexer (Part 1) | Hawk Host Blog]]
  - [[http://blog.hawkhost.com/2010/07/02/tmux-%e2%80%93-the-terminal-multiplexer-part-2/][TMUX – The Terminal Multiplexer (Part 2) | Hawk Host Blog]]
  - [[https://mutelight.org/practical-tmux][Practical Tmux]]
+
+* [2013-04-04 Thu 15:46] Sending growl notifications  :@growl:@python:
+  - [[https://github.com/kfdm/gntp][kfdm/gntp · GitHub]]
+  - [[http://pythonhosted.org/gntp/][GNTP Basics — Growl Notification Transport Protocol Python Bindings 1.0 documentation]]
+
+* [2013-04-28 Sun 13:18] Audio file splitting and tagging :@audio:@music:@tagging:
+  - [[http://www.commandlinefu.com/commands/view/2042/split-lossless-audio-ape-flac-wav-wv-by-cue-file][Split lossless audio (ape, flac, wav, wv) by cue file | commandlinefu.com]]
+  - [[http://home.gna.org/lltag/howto][lltag - Automatic command-line mp3/ogg/flac file tagger and renamer - How-To?]]
+  - [[http://www.cyberciti.biz/faq/linux-unix-bash-for-loop-one-line-command/][HowTo: Use bash For Loop In One Line]]
+
+* [2013-04-28 Sun 13:53] Movie trackers                     :@torrent:@movie:
+  - [[http://lifehacker.com/5897095/whats-a-private-bittorrent-tracker-and-why-should-i-use-one][What's a Private BitTorrent Tracker, and Why Should I Use One?]]
+  - [[http://filenetworks.blogspot.ca/search/label/Private%20Trackers][FILEnetworks Blog: Private Trackers]]
+  - [[http://www.torrent-invites.com/bittorrent-discussion/222375-right-path-top-movie-trackers.html][The right path to the top movie trackers?]]
+  - [[http://www.torrent-invites.com/tracker-reviews/][Tracker Reviews]]
+  - [[http://www.torrent-invites.com/bittorrent-discussion/212426-best-movie-tracker-quantity-quality.html][Best movie tracker for Quantity/Quality?]]
+  - [[http://www.torrent-invites.com/bittorrent-discussion/144925-best-movie-tracker-best-tv-tracker.html][Best movie tracker & Best TV tracker]]
+
+* [2013-04-28 Sun 13:54] Convert iTunes URL to standard Podcast :@itunes:@podcasts:
+  - [[http://picklemonkey.net/feedflipper-home/?https%3A%2F%2Fitunes.apple.com%2Fus%2Fpodcast%2Fechoes-feature-just-music%2Fid77320816%3Fi%3D127653748=https%3A%2F%2Fitunes.apple.com%2Fus%2Fpodcast%2Fechoes-feature-just-music%2Fid77320816%3Fi%3D127653748][Feed Flipper | picklemonkey.net]]
+
+* [2013-04-28 Sun 13:55] Using the Amazon API with python :@dev:@python:@amazon:
+  - [[http://stackoverflow.com/questions/12531612/how-to-get-book-cover-picture-through-amazon-api-using-python-code][How to get book cover picture through amazon API using python code? - Stack Overflow]]
+  - [[http://stackoverflow.com/questions/4589813/amazon-book-api-for-python-or-ruby][Amazon Book API for Python or Ruby? - Stack Overflow]]
+  - [[https://pypi.python.org/pypi/python-amazon-product-api/0.2.1][python-amazon-product-api 0.2.1 : Python Package Index]]
+  - [[https://bitbucket.org/basti/python-amazon-product-api/wiki/Home][basti / python-amazon-product-api / wiki / Home — Bitbucket]]
+  - [[https://github.com/aurorasoftware/bottlenose][aurorasoftware/bottlenose · GitHub]]
+  - [[https://www.amazon.com/ap/signin?openid.assoc_handle=aws&openid.return_to=https%3A%2F%2Fportal.aws.amazon.com%2Fgp%2Faws%2FsecurityCredentials&openid.mode=checkid_setup&openid.ns=http%3A%2F%2Fspecs.openid.net%2Fauth%2F2.0&openid.identity=http%3A%2F%2Fspecs.openid.net%2Fauth%2F2.0%2Fidentifier_select&openid.claimed_id=http%3A%2F%2Fspecs.openid.net%2Fauth%2F2.0%2Fidentifier_select&action=&disableCorpSignUp=&clientContext=&marketPlaceId=&poolName=&authCookies=&pageId=aws.ssop&siteState=&accountStatusPolicy=P1&sso=&openid.pape.preferred_auth_policies=MultifactorPhysical&openid.pape.max_auth_age=600&openid.ns.pape=http%3A%2F%2Fspecs.openid.net%2Fextensions%2Fpape%2F1.0&server=%2Fap%2Fsignin%3Fie%3DUTF8&accountPoolAlias=&showIAMLink=0&forceMobileLayout=0][Amazon Web Services Sign In]]
+  - [[http://stackoverflow.com/questions/4171733/sample-python-code-for-using-google-books-api][django - Sample python code for using Google books api - Stack Overflow]]
+  - [[https://developers.google.com/books/docs/v1/using][Using the API - Google Books API Family — Google Developers]]
+
+* [2013-04-28 Sun 13:59] Power Monitoring                            :@power:
+  - [[http://www.p3international.com/products/special/p4400/p4400-ce.html][P3 - Kill A Watt]]
+  - [[http://store.greengadgets.ca/products/P4400.html][P4400 - Kill-a-Watt Power Monitor]]

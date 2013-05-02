@@ -35,6 +35,9 @@
 **** Cartes mémoire
 **** Adapteur europe
 **** TOBUY Téléphone (pré-payé à acheter)
+     :PROPERTIES:
+     :ID:       b69b993c-6180-434d-827f-2ec18184c766
+     :END:
      - [[http://www.phonerentalfrance.com/fr/services.asp][PhoneRental Francia]]
        Plutôt carte d'appel...
 *** DONE Lampe frontale
@@ -43,6 +46,9 @@
 **** Petit futé
 **** Roman
 *** TOBUY Carnet de notes et stylo
+    :PROPERTIES:
+    :ID:       cb7628ed-27ed-4611-9a33-509b38571d20
+    :END:
 *** DONE Crédencial
     - [[http://www.compostelle.asso.fr/][Où se procurer la Credencial?]]
 *** DONE Corde à linge et pinces à linge

@@ -35,6 +35,9 @@
   :LOGBOOK:
   - State "TODO"       from ""           [2012-04-12 Thu 15:27]
   :END:
+  :PROPERTIES:
+  :ID:       82882729-0763-425d-9a43-e927dc69efed
+  :END:
   Periods are swallowed into the link text when links are linkified.
 
 * [2012-04-30 Mon] Montreal Python #29                       :@python:@mtlpy:

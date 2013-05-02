@@ -6,12 +6,24 @@
 
 * Paye EA
   SCHEDULED: <2012-01-05 Thu +2w>
+  :PROPERTIES:
+  :ID:       dbc00593-6948-427a-bf25-c95c8d2ef6d2
+  :END:
 
 * Jour de glycémie
   SCHEDULED: <2012-01-05 Thu +10d>
+  :PROPERTIES:
+  :ID:       2a5c75c5-7fe2-4d84-94ba-d262ad4fd991
+  :END:
 
 * Paiement hypothèque Noyan
   SCHEDULED: <2012-04-20 Fri +2w>
+  :PROPERTIES:
+  :ID:       d8d86e71-9911-4b25-87f8-0ce893b4d16d
+  :END:
 
 * Remboursement de $460.23 par Elisabeth - Marge hypothécaire
   SCHEDULED: <2012-05-04 Fri>
+  :PROPERTIES:
+  :ID:       ade36e75-895c-4889-aaec-f4f2a910fa61
+  :END:

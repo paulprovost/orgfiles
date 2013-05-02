@@ -1,2 +1,35 @@
 * Elysium wallet generation seed
   grass wife boom afraid alas useless allow less sting nerd scene harmony
+
+* Links
+  - [[https://www.bitcoinpool.com/index.php?do=register][BitcoinPool - User Registration]]
+  - [[http://bitcoinpool.com/forum/viewtopic.php?f=7&t=129][Bitcoin Forum for BitcoinPool • View topic - How to Get Started]]
+  - [[http://bitminter.com/][BitMinter - Bitcoin made easy!]]
+  - [[https://github.com/WyseNynja/homebrew-bitcoin][WyseNynja/homebrew-bitcoin · GitHub]]
+  - [[http://bitcoin.stackexchange.com/questions/3672/trouble-compiling-bitcoind-on-osx-with-homebrew][client - Trouble compiling bitcoind on OSX with homebrew - Bitcoin Stack Exchange]]
+
+* cgminer links                                                    :@cgminer:
+  - [[https://gist.github.com/premist/5344056][Install cgminer on Mac OS X using homebrew]]
+  - [[https://bitcointalk.org/index.php?topic=166877.0][CGMINER v2.11.3 Mac binary compiled for OS X 10.8.3 Mountain Lion]]
+  - [[https://bitcointalk.org/index.php?topic=28402.0][CGMINER GPU FPGA overc monit fanspd RPC stratum linux/windws/osx/mip/r-pi 2.11.4]]
+  - [[http://blog.phraust.com/post/25807705339/cgminer][Bitcoin Mining with cgminer on OSX Here is a... - bury the past]]
+  - [[http://www.spaceman.ca/blog/?p=235][On Orbit » Blog Archive » Installing CGMiner on Mac OS X 10.8]]
+  - [[http://webcache.googleusercontent.com/search?q=cache:wcn4rgpWN14J:dblamb.com/meh/compiling-cgminer-on-mac-os-x/+&cd=2&hl=en&ct=clnk][Compiling cgminer on Mac OS X | A Double Dose of Derp]]
+  - [[http://andarazoroflove.org/compiling-cgminer-with-scrypt-on-osx-mountain-lion-for-gpu-mining-ltc/][Compiling cgminer with scrypt on OSX Mountain Lion for GPU Mining LTC | andarazOroflove.org]]
+  - [[http://macyves.wordpress.com/2013/02/05/libcurl-and-pkg-config-on-homebrew-mountain-lion-osx-10-8-2/][libcurl and pkg-config on Homebrew – Mountain Lion OSX 10.8.2 | something else]]
+
+* Litecoin links                                                  :@litecoin:
+  - [[http://litecoin.org/][Litecoin]]
+  - [[http://bitcoin.stackexchange.com/questions/1843/where-can-i-download-the-litecoin-binary-for-osx][mining - Where can I download the Litecoin binary for OSX? - Bitcoin Stack Exchange]]
+  - [[http://cryptocur.com/litecoin/litecoin-ltc-gpu-mining/][Litecoin LTC Mining guide, gpu]]
+  - [[http://litecoin.org/][Litecoin]]
+  - [[https://en.bitcoin.it/wiki/Units][Units - Bitcoin]]
+  - [[https://en.bitcoin.it/wiki/Litecoin][Litecoin - Bitcoin]]
+  - [[https://github.com/litecoin-project/litecoin/wiki/Mining-hardware-comparison][Mining hardware comparison · litecoin-project/litecoin Wiki]]
+  - [[https://github.com/litecoin-project/litecoin/wiki/Comparison-of-mining-pools][Comparison of mining pools · litecoin-project/litecoin Wiki]]
+  - [[http://cryptojunky.com/blog/2013/03/12/absolute-beginners-guide-to-litecoin-mining/][Absolute Beginner’s Guide To Litecoin Mining]]
+  - [[https://bitcointalk.org/index.php?topic=117221.0][Consolidated Litecoin Mining Guide for 5xxx, 6xxx, and 7xxx GPUs]]
+  - [[http://litecoinforum.org/mining-discussion/mining-tools-(cpugpu)/][Mining tools (cpu/gpu) - Litecoin Forum - The Unofficial Litecoin Forum]]
+  - [[http://www.bitcointrading.com/forum/litecoin/gpu-mining-litecoins-with-cgminer-(windows-guide)/][GPU Mining Litecoins with CGMiner [Windows Guide] - bitcointrading.com - bitcoin buy/sell classifieds forum]]
+  - [[http://give-me-ltc.com/news][GIVE ME LTC - A professional Litecoin Pool]]
+  - [[http://give-me-ltc.com/gettingstarted][GIVE ME LTC - A professional Litecoin Pool]]

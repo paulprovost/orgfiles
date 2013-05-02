@@ -79,6 +79,9 @@
       http://www.mail-archive.com/emacs-orgmode@gnu.org/msg08857.html
       
 * STARTED Script to copy surf URLs to clipboard               :@script:@surf:
+  :PROPERTIES:
+  :ID:       a54f72e1-16e3-4fd4-92b0-0c68802a825e
+  :END:
   : wmctrl -l -x | grep surf.surf | awk  '{print $1}' | xargs -n 1 xprop -id \
   :     | grep -i -e "^WM_NAME(.*) = " -e "^_SURF_URI(.*) = " \
   :     | awk -F= '{print $2}' | tr -d '"' | tac \
