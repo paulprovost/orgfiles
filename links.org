@@ -1491,3 +1491,6 @@
 * [2013-04-28 Sun 13:59] Power Monitoring                            :@power:
   - [[http://www.p3international.com/products/special/p4400/p4400-ce.html][P3 - Kill A Watt]]
   - [[http://store.greengadgets.ca/products/P4400.html][P4400 - Kill-a-Watt Power Monitor]]
+
+* [2013-05-13 Mon 14:39] Installing a local version of srchcmd
+  - [[http://fclef.wordpress.com/2013/01/12/bottle-virtualenv-uwsgi-nginx-installation-on-ubuntu-12-04-1-lts/][Python Bottle+virtualenv+uWSGI+Nginx installation on Ubuntu 12.04.1 LTS | Sean Wang's territory]]
