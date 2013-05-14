@@ -181,3 +181,16 @@
 * [2013-04-03 Wed 18:49] Exclude directories and files in find  :@unix:@find:
   - Directories
   : find . -not -path "*.AppleDouble*" <Next>
+
+* [2013-05-11 Sat 11:30] IP and port scan                    :@network:@nmap:
+  - IP Scanning with range 192.168.0.0 – 192.168.0.255
+    : sudo nmap -sP 192.168.0.0/24
+  - IP Scanning with range 192.168.0.1 – 192.168.0.254
+    : sudo nmap -sP 192.168.0.1-254
+  - Port Scanning with range port 100 – port 139
+    : nmap 192.168.0.3 -p100-139
+  - Scanning Operating system on target IP
+    : sudo nmap -O 192.168.0.3
+  - Faster Execution - use the -T4 option.
+
+

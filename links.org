@@ -1491,6 +1491,39 @@
 * [2013-04-28 Sun 13:59] Power Monitoring                            :@power:
   - [[http://www.p3international.com/products/special/p4400/p4400-ce.html][P3 - Kill A Watt]]
   - [[http://store.greengadgets.ca/products/P4400.html][P4400 - Kill-a-Watt Power Monitor]]
+<<<<<<< mine
+
+* [2013-05-07 Tue 20:11] Setting DISPLAY when connecting by ssh :@osx:@ssh:@x11:
+  - [[http://apple.stackexchange.com/questions/80470/display-is-not-set-on-remote-host-when-i-do-ssh-from-mac-to-another-machine][mountain lion - DISPLAY is not set on remote host when I do ssh from mac to another machine - Ask Different]]
+
+* [2013-05-12 Sun 18:29] Writing a résumé in LaTeX                   :@latex:
+  - [[http://www.mcnabbs.org/andrew/linux/latexres/][Andrew McNabb]]
+  - [[https://www.google.com/search?q=resume+using+latex][resume using latex - Google Search]]
+  - [[http://texblog.org/2012/04/25/writing-a-cv-in-latex/][Writing a CV in LaTeX | texblog]]
+  - [[http://www.wikihow.com/Write-a-Resume-in-LaTeX][6 Ways to Write a Resume in LaTeX - wikiHow]]
+  - [[http://kyle.mathews2000.com/blog/2011/05/21/how-create-resume-using-latex][How to create a resume using Latex | KYLE MATHEWS]]
+  - [[http://kjhealy.github.io/kjh-vita/][kjhealy/kjh-vita @ GitHub]]
+  - [[https://github.com/kjhealy/kjh-vita][kjhealy/kjh-vita · GitHub]]
+  - [[http://wiki.contextgarden.net/Main_Page][ConTeXt wiki]]
+  - [[http://www.toofishes.net/blog/why-i-do-my-resume-latex/][toofishes.net - Why I do my résumé in LaTeX]]
+  - [[http://www.thelinuxdaily.com/2008/10/latex-resume-examples/][LaTeX Resume Examples | The Linux Daily]]
+
+* [2013-05-12 Sun 18:26] Blender / Mocap                    :@blender:@mocap:
+  - [[http://cgcookie.com/blender/2010/05/13/game-enginecharacter-part-1/][Game Engine: Simple Character - Part 1 | Blender Cookie]]
+  - [[http://wiki.blender.org/index.php/Doc:2.4/Manual/Game_Engine][Doc:2.4/Manual/Game Engine - BlenderWiki]]
+  - [[http://www.ni-mate.com/][NI Mate]]
+  - [[http://animata.kibu.hu/][Animata]]
+ 
+* [2013-05-12 Sun 18:30] GeekTool calendar                        :@geektool:
+  - [[http://www.macosxtips.co.uk/geeklets/system/calendar-with-colored-day/][Calendar with colored day | Geeklets]]
+  - [[http://pastebin.com/f56e5608f][[PHP] dvil88 - Pastebin.com]]
+  - [[http://forums.macrumors.com/showthread.php?t=925333][Geektool Calendar issue - MacRumors Forums]]
+  - [[http://forums.macrumors.com/showpost.php?p=10501085&postcount=2177][MacRumors Forums - View Single Post - [Geektool] Your Geektool scripts]]
+  - [[http://forums.macrumors.com/showpost.php?p=10785954&postcount=2258][MacRumors Forums - View Single Post - [Geektool] Your Geektool scripts]]
+  - [[http://macgenius.co/apps/a-beginners-guide-to-running-geektool-on-lion/][A Beginners Guide to Running GeekTool on Lion | Mac Genius]]
 
 * [2013-05-13 Mon 14:39] Installing a local version of srchcmd
   - [[http://fclef.wordpress.com/2013/01/12/bottle-virtualenv-uwsgi-nginx-installation-on-ubuntu-12-04-1-lts/][Python Bottle+virtualenv+uWSGI+Nginx installation on Ubuntu 12.04.1 LTS | Sean Wang's territory]]
+
+* [2013-05-14 Tue 07:06] Verifying WPS deactivation       :@network:@hacking:
+  - [[http://backtrack4beginners.blogspot.ca/2012/09/5-hacking-wpa2-with-wps-bruteforcing.html][Backtrack from begginer to advanced: # 5 Hacking WPA2 (With WPS Bruteforcing)]]
