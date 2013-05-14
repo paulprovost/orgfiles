@@ -1491,7 +1491,6 @@
 * [2013-04-28 Sun 13:59] Power Monitoring                            :@power:
   - [[http://www.p3international.com/products/special/p4400/p4400-ce.html][P3 - Kill A Watt]]
   - [[http://store.greengadgets.ca/products/P4400.html][P4400 - Kill-a-Watt Power Monitor]]
-<<<<<<< mine
 
 * [2013-05-07 Tue 20:11] Setting DISPLAY when connecting by ssh :@osx:@ssh:@x11:
   - [[http://apple.stackexchange.com/questions/80470/display-is-not-set-on-remote-host-when-i-do-ssh-from-mac-to-another-machine][mountain lion - DISPLAY is not set on remote host when I do ssh from mac to another machine - Ask Different]]
