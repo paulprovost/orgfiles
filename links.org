@@ -1533,3 +1533,8 @@
   - [[https://www.ssl-news.info/signup.php?][SSL NEWS - Shop]]
   - [[http://new.xsnews.com/index.php/en/products/details/elite][XS News || products]]
   - [[http://www.xlned.com/][XLned - Usenet for everyone]]
+
+* [2013-05-15 Wed 15:56] Anonymous surfing / torrenting  :@anonymous:@vpn:@torrent:
+  - [[http://linuxpoison.blogspot.ca/2011/09/anonymous-web-surfing-using-tor-ubuntu.html][Anonymous web surfing using TOR - Ubuntu Linux | Linux Blog]]
+  - [[http://askubuntu.com/questions/37412/how-can-i-insure-transmission-traffic-uses-a-vpn][server - How can I insure transmission traffic uses a VPN? - Ask Ubuntu]]
+  - [[https://forum.transmissionbt.com/viewtopic.php?f=4&t=11452][Transmission • View topic - HowTo: Bind to a specific network interface]]
