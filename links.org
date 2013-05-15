@@ -1526,3 +1526,10 @@
 
 * [2013-05-14 Tue 07:06] Verifying WPS deactivation       :@network:@hacking:
   - [[http://backtrack4beginners.blogspot.ca/2012/09/5-hacking-wpa2-with-wps-bruteforcing.html][Backtrack from begginer to advanced: # 5 Hacking WPA2 (With WPS Bruteforcing)]]
+
+* [2013-05-15 Wed 15:54] European Usenet Providers                  :@usenet:
+  - [[http://www.ngprovider.com/euro-based-usenet-providers.php][European (Dutch) Usenet Servers]]
+  - [[https://www.tweaknews.eu/][TweakNews - Home - Free - Basic - Fast - Ultimate]]
+  - [[https://www.ssl-news.info/signup.php?][SSL NEWS - Shop]]
+  - [[http://new.xsnews.com/index.php/en/products/details/elite][XS News || products]]
+  - [[http://www.xlned.com/][XLned - Usenet for everyone]]
