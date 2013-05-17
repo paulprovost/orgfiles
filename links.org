@@ -1552,4 +1552,6 @@
   - [[http://www.dribin.org/dave/software/ddcli/api/][ddcli: ddcli: An Objective-C Command Line Helper]]
   - [[https://github.com/tomaz/GBCli][tomaz/GBCli · GitHub]]
 
+* [2013-05-17 Fri 13:32] CoreMIDI and IAC                    :@dev:@coremidi:
+  - [[http://xmidi.com/how-to-access-midi-devices-with-coremidi/][How to access MIDI devices with CoreMIDI » XMIDI]]
 
