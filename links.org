@@ -1538,3 +1538,10 @@
   - [[http://linuxpoison.blogspot.ca/2011/09/anonymous-web-surfing-using-tor-ubuntu.html][Anonymous web surfing using TOR - Ubuntu Linux | Linux Blog]]
   - [[http://askubuntu.com/questions/37412/how-can-i-insure-transmission-traffic-uses-a-vpn][server - How can I insure transmission traffic uses a VPN? - Ask Ubuntu]]
   - [[https://forum.transmissionbt.com/viewtopic.php?f=4&t=11452][Transmission • View topic - HowTo: Bind to a specific network interface]]
+
+* [2013-05-17 Fri 08:15] Songs for Optikal Illusion reunion
+  - [[http://www.youtube.com/watch?v=IBH97ma9YiI][Radiohead - Karma Police - YouTube]]
+  - [[http://tabs.ultimate-guitar.com/r/radiohead/karma_police_tab.htm][Karma Police Tab by Radiohead @ Ultimate-Guitar.Com]]
+  - [[http://www.youtube.com/watch?v=8MR9OH6BjOo][Red Hot Chili Peppers - Dani California - YouTube]]
+  - [[http://tabs.ultimate-guitar.com/r/red_hot_chili_peppers/dani_california_ver3_tab.htm][Dani California Tab (ver 3) by Red Hot Chili Peppers @ Ultimate-Guitar.Com]]
+
