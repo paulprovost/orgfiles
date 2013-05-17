@@ -1545,3 +1545,11 @@
   - [[http://www.youtube.com/watch?v=8MR9OH6BjOo][Red Hot Chili Peppers - Dani California - YouTube]]
   - [[http://tabs.ultimate-guitar.com/r/red_hot_chili_peppers/dani_california_ver3_tab.htm][Dani California Tab (ver 3) by Red Hot Chili Peppers @ Ultimate-Guitar.Com]]
 
+* [2013-05-17 Fri 10:32] Objective-C command line parsing :@dev:@objc:@cmdline:
+  - [[http://unixjunkie.blogspot.ca/2006/07/command-line-processing-in-cocoa.html][Unixjunkie Blog: Command Line Processing in Cocoa]]
+  - [[http://perspx.com/archives/parsing-command-line-arguments-nsuserdefaults/][Parsing command line arguments with NSUserDefaults | Perspx]]
+  - [[http://yken.org/2009/01/14/parsing-the-command-line-in-objective-c/][Parsing the command line in Objective-C | yken.org]]
+  - [[http://www.dribin.org/dave/software/ddcli/api/][ddcli: ddcli: An Objective-C Command Line Helper]]
+  - [[https://github.com/tomaz/GBCli][tomaz/GBCli · GitHub]]
+
+
