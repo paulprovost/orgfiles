@@ -1466,6 +1466,7 @@
   - [[http://www.commandlinefu.com/commands/view/2042/split-lossless-audio-ape-flac-wav-wv-by-cue-file][Split lossless audio (ape, flac, wav, wv) by cue file | commandlinefu.com]]
   - [[http://home.gna.org/lltag/howto][lltag - Automatic command-line mp3/ogg/flac file tagger and renamer - How-To?]]
   - [[http://www.cyberciti.biz/faq/linux-unix-bash-for-loop-one-line-command/][HowTo: Use bash For Loop In One Line]]
+    : for i in *; do echo $i; done
 
 * [2013-04-28 Sun 13:53] Movie trackers                     :@torrent:@movie:
   - [[http://lifehacker.com/5897095/whats-a-private-bittorrent-tracker-and-why-should-i-use-one][What's a Private BitTorrent Tracker, and Why Should I Use One?]]
