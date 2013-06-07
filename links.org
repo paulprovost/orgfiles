@@ -1556,3 +1556,14 @@
 * [2013-05-17 Fri 13:32] CoreMIDI and IAC                    :@dev:@coremidi:
   - [[http://xmidi.com/how-to-access-midi-devices-with-coremidi/][How to access MIDI devices with CoreMIDI » XMIDI]]
 
+* [2013-06-07 Fri 14:07] Ambient playlist          :@youtube:@ambient:@music:
+  - [[http://www.youtube.com/watch?v=bFep_qy9da0][PTARKH : Razval - YouTube]]
+  - [[http://www.youtube.com/watch?v=OiHjceyENz4][Dark Ambient Playlist - YouTube]]
+  - [[http://www.youtube.com/user/cryochamberlabel][cryochamberlabel - YouTube]]
+  - [[http://cryochamber.bandcamp.com/][Cryo Chamber]]
+  - [[http://www.youtube.com/watch?v=hctYB7Lpppo][Ambient Space music Julien H Mulder - Fragments "NOW AVAILABLE ON BANDCAMP" - YouTube]]
+  - [[https://www.youtube.com/watch?v=RRWnRfd8aRc][Klaus Schulze - Kontinuum - YouTube]]
+  - [[http://www.youtube.com/watch?v=RvOkZ8aYJs4][Klaus Schulze - Into The Blue - YouTube]]
+  - [[http://blog.hos.com/2013/05/jeff-pearce-and-robert-rich-ambicon-concerts-on-youtube.html][Jeff Pearce and Robert Rich AMBIcon concerts on YouTube - hearts of space | news]]
+  - [[http://www.youtube.com/watch?feature=player_embedded&v=jbgZ9n1PToo][AMBIcon 2013: JEFF PEARCE Full Concert (Production Video) - YouTube]]
+
