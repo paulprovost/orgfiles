@@ -12,10 +12,22 @@
 *** Insert using =file://books/<imagefile>
 
 
-* READING Robocalypse - Daniel H. Wilson
-  :LOGBOOK:
-  - State "READING"    from ""           [2013-04-24 Wed 12:40]
-  :END:
+* READ Robocalypse - Daniel H. Wilson
+  :LOGBOOK: - State "READ" from "READING" [2013-06-12 Wed 14:22] -
+    State "READING" from "" [2013-04-24 Wed 12:40] :END:
+  file://books/daniel-h-wilson-robopocalypse-a-novel.jpg Not far into
+  our future, the dazzling technology that runs our world turns
+  against us. Controlled by a childlike—yet massively
+  powerful—artificial intelligence known as Archos, the global network
+  of machines on which our world has grown dependent suddenly becomes
+  an implacable, deadly foe. At Zero Hour—the moment the robots
+  attack—the human race is almost annihilated, but as its scattered
+  remnants regroup, humanity for the first time unites in a determined
+  effort to fight back. This is the oral history of that conflict,
+  told by an international cast of survivors who experienced this long
+  and bloody confrontation with the machines. Brilliantly conceived
+  and amazingly detailed, Robopocalypse is an action-packed epic with
+  chilling implications about the real technology that surrounds us.
 
 * READ Map of Bones - James Rollins
   :LOGBOOK:
