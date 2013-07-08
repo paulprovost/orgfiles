@@ -1567,3 +1567,57 @@
   - [[http://blog.hos.com/2013/05/jeff-pearce-and-robert-rich-ambicon-concerts-on-youtube.html][Jeff Pearce and Robert Rich AMBIcon concerts on YouTube - hearts of space | news]]
   - [[http://www.youtube.com/watch?feature=player_embedded&v=jbgZ9n1PToo][AMBIcon 2013: JEFF PEARCE Full Concert (Production Video) - YouTube]]
 
+* [2013-07-08 Mon 15:28] European Usenet servers                    :@usenet:
+  - [[http://www.sunnyusenet.com/][Goedkoopste Usenet provider! Nummer 1 payserver | Sunny Usenet]]
+  - [[http://www.thundernews.com/][ThunderNews]]
+  - [[https://www.ssl-news.info/index.php][SSL NEWS - Home]]
+  - [[http://www.ngprovider.com/euro-based-usenet-providers.php][European (Dutch) Usenet Servers]]
+  - [[http://www.newsgrabber.nl/?page_id=5][Newsgrabber.nl Usenet Provider]]
+  - [[https://www.eweka.nl/][Eweka Internet Services]]
+  - [[http://www.newsgroupdirect.com/signup/][Pricing and Signup : NewsgroupDirect High Speed Usenet Newsgroups]]
+  - [[http://www.xlned.com/][XLned - Usenet for everyone]]
+
+* [2013-07-08 Mon 15:31] SpotWeb notes                     :@usenet:@spotweb:
+  - [[https://github.com/spotweb/spotweb][spotweb/spotweb · GitHub]]
+  - [[http://en.wikipedia.org/wiki/Spotnet][Spotnet - Wikipedia, the free encyclopedia]]
+  - [[https://www.google.com/search?q=Spotlite][Spotlite - Google Search]]
+  - [[http://www.binaries4all.com/spotlite/][SpotLite 2.0 tutorial (FTD alternative) | Binaries4all Usenet Tutorials]]
+  - [[http://www.binaries4all.com/spotnet/][What is Spotnet? | Binaries4all Usenet Tutorials]]
+  - [[http://www.binaries4all.com/spotlite/configuratie.php][SpotLite - Configuration | Binaries4all Usenet Tutorials]]
+  - [[https://github.com/spotweb/spotweb/wiki][Home · spotweb/spotweb Wiki · GitHub]]
+  - [[https://github.com/spotweb/spotweb/wiki/Configuring-NZB-handling][Configuring NZB handling · spotweb/spotweb Wiki · GitHub]]
+  - [[https://github.com/spotweb/spotweb/wiki/Install-Spotweb-on-Ubuntu-12.04-LTS-%28Precise-Pangolin%29-%28english%29][Install Spotweb on Ubuntu 12.04 LTS (Precise Pangolin) (english) · spotweb/spotweb Wiki · GitHub]]
+  - [[https://github.com/spotweb/spotweb/wiki][Home · spotweb/spotweb Wiki · GitHub]]
+
+* [2013-07-08 Mon 15:33] Making a floating window in Max/Max for live  :@max:
+  - [[http://cycling74.com/forums/topic/floating-window-2/][Topic: Floating Window? « Cycling 74]]
+
+* [2013-07-08 Mon 15:34] Bookmark management notes               :@bookmarks:
+  - [[https://github.com/Newky/PocketPy/blob/master/bin/operators.py][PocketPy/bin/operators.py at master · Newky/PocketPy · GitHub]]
+  - [[https://www.google.com/search?q=python%20print%20dictionary%20keys#sclient=psy-ab&q=python%20delicious%20api&oq=&gs_l=&pbx=1&fp=93b6a10721ad7089&biw=1138&bih=816&pf=p&pdl=300&bav=on.2,or.r_cp.r_qf.&cad=b&sei=yOjVUemYAuOlyAGYtIHoCA][python delicious api - Google Search]]
+  - [[https://github.com/mudge/python-delicious][mudge/python-delicious · GitHub]]
+  - [[http://www.dzone.com/snippets/delicious-api-python][Del.icio.us API With Python | DZone]]
+  - [[https://code.google.com/p/pydelicious/][pydelicious - pydelicious: from del.icio.us to Python - Google Project Hosting]]
+  - [[https://www.google.com/search?q=deliciouspython][deliciouspython - Google Search]]
+  - [[http://seb.so/readitlater-to-delicious-export-converter/][How to import your ReadItLater items into Delicious (python converter) - Seb Maynard :: seb.so]]
+  - [[https://www.google.com/search?q=delicious%20api][delicious api - Google Search]]
+  - [[https://www.google.com/search?q=delicious%20api%20add][delicious api add - Google Search]]
+  - [[https://delicious.com/developers/rssurls][Developers – Delicious]]
+  - [[http://txt.binnyva.com/2009/06/post-to-delicious-from-command-line/][txt » Post to Delicious From Command Line]]
+  - [[http://superuser.com/questions/395664/how-to-use-delicious-api-from-command-line][wget - How to use delicious API from command line - Super User]]
+  - [[https://www.google.com/search?q=delicious%20py][delicious py - Google Search]]
+  - [[http://web.student.tuwien.ac.at/~e9608591/files/delicious.feeds/delicious.py][web.student.tuwien.ac.at/~e9608591/files/delicious.feeds/delicious.py]]
+
+* [2013-07-08 Mon 15:35] Getting Google+ posts            :@googleplus:@mail:
+  - [[https://developers.google.com/+/api/latest/activities/list#try-it][Activities: list - Google+ Platform — Google Developers]]
+  - [[https://developers.google.com/+/api/latest/people/list#try-it][People: list - Google+ Platform — Google Developers]]
+  - [[http://stackoverflow.com/questions/14623452/getting-posts-from-google-plus-page][api - Getting posts from google plus page - Stack Overflow]]
+  - [[http://wescpy.blogspot.ca/2012/04/integrating-google-apis-and.html][Core Python Programming: Integrating Google APIs and Technologies]]
+
+* [2013-07-08 Mon 15:35] Movie trackers          :@download:@torrent:@movies:
+  - [[http://lifehacker.com/5897095/whats-a-private-bittorrent-tracker-and-why-should-i-use-one][What's a Private BitTorrent Tracker, and Why Should I Use One?]]
+  - [[http://filenetworks.blogspot.ca/search/label/Private%20Trackers][FILEnetworks Blog: Private Trackers]]
+  - [[http://www.torrent-invites.com/bittorrent-discussion/222375-right-path-top-movie-trackers.html][The right path to the top movie trackers?]]
+  - [[http://www.torrent-invites.com/tracker-reviews/][Tracker Reviews]]
+  - [[http://www.torrent-invites.com/bittorrent-discussion/212426-best-movie-tracker-quantity-quality.html][Best movie tracker for Quantity/Quality?]]
+  - [[http://www.torrent-invites.com/bittorrent-discussion/144925-best-movie-tracker-best-tv-tracker.html][Best movie tracker & Best TV tracker]]
