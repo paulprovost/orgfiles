@@ -1555,6 +1555,102 @@
 
 * [2013-05-17 Fri 13:32] CoreMIDI and IAC                    :@dev:@coremidi:
   - [[http://xmidi.com/how-to-access-midi-devices-with-coremidi/][How to access MIDI devices with CoreMIDI » XMIDI]]
+ 
+* [2013-05-25 Sat 13:18] Installing python on unRAID server :@python:@unraid:
+  - [[http://lime-technology.com/wiki/index.php/Install_Python_based_servers#Install][Install Python based servers - unRAID]]
+    In a nutshell, to download:
+    : mkdir /boot/packages
+    : cd /boot/packages
+    : wget http://www.bibliognome.com/unraid/SABnzbdDependencies-2.1-i486-unRAID.tgz
+    To install immediately:
+    : installpkg /boot/packages/SABnzbdDependencies-2.1-i486-unRAID.tgz
+    To install permanently, add the line above to =/boot/config/go=.
+ 
+* [2013-05-25 Sat 15:01] Raspberry Pi and rotary encoders :@dev:@raspberrypi:
+  - [[https://www.sparkfun.com/products/10407][Rotary Encoder LED Ring Breakout Board - Blue - SparkFun Electronics]]
+  - [[https://www.sparkfun.com/products/9117][Rotary Encoder - SparkFun Electronics]]
+  - [[https://www.sparkfun.com/products/10596?][Rotary Encoder - Illuminated (Red/Green) - SparkFun Electronics]]
+  - [[https://www.sparkfun.com/products/11493][Circular LED Bargraphs - Yellow - SparkFun Electronics]]
+  - [[http://www.gearslutz.com/board/geekslutz-forum/793868-raspberry-pi-vs-buttons-rotary-encoders.html][‎www.gearslutz.com/board/geekslutz-forum/793868-raspberry-pi-vs-buttons-rotary-encoders.html]]
+  - [[http://www.beat707.com/w/][An Arduino MIDI Groove Box Shield]]
+  - [[http://playground.arduino.cc/Main/RotaryEncoders][Arduino Playground - RotaryEncoders]]
+  - [[http://www.hobbytronics.co.uk/rotary-encoder-tutorial][Rotary Encoder Tutorial]]
+  - [[http://www.doepfer.de/home_e.htm][Homepage englisch]]
+  - [[http://www.doepfer.de/usb64.htm][USB64 Info]]
+ 
+* [2013-05-25 Sat 15:03] LaTeX on the Mac                            :@latex:
+  - [[http://tug.org/mactex/][MacTeX - TeX Users Group]]
+  - [[http://www.cs.wright.edu/~jslater/mac-tex/mac-tex-intro/mactexintro.html][Getting Started With TeX on Mac OS X]]
+  - [[http://pages.uoregon.edu/koch/texshop/][TeXShop]]
+  - [[http://itexmac.sourceforge.net/][iTeXMac News: TeX on Mac OS X]]
+  - [[https://www.google.com/search?q=tex+tutorials][tex tutorials - Google Search]]
+  - [[http://www.tug.org/begin.html][Getting Started with TeX, LaTeX, and Friends - TeX Users Group]]
+  - [[http://tex.stackexchange.com/questions/339/latex-editors-ides][big list - LaTeX Editors/IDEs - TeX - LaTeX Stack Exchange]]
+  - [[http://www.xm1math.net/texmaker/download.html#macosx][Texmaker (free cross-platform latex editor)]]
+
+* [2013-05-25 Sat 15:04] Emacs predictive mode                       :@emacs:
+  - [[http://www.dr-qubit.org/predictive/predictive-user-manual/html/Obtaining-and-Installing.html#Obtaining-and-Installing][Obtaining and Installing - Emacs Predictive Completion User Manual]]
+  - [[http://www.dr-qubit.org/emacs.php][Toby 'qubit' Cubitt - Emacs Code]]
+  - [[https://www.google.com/search?q=emacs+predictive+tutorial][emacs predictive tutorial - Google Search]]
+  - [[http://www.emacswiki.org/emacs/PredictiveMode][EmacsWiki: Predictive Mode]]
+  - [[http://mactex-wiki.tug.org/wiki/index.php/Editors][Editors - TeX on Mac OS X wiki]]
+
+* [2013-05-25 Sat 15:05] Backup notes             :@backup:@duply:@duplicity:
+  - [[https://help.ubuntu.com/community/DuplicityBackupHowto][DuplicityBackupHowto - Community Ubuntu Documentation]]
+  - [[http://duplicity.nongnu.org/][duplicity: Main]]
+  - [[http://0wned.it/geek-bits/guides/using-duply-and-rsync-for-backups/][Using Duply And rsync For Backups « David Ramsden – Network engineer, general geek, petrol + drum and bass head]]
+  - [[http://jowisoftware.de/blog/archives/29-Tiny-solution-for-automated-backups-duply.html][Tiny solution for automated backups: duply - JoWiSoftware.de]]
+  - [[http://duply.net/?title=Duply-documentation][ftplicity / duply (simple duplicity)]]
+ 
+* [2013-05-25 Sat 15:11] Muxing w/ffpmeg                     :@ffmpeg:@video:
+  - [[http://cfc.kizzx2.com/index.php/muxing-audio-and-video-with-ffmpeg/][Muxing audio and video with ffmpeg | Code for Concinnity]]
+
+* [2013-05-25 Sat 15:22] Posting to Usenet                          :@usenet:
+  - [[http://ubuntuforums.org/showthread.php?t=691892][HOWTO: post to usenet with Ubuntu]]
+  - [[http://ubuntuforums.org/showthread.php?t=691892&page=2][HOWTO: post to usenet with Ubuntu - Page 2]]
+  - [[http://ubuntuforums.org/showthread.php?t=691892&page=3][HOWTO: post to usenet with Ubuntu - Page 3]]
+  - [[http://ubuntuforums.org/showthread.php?t=691892&page=4][HOWTO: post to usenet with Ubuntu - Page 4]]
+  - [[https://github.com/madcowfred/newsmangler][madcowfred/newsmangler · GitHub]]
+
+* [2013-05-25 Sat 15:35] Pencils and pens                    :@pencils:@pens:
+  - [[http://www.levenger.com/L-Tech-Stealth-Rollerball-Core-8058.aspx][L-Tech Stealth Rollerball - Writing Instruments, Pen - Levenger]]
+  - [[http://www.pencils.com/all-brands/blackwing][Blackwing - All Brands - Pencil, Pencils, Buy Pencils]]
+
+* [2013-05-25 Sat 15:37]                          :@tabs:@musicmaker:@guitar:
+  - [[http://www.cours-guitare.net/tablature-johnny-hallyday-allumer-le-feu][Johnny Hallyday - Allumer le feu - Partition et accords guitare]]
+
+* [2013-05-25 Sat 15:38] Logging in Objective-C / Cocoa :@dev:@objectivec:@cocoa:
+  - [[https://github.com/fpillet/NSLogger][fpillet/NSLogger · GitHub]]
+  - [[https://github.com/fpillet/NSLogger/wiki][Home · fpillet/NSLogger Wiki · GitHub]]
+  - [[https://github.com/fpillet/NSLogger/wiki/Integrating-NSLogger-in-your-application][Integrating NSLogger in your application · fpillet/NSLogger Wiki · GitHub]]
+  - [[https://github.com/fpillet/NSLogger/wiki/Integration-with-other-products][Integration with other products · fpillet/NSLogger Wiki · GitHub]]
+  - [[https://github.com/robbiehanson/CocoaLumberjack][robbiehanson/CocoaLumberjack · GitHub]]
+  - [[https://github.com/steipete/NSLogger-CocoaLumberjack-connector][steipete/NSLogger-CocoaLumberjack-connector · GitHub]]
+
+* [2013-05-25 Sat 15:40] Editing code in Emacs                  :@emacs:@dev:
+  - [[http://www.emacswiki.org/EmacsNiftyTricks][EmacsWiki: Emacs Nifty Tricks]]
+  - [[http://stackoverflow.com/questions/6697514/when-opening-2-files-in-emacs-how-can-i-have-them-appear-side-by-side][When opening 2 files in emacs, how can I have them appear side-by-side? - Stack Overflow]]
+  - [[http://www.wolinlabs.com/blog/emacs.global.speedbar.html][Code Browsing with Emacs, GLOBAL, and Speedbar]]
+  - [[http://www.gnu.org/software/global/][GNU GLOBAL source code tagging system]]
+  - [[http://ecb.sourceforge.net/][ECB - Emacs Code Browser]]
+  - [[https://www.google.com/search?q=ecb+tutorial][ecb tutorial - Google Search]]
+  - [[http://stackoverflow.com/questions/9355694/emacs-ebrowse-and-ecb-tutorials][source code - emacs ebrowse and ecb tutorials - Stack Overflow]]
+  - [[http://appsintheopen.com/posts/6-setting-up-the-emacs-code-browser][AppsInTheOpen]]
+  - [[http://cxwangyi.wordpress.com/2010/08/21/using-cedet-with-emacs/][Using CEDET and ECB with Emacs | Yi Wang's Tech Notes]]
+  - [[http://technyooz.blogspot.ca/2010/01/emacs-crash-course-and-tutorial.html][TechNyooz: Emacs ECB Crash Course and Tutorial]]
+
+* [2013-05-25 Sat 15:42] High-quality command line ripping      :@audio:@rip:
+  - [[https://github.com/thomasvs/morituri][thomasvs/morituri · GitHub]]
+  - [[http://code.google.com/p/rubyripper/][rubyripper - A secure audiodisc ripper for Linux and OS X - Google Project Hosting]]
+  - [[http://ubuntuforums.org/showthread.php?t=799621&page=24][HOWTO: Install Rubyripper on Ubuntu - Page 24]]
+  - [[http://wiki.hydrogenaudio.org/index.php?title=Rubyripper#Automatic_Installation_on_Ubuntu.2FDebian][Rubyripper - Hydrogenaudio Knowledgebase]]
+
+* [2013-05-26 Sun 11:12] Underscores and variables in Cocoa / Objective-C :@dev:@objectivec:@cocoa:
+  - [[http://stackoverflow.com/questions/822487/how-does-an-underscore-in-front-of-a-variable-in-a-cocoa-objective-c-class-work][How does an underscore in front of a variable in a cocoa objective-c class work? - Stack Overflow]]
+  - [[http://stackoverflow.com/questions/6049269/synthesized-property-and-variable-with-underscore-prefix-what-does-this-mean][objective c - Synthesized property and variable with underscore prefix: what does this mean? - Stack Overflow]]
+  - [[http://stackoverflow.com/questions/3521254/prefixing-property-names-with-an-underscore-in-objective-c][iphone - Prefixing property names with an underscore in Objective C - Stack Overflow]]
+  - [[https://developer.apple.com/library/mac/#documentation/Cocoa/Conceptual/CodingGuidelines/Articles/NamingBasics.html][Coding Guidelines for Cocoa: Code Naming Basics]]
+  - [[https://developer.apple.com/library/mac/#documentation/Cocoa/Conceptual/CodingGuidelines/Articles/NamingMethods.html#//apple_ref/doc/uid/20001282-1003829][Coding Guidelines for Cocoa: Naming Methods]]
 
 * [2013-06-07 Fri 14:07] Ambient playlist          :@youtube:@ambient:@music:
   - [[http://www.youtube.com/watch?v=bFep_qy9da0][PTARKH : Razval - YouTube]]
@@ -1621,3 +1717,4 @@
   - [[http://www.torrent-invites.com/tracker-reviews/][Tracker Reviews]]
   - [[http://www.torrent-invites.com/bittorrent-discussion/212426-best-movie-tracker-quantity-quality.html][Best movie tracker for Quantity/Quality?]]
   - [[http://www.torrent-invites.com/bittorrent-discussion/144925-best-movie-tracker-best-tv-tracker.html][Best movie tracker & Best TV tracker]]
+
