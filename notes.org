@@ -12,7 +12,7 @@
 
    Source: [2010-10-28 Thu], [[message://b4a7c84644eded5e1e95bc12840a2065@imap.bouzou.org][org-protocol on mac:Mail]]
 
-** YouTube - Level - Living Inside Of Me                        :@todownload:
+** YouTube - Level - Living Inside Of Me            :@todownload:@downloaded:
     Source: [2010-10-31 Sun], [[http://www.youtube.com/watch?v%3DQRo_gCzSRUU][YouTube - Level - Living Inside Of Me:Safari]]
 
 ** Mocapped live series - Marc Takerkart   
@@ -193,4 +193,16 @@
     : sudo nmap -O 192.168.0.3
   - Faster Execution - use the -T4 option.
 
-
+* [2013-07-25 Thu] Open link in Dolphin from Safari mobile :@ios:@safarimobile:@bookmarklet:@pythonista:
+  This was done because my bookmarking sites (Semantic Scuttle and
+  Shaarli) do not work in Mobile Safari, but do work in
+  Dolphin. First, a bookmarklet to add in Mobile Safari to call a
+  Pythonista script with the current URL:
+  : javascript:(function(){if(document.location.href.indexOf('http')===0)document.location.href='pythonista://OpenInDolphin?action=run&argv='+document.location.href;})();
+  Then a pythonista script (=OpenInDolphin=)to open the URL in
+  Dolphin, using [[http://handleopenurl.com/scheme/dolphin-browser][Dolphin's URL scheme]]:
+  : import sys
+  : import webbrowser
+  : 
+  : url = 'dolphin://' + sys.argv[1]
+  : webbrowser.open(url)
