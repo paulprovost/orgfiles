@@ -1273,7 +1273,7 @@
    - emacs-fu: showing pop-ups
      http://emacs-fu.blogspot.ca/2009/11/showing-pop-ups.html
 
-* [2012-05-03 Thu] Textastic                                   :@ipad:@tobuy:
+* [2012-05-03 Thu] Textastic                           :@ipad:@tobuy:@bought:
   - [[http://www.textasticapp.com/][Textastic - Text, Code and Markup Editor with Syntax Highlighting - FTP, SFTP, Dropbox - for iPad]]
   - [[http://itunes.apple.com/gb/app/textastic-code-editor/id383577124?mt][http://www.textasticapp.com/]]
 
@@ -1621,3 +1621,7 @@
   - [[http://www.torrent-invites.com/tracker-reviews/][Tracker Reviews]]
   - [[http://www.torrent-invites.com/bittorrent-discussion/212426-best-movie-tracker-quantity-quality.html][Best movie tracker for Quantity/Quality?]]
   - [[http://www.torrent-invites.com/bittorrent-discussion/144925-best-movie-tracker-best-tv-tracker.html][Best movie tracker & Best TV tracker]]
+
+* [2013-07-23 Tue 11:28] Alchemy Sound Library                       :@tobuy:
+ - [[http://www.camelaudio.com/Ian-Boddy-Analogica-Sound-Sample-Library.php][Ian Boddy: Analogica - Sound & Sample Library - Ambient, Electronica & Soundtrack]]
+
