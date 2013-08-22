@@ -206,3 +206,4 @@
   : 
   : url = 'dolphin://' + sys.argv[1]
   : webbrowser.open(url)
+  

@@ -11,8 +11,40 @@
 *** Resize using =mogrify -resize x100=
 *** Insert using =file://books/<imagefile>
 
-* READING The Judas Strain - James Rollins
+* READING The Girl Who Played with Fire - Stieg Larsson
   :LOGBOOK:
+  - State "READING"    from "TOREAD"     [2013-08-22 Thu 11:56]
+  :END:
+  file://books/stieg-larsson-the-girl-who-played-with-fire.jpg
+
+  Mikael Blomkvist, crusading publisher of the magazine Millennium,
+  has decided to run a story that will expose an extensive sex
+  trafficking operation. On the eve of its publication, the two
+  reporters responsible for the article are murdered, and the
+  fingerprints found on the murder weapon belong to his friend, the
+  troubled genius hacker Lisbeth Salander. Blomkvist, convinced of
+  Salander’s innocence, plunges into an investigation. Meanwhile,
+  Salander herself is drawn into a murderous game of cat and mouse,
+  which forces her to face her dark past.
+
+* READ The Girl With the Dragon Tattoo - Stieg Larsson
+  :LOGBOOK:
+  - State "READ"       from "READING"    [2013-08-22 Thu 11:52]
+  - State "READING"    from "TOREAD"      [2013-08-01 Thu 11:51]
+  :END:
+  file://books/stieg-larsson-the-girl-with-the-dragon-tattoo.jpg
+
+  Harriet Vanger, a scion of one of Sweden's wealthiest families
+  disappeared over forty years ago. All these years later, her aged
+  uncle continues to seek the truth. He hires Mikael Blomkvist, a
+  crusading journalist recently trapped by a libel conviction, to
+  investigate. He is aided by the pierced and tattooed punk prodigy
+  Lisbeth Salander. Together they tap into a vein of unfathomable
+  iniquity and astonishing corruption.
+
+* READ The Judas Strain - James Rollins
+  :LOGBOOK:
+  - State "READ"       from "READING"    [2013-08-01 Thu 11:46]
   - State "READING"    from ""     [2013-07-25 Thu 12:05]
   :END:
   file://books/james-rollins-the-judas-strain.jpg
@@ -154,7 +186,7 @@
   [2010-07-23 Fri 13:00]
 * TOBUY Michel Houellebecq [[http://fr.wikipedia.org/wiki/H._P._Lovecraft._Contre_le_monde,_contre_la_vie][H. P. Lovecraft. Contre le monde, contre la vie]]
   :PROPERTIES: :ID: 2dbbbe87-bf91-47f9-a4b9-1c9e89cc8bce :END:
-* TOBUY [[http://www.amazon.com/gp/product/1891830430?ie%3DUTF8&ref%3Daw_bottom_links&force-full-site%3D1][Blankets - Craig Thompson]]                             :@graphicnovel:
+* TOBUY [[http://www.amazon.com/gp/product/1891830430?ie%3DUTF8&ref%3Daw_bottom_links&force-full-site%3D1][Blankets - Craig Thompson]] :@graphicnovel:
   :PROPERTIES: :ID: 8d3bb85b-3450-493a-9c59-5a3ceb762675 :END: At 592
   pages, Blankets may well be the single largest graphic novel ever
   published without being serialized first. Wrapped in the landscape
