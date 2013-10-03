@@ -11,10 +11,30 @@
 *** Resize using =mogrify -resize x100=
 *** Insert using =file://books/<imagefile>
 
-* READING The Girl Who Kicked the Hornet's Nest - Stieg Larsson
-  :Logbook: - State "READING" from "TOREAD"
-    [2013-09-12 Thu 19:07] :END: 
+* READING Rule 34 - Charles Stross
+  :LOGBOOK:
+  - State "READING" from "" [2013-10-03 Thu 17:15]
+  :END:
+  file://books/charles-stross-rule-34.jpg
+
+  Meet Edinburgh Detective Inspector Liz Kavanaugh, head of the
+  Innovative Crimes Investigation Unit, otherwise known as the Rule 34
+  Squad. They monitor the Internet for potential criminal activity,
+  analyzing trends in the extreme fringes of explicit content. And
+  occasionally, even more disturbing patterns arise… Three ex-cons
+  have been murdered in Germany, Italy, and Scotland. The only things
+  they had in common were arrests for spamming—and a taste for
+  unorthodox entertainment. As the first officer on the scene of the
+  most recent death, Liz finds herself sucked into an international
+  investigation that isn’t so much asking who the killer is, but
+  what—and if she doesn't find the answer soon, the homicides could go
+  viral.
+
+* READ The Girl Who Kicked the Hornet's Nest - Stieg Larsson
+  :LOGBOOK: - State "READING" from "TOREAD" [2013-09-12 Thu 19:07] -
+    State "READ" from "READING" [2013-10-03 Thu 17:13] :END:
   file:books/stieg-larsson-the-girl-who-kicked-the-hornets-nest.jpg
+
   In the concluding volume of Stieg Larsson’s Millennium trilogy,
   Lisbeth Salander lies in critical condition in a Swedish hospital, a
   bullet in her head.
