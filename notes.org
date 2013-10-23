@@ -207,3 +207,40 @@
   : url = 'dolphin://' + sys.argv[1]
   : webbrowser.open(url)
   
+* [2013-09-14 Sat] Fixing links on media server        :@mediaserver:@python:
+  - Script ([[http://www.webarnes.ca/2011/09/python-script-to-fix-broken-symlinks/][link-fix.py]]):
+    : #!/usr/bin/env python 
+    : 
+    : import os
+    : 
+    : # Configuration
+    : 
+    : BASEDIR = '/mnt/user/media-video'
+    : OLDBASE = '/net/media/video'
+    : DEBUG = True # I recommend a test run first
+    : 
+    : def relink(path):
+    :    old_target = os.path.realpath(path)
+    :    new_target = old_target.replace(OLDBASE,BASEDIR,1)
+    :    if DEBUG:
+    :       print "Relink: " + path + "\n\tfrom " + old_target + "\n\tto " + new_target
+    :    else:
+    :       os.remove(path)
+    :       os.symlink(new_target,path)
+    : 
+    : for root, dirs, files in os.walk('.'):
+    :    for filename in files:
+    :       fullpath = os.path.join(root,filename)
+    :       if os.path.islink(fullpath):
+    :          relink(fullpath)                                                                                                                                                                            
+    :    for dirname in dirs:                                                                                                                                                                                
+    :        fullpath = os.path.join(root,dirname)                                                                                                                                                           
+    :        if os.path.islink(fullpath):                                                                                                                                                                    
+    :            relink(fullpath)
+  - Installing python on media server
+    [[http://lime-technology.com/wiki/index.php/Install_Python_based_servers#Install][Install Python based servers - unRAID]]
+    For python only:
+    : mkdir /boot/packages
+    : cd /boot/packages
+    : wget http://www.bibliognome.com/unraid/SABnzbdDependencies-2.1-i486-unRAID.tgz  
+    : installpkg /boot/packages/SABnzbdDependencies-2.1-i486-unRAID.tgz
