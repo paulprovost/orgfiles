@@ -1625,3 +1625,9 @@
 * [2013-07-23 Tue 11:28] Alchemy Sound Library                       :@tobuy:
  - [[http://www.camelaudio.com/Ian-Boddy-Analogica-Sound-Sample-Library.php][Ian Boddy: Analogica - Sound & Sample Library - Ambient, Electronica & Soundtrack]]
 
+* [2013-11-08 Fri 16:21] Download YouTube videos/playlists / another option :@youtube:
+  - [[http://rg3.github.io/youtube-dl/][youtube-dl]]
+  - [[https://github.com/rg3/youtube-dl/][rg3/youtube-dl · GitHub]]
+  - [[http://xmodulo.com/2013/07/how-to-download-youtube-playlist-in-linux.html][How to download YouTube playlist in Linux - Linux FAQ]]
+  - [[http://xmodulo.com/2013/03/how-to-save-youtube-videos-on-linux.html][How to save YouTube videos on Linux - Linux FAQ]]
+
