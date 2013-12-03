@@ -1631,3 +1631,7 @@
   - [[http://xmodulo.com/2013/07/how-to-download-youtube-playlist-in-linux.html][How to download YouTube playlist in Linux - Linux FAQ]]
   - [[http://xmodulo.com/2013/03/how-to-save-youtube-videos-on-linux.html][How to save YouTube videos on Linux - Linux FAQ]]
 
+* [2013-12-03 Tue 09:59] Tube preamp pedals      :@musicmaker:@pedal:@preamp:
+  - [[http://www.effectrode.com/blackbird-vacuum-tube-preamp/][Blackbird Vacuum Tube Preamp | effectrode]]
+  - [[http://www.mesaboogie.com/Product_Info/Out_of%20_Production/V-Twin/v-twin.html][Mesa Boogie V-Twin Pedals]]
+  - [[http://www.blackstaramps.com/products/ht-dual/][HT-DUAL Guitar Pedal - Blackstar]]
