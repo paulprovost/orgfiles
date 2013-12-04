@@ -1635,3 +1635,4 @@
   - [[http://www.effectrode.com/blackbird-vacuum-tube-preamp/][Blackbird Vacuum Tube Preamp | effectrode]]
   - [[http://www.mesaboogie.com/Product_Info/Out_of%20_Production/V-Twin/v-twin.html][Mesa Boogie V-Twin Pedals]]
   - [[http://www.blackstaramps.com/products/ht-dual/][HT-DUAL Guitar Pedal - Blackstar]]
+  - [[http://www.adaamps.com/Products/ada-APP1/APP1.htm][A/DA (tm) - A/DA Pedal Preamp]]
