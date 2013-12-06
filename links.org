@@ -1636,3 +1636,13 @@
   - [[http://www.mesaboogie.com/Product_Info/Out_of%20_Production/V-Twin/v-twin.html][Mesa Boogie V-Twin Pedals]]
   - [[http://www.blackstaramps.com/products/ht-dual/][HT-DUAL Guitar Pedal - Blackstar]]
   - [[http://www.adaamps.com/Products/ada-APP1/APP1.htm][A/DA (tm) - A/DA Pedal Preamp]]
+
+* [2013-12-06 Fri 11:44] PyObjC links - Exporting iTunes playlists :@pyobjc:@dev:@python:@osx:
+  - [[http://stackoverflow.com/questions/16065162/calling-applescript-from-python-without-using-osascript-or-appscript][osx - Calling AppleScript from Python without using osascript or appscript? - Stack Overflow]]
+  - [[http://www.redstoyland.com/projects/code/pythonandobjectivec.html][Red's Toyland - Python and Objective C]]
+  - [[http://www.friday.com/bbum/2007/10/27/pyobjc-20-pyobjc-in-leopard/][bbum's weblog-o-mat » Blog Archive » PyObjC 2.0 (PyObjC in Leopard)]]
+  - [[http://www.deanandara.com/python/IntroToUsingPyObjC.OLD_BUT_COMPLETE.html][Intro to Using PyObjC]]
+  - [[http://pythonhosted.org/pyobjc/][Introduction — PyObjC — the Python ⟷ Objective-C bridge]]
+  - [[http://www.macdevcenter.com/pub/a/mac/2003/01/31/pyobjc_one.html][MacDevCenter.com]]
+  - [[http://stackoverflow.com/questions/10902671/scripting-bridge-vs-pyobjc-vs-py2app][python - Scripting Bridge vs PyObjC vs py2app - Stack Overflow]]
+  - [[https://pypi.python.org/pypi/py-applescript][py-applescript 1.0.0 : Python Package Index]]
