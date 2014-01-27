@@ -2,4 +2,28 @@
 #+AUTHOR: Paul Provost
 #+EMAIL: paul@bouzou.org
 #+DESCRIPTION: Main project tracking file - test
-#+FILETAGS: 
+#+FILETAGS: projects
+
+* Workbench cleanup                                                    :@diy:
+** NEXT Clear the bookcase and store the contents in a Rubbermaid bin
+** TODO Clear the nook floor
+** TODO Install the bins and the drawers
+** TODO Sort out parts into bins and drawers
+
+* NEXT Fix Marie's headphones
+
+* NEXT Fix Jocelyn's guitar cable
+
+* Experiment with Touchable                                           :@live:
+** DONE Install the Ableton Live component
+** NEXT Test with a sample Live Set
+
+* iPad-based remote control for Pascal
+** NEXT Explore the JavaScript code.
+** TODO Load text and image labels from a text file
+
+* MIDI knob                                             :@midi:@arduino:@diy:
+** NEXT Isolate sources and compile using a Makefile
+** NEXT Wire up the Teensy as it will sit in the enclosure
+
+* [[file:projects/ctrlr.org][Ctrlr]]
