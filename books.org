@@ -11,8 +11,60 @@
 *** Resize using =mogrify -resize x100=
 *** Insert using =file://books/<imagefile>
 
-* READING The Last Oracle - James Rollins
+* READING Caliban's War - James S.A. Corey
   :LOGBOOK:
+  - State "READING"    from "TOBUY"      [2014-01-27 Mon 10:33]
+  :END:
+  books/james-sa-corey-calibans-war.jpg
+
+  We are not alone.
+
+  On Ganymede, breadbasket of the outer planets, a Martian marine
+  watches as her platoon is slaughtered by a monstrous
+  supersoldier. On Earth, a high-level politician struggles to prevent
+  interplanetary war from reigniting. And on Venus, an alien
+  protomolecule has overrun the planet, wreaking massive, mysterious
+  changes and threatening to spread out into the solar system.
+
+  In the vast wilderness of space, James Holden and the crew of the
+  Rocinante have been keeping the peace for the Outer Planets
+  Alliance. When they agree to help a scientist search war-torn
+  Ganymede for a missing child, the future of humanity rests on
+  whether a single ship can prevent an alien invasion that may have
+  already begun...
+
+* READ Leviathan Wakes - James S.A. Corey
+  :LOGBOOK:
+  - State "READ"       from "READING"    [2014-01-27 Mon 10:32]
+  - State "READING"    from ""           [2014-01-27 Mon 10:26]
+  :END:
+  books/james-sa-corey-leviathan-wakes.jpg
+
+  Humanity has colonized the solar system - Mars, the Moon, the
+  Asteroid Belt and beyond - but the stars are still out of our reach.
+
+  Jim Holden is XO of an ice miner making runs from the rings of
+  Saturn to the mining stations of the Belt. When he and his crew
+  stumble upon a derelict ship, The Scopuli, they find themselves in
+  possession of a secret they never wanted. A secret that someone is
+  willing to kill for - and kill on a scale unfathomable to Jim and
+  his crew. War is brewing in the system unless he can find out who
+  left the ship and why.
+
+  Detective Miller is looking for a girl. One girl in a system of
+  billions, but her parents have money and money talks. When the trail
+  leads him to The Scopuli and rebel sympathizer Holden, he realizes
+  that this girl may be the key to everything.
+
+  Holden and Miller must thread the needle between the Earth
+  government, the Outer Planet revolutionaries, and secretive
+  corporations - and the odds are against them. But out in the Belt,
+  the rules are different, and one small ship can change the fate of
+  the universe.
+
+* READ The Last Oracle - James Rollins
+  :LOGBOOK:
+  - State "READ"       from "READING"      [2014-01-27 Mon 10:25]
   - State "READING" from "" [2013-10-23 Wed 07:56]
   :END: 
   file://books/james-rollins-the-last-oracle.jpg
