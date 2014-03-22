@@ -61,4 +61,15 @@
    - State "DONE"       from "NEXT"       [2014-03-21 Fri 22:02]
    :END:
 
+* Logic Control Surface plugin                                :@logic:@ctrlr:
+** DONE Get the Logic Control Surface SDK
+** DONE Compile the provided examples
+** STARTED Create a MAX patch to act as a Logic Control Surface
+   :LOGBOOK:
+   - State "STARTED"    from ""           [2014-03-21 Fri 22:16]
+   :END:
+** NEXT Duplicate the OSC plugin and make it connect to the MAX patch
+   Check what OSC messages the MAX patch receives.
+** TODO Simplify the plugin code and add missing messages
+
 * [[file:projects/ctrlr.org][Ctrlr]]
