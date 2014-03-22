@@ -4,26 +4,61 @@
 #+DESCRIPTION: Main project tracking file - test
 #+FILETAGS: projects
 
-* Workbench cleanup                                                    :@diy:
-** NEXT Clear the bookcase and store the contents in a Rubbermaid bin
-** TODO Clear the nook floor
-** TODO Install the bins and the drawers
-** TODO Sort out parts into bins and drawers
-
-* NEXT Fix Marie's headphones
-
-* NEXT Fix Jocelyn's guitar cable
+* NEXT Install 1TB SSD in Prowler
 
 * Experiment with Touchable                                           :@live:
 ** DONE Install the Ableton Live component
 ** NEXT Test with a sample Live Set
 
+* Workbench cleanup                                                    :@diy:
+** DONE Clear the bookcase and store the contents in a Rubbermaid bin
+   :LOGBOOK:
+   - State "DONE"       from "NEXT"       [2014-03-21 Fri 22:13]
+   :END:
+** DONE Clear the nook floor
+   :LOGBOOK:
+   - State "DONE"       from "TODO"       [2014-03-21 Fri 22:13]
+   :END:
+** DONE Install the bins and the drawers
+   :LOGBOOK:
+   - State "DONE"       from "TODO"       [2014-03-21 Fri 22:13]
+   :END:
+** DONE Sort out parts into bins and drawers
+   :LOGBOOK:
+   - State "DONE"       from "TODO"       [2014-03-21 Fri 22:13]
+   :END:
+
+* DONE Fix Marie's headphones
+  :LOGBOOK:
+  - State "DONE"       from "NEXT"       [2014-03-21 Fri 22:12]
+  :END:
+
+* DONE Fix Jocelyn's guitar cable
+  :LOGBOOK:
+  - State "DONE"       from "NEXT"       [2014-03-21 Fri 22:12]
+  :END:
+
 * iPad-based remote control for Pascal
 ** NEXT Explore the JavaScript code.
 ** TODO Load text and image labels from a text file
 
-* MIDI knob                                             :@midi:@arduino:@diy:
-** NEXT Isolate sources and compile using a Makefile
-** NEXT Wire up the Teensy as it will sit in the enclosure
+* MIDI knob (knobber)                                   :@midi:@arduino:@diy:
+** Links
+*** Knobber
+    - [[http://echolevel.tumblr.com/post/49737964614/knobber-usb-midi-controller-by-echolevel][Echolevel — Knobber - USB MIDI single knob/button controller...]]
+      - [[http://www.vguitarforums.com/smf/index.php?topic=8532.msg61078#msg61078][Build the Arduino "knobber-usb-midi-controller" (Teensy 3.0 Board)]]
+*** Teensy
+    - [[http://forum.pjrc.com/threads/24163-Multiple-MIDI-devices?highlight=usb+midi][Multiple MIDI devices]]
+    - [[http://forum.pjrc.com/threads/23523-Change-device-name?highlight=midi][Change device name]]
+    - [[http://forum.pjrc.com/threads/23605-Teensy-mk-port-of-Arduino-mk-Makefile][Teensy.mk -- port of Arduino.mk Makefile]]
+
+** DONE Isolate sources and compile using a Makefile
+   :LOGBOOK:
+   - State "DONE"       from "NEXT"       [2014-03-21 Fri 22:02]
+   :END:
+** DONE Wire up the Teensy as it will sit in the enclosure
+   :LOGBOOK:
+   - State "DONE"       from "NEXT"       [2014-03-21 Fri 22:02]
+   :END:
 
 * [[file:projects/ctrlr.org][Ctrlr]]
