@@ -61,6 +61,14 @@
    - State "DONE"       from "NEXT"       [2014-03-21 Fri 22:02]
    :END:
 
+* MIDI Expression Pedal interface                       :@midi:@arduino:@diy:
+** Links
+*** Expression Pedal internals                            :@expressionpedals:
+    - [[http://www.strymon.net/2010/07/12/strymon-tech-corner-1-anatomy-of-an-expression-pedal/][Strymon Tech Corner #1 - Anatomy of an expression pedal » strymon]]
+    - [[http://www.strymon.net/2010/09/07/strymon-tech-corner-2-build-your-own-expression-pedal/][Strymon Tech Corner #2 - Build your own expression pedal » strymon]]
+    - [[http://www.strymon.net/2011/10/10/strymon-tech-corner-3-volume-pedal-as-an-expression-pedal/][Strymon Tech Corner #3 – Volume Pedal as an Expression Pedal » strymon]]
+    - [[http://missionengineering.com/?product_cat=multi-use-expression-pedals][Multi-Use Expression Pedals Archives | missionengineering.commissionengineering.com]]
+
 * Logic Control Surface plugin                                :@logic:@ctrlr:
 ** DONE Get the Logic Control Surface SDK
 ** DONE Compile the provided examples
