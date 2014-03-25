@@ -63,6 +63,11 @@
 
 * MIDI Expression Pedal interface                       :@midi:@arduino:@diy:
 ** Links
+*** An example
+    - [[http://www.audiofront.net/MIDIExpression.php?action=overview][Audiofront - MIDI Expression]]
+      He does auto-detection of pedal type. I have to be careful that
+      mono jacks do not blow up the teensy. If possible, auto-handle
+      them like this guy.
 *** Expression Pedal internals                            :@expressionpedals:
     - [[http://www.strymon.net/2010/07/12/strymon-tech-corner-1-anatomy-of-an-expression-pedal/][Strymon Tech Corner #1 - Anatomy of an expression pedal » strymon]]
     - [[http://www.strymon.net/2010/09/07/strymon-tech-corner-2-build-your-own-expression-pedal/][Strymon Tech Corner #2 - Build your own expression pedal » strymon]]
