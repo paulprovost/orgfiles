@@ -11,8 +11,28 @@
 *** Resize using =mogrify -resize x100=
 *** Insert using =file://books/<imagefile>
 
-* READING Caliban's War - James S.A. Corey
+* READING Abaddon's Gate - James S.A. Corey
   :LOGBOOK:
+  - State "READING"    from "TOBUY"      [2014-03-27 Thu 10:28]
+  :END:
+  file://books/james-sa-corey-abaddons-gate.jpg
+  
+  For generations, the solar system -- Mars, the Moon, the Asteroid
+  Belt -- was humanity's great frontier. Until now. The alien artifact
+  working through its program under the clouds of Venus has appeared
+  in Uranus's orbit, where it has built a massive gate that leads to a
+  starless dark.
+
+  Jim Holden and the crew of the Rocinante are part of a vast flotilla
+  of scientific and military ships going out to examine the
+  artifact. But behind the scenes, a complex plot is unfolding, with
+  the destruction of Holden at its core. As the emissaries of the
+  human race try to find whether the gate is an opportunity or a
+  threat, the greatest danger is the one they brought with them.
+
+* READ Caliban's War - James S.A. Corey
+  :LOGBOOK:
+  - State "READ"       from "READING"     [2014-03-26 Wed 10:27]
   - State "READING"    from "TOBUY"      [2014-01-27 Mon 10:33]
   :END:
   books/james-sa-corey-calibans-war.jpg
