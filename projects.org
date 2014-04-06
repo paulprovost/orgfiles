@@ -60,6 +60,21 @@
    :LOGBOOK:
    - State "DONE"       from "NEXT"       [2014-03-21 Fri 22:02]
    :END:
+** DONE First enclosure version completed
+   Used rubber feet to secure the teensy board in
+** TODO Add SYSEX code to dump the settings on empty message received
+** TODO Productize MAX patch
+   - Make presentation view
+   - Add send/get buttons
+** TODO Add a LED
+   Mirror the status of the button.
+** TODO Slave mode for the LED
+   Receive a value from a CC and turn on/off accordingly
+
+* More complicated control device
+** TODO Wire up a 16x2 display to the teensy breadboard prototype
+   Make it display simple text.
+** TODO Show the controller value on the display
 
 * MIDI Expression Pedal interface                       :@midi:@arduino:@diy:
 ** Links
