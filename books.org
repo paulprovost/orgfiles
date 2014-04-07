@@ -15,6 +15,9 @@
   :LOGBOOK:
   - State "READING"    from "TOBUY"      [2014-03-27 Thu 10:28]
   :END:
+  :PROPERTIES:
+  :ID:       36adbd33-d4b9-4ff9-97be-f67f2b3de2c7
+  :END:
   file://books/james-sa-corey-abaddons-gate.jpg
   
   For generations, the solar system -- Mars, the Moon, the Asteroid
@@ -306,19 +309,37 @@
   that someone is about to launch an attack upon both...
 
 * TOREAD Glasshouse - Charles Stross
+  :PROPERTIES:
+  :ID:       bc27c832-508f-4b25-b8bd-ed50369d3c37
+  :END:
   :PROPERTIES: :ID: eb347302-cfd1-4dfc-a7b8-90a8e1f30d77 :END:
   file://books/charles-stross-glasshouse.jpg
 * TOBUY vN - Madeleine Ashby
+  :PROPERTIES:
+  :ID:       a5d63f27-1154-4ad7-afe4-1ef790f03874
+  :END:
   :PROPERTIES: :ID: 9c926e57-6367-404c-8960-54672e905792 :END:
 * TOBUY Les maisons nature de Pierre Thibault au Quebec
+  :PROPERTIES:
+  :ID:       ec6f6bcb-da8b-4d64-8418-d23390ff4cd7
+  :END:
   :PROPERTIES: :ID: 51d44390-27f4-4094-a0ab-0b35cdea010c :END:
   [2010-04-21 Wed 21:42]
 * TOBUY Book: big book of Apple hacks
+  :PROPERTIES:
+  :ID:       f61a4034-aad1-46d3-976f-503efc70fd98
+  :END:
   :PROPERTIES: :ID: ec5a41c6-90ba-4b0c-a20b-6bd7727da1c0 :END:
   [2010-07-23 Fri 13:00]
 * TOBUY Michel Houellebecq [[http://fr.wikipedia.org/wiki/H._P._Lovecraft._Contre_le_monde,_contre_la_vie][H. P. Lovecraft. Contre le monde, contre la vie]]
+  :PROPERTIES:
+  :ID:       8c147149-712f-415e-832a-f3c0bbaf9923
+  :END:
   :PROPERTIES: :ID: 2dbbbe87-bf91-47f9-a4b9-1c9e89cc8bce :END:
 * TOBUY [[http://www.amazon.com/gp/product/1891830430?ie%3DUTF8&ref%3Daw_bottom_links&force-full-site%3D1][Blankets - Craig Thompson]] :@graphicnovel:
+  :PROPERTIES:
+  :ID:       31b7d6c4-8447-43fd-92f3-3bdde334ebc1
+  :END:
   :PROPERTIES: :ID: 8d3bb85b-3450-493a-9c59-5a3ceb762675 :END: At 592
   pages, Blankets may well be the single largest graphic novel ever
   published without being serialized first. Wrapped in the landscape

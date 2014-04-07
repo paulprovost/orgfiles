@@ -22,9 +22,7 @@
 ** file:music-notes.org
 ** file:org-mode-notes.org
 ** file:pmwiki.org
-** file:pyblosxom.org
-** file:songs.org
-** file:windows-notes.org
+** file:projects.org
 *** file:projects/ctrlr.org
 *** file:projects/hackintosh.org
 *** file:projects/iphone-apps.org
@@ -37,3 +35,6 @@
 *** file:projects/rss-filter.org
 *** file:projects/twit2rss.org
 *** file:projects/usenet-indexer.org
+** file:pyblosxom.org
+** file:songs.org
+** file:windows-notes.org
