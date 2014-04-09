@@ -122,6 +122,24 @@
     - [[http://www.strymon.net/2011/10/10/strymon-tech-corner-3-volume-pedal-as-an-expression-pedal/][Strymon Tech Corner #3 – Volume Pedal as an Expression Pedal » strymon]]
     - [[http://missionengineering.com/?product_cat=multi-use-expression-pedals][Multi-Use Expression Pedals Archives | missionengineering.commissionengineering.com]]
 
+* Alex's MIDI Program change sender                     :@midi:@arduino:@diy:
+  Use a 4 button footswitch to send program changes via regular MIDI
+  - Use regular 9V power
+    Adafruit's UBEC's look like they will do
+    - [[http://www.adafruit.com/products/1385][UBEC DC/DC Step-Down (Buck) Converter - 5V @ 3A output ID: 1385 - $9.95 : Adafruit Industries, Unique & fun DIY electronics and kits]]
+    - [[http://www.adafruit.com/products/610][Panel Mount 2.1mm DC barrel jack ID: 610 - $2.95 : Adafruit Industries, Unique & fun DIY electronics and kits]]
+    - [[http://nwazet.com/nwazet-pi-power-supply][Nwazet-Nwazet Pi Power Supply v2]]
+    - [[http://www.cutedigi.com/tools/power-supply/wall-adapter-to-5v-and-3-3v-module.html][Wall Adapter to 5V and 3.3V Module]]
+  - Do we need MIDI in?
+    Can we use USB to receive SysEx messages to change the program
+    changes being send, or do we want regular MIDI in.
+    - Look at the iPad MIDI interface
+      - [[http://axe4live.wordpress.com/2012/02/04/diy-midi-interface-for-ipad-version-2/][DIY MIDI interface for iPad version 2 | axe4live]]
+      - [[http://axe4live.wordpress.com/2012/01/22/diy-midi-interface-for-ipad/][DIY MIDI Interface for iPad | axe4live]]
+** Optocouplers                                   :@parts:@optocoupler:@midi:
+   - [[http://ca.mouser.com/ProductDetail/Sharp-Microelectronics/PC900V0NSZXF/?qs=sGAEpiMZZMtd3yBnp8bAgHGtEprFC0C5UkXvs3QZHU8%3d][PC900V0NSZXF Sharp Microelectronics | Mouser]]
+   - [[http://ca.mouser.com/ProductDetail/Fairchild-Semiconductor/6N139SVM/?qs=sGAEpiMZZMtd3yBnp8bAgFLBiV3sPncyLT2ArUA9fO0Ip7b5g%2fFgqg%3d%3d][6N139SVM Fairchild Semiconductor | Mouser]]
+
 * Logic Control Surface plugin                                :@logic:@ctrlr:
 ** DONE Get the Logic Control Surface SDK
 ** DONE Compile the provided examples
