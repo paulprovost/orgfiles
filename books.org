@@ -11,8 +11,62 @@
 *** Resize using =mogrify -resize x100=
 *** Insert using =file://books/<imagefile>
 
-* READING Abaddon's Gate - James S.A. Corey
+* READING Accelerando - Charles Stross
   :LOGBOOK:
+  - State "READING"    from "TOREAD"     [2014-05-07 Wed 16:23]
+  :END:
+  file://books/charles-stross-accelerando.jpg
+
+  The book is a collection of nine short stories telling the tale of
+  three generations of a family before, during, and after a
+  technological singularity. It was originally written as a series of
+  novelettes and novellas, all published in Asimov's Science Fiction
+  magazine in the period 2001 to 2004. According to Stross, the
+  initial inspiration for the stories was his experience working as a
+  programmer for a high-growth company during the dot-com boom of the
+  1990s.
+
+  The first three stories follow the character of agalmic "venture
+  altruist" Manfred Macx, starting in the early 21st century; the
+  second three stories follow his daughter Amber; and the final three
+  focus largely on Amber's son Sirhan in the completely transformed
+  world at the end of the century.
+
+* TOREAD Glasshouse - Charles Stross
+  :LOGBOOK:
+  - State "READING"    from "TOREAD"     [2014-05-07 Wed 16:09]
+  :END:
+  :PROPERTIES:
+  :ID:       bc27c832-508f-4b25-b8bd-ed50369d3c37
+  :END:
+  file://books/charles-stross-glasshouse.jpg
+
+  It is the 27th century. The culture featured in the novel is based
+  on the culture portrayed in the last chapter of Accelerando,
+  "Survivor" (full chapter here). Humanity has spread throughout the
+  galaxy using the wormhole technology copied from the alien routers,
+  forming a plethora of societies and 'polities'.
+
+  Robin, a human male, is recovering from a memory excision process in
+  a rehabilitation centre. Though he remembers nothing of his past
+  life(s), he suspects that he lived through traumatic times as a
+  participant in the series of wars that raged many years
+  before. Suspecting that he has been targeted for assassination by
+  persons unknown, he agrees to sign-up with a radical, isolated
+  social experiment that will attempt to recreate the forgotten "Dark
+  Ages", the late 20th and early 21st centuries.
+
+  On being transferred to the polity in which the program is being
+  held, he discovers that he has been given the body of a woman,
+  Reeve. As the experiment unfolds, she begins to suspect that all is
+  not what it seems, and that the founders of the experiment are
+  engaged in a very sinister conspiracy. Slowly, she realises that her
+  role is not as clear-cut as she originally thought, which leads her
+  to question, and then struggle against the program.
+
+* READ Abaddon's Gate - James S.A. Corey
+  :LOGBOOK:
+  - State "READ"       from "READING"    [2014-05-07 Wed 16:05]
   - State "READING"    from "TOBUY"      [2014-03-27 Thu 10:28]
   :END:
   :PROPERTIES:
@@ -307,13 +361,6 @@
   Smith, the investigation seems pointless. But she soon realizes that
   the virtual world may have a devastating effect in the real one-and
   that someone is about to launch an attack upon both...
-
-* TOREAD Glasshouse - Charles Stross
-  :PROPERTIES:
-  :ID:       bc27c832-508f-4b25-b8bd-ed50369d3c37
-  :END:
-  :PROPERTIES: :ID: eb347302-cfd1-4dfc-a7b8-90a8e1f30d77 :END:
-  file://books/charles-stross-glasshouse.jpg
 * TOBUY vN - Madeleine Ashby
   :PROPERTIES:
   :ID:       a5d63f27-1154-4ad7-afe4-1ef790f03874
