@@ -1649,3 +1649,11 @@
   - [[http://www.macdevcenter.com/pub/a/mac/2003/01/31/pyobjc_one.html][MacDevCenter.com]]
   - [[http://stackoverflow.com/questions/10902671/scripting-bridge-vs-pyobjc-vs-py2app][python - Scripting Bridge vs PyObjC vs py2app - Stack Overflow]]
   - [[https://pypi.python.org/pypi/py-applescript][py-applescript 1.0.0 : Python Package Index]]
+
+* [2014-05-10 Sat] E-commerce store platforms links for Elisabeth
+  - [[http://www.webappers.com/2010/07/09/15-best-free-open-source-ecommerce-platforms/][15 Best Free Open Source Ecommerce Platforms | Web Resources | WebAppers]]
+  - [[http://www.zen-cart.com/downloads.php][Zen Cart® Plugins and Addons]]
+  - [[http://magento.com/resources/technical_hosted][Ecommerce Technology & Technical Resources | Magento.com]]
+  - [[http://www.oscommerce.com/Products][Online Merchant | osCommerce]]
+  - [[http://www.prestashop.com/][PrestaShop: Ecommerce Software to create your Online Store]]
+  - [[http://www.opencart.com/index.php?route=common/home][OpenCart - Open Source Shopping Cart Solution]]
