@@ -1657,3 +1657,99 @@
   - [[http://www.oscommerce.com/Products][Online Merchant | osCommerce]]
   - [[http://www.prestashop.com/][PrestaShop: Ecommerce Software to create your Online Store]]
   - [[http://www.opencart.com/index.php?route=common/home][OpenCart - Open Source Shopping Cart Solution]]
+
+* [2014-05-11 Sun] Applescript and Quicksilver    :@applescript:@quicksilver:
+  - [[http://qsapp.com/wiki/AppleScripts][AppleScripts - Quicksilver Wiki]]
+  - [[http://qsapp.com/wiki/AppleScript_Types][AppleScript Types - Quicksilver Wiki]]
+  - [[http://qsapp.com/wiki/AppleScript_Actions][AppleScript Actions - Quicksilver Wiki]]
+  - [[http://qsapp.com/wiki/AppleScript_Action_templates][AppleScript Action templates - Quicksilver Wiki]]
+  - [[http://growl.info/documentation/applescript-support.php][Growl - AppleScript Support for Growl]]
+  - [[https://developer.apple.com/library/mac/technotes/tn2065/_index.html#//apple_ref/doc/uid/DTS10003093-CH1-SECTION6][Technical Note TN2065: do shell script in AppleScript]]
+  - [[https://developer.apple.com/legacy/library/qa/qa1067/_index.html][Technical Q&A QA1067: Setting environment variables for user processes]]
+
+* [2014-05-11 Sun] Importing files into Sketchup           :@diy:@knobber:
+  - [[https://eagleup.wordpress.com/2011/08/09/import-step-files-for-your-models/][import step files for your models | Eagle meets SketchUp]]
+
+* [2014-05-11 Sun] Debugging SMTP issues                       :@homenetwork:
+  - [[http://technet.microsoft.com/en-us/library/aa995718(v=EXCHG.65).aspx][How to Use Telnet to Test SMTP Communication]]
+
+* [2014-05-11 Sun] Bottle research                :@development:@python:@web:
+  - [[http://bottlepy.org/docs/dev/index.html][Bottle: Python Web Framework — Bottle 0.13-dev documentation]]
+  - [[http://www.giantflyingsaucer.com/blog/?p=3598][Tutorial: Getting started with Bottle – a Python web framework | Giant Flying Saucer]]
+  - [[http://www.tutorialsavvy.com/2013/04/bottle-web-framwork-for-python.html][My Small Tutorial: Bottle Web Framwork For Python]]
+  - [[http://stackoverflow.com/questions/4533674/bottle-friendly-wsgi-authentication-library-middleware][python - Bottle-friendly WSGI authentication library/middleware - Stack Overflow]]
+  - [[http://fledglingpolymath.tumblr.com/post/39977900894/basic-authentication-in-bottle-py][Fledgling Polymath — Basic Authentication in bottle.py]]
+  - [[http://cork.firelet.net/][Cork - Authentication for the Bottle web framework — Cork 0.10a documentation]]
+
+* [2014-05-11 Sun] Guitar capacitor notes          :@guitar:@musicmaker:@diy:
+  - [[http://tonereport.com/blogs/do-it-yourself/easy-mods-guitar-tone-caps][Easy Mods: Guitar Tone Caps | Tone Report]]
+  - [[http://www.stewmac.com/tsarchive/ts0182.html][STEWMAC.COM : Issue 182, Good tone from 0-10: easy clip-on mod]]
+
+* [2014-05-11 Sun] 9 volts to 5 volts                                  :@diy:
+  - [[http://www.abra-electronics.com/products/1385%252dADA-UBEC-DC%7B47%7DDC-Step%252dDown-%28Buck%29-Converter-%252d-5V-%40-3A-output.html?setCurrencyId=2][1385-ADA UBEC DC/DC Step-Down (Buck) Converter - 5V @ 3A output - ABRA Electronics Inc.]]
+
+* [2014-05-11 Sun] Metal t-shirt                                     :@tobuy:
+  - [[http://www.cafepress.ca/mf/19639717/grid-iron-salute_tshirt?productId=134300110][Grid Iron Salute T-Shirt by vicevoices]]
+
+* [2014-05-11 Sun] Max Objects                                      :@maxmsp:
+  - [[http://www.esbasel.ch/Downloads/MaxMSP-Objects.htm][ESB-objects for MaxMSP]] 
+    This is a small collection of externals made for the programming
+    environment Max/MSP (Cycling'74). Please note that this is not an
+    official release of verified usefulness and stability :) Some of
+    these objects are still in a sort of "experimental" state. So
+    please use with care.
+
+    vb.biquad --- a biquad filter for streams of floats or ints
+    vb.listchange --- same as [change] but for lists
+    vb.listdrunk --- same as [drunk] but for lists
+    vb.blit~ --- bandlimited impulse oscillator
+    vb.brown~ --- brownian noise generator
+    vb.cheby~ --- a variable order chebyshev filter
+    vb.chebycoeff --- mxj java class for calculating chebyshev filter coefficients of variable order
+    vb.delayA~ --- allpass interpolating delay line with feedback
+    vb.fbosc~ --- feedback oscillator
+    vb.fbosc2~ --- similar to vb.fbosc~ but with signal inlets
+    vb.FFTWbuf~ --- processes non-realtime FFT/iFFT of buffered data of arbitrary size
+    vb.fourpole~ --- a 4-pole lowpass filter
+    vb.fourses~ --- a chaotic oscillator network
+    vb.freezer~ --- freeze audio input into a perfect loop - max6 only
+    vb.gbuzz~ --- impulse generator with spectrum control - max6 only
+    vb.gbuzz~ for max5 --- vb.gbuzz~ for max5
+    vb.goertzel~ --- goertzel filter implementation, to detect presence of a specific frequency component in a signal
+    vb.jonverb~ --- an inexpensive artificial reverb generator after Jon Dattorro
+    vb.linCongru~ --- linear congruential pattern generator
+    vb.lpcomb~ --- an IIR comb filter with onepole lowpass in feedback path
+    vb.phasor0~ --- phasor that changes its frequency only at the beginning of a new ramp
+    vb.pitch~ --- pitch tracker
+    vb.rand~ --- same as [rand~] but with cubic interpolation
+    vb.sig2bits~ --- convert a signal to its bit representation
+    vb.simper.svf~ --- andrew simper's state variable filter version
+    vb.stretch~ --- extreme audio stretching
+    vb.thresh~ --- same as [thresh~] but with settable gate time
+
+* [2014-05-11 Sun] Kivy links             :@development:@python:@mobile:@osx:
+  - [[http://kivy.org/#home][Kivy: Crossplatform Framework for NUI]]
+  - [[https://www.youtube.com/playlist?list=SPdNh1e1kmiPP4YApJm8ENK2yMlwF1_edq][Kivy crash course - YouTube]]
+  - [[http://kivy.org/docs/gettingstarted/intro.html][Introduction — Kivy 1.8.1-dev documentation]]
+  - [[http://kivy.org/docs/installation/installation-macosx.html][Installation on MacOSX — Kivy 1.8.1-dev documentation]]
+  - [[http://kivy.org/docs/guide/packaging-ios.html][Create a package for IOS — Kivy 1.8.1-dev documentation]]
+
+* [2014-05-11 Sun] Create thumbnails                    :@development:@media:
+  - [[http://p.outlyer.net/vcs/][Video Contact Sheet *NIX]]
+    This is a bash script meant to create video contact sheets
+    (previews) of videos. Any video supported by mplayer and ffmpeg
+    can be used.
+  - [[http://slickslice.sourceforge.net/][SlickSlice]]
+    SlickSlice is a bash script powered by ImageMagick and MPlayer
+    tools that creates a timeline representation of a videofile - one
+    big image with screenshot thumbnails taken at automatically set
+    periods of time.
+
+* [2014-05-11 Sun] Midi Fighter Twister      :@controller:@tobuy:@musicmaker:
+  - [[https://store.djtechtools.com/products/midi-fighter-twister][DJ TechTools - Midi Fighter Twister]] $219
+    Flexible MIDI control for all creative uses
+    - 16 high-resolution Chroma Cap encoders
+    - Integrated push switches on each knob
+    - Full LED feedback
+    
+    file://links/midi-fighter-twister.jpg
