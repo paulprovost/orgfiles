@@ -15,6 +15,9 @@
   :LOGBOOK:
   - State "READING"    from "TOREAD"     [2014-05-07 Wed 16:23]
   :END:
+  :PROPERTIES:
+  :ID:       6bc94a07-daf7-4345-9253-f2500a3a3eca
+  :END:
   file://books/charles-stross-accelerando.jpg
 
   The book is a collection of nine short stories telling the tale of

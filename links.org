@@ -1689,6 +1689,9 @@
   - [[http://www.abra-electronics.com/products/1385%252dADA-UBEC-DC%7B47%7DDC-Step%252dDown-%28Buck%29-Converter-%252d-5V-%40-3A-output.html?setCurrencyId=2][1385-ADA UBEC DC/DC Step-Down (Buck) Converter - 5V @ 3A output - ABRA Electronics Inc.]]
 
 * [2014-05-11 Sun] Metal t-shirt                                     :@tobuy:
+  :PROPERTIES:
+  :ID:       3c6a17ad-6aed-4826-9418-9d1d2e389ed5
+  :END:
   - [[http://www.cafepress.ca/mf/19639717/grid-iron-salute_tshirt?productId=134300110][Grid Iron Salute T-Shirt by vicevoices]]
 
 * [2014-05-11 Sun] Max Objects                                      :@maxmsp:
@@ -1746,6 +1749,9 @@
     periods of time.
 
 * [2014-05-11 Sun] Midi Fighter Twister      :@controller:@tobuy:@musicmaker:
+  :PROPERTIES:
+  :ID:       6e7914ac-e003-4c75-857b-a3350fd33126
+  :END:
   - [[https://store.djtechtools.com/products/midi-fighter-twister][DJ TechTools - Midi Fighter Twister]] $219
     Flexible MIDI control for all creative uses
     - 16 high-resolution Chroma Cap encoders
