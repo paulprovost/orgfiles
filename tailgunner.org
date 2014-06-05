@@ -1,0 +1,32 @@
+#+TITLE: Building Tailgunner - A portable Wifi enabled linux box
+#+AUTHOR: Paul Provost
+#+EMAIL: paul@bouzou.org
+#+DESCRIPTION: 
+#+FILETAGS: @tailgunner:@raspberrypi
+
+* Hardware
+  - Raspberry Pi
+    - SD Card (16G)
+  - USB Battery
+  - Small Wifi router
+  - Wifi USB interface for Pi
+
+* Setup
+** Raspberry Pi
+*** Distribution
+    Raspbian
+*** Customization
+**** Rename the default user
+     This is so that I keep 1000:1000 as UID/GID
+     - Give root a password
+       : $ sudo passwd root
+     - (as root) Change the name of the default pi user
+       : # usermod -l paul pi
+     - (as root) Change the name of the home directory
+       : # usermod -m -d /home/paul paul
+     - (as root) Change the name of the default group
+       : # groupmod -n paul pi
+     - Disable root
+       : $ sudo passwd -l root
+*** Additional tools
+**** Emacs
