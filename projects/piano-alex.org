@@ -1,0 +1,23 @@
+#+TITLE: Add-on controller for piano and synth
+#+AUTHOR: Paul Provost
+#+EMAIL: paul@bouzou.org
+#+DESCRIPTION: 
+#+FILETAGS: @project:@diy:@musicmaker:@teensy
+
+* Requirements:
+** E-mail from Alex Paquette
+   - MIDI I/O:
+     - MIDI In du keybed
+     - MIDI Out à un module de sons Hardware
+     - USB à Un Ordi.  (Sans Driver spécial à installer, Peut router le MIDI du Keybed à L'ordi et/ou au Hardware MIDI en même temps, Sur les 16 Canaux MIDI)
+
+   - Controles UI:
+     - On peut y brancher quelques faders (Idéalement 6) pour controller le Volume de plusieurs "couches" en même temps.  Pour mixer à volonté, Piano/Rhodes/Wurly/Strings/Pad/FM Piano
+     - On peut y brancher un keypad pour entrer numériquement des program change.
+     - On peut y brancher 6 boutons qui sélectionne sur quel canal midi on veut envoyer le Program change.
+
+   - Feedback Visuel:
+     - Led MIDI Activity:
+     - Display qui affiche l'info qui est présentement édité ou encore mieux, un multi-display au dessus des faders qui affiche nom du program# sur chaque fader.
+
+* Links
