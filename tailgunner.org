@@ -7,14 +7,47 @@
 * Hardware
   - Raspberry Pi
     - SD Card (16G)
-  - USB Battery
+  - Large capacity USB Battery
+    - [[http://www.newtrent.com/store/external-battery/icarrier-imp120d.html][New Trent iCarrier IMP120D Apple iPhone Battery Pack]]
+      - Capacity - 12000 mAh Power
+      - Life - 500x Charge Cycle
+      - Output - 2.1A (tablet) and 1A (phone)
   - Small Wifi router
+    - [[http://www.tp-link.com/en/products/details/?model=TL-WR702N][TP-LINK TL-WR702N]]
   - Wifi USB interface for Pi
+    - [[http://www.edimax.com/en/produce_detail.php?pd_id%3D347&pl1_id%3D1&pl2_id%3D44][Edimax EW-7811Un - 150Mbps Wireless IEEE802.11b/g/n nano USB Adapter]]
+
+* Software
+** Emacs 24.3
+   - Compile from source using [[https://coderwall.com/p/uztyfw][instructions]]
+     Must update repositories before installing dependencies.
+** VNC server
+   [[http://www.karlrunge.com/x11vnc/][x11vnc]]Q
+   : $ startx
+   : $ x11vnc --avahi --forever --passwd raspberry
+** Window Manager
+   - Rationale:
+     - Graphical Emacs might be nice as it displays images, but I want
+       to cut down on mouse fiddling since I will be on an iPad.
+     - VNC connection should be fast enough, as I will be sitting
+       right on the machine.
+   - Candidates:
+     - [[https://en.wikipedia.org/wiki/Tiling_window_manager][Tiling window manager - Wikipedia, the free encyclopedia]]
+     - [[http://www.nongnu.org/ratpoison/][ratpoison: Say good-bye to the rodent]]
+     - [[http://awesome.naquadah.org/][about - awesome window manager]]
+     - [[http://awesome.naquadah.org/wiki/My_first_awesome][My first awesome - awesome]]
+     - [[http://dwm.suckless.org/][suckless.org dwm - dynamic window manager]]
+     - [[http://www.nongnu.org/stumpwm/][The Stump Window Manager]]
+     - [[http://www.nongnu.org/ratpoison/doc/General-Use.html#General-Use][General Use - Ratpoison 1.4.7 manual]]
+     - [[http://www.bluetile.org/][Bluetile - full-featured tiling for the GNOME desktop environment]]
+   - Favorite
+     - ratpoison?
 
 * Setup
 ** Raspberry Pi
 *** Distribution
-    Raspbian
+    - [[http://www.raspbian.org/][Raspbian]] ([[http://www.raspberrypi.org/downloads/][download]])
+    - Install on SD Card using [[http://www.tweaking4all.com/hardware/raspberry-pi/macosx-apple-pi-baker/][ApplePi-Baker]]
 *** Customization
 **** Rename the default user
      This is so that I keep 1000:1000 as UID/GID
@@ -28,5 +61,3 @@
        : # groupmod -n paul pi
      - Disable root
        : $ sudo passwd -l root
-*** Additional tools
-**** Emacs
