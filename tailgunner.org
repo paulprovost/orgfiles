@@ -32,6 +32,7 @@
    - [[http://raspentech.com/?p=26][How to: Use the Raspberry Pi as a wireless access point (router) – Step 2 | Raspentech.com - Notes]]
 ** Connecting to a Wifi network
    - [[http://wicd.sourceforge.net][wicd]]: curses and graphical interface
+     - usage: [[http://www.recantha.co.uk/blog/?p%3D10][Using wicd-curses]]
 
 * Hardware
   - Raspberry Pi
