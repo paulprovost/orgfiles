@@ -30,6 +30,8 @@
    - [[https://programmaticponderings.wordpress.com/2013/07/15/adding-a-nano-size-router-to-your-vehicle-for-raspberry-pi/][Travel-Size Wireless Router for Your Raspberry Pi | Programmatic Ponderings]]
    - [[http://drjohnstechtalk.com/blog/2014/03/using-your-raspberry-pi-as-a-router/][Using your Raspberry Pi as a router | Dr John's Tech Talk]]
    - [[http://raspentech.com/?p=26][How to: Use the Raspberry Pi as a wireless access point (router) – Step 2 | Raspentech.com - Notes]]
+** Connecting to a Wifi network
+   - [[http://wicd.sourceforge.net][wicd]]: curses and graphical interface
 
 * Hardware
   - Raspberry Pi
