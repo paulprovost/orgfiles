@@ -4,6 +4,33 @@
 #+DESCRIPTION: 
 #+FILETAGS: @tailgunner:@raspberrypi
 
+* Journal
+** [2014-06-05 Thu]
+   Tried out the TL-WR702N router in bridge mode. Bridge mode does
+   *not* create a separate network for the Pi and the iPad. Nor do any
+   of the router's modes. Bah.
+
+* Links
+** Raspberry Pi as a router (Wifi to Wifi, hopefully)
+   The first one looks promising. All the other ones are wired to wifi
+   access point configs.
+   - [[http://www.timokorthals.de/?p=243][Building a wireless router for a wireless network with a Raspberry Pi]]
+   - [[http://www.raspyfi.com/wi-fi-on-raspberry-pi-a-simple-guide/][Wi-fi on Raspberry Pi, a simple guide - RaspyFi]]
+   - [[http://qcktech.blogspot.ca/2012/08/raspberry-pi-as-router.html][QckTech: Raspberry Pi as a Router]]
+   - [[http://sirlagz.net/2013/01/27/how-to-turn-the-raspberry-pi-into-a-shaping-wifi-router/][How To : Turn the Raspberry Pi Into a Shaping WiFi Router » The Rantings and Ravings of a Madman]]
+   - [[http://sirlagz.net/2013/01/10/how-to-use-the-raspberry-pi-as-a-wireless-access-pointrouter-part-3-a/][How To : Use The Raspberry Pi As A Wireless Access Point/Router Part 3…A! » The Rantings and Ravings of a Madman]]
+   - [[http://sirlagz.net/2013/02/10/how-to-use-the-raspberry-pi-as-a-wireless-access-pointrouter-part-3b/][How To : Use The Raspberry Pi As A Wireless Access Point/Router Part 3…B! » The Rantings and Ravings of a Madman]]
+   - [[http://sirlagz.net/2013/01/10/script-wifi-checker-script/][Script : WiFi Checker Script » The Rantings and Ravings of a Madman]]
+   - [[http://sirlagz.net/2012/08/27/how-to-use-wpa_cli-to-connect-to-a-wireless-network/][How To : Use wpa_cli To Connect To A Wireless Network » The Rantings and Ravings of a Madman]]
+   - [[http://sirlagz.net/2012/08/11/how-to-use-the-raspberry-pi-as-a-wireless-access-pointrouter-part-3/][How To : Use The Raspberry Pi As A Wireless Access Point/Router Part 3 » The Rantings and Ravings of a Madman]]
+   - [[http://sirlagz.net/2012/08/10/how-to-use-the-raspberry-pi-as-a-wireless-access-pointrouter-part-2/][How To : Use The Raspberry Pi As A Wireless Access Point/Router Part 2 » The Rantings and Ravings of a Madman]]
+   - [[http://sirlagz.net/2012/08/09/how-to-use-the-raspberry-pi-as-a-wireless-access-pointrouter-part-1/][How To : Use The Raspberry Pi As A Wireless Access Point/Router Part 1 » The Rantings and Ravings of a Madman]]
+   - [[http://www.daveconroy.com/using-your-raspberry-pi-as-a-wireless-router-and-web-server/][Using your Raspberry Pi as a Wireless Router and Web Server | DaveConroy.com]]
+   - [[http://www.instructables.com/id/Raspberry-Pi-as-a-3g-Huawei-E303-wireless-Edima/?ALLSTEPS][Raspberry Pi as a 3g (Huawei E303) wireless (Edimax EW-7811Un) router]]
+   - [[https://programmaticponderings.wordpress.com/2013/07/15/adding-a-nano-size-router-to-your-vehicle-for-raspberry-pi/][Travel-Size Wireless Router for Your Raspberry Pi | Programmatic Ponderings]]
+   - [[http://drjohnstechtalk.com/blog/2014/03/using-your-raspberry-pi-as-a-router/][Using your Raspberry Pi as a router | Dr John's Tech Talk]]
+   - [[http://raspentech.com/?p=26][How to: Use the Raspberry Pi as a wireless access point (router) – Step 2 | Raspentech.com - Notes]]
+
 * Hardware
   - Raspberry Pi
     - SD Card (16G)
@@ -40,8 +67,10 @@
      - [[http://www.nongnu.org/stumpwm/][The Stump Window Manager]]
      - [[http://www.nongnu.org/ratpoison/doc/General-Use.html#General-Use][General Use - Ratpoison 1.4.7 manual]]
      - [[http://www.bluetile.org/][Bluetile - full-featured tiling for the GNOME desktop environment]]
-   - Favorite
-     - ratpoison?
+     - [[http://aerosuidae.net/musca.html][Musca]]
+
+     - Favorite
+       - ratpoison?
 
 * Setup
 ** Raspberry Pi
