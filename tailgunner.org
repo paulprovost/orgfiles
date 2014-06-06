@@ -33,6 +33,11 @@
 ** Connecting to a Wifi network
    - [[http://wicd.sourceforge.net][wicd]]: curses and graphical interface
      - usage: [[http://www.recantha.co.uk/blog/?p%3D10][Using wicd-curses]]
+** More Pi/LuaKit tips
+   - [[http://www.codingepiphany.com/2013/04/02/raspberry-pi-faster-and-lighter-web-browsing-with-luakit/][Raspberry Pi: Faster and Lighter Web Browsing with Luakit - Coding Epiphany]]
+   - [[http://www.codingepiphany.com/2013/04/06/raspberry-pi-luakit-shortcut-card/][Raspberry Pi: Luakit Downloadable Shortcut Card - Coding Epiphany]]
+   - [[http://www.codingepiphany.com/2013/04/28/raspberry-pi-playing-youtube-videos-with-luakit-and-omxplayer/][Raspberry Pi: Playing YouTube Videos with Luakit and OMXPlayer]]
+
 
 * Hardware
   - Raspberry Pi
