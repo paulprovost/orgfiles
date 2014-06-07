@@ -13,7 +13,7 @@
 
   - My build
     - CPU: Core i7 920 @ 2.8GHz
-    - Motherboard: Gigabyte [[http://www.gigabyte.com.tw/Products/Motherboard/Products_Overview.aspx%3FProductID%3D2958][GA-EX58-UD5]]
+    - Motherboard: Gigabyte [[http://www.gigabyte.us/products/product-page.aspx?pid%3D2958&dl%3D1&RWD%3D0#ov][GA-EX58-UD5]]
 
 * Software
   - Stock Snow Leopard install DVD
