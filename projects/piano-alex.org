@@ -21,3 +21,27 @@
      - Display qui affiche l'info qui est présentement édité ou encore mieux, un multi-display au dessus des faders qui affiche nom du program# sur chaque fader.
 
 * Links
+
+* Design
+** Description
+   - 6 analog sliders, sending 
+
+** Pin totals
+
+   |----------+---|
+   | Digital  |   |
+   |----------+---|
+   | Keyboard | 7 |
+   | LCD      | 5 |
+   | Switches | 6 |
+   |----------+---|
+   | Total    |   |
+   |----------+---|
+
+   |--------+---|
+   | Analog |   |
+   |--------+---|
+   | Pots   | 6 |
+   |--------+---|
+   | Total  |   |
+   |--------+---|
