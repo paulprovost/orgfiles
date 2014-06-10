@@ -1759,3 +1759,26 @@
     - Full LED feedback
     
     file://links/midi-fighter-twister.jpg
+
+* [2014-06-07 Sat] Resize windows using keyboard               :@osx:@window:
+  Back to the age old problem of being frustrated to have to reach
+  for the mouse and make some precise movements (compounded by the
+  fact that the trackpad is not quite suited to being precise). This
+  was also egged on by a recent foray into the tiling window managers
+  available for linux (see [[file:tailgunner.org::*Window%20Manager][tailgunner notes]]). After looking at these,
+  which were payware and did not do all I wanted...
+  - [[http://mizage.com/divvy/][Mizage - Divvy]]
+  - [[http://www.irradiatedsoftware.com/sizeup/][Irradiated Software - SizeUp - The Missing Window Manager]]
+  - [[http://manytricks.com/moom/][Moom · Many Tricks]]
+  I found Slate, which is open source, free, quite configurable (using
+  a text file and some javascript for the involved stuff)
+  - [[https://github.com/jigish/slate][jigish/slate · GitHub]]
+  - [[https://github.com/jigish/slate/wiki/Example-Configs][Example Configs · jigish/slate Wiki · GitHub]]
+  - [[https://github.com/jigish/slate/wiki/Installation-instructions][Installation instructions · jigish/slate Wiki · GitHub]]
+  - [[https://github.com/jigish/slate/wiki/JavaScript-Configs][JavaScript Configs · jigish/slate Wiki · GitHub]]
+  - [[http://thume.ca/howto/2012/11/19/using-slate/][Using Slate: A Hacker's Window Manager for Macs - Tristan Hume]]
+  I like it already. I just have to pick shortcuts carefully so that
+  they don't interfere with Org Mode (Cmd-Arrows danced my windows
+  around just now... A quick trip to the .slate file fixed that!). I
+  think that the solution will be to restrain myself to a few
+  shortcuts only.
