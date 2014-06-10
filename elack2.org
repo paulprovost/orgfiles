@@ -1,0 +1,24 @@
+#+TITLE: Install a Linux virtual machine on Hackintosh
+#+AUTHOR: Paul Provost
+#+EMAIL: paul@bouzou.org
+#+DESCRIPTION: 
+#+FILETAGS: @hackintosh
+
+* Rationale
+  - I have an i7-based machine with loads of RAM doing nothing.
+  - I have an extra 240G SSD drive doing nothing
+  - Maybe a VM on this kind of hardware will be faster than marauder
+    (which, at the time of this writing, is running a with G of RAM on
+    a rotating system disk)
+
+* Requirements
+  - Run straight off the physical disks in the machine.
+  - Be accessible as another box on the network to run services and be
+    accessible.
+
+* Software solution
+  - Testing out VMWare Fusion, hoping for better hardware integration
+    and performance versus VirtualBox.
+
+* Links
+
