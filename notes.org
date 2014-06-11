@@ -244,3 +244,8 @@
     : cd /boot/packages
     : wget http://www.bibliognome.com/unraid/SABnzbdDependencies-2.1-i486-unRAID.tgz  
     : installpkg /boot/packages/SABnzbdDependencies-2.1-i486-unRAID.tgz
+
+* [2014-06-11 Wed] Changing the host name on Ubuntu         :@network:@linux:
+  : $ sudo vi /etc/hostname
+  : $ sudo service hostname start
+
