@@ -244,3 +244,14 @@
     : cd /boot/packages
     : wget http://www.bibliognome.com/unraid/SABnzbdDependencies-2.1-i486-unRAID.tgz  
     : installpkg /boot/packages/SABnzbdDependencies-2.1-i486-unRAID.tgz
+
+* [2014-06-14 Sat] Rsync command                                     :@rsync:
+  : rsync -av --progress --inplace --exclude '.AppleDouble' --exclude '.DS_Store' --remove-source-files 
+
+* [2014-06-14 Sat] Mux / Demux mp4 with MP4Box                 :@mp4:@mp4box:
+  - Info (list tracks)
+    : MP4Box -list <input_file>
+  - Demux
+    : MP4Box -single <track_number> <input_file>
+  - Mux
+    : MP4Box -add <track> -add <track> <output_file>
