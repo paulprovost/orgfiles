@@ -18,6 +18,9 @@
      tailgunner from the internal network (it gets a 192.168.1.x ip
      address).
 *** Reboot test...
+    Survived! Great Googly Moogly! Now to test on the go. And
+    wicd-curses is not exactly user friendly when asking for
+    passwords and setting options. More studying...
 
 * Links
 ** Using a router
@@ -44,6 +47,10 @@
 ** Connecting to a Wifi network
    - [[http://wicd.sourceforge.net][wicd]]: curses and graphical interface
      - usage: [[http://www.recantha.co.uk/blog/?p%3D10][Using wicd-curses]]
+** Safe power-down
+   - [[http://www.raspberrypi.org/forums/viewtopic.php?f=45&t=36295][Raspberry Pi • View topic - Safe Shutdown Circuit]]
+   - [[http://www.pi-supply.com/product/pi-supply-raspberry-pi-power-switch/][Pi Supply Switch - On/Off Power Switch for Raspberry Pi - Pi Supply]]
+
 ** More Pi/LuaKit tips
    - [[http://www.codingepiphany.com/2013/04/02/raspberry-pi-faster-and-lighter-web-browsing-with-luakit/][Raspberry Pi: Faster and Lighter Web Browsing with Luakit - Coding Epiphany]]
    - [[http://www.codingepiphany.com/2013/04/06/raspberry-pi-luakit-shortcut-card/][Raspberry Pi: Luakit Downloadable Shortcut Card - Coding Epiphany]]
@@ -67,8 +74,23 @@
 ** Emacs 24.3
    - Compile from source using [[https://coderwall.com/p/uztyfw][instructions]]
      Must update repositories before installing dependencies.
+*** Config
+    - Copy over =.emacs=, =.wl=, =.folders=, =.abbrev_defs=.
+    - Remove the additions to =load-path=.
+    - site-lisp (manual installation)
+      - mercurial.el
+    - packages
+      - monky
+      - expand-region
+      - color-themes
+      - todochiku - No
+        Needs notify-send, which uses a notify daemon. I want to keep
+        the number of daemons running to a minimum.
+      - helm
+    - el-get
+
 ** VNC server
-   [[http://www.karlrunge.com/x11vnc/][x11vnc]]Q
+   [[http://www.karlrunge.com/x11vnc/][x11vnc]]
    : $ startx
    : $ x11vnc --avahi --forever --passwd raspberry
 ** Window Manager
@@ -87,7 +109,6 @@
      - [[http://www.nongnu.org/ratpoison/doc/General-Use.html#General-Use][General Use - Ratpoison 1.4.7 manual]]
      - [[http://www.bluetile.org/][Bluetile - full-featured tiling for the GNOME desktop environment]]
      - [[http://aerosuidae.net/musca.html][Musca]]
-
      - Favorite
        - ratpoison?
 

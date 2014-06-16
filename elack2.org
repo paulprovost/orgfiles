@@ -1,0 +1,43 @@
+#+TITLE: Install a Linux virtual machine on Hackintosh
+#+AUTHOR: Paul Provost
+#+EMAIL: paul@bouzou.org
+#+DESCRIPTION: 
+#+FILETAGS: @hackintosh
+
+* Rationale
+  - I have an i7-based machine with 18G of RAM doing nothing.
+  - I have an extra 120G SSD drive doing nothing
+  - Maybe a VM on this kind of hardware will be faster than marauder
+    (which, at the time of this writing, is running a AMD Athlon(tm)
+    II X4 640 with 4G of RAM on a rotating system disk)
+  - This machine refuses to boot from an USB stick at this point, so
+    this might be better than dual-booting it (and involve less hair
+    pulling).
+
+* Requirements
+  - Run straight off the physical disks in the machine.
+  - Be accessible as another box on the network to run services and be
+    accessible.
+  - Accessed via NoMachine NX
+
+* Software solution
+  - Testing out VMWare Fusion, hoping for better hardware integration
+    and performance versus VirtualBox.
+    - Networking
+      - Using "Bridged (autodetect)" setting for the network adapter
+        gives me an address on the local network (192.168.1.x), which
+        I had reserved for it on the router.
+
+* Setup
+    - Distro
+      Lubuntu 14.04
+    - SSH
+      - Using port 2226
+    - Font: Source Code Pro
+      Installed TTFs into =~/.fonts=.
+    - Terminator
+    - Emacs 24
+      Using the [[https://launchpad.net/~cassou/%2Barchive/emacs][PPA]]
+
+* Links
+  
