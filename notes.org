@@ -249,3 +249,6 @@
   - Download from [[http://www.nero.com/enu/company/about-nero/nero-aac-codec.php][here]].
   - Install the required 32-bit packages:
     : $ sudo apt-get install lib32stdc++6
+  - Might want to try out [[http://teknoraver.net/software/mp4tools/][mp4tools]] in the future, even though it
+    seems lacking.
+
