@@ -244,3 +244,8 @@
     : cd /boot/packages
     : wget http://www.bibliognome.com/unraid/SABnzbdDependencies-2.1-i486-unRAID.tgz  
     : installpkg /boot/packages/SABnzbdDependencies-2.1-i486-unRAID.tgz
+
+* [2014-06-16 Mon] Running neroAac on 64-bit systems            :@audio:@aac:
+  - Download from [[http://www.nero.com/enu/company/about-nero/nero-aac-codec.php][here]].
+  - Install the required 32-bit packages:
+    : $ sudo apt-get install lib32stdc++6

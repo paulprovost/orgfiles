@@ -294,3 +294,7 @@
   :     | grep -P text
   :     | cut -d: -f1
   :     | xargs sed -i 's/<initial_text>/<new_text>/g'
+
+* Find window information in X11                            :@x11:@scripting:
+  - xprop
+  - xwininfo
