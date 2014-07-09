@@ -1782,3 +1782,14 @@
   around just now... A quick trip to the .slate file fixed that!). I
   think that the solution will be to restrain myself to a few
   shortcuts only.
+
+* [2014-07-09 Wed] Installing Mavericks on a virtual machine    :@hackintosh:
+  - [[http://www.macbreaker.com/2013/06/how-to-install-os-x-109-mavericks-dp1.html][How to install OS X 10.9 Mavericks on your PC with myHack]]
+  - [[http://myhack.sojugarden.com/guide/][myHack Guide | myHack]]
+  - [[http://forums.appleinsider.com/t/159955/howto-create-bootable-mavericks-iso][HOWTO: Create bootable Mavericks ISO]]
+
+* [2014-07-09 Wed] Some simple libraries                               :@dev:
+  - [[http://lodev.org/lodepng/][LodePNG]]
+  - [[http://easylogging.org/][Easylogging++
+    - Single header only, cross-platform logging library for C++ applications]]
+

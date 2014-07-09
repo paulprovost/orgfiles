@@ -251,4 +251,11 @@
     : $ sudo apt-get install lib32stdc++6
   - Might want to try out [[http://teknoraver.net/software/mp4tools/][mp4tools]] in the future, even though it
     seems lacking.
+    
+* [2014-06-17 Tue] Building dwb                                        :@dwb:
+  Extensions do not seem to be loading in dwb. So I'll try building
+  it from scratch.
+  - Dependencies
+    - libsoup2.4-dev
+    - 
 
