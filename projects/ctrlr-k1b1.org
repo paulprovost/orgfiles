@@ -44,4 +44,8 @@
    :ID:       d14e08cd-a0d3-4251-82ab-c10e26b1e932
    :END:
    Receive a value from a CC and turn on/off accordingly
-
+** TODO Fetch for the knob value
+   - [ ] Receive a SysEx and emit the current knob value
+   - [ ] Receive a CC on the knob's channel and number to trigger the
+     sending of the current knob value
+   - [X] Both
