@@ -54,50 +54,6 @@
    :ID:       d6243ee9-57da-4e13-8d34-23e4132603cc
    :END:
 
-* MIDI knob (knobber)                                   :@midi:@arduino:@diy:
-** Links
-*** Knobber
-    - [[http://echolevel.tumblr.com/post/49737964614/knobber-usb-midi-controller-by-echolevel][Echolevel — Knobber - USB MIDI single knob/button controller...]]
-      - [[http://www.vguitarforums.com/smf/index.php?topic=8532.msg61078#msg61078][Build the Arduino "knobber-usb-midi-controller" (Teensy 3.0 Board)]]
-*** Teensy
-    - [[http://forum.pjrc.com/threads/24163-Multiple-MIDI-devices?highlight=usb+midi][Multiple MIDI devices]]
-    - [[http://forum.pjrc.com/threads/23523-Change-device-name?highlight=midi][Change device name]]
-    - [[http://forum.pjrc.com/threads/23605-Teensy-mk-port-of-Arduino-mk-Makefile][Teensy.mk -- port of Arduino.mk Makefile]]
-
-** DONE Isolate sources and compile using a Makefile
-   :LOGBOOK:
-   - State "DONE"       from "NEXT"       [2014-03-21 Fri 22:02]
-   :END:
-** DONE Wire up the Teensy as it will sit in the enclosure
-   :LOGBOOK:
-   - State "DONE"       from "NEXT"       [2014-03-21 Fri 22:02]
-   :END:
-** DONE First enclosure version completed
-   Used rubber feet to secure the teensy board in
-** TODO Add SYSEX code to dump the settings on empty message received
-   :PROPERTIES:
-   :ID:       eaa5ffd4-e1e0-46b7-9cee-9de38cc372f1
-   :END:
-   - [[http://www.2writers.com/eddie/TutSysEx.htm][Eddie's Home - MIDI - SysEx Tutorial]]
-   - [[http://www.petesqbsite.com/sections/express/issue18/midifilespart1.html][MIDI Programming - A Complete Study - Part 1 The Basics]]
-
-** TODO Productize MAX patch
-   :PROPERTIES:
-   :ID:       9a4f7b72-e49e-453b-a4c6-150b5e17655d
-   :END:
-   - Make presentation view
-   - Add send/get buttons
-** TODO Add a LED
-   :PROPERTIES:
-   :ID:       bb0216e4-07ad-4e42-bbf7-ce395a152768
-   :END:
-   Mirror the status of the button.
-** TODO Slave mode for the LED
-   :PROPERTIES:
-   :ID:       d14e08cd-a0d3-4251-82ab-c10e26b1e932
-   :END:
-   Receive a value from a CC and turn on/off accordingly
-
 * More complicated control device
 ** TODO Wire up a 16x2 display to the teensy breadboard prototype
    :PROPERTIES:
