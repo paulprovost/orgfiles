@@ -40,4 +40,7 @@
       Using the [[https://launchpad.net/~cassou/%2Barchive/emacs][PPA]]
 
 * Links
-  
+  - [[http://techrem.blogspot.ca/2012/12/add-physical-disk-to-vmware-fusion.html?m=1][Add physical disk to VMware Fusion guest OS]]
+    I did not want to use disk images, hopefully to get better performance.
+  - [[http://ubuntuhandbook.org/index.php/2013/12/enable-trim-ssd-better-performance/][How to Enable TRIM on SSD in Ubuntu Linux]]
+    The Apple SSD I used does not seem to support TRIM, but just in case...

@@ -50,7 +50,7 @@
 ** Safe power-down
    - [[http://www.raspberrypi.org/forums/viewtopic.php?f=45&t=36295][Raspberry Pi • View topic - Safe Shutdown Circuit]]
    - [[http://www.pi-supply.com/product/pi-supply-raspberry-pi-power-switch/][Pi Supply Switch - On/Off Power Switch for Raspberry Pi - Pi Supply]]
-
+   - [[http://mausberry-circuits.myshopify.com/products/illuminated-led-shutdown-switch][Illuminated LED shutdown switch for Raspberry Pi | Mausberry Circuits]]
 ** More Pi/LuaKit tips
    - [[http://www.codingepiphany.com/2013/04/02/raspberry-pi-faster-and-lighter-web-browsing-with-luakit/][Raspberry Pi: Faster and Lighter Web Browsing with Luakit - Coding Epiphany]]
    - [[http://www.codingepiphany.com/2013/04/06/raspberry-pi-luakit-shortcut-card/][Raspberry Pi: Luakit Downloadable Shortcut Card - Coding Epiphany]]

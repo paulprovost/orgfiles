@@ -19,3 +19,10 @@
   - Stock Snow Leopard install DVD
   - Patched using [[http://www.kakewalk.se/][Kakewalk]]
 
+* Notes:
+** Deleting and disabling the hibernation sleep image
+   If you don't like a 20G file hogging space on your 60G SSD...
+   - [[http://macperformanceguide.com/Mac-optimize-sleepimage.html][How to Delete a Space-Hogging Sleep File sleepimage]]
+   In a nutshell:
+   : $ sudo rm -rf /private/var/vm/sleepimage
+   : $ sudo pmset hibernatemode 0

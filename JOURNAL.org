@@ -100,3 +100,8 @@
 * [2012-11-11 Sun 17:58] TODO - [[http://www.tested.com/tech/smartphones/2292-how-to-make-any-pair-of-headphones-smart-phone-capable/][How To Make Any Pair of Headphones Smart Phone Capable]] :@headphones:@iphone:
 
 * [2012-11-21 Wed] Posting to Usenet from the command line   :@usenet:@linux:
+
+* [2014-06-21 Sat 19:28] Swapped out a disk on marauder's home RAID1 :@homenetwork:
+  - [[http://www.ducea.com/2009/03/08/mdadm-cheat-sheet/][Mdadm Cheat Sheet - MDLog:/sysadmin]]
+  - [[http://www.pickledbrain.com/2011/04/installing-new-disks-and-preparing-to-use-in-linux-software-raid/][Installing new disks and preparing to use in Linux Software RAID | My latest ponderings]]
+  - [[http://www.review-ninja.com/2009/05/software-raid-raid-arrays-mdadm-on.html][Your DailyTech Review and Tutorials: Software Raid | Raid Arrays | mdadm on Linux]]

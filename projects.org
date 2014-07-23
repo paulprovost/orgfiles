@@ -95,6 +95,8 @@
 ** Optocouplers                                   :@parts:@optocoupler:@midi:
    - [[http://ca.mouser.com/ProductDetail/Sharp-Microelectronics/PC900V0NSZXF/?qs=sGAEpiMZZMtd3yBnp8bAgHGtEprFC0C5UkXvs3QZHU8%3d][PC900V0NSZXF Sharp Microelectronics | Mouser]]
    - [[http://ca.mouser.com/ProductDetail/Fairchild-Semiconductor/6N139SVM/?qs=sGAEpiMZZMtd3yBnp8bAgFLBiV3sPncyLT2ArUA9fO0Ip7b5g%2fFgqg%3d%3d][6N139SVM Fairchild Semiconductor | Mouser]]
+** Sliders
+   - [[http://ca.mouser.com/ProductDetail/Bourns/PTA4543-2015DPB103/?qs=U/acTlguYxbmwS/tylIWJw==][PTA4543-2015DPB103 Bourns | Mouser]]
 
 * Logic Control Surface plugin                                :@logic:@ctrlr:
 ** DONE Get the Logic Control Surface SDK

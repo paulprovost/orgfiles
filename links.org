@@ -1783,6 +1783,36 @@
   think that the solution will be to restrain myself to a few
   shortcuts only.
 
+* [2014-06-21 Sat] Teensy Monster v1.0 // DIY MIDI Controllers :@teensy:@arduino:@diy:@midi:
+  - [[http://www.instructables.com/id/Teensy-Monster-v10-DIY-MIDI-Controllers/?ALLSTEPS][Teensy Monster v1.0 // DIY MIDI Controllers]]
+ 
+* [2014-06-21 Sat] Notes on cuesheets  [[file:~/Documents/orgfiles/tailgunner.org::*Safe%20power-down][Safe power-down]]                 :@cue:
+  - [[https://en.wikipedia.org/wiki/Cue_sheet_%28computing%29][Cue sheet (computing) - Wikipedia, the free encyclopedia]]
+  - [[http://qed.qproject.org/tutorial.php][QeD - The Ultimate Liveset Cuesheet Editor | TUTORIAL]]
+
+* [2014-06-21 Sat] Displaying vlc current track info in geeklet   :@geektool:
+  - [[https://duckduckgo.com/?q=geektool+vlc][geektool vlc at DuckDuckGo]]
+  - [[http://www.macosxtips.co.uk/geeklets/music/page/2][Music | Page 2 | Geeklets]]
+  - [[http://www.macosxtips.co.uk/geeklets/music/currently-playing-in-vlc/][Currently playing in VLC | Geeklets]]
+  - [[https://wiki.videolan.org/Documentation:Modules/http_intf][Documentation:Modules/http intf - VideoLAN Wiki]]
+
+* [2014-06-21 Sat] Alternative to GeekTool                        :@geektool:
+  - [[http://mutablecode.com/apps/nerdtool.html][MutableCode · nerdtool]]
+    - [[http://www.makeuseof.com/tag/live-wallpaper-mac-easier-think/][Live Wallpaper For Mac? It's Easier Than You Think]]
+      Wow! Quartz file support!
+    - [[http://www.zugakousaku.com/index.php?ref=en][Zugakousaku]]
+  - [[http://www.leancrew.com/all-this/2011/09/nerdtool-over-geektool/][NerdTool over GeekTool - All this]]
+    This guy points at a 10x difference in memory usage...
+  - [[http://www.makeuseof.com/tag/make-mac-desktop-beautiful-informative-nerdtool/][Add Any Information To Your Mac Desktop With Nerdtool]]
+
+* [2014-06-21 Sat] Hosting my own Mercurial repositories                :@hg:
+  In an effort to be "cloudless", explore as an alternative to BitBucket
+  - [[http://mercurial.selenic.com/wiki/PublishingRepositories][PublishingRepositories - Mercurial]]
+  - [[https://rhodecode.com/features][RhodeCode › General Features]]
+  - [[http://mercurial.selenic.com/wiki/PublishRepositoriesOnNginx?action=show&redirect=HgServeNginx][PublishRepositoriesOnNginx - Mercurial]]
+  - [[https://www.x64architecture.com/running-hgweb-with-nginx-and-uwsgi/][Running hgweb With Nginx and uWSGI | x64Architecture]]
+  - [[http://burtsev.net/en/2011/08/03/13/][Installation of Mercurial + UWSGI + Nginx + HTTPS on Ubuntu Server 10.04 - Eugene Burtsev's blog]]
+
 * [2014-07-09 Wed] Installing Mavericks on a virtual machine    :@hackintosh:
   - [[http://www.macbreaker.com/2013/06/how-to-install-os-x-109-mavericks-dp1.html][How to install OS X 10.9 Mavericks on your PC with myHack]]
   - [[http://myhack.sojugarden.com/guide/][myHack Guide | myHack]]
@@ -1790,6 +1820,7 @@
 
 * [2014-07-09 Wed] Some simple libraries                               :@dev:
   - [[http://lodev.org/lodepng/][LodePNG]]
-  - [[http://easylogging.org/][Easylogging++
-    - Single header only, cross-platform logging library for C++ applications]]
+  - [[http://easylogging.org/][Easylogging++]]
+    Single header only, cross-platform logging library for C++ applications
 
+* [2014-07-23 Wed] [[http://www.pxm-tuts.com/][Pixelmator Tutorials | PXM-Tuts]]     :@drawing:@pixelmator:
