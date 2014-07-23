@@ -1824,3 +1824,7 @@
     Single header only, cross-platform logging library for C++ applications
 
 * [2014-07-23 Wed] [[http://www.pxm-tuts.com/][Pixelmator Tutorials | PXM-Tuts]]     :@drawing:@pixelmator:
+
+* [2014-07-23 Wed 09:55] Mavericks in VirtualBox    :@virtualbox:@hackintosh:
+   - [[http://www.macbreaker.com/2014/05/os-x-mavericks-in-virtualbox-with-niresh.html][How to install OS X Mavericks in Virtualbox with Niresh]]
+
