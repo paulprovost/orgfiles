@@ -1,0 +1,25 @@
+#+TITLE: Sunset guitar
+#+AUTHOR: Paul Provost
+#+EMAIL: paul@bouzou.org
+#+DESCRIPTION: A guitar for my 50th birthday
+#+FILETAGS: @sunset:@musicmaker
+
+* [[file:sunset/][Assets]]
+** Comparison shots
+*** Body comparisons
+    - [[file:sunset/Combined.pxm][Merged]]
+    - [[file:sunset/k2bbjk.jpg][Sadowsky Devin Townsend custom]]
+    - [[file:sunset/ml3rcr.jpg][Chapman ML3]]
+    - [[file:sunset/Fender_Telecaster_American_Vintage_1952_transparent.png][Fender Telecaster]]
+*** Simulation 1 vs Simulation 2
+    
+** Propositions
+   - [[file:sunset/Simulation 1.jpg][Simulation 1]]
+   - Simulation 2
+     - [[file:sunset/Simulation 2.1.jpg][Horizontal Logo]]
+     - [[file:sunset/Simulation 2.2.jpg][Vertical Logo]]
+** Reference
+   Oak Grigsby 5-way 4-pole switch [[file:sunset/swl54connections.jpg][connections]]
+** Wiring
+   - [[file:sunset/wdu_hsh5l11_02.jpg][Original HSH wiring]] from [[http://www.guitarelectronics.com/product/WDUHSH5L1102/WDU-HSH5L11-02.html][GuitarElectronics.com - WDU-HSH5L11-02]]
+   - My mod
