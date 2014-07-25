@@ -105,3 +105,17 @@
   - [[http://www.ducea.com/2009/03/08/mdadm-cheat-sheet/][Mdadm Cheat Sheet - MDLog:/sysadmin]]
   - [[http://www.pickledbrain.com/2011/04/installing-new-disks-and-preparing-to-use-in-linux-software-raid/][Installing new disks and preparing to use in Linux Software RAID | My latest ponderings]]
   - [[http://www.review-ninja.com/2009/05/software-raid-raid-arrays-mdadm-on.html][Your DailyTech Review and Tutorials: Software Raid | Raid Arrays | mdadm on Linux]]
+
+* [2014-07-23 Wed] Fixed missing unicode symbols                     :@emacs:
+  Frustrated by seeing character codes in boxes when displaying some
+  tweets, I heeded the advice on defining a fallback font in emacs
+  (from [[http://endlessparentheses.com/manually-choose-a-fallback-font-for-unicode.html][Endless Parenthesis]]). In a nutshell,
+  - Install Symbola
+  - Add to .emacs
+    : (set-fontset-font "fontset-default" nil 
+    :                   (font-spec :size 20 :name "Symbola"))
+  - Restart emacs.
+  Presto. Symbols in Wanderlust!
+
+
+
