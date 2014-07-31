@@ -1,85 +1,85 @@
-#+STYLE: <style type="text/css">
-#+STYLE: body{
-#+STYLE:     margin: 0 auto;
-#+STYLE:     font: normal 100%/1.4 Frutiger, "Frutiger Linotype", Univers, Calibri, Myriad, "Liberation Sans", Tahoma, Geneva, "Helvetica Neue", Helvetica, Arial, sans-serif;
-#+STYLE:     color: #444444;
-#+STYLE:     line-height: 1;
-#+STYLE:     padding: 30px;
-#+STYLE: }
-#+STYLE: .title {
-#+STYLE:     text-align: left;
-#+STYLE: }
-#+STYLE: h1.title {
-#+STYLE:     color: #0AA;
-#+STYLE:     background-color: #EEE;
-#+STYLE:     border: 1px solid #CCC;
-#+STYLE:     margin-top: 0;
-#+STYLE:     padding: 10px 10px 10px 10px;
-#+STYLE: }
-#+STYLE: h1, h2, h3, h4, h5, h6, caption, legend {
-#+STYLE:     font-family: Constantia,Utopia,Lucidabright,Lucida,Georgia,serif;
-#+STYLE:     font-weight: bold;
-#+STYLE:     color: #666;
-#+STYLE: }
-#+STYLE: li {
-#+STYLE:     line-height: 24px;
-#+STYLE: }
-#+STYLE: pre {
-#+STYLE:     overflow: auto;
-#+STYLE:     white-space: pre-wrap;
-#+STYLE:     font-family: Consolas, Inconsolata, Monaco, Andale Mono, monospace;
-#+STYLE:     font-size: 14px;
-#+STYLE:     line-height: 1.5;
-#+STYLE:     background-color: #EEE;
-#+STYLE:     border: 1px solid #CCC;
-#+STYLE: }
-#+STYLE: code {
-#+STYLE:     overflow: auto;
-#+STYLE:     white-space: pre-wrap;
-#+STYLE:     font-family: Consolas, Inconsolata, Monaco, Andale Mono, monospace;
-#+STYLE:     font-size: 14px;
-#+STYLE:     line-height: 1.5;
-#+STYLE:     background-color: #EEE;
-#+STYLE:     border: 1px solid #CCC;
-#+STYLE: }
-#+STYLE: div.outline-3 {
-#+STYLE:     padding-left: 30px;
-#+STYLE: }
-#+STYLE: div.outline-4 {
-#+STYLE:     padding-left: 30px;
-#+STYLE: }
-#+STYLE: div.outline-5 {
-#+STYLE:     padding-left: 30px;
-#+STYLE: }
-#+STYLE: div.outline-6 {
-#+STYLE:     padding-left: 30x;
-#+STYLE: }
-#+STYLE: .todo { font-size: small; color: #A00; }
-#+STYLE: .done { font-size: small; color: #0A0; }
-#+STYLE: .tag {
-#+STYLE:     float:right;
-#+STYLE:     font-size: small;
-#+STYLE:     font-weight: normal;
-#+STYLE:     color: #00A;
-#+STYLE: }
-#+STYLE: .timestamp { font-size: small; font-weight: normal; color: #bebebe; }
-#+STYLE: .timestamp-kwd { font-size: small; fotnt-weight: normal; color: #5f9ea0; }
-#+STYLE: #table-of-contents {
-#+STYLE:     float: right;
-#+STYLE:     margin: 0 0 0 1.4em;
-#+STYLE:     padding-left: 1.4em;
-#+STYLE:     padding-right: 1.4em;
-#+STYLE:     font-size: small;
-#+STYLE:     background-color: #EEE;
-#+STYLE:     border: 1px solid #CCC;
-#+STYLE: }
-#+STYLE: #table-of-contents {
-#+STYLE:     list-style-type: none;
-#+STYLE: }
-#+STYLE: p.author { font-size: 10px; color: #bebebe; margin: 0 0 5px 0; }
-#+STYLE: p.date { font-size: 10px; color: #bebebe; margin: 0 0 5px 0; }
-#+STYLE: p.creator { font-size: 10px; color: #bebebe; margin: 0 0 5px 0; }
-#+STYLE: </style>
+#+HTML_HEAD: <style type="text/css">
+#+HTML_HEAD: body{
+#+HTML_HEAD:     margin: 0 auto;
+#+HTML_HEAD:     font: normal 100%/1.4 Frutiger, "Frutiger Linotype", Univers, Calibri, Myriad, "Liberation Sans", Tahoma, Geneva, "Helvetica Neue", Helvetica, Arial, sans-serif;
+#+HTML_HEAD:     color: #444444;
+#+HTML_HEAD:     line-height: 1;
+#+HTML_HEAD:     padding: 30px;
+#+HTML_HEAD: }
+#+HTML_HEAD: .title {
+#+HTML_HEAD:     text-align: left;
+#+HTML_HEAD: }
+#+HTML_HEAD: h1.title {
+#+HTML_HEAD:     color: #0AA;
+#+HTML_HEAD:     background-color: #EEE;
+#+HTML_HEAD:     border: 1px solid #CCC;
+#+HTML_HEAD:     margin-top: 0;
+#+HTML_HEAD:     padding: 10px 10px 10px 10px;
+#+HTML_HEAD: }
+#+HTML_HEAD: h1, h2, h3, h4, h5, h6, caption, legend {
+#+HTML_HEAD:     font-family: Constantia,Utopia,Lucidabright,Lucida,Georgia,serif;
+#+HTML_HEAD:     font-weight: bold;
+#+HTML_HEAD:     color: #666;
+#+HTML_HEAD: }
+#+HTML_HEAD: li {
+#+HTML_HEAD:     line-height: 24px;
+#+HTML_HEAD: }
+#+HTML_HEAD: pre {
+#+HTML_HEAD:     overflow: auto;
+#+HTML_HEAD:     white-space: pre-wrap;
+#+HTML_HEAD:     font-family: Consolas, Inconsolata, Monaco, Andale Mono, monospace;
+#+HTML_HEAD:     font-size: 14px;
+#+HTML_HEAD:     line-height: 1.5;
+#+HTML_HEAD:     background-color: #EEE;
+#+HTML_HEAD:     border: 1px solid #CCC;
+#+HTML_HEAD: }
+#+HTML_HEAD: code {
+#+HTML_HEAD:     overflow: auto;
+#+HTML_HEAD:     white-space: pre-wrap;
+#+HTML_HEAD:     font-family: Consolas, Inconsolata, Monaco, Andale Mono, monospace;
+#+HTML_HEAD:     font-size: 14px;
+#+HTML_HEAD:     line-height: 1.5;
+#+HTML_HEAD:     background-color: #EEE;
+#+HTML_HEAD:     border: 1px solid #CCC;
+#+HTML_HEAD: }
+#+HTML_HEAD: div.outline-3 {
+#+HTML_HEAD:     padding-left: 30px;
+#+HTML_HEAD: }
+#+HTML_HEAD: div.outline-4 {
+#+HTML_HEAD:     padding-left: 30px;
+#+HTML_HEAD: }
+#+HTML_HEAD: div.outline-5 {
+#+HTML_HEAD:     padding-left: 30px;
+#+HTML_HEAD: }
+#+HTML_HEAD: div.outline-6 {
+#+HTML_HEAD:     padding-left: 30x;
+#+HTML_HEAD: }
+#+HTML_HEAD: .todo { font-size: small; color: #A00; }
+#+HTML_HEAD: .done { font-size: small; color: #0A0; }
+#+HTML_HEAD: .tag {
+#+HTML_HEAD:     float:right;
+#+HTML_HEAD:     font-size: small;
+#+HTML_HEAD:     font-weight: normal;
+#+HTML_HEAD:     color: #00A;
+#+HTML_HEAD: }
+#+HTML_HEAD: .timestamp { font-size: small; font-weight: normal; color: #bebebe; }
+#+HTML_HEAD: .timestamp-kwd { font-size: small; fotnt-weight: normal; color: #5f9ea0; }
+#+HTML_HEAD: #table-of-contents {
+#+HTML_HEAD:     float: right;
+#+HTML_HEAD:     margin: 0 0 0 1.4em;
+#+HTML_HEAD:     padding-left: 1.4em;
+#+HTML_HEAD:     padding-right: 1.4em;
+#+HTML_HEAD:     font-size: small;
+#+HTML_HEAD:     background-color: #EEE;
+#+HTML_HEAD:     border: 1px solid #CCC;
+#+HTML_HEAD: }
+#+HTML_HEAD: #table-of-contents {
+#+HTML_HEAD:     list-style-type: none;
+#+HTML_HEAD: }
+#+HTML_HEAD: p.author { font-size: 10px; color: #bebebe; margin: 0 0 5px 0; }
+#+HTML_HEAD: p.date { font-size: 10px; color: #bebebe; margin: 0 0 5px 0; }
+#+HTML_HEAD: p.creator { font-size: 10px; color: #bebebe; margin: 0 0 5px 0; }
+#+HTML_HEAD: </style>
 # Local Variables:
 # org-export-html-style-include-default: nil
 # End:
