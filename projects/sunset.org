@@ -14,11 +14,11 @@
 *** Simulation 1 vs Simulation 2
     
 ** Propositions
-   - [[file:sunset/Simulation_1.jpg][file:sunset/Simulation_1_Small.jpg]]
+   - [[file:sunset/Simulation_1.jpg][file:sunset/Simulation_1_thumb.jpg]]
    - Simulation 2
-     - [[file:sunset/Simulation_2.1.jpg][file:sunset/Simulation_2.1_Small.jpg]]
-     - [[file:sunset/Simulation_2.2.jpg][file:sunset/Simulation_2.2_Small.jpg]]
-   - [[file:sunset/Simulation_3.jpg][file:sunset/Simulation_3_Small.jpg]]
+     - [[file:sunset/Simulation_2.1.jpg][file:sunset/Simulation_2.1_thumb.jpg]]
+     - [[file:sunset/Simulation_2.2.jpg][file:sunset/Simulation_2.2_thumb.jpg]]
+   - [[file:sunset/Simulation_3.jpg][file:sunset/Simulation_3_thumb.jpg]]
 ** Reference
    Oak Grigsby 5-way 4-pole switch [[file:sunset/swl54connections.jpg][connections]]
 ** Wiring
