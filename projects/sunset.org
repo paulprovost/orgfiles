@@ -3,6 +3,7 @@
 #+EMAIL: paul@bouzou.org
 #+DESCRIPTION: A guitar for my 50th birthday
 #+FILETAGS: @sunset:@musicmaker
+#+SETUPFILE: ../.publish-style
 
 * [[file:sunset/][Assets]]
 ** Comparison shots
