@@ -1825,6 +1825,14 @@
 
 * [2014-07-23 Wed] [[http://www.pxm-tuts.com/][Pixelmator Tutorials | PXM-Tuts]]     :@drawing:@pixelmator:
 
-* [2014-07-23 Wed 09:55] Mavericks in VirtualBox    :@virtualbox:@hackintosh:
+* [2014-07-23 Wed] Mavericks in VirtualBox          :@virtualbox:@hackintosh:
    - [[http://www.macbreaker.com/2014/05/os-x-mavericks-in-virtualbox-with-niresh.html][How to install OS X Mavericks in Virtualbox with Niresh]]
+
+* [2014-07-31 Thu] Pentadactyl                        :@firefox:@pentadactyl:
+   - [[http://5digits.org/help/pentadactyl/][Pentadactyl Manual]]
+   - [[http://www.jnanam.net/pentadactylemacs/.pentadactylrc][Emacs bindings for Pentadactyl]]
+
+* [2014-07-31 Thu] Copying tabs in Firefox                         :@firefox:
+   - [[https://addons.mozilla.org/en-US/firefox/addon/easy-copy/][Easy Copy]]
+   - [[http://easycopyblog.blogspot.co.uk/][Easy Copy - The Blog]]
 
