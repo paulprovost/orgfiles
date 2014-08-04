@@ -1,0 +1,61 @@
+#+TITLE: Checklist pour le camping
+#+AUTHOR: Paul Provost
+#+EMAIL: paul@bouzou.org
+#+DESCRIPTION: 
+#+FILETAGS: @camping 
+#+SETUPFILE: .publish-style
+#+OPTIONS: toc:nil num:nil
+
+* Général
+  - [ ] Maillet
+  - [ ] Hache
+  - [ ] Canif / petit couteau
+  - [ ] Briquettes allume-feu
+  - [ ] Allumettes
+  - [ ] Corde à linge et épingles
+* Pharmacie
+  - [ ] Lotion anti-moustique
+  - [ ] After-bite
+  - [ ] Premiers soins
+* Cuisine
+  - [ ] Poêle propane
+  - [ ] Bonbonne propane
+  - [ ] Poêle à frire
+  - [ ] Spatule
+  - [ ] Économe
+  - [ ] Ouvre-boîte
+  - [ ] Casserole
+  - [ ] Bouilloire
+  - [ ] Bac à vaisselle
+  - [ ] Linge à vaisselle
+  - [ ] Savon à vaisselle
+  - [ ] Vache à eau
+  - [ ] Vaisselle (assiette, bol et tasse) x 2
+  - [ ] Couverts (couteau, cuillère fourchette) x 2
+  - [ ] Nappe
+  - [ ] Couteau de cuisine
+  - [ ] Planche à découper
+  - [ ] Bol de préparation
+  - [ ] Essuie-tout
+  - [ ] Sacs à déchets
+  - [ ] Glacière
+* Coucher
+  - [ ] Tente
+  - [ ] Toile de sol
+  - [ ] Sac de couchage x 2
+  - [ ] Oreiller x 2
+  - [ ] Lampe fanal
+  - [ ] Lampe frontale x 2
+  - [ ] Matelas pneumatique x 2
+  - [ ] Pompe pour matelas
+* Toilette
+  - [ ] Savon
+  - [ ] Shampooing
+  - [ ] Papier de toilette
+  - [ ] Serviettes x 4
+* Plage
+  - [ ] Chaises longues
+  - [ ] Parasol
+  - [ ] Abri de plage
+  - [ ] Appareil photo x 2
+
