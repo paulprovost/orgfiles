@@ -1836,3 +1836,6 @@
    - [[https://addons.mozilla.org/en-US/firefox/addon/easy-copy/][Easy Copy]]
    - [[http://easycopyblog.blogspot.co.uk/][Easy Copy - The Blog]]
 
+* [2014-08-21 Thu] mp4 manipulation                                    :@mp4:
+   - [[https://gist.github.com/jamiew/5110703][Adding subtitles and audio tracks to an MP4 video with MP4Box]]
+
