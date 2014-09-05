@@ -91,6 +91,8 @@
       : for a in *$fmt; do
       :    $vlc -I dummy -vvv "./$a" --sout "#transcode{vcodec=$vcodec,vb=$bitrate,acodec=$acodec,ab=$arate,channels=6}:standard{mux=$mux,dst=\"$dst$a.$ext\",access=file}" vlc://quit
       : done
+    - Audio only
+      : vlc -I foo.wav :sout=#transcode{vcodec=none,acodec=mp3,ab=128,channels=2,samplerate=44100}:std{access="file",mux=raw,dst="Track!x!.mp3"} vlc://quit
   - SoX?
     : $ ffmpeg -i input.mp4 ffmpegoutput.wav
     : $ sox ffmpegoutput.wav soxoutput.wav compand 0.3,1 6:-70,-60,-20 -5 -90 0.2
