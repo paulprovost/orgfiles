@@ -38,6 +38,15 @@
     - Terminator
     - Emacs 24
       Using the [[https://launchpad.net/~cassou/%2Barchive/emacs][PPA]]
+    - devilspie
+    - Transmission
+    - python (pip, virtual environments)
+      : $ sudo apt-get install python-pip
+      : $ sudo pip install virtualenvwrapper
+    - conky
+      - need =imap.py= and =conkycal.py= scripts.
+      - need aptitude installed.
+      - need Inconsolata font.
 
 * Links
   - [[http://techrem.blogspot.ca/2012/12/add-physical-disk-to-vmware-fusion.html?m=1][Add physical disk to VMware Fusion guest OS]]
