@@ -1826,16 +1826,18 @@
 * [2014-07-23 Wed] [[http://www.pxm-tuts.com/][Pixelmator Tutorials | PXM-Tuts]]     :@drawing:@pixelmator:
 
 * [2014-07-23 Wed] Mavericks in VirtualBox          :@virtualbox:@hackintosh:
-   - [[http://www.macbreaker.com/2014/05/os-x-mavericks-in-virtualbox-with-niresh.html][How to install OS X Mavericks in Virtualbox with Niresh]]
+  - [[http://www.macbreaker.com/2014/05/os-x-mavericks-in-virtualbox-with-niresh.html][How to install OS X Mavericks in Virtualbox with Niresh]]
 
 * [2014-07-31 Thu] Pentadactyl                        :@firefox:@pentadactyl:
-   - [[http://5digits.org/help/pentadactyl/][Pentadactyl Manual]]
-   - [[http://www.jnanam.net/pentadactylemacs/.pentadactylrc][Emacs bindings for Pentadactyl]]
+  - [[http://5digits.org/help/pentadactyl/][Pentadactyl Manual]]
+  - [[http://www.jnanam.net/pentadactylemacs/.pentadactylrc][Emacs bindings for Pentadactyl]]
 
 * [2014-07-31 Thu] Copying tabs in Firefox                         :@firefox:
-   - [[https://addons.mozilla.org/en-US/firefox/addon/easy-copy/][Easy Copy]]
-   - [[http://easycopyblog.blogspot.co.uk/][Easy Copy - The Blog]]
+  - [[https://addons.mozilla.org/en-US/firefox/addon/easy-copy/][Easy Copy]]
+  - [[http://easycopyblog.blogspot.co.uk/][Easy Copy - The Blog]]
 
 * [2014-08-21 Thu] mp4 manipulation                                    :@mp4:
-   - [[https://gist.github.com/jamiew/5110703][Adding subtitles and audio tracks to an MP4 video with MP4Box]]
+  - [[https://gist.github.com/jamiew/5110703][Adding subtitles and audio tracks to an MP4 video with MP4Box]]
 
+* [2014-09-09 Tue] Adding a search engine to Firefox               :@firefox:
+  - [[http://searchplugins.net/generate.aspx][searchplugins.net - Generate Search Plugins]]
