@@ -1,0 +1,73 @@
+#+TITLE: Make a VPN'ed torrent downloading machine 
+#+AUTHOR: Paul Provost
+#+EMAIL: paul@bouzou.org
+#+DESCRIPTION: 
+#+FILETAGS: @torrent:@hackintosh
+
+* Rationale
+  - Things being what they are, it would be better to go through a VPN
+    when downloading from torrents
+
+* Setup
+  - Distribution: [[http://lubuntu.net/][lubuntu]]
+    - Do not set up to log on automatically
+    - Install SSH server
+      : sudo apt-get install openssh-server
+    - Enable passwordless login (see [[file:tech-notes.org::*SSH%20login%20without%20password][here]])
+    - Add user to the =debian-transmission= group
+      : sudo adduser paul debian-transmission
+  - VPN: [[https://www.ipvanish.com/][IPVanish]] using OpenVPN
+    - Install network-manager-openvpn
+      : sudo apt-get install network-manager-openvpn
+    - Configure from the tray applet by importing a configuration file
+      - download the certificate (=ca.ipvanish.com.crt=) and a
+        configuration from [[https://www.ipvanish.com/software/configs/][here]].
+      - Create a =~/vpn= directory and put the files there.
+      - This does not work for the first one. Enter that one by hand
+        - Gateway: server address
+        - Authentication
+          - Type: Password
+          - Username: <IPVanish user name>
+          - Password: <IPVanish password>
+          - Certificate: point to the =ca.ipvanish.com.crt= file
+        - Advanced
+          - General
+            - Use LZO data compression
+            - Use a TCP connection
+          - Security
+            - Cipher: AES-256-CBC
+            - HMAC Authentication: SHA-256
+      - Command line operation
+        Edit =/etc/NetworkManager/system-connections/<connection
+        name>= and under =[vpn]=, change
+        : password-flags=0
+        and add
+        : [vpn-secrets]
+        : password=<password>
+        - List all connections from the command line
+          : sudo nmcli con
+        - Status from the command line
+          : sudo nmcli con status
+        - Start from the command line
+          : nmcli con up uuid <UUID>
+        - Stop from the command line
+          : nmcli con down uuid <UUID>
+
+  - Torrent downloader: [[https://www.transmissionbt.com/][Transmission]] daemon
+    : sudo apt-get install transmission-daemon
+    - Modify config:
+      :   "bind-address-ipv4": "<VPN address>"
+      :   "rpc-whitelist": "192.168.1.*"
+      :   "umask": 2
+    - Change permissions on download folder
+      : sudo chmod g+s /var/lib/transmission-daemon/downloads
+    - Add a bind mount in =/etc/fstab= for the downloads folder in
+      home directory
+      : /var/lib/transmission-daemon/downloads/
+      :      /home/paul/torrent-downloads   none   defaults,bind 0 0
+    - Verify torrent IP address at [[http://ipmagnet.services.cbcdn.com][ipMagnet]]
+    - Outside IP address:
+      : dig +short myip.opendns.com @resolver1.opendns.com
+
+* Journal
+** [2014-09-12 Fri] Use a virtual machine
