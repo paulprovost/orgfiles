@@ -117,5 +117,14 @@
   - Restart emacs.
   Presto. Symbols in Wanderlust!
 
+* [2014-09-29 Mon] Adding Roundcube as a mailto handler in Firefox :@firefox:
+  - Enable registering protocol handlers from different hosts:
+    - open =about:config=
+    - Look for =gecko.handlerService.allowRegisterFromDifferentHost=
+      and set it to =true=.
+    - Open the Javascript console (Tools->Web Developer->Web Console)
+      and execute:
+      : navigator.registerProtocolHandler("mailto", "https://www.bouzou.org/mail/?_task=mail&amp;_action=compose&amp;_to=%s", "Bouzou")
+    - Set =gecko.handlerService.allowRegisterFromDifferentHost= to =false=.
 
 
