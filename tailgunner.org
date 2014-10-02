@@ -21,6 +21,22 @@
     Survived! Great Googly Moogly! Now to test on the go. And
     wicd-curses is not exactly user friendly when asking for
     passwords and setting options. More studying...
+** [2014-10-02 Thu] Moving to a MicroSD card
+   Got a better Pi enclosure ([[http://www.adafruit.com/products/1124][Pibow]]), so I figured this would be the
+   right time to move to using a MicroSD card in a [[http://www.adafruit.com/products/1763][low-profile
+   adapter]], so it's not prone to being damaged in transport. Cloning
+   the SD card I currently have installed is proving to be a problem,
+   since the MicroSD card is smaller than the SD card. I tried
+   resizing the partitions on the original so that it fits (10GB), but
+   dd reports the same size when cloning to an image file. I'll try
+   restoring again just in case, but if this fails, I'll have to copy
+   the partition table and then clone the partitions individually.
+   - [[http://www.cyberciti.biz/tips/linux-how-to-backup-hard-disk-partition-table-mbr.html][Linux: How to backup hard disk partition table (MBR) - nixCraft]]
+     Read
+     : # dd if=/dev/sdX of=/tmp/sda-mbr.bin bs=512 count=1
+     Write
+     : # dd if= sda-mbr.bin of=/dev/sdX bs=1 count=64 skip=446 seek=446
+   - [[http://www.partimage.org/Partimage-manual_Backup-partition-table][Partimage-manual Backup-partition-table]]
 
 * Links
 ** Using a router
