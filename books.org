@@ -11,6 +11,91 @@
 *** Resize using =mogrify -resize x100=
 *** Insert using =file://books/<imagefile>
 
+* READING Bloodline - James Rollins
+  :LOGBOOK:
+  - State "READING"    from "TOREAD"     [2014-10-02 Thu 10:29]
+  :END:
+
+  file://books/james-rollins-bloodline.jpg
+
+  Galilee, 1025. Infiltrating an ancient citadel, a Templar knight
+  uncovers a holy treasure long hidden within the fortress's
+  labyrinth: the Bachal Isu -- the staff of Jesus Christ -- a
+  priceless icon that holds a mysterious and terrifying power that
+  promises to change humankind forever.
+
+  A millennium later, Somali pirates hijack a yacht off the coast of
+  the Horn of Africa, kidnapping a young pregnant American
+  woman. Commander Gray Pierce is enlisted for a covert rescue mission
+  into the African jungle. The woman is no rich tourist: she's Amanda
+  Gant-Bennett, daughter of the U.S. president.
+
+  Suspicious that the kidnapping masks a far more nefarious plot, Gray
+  must confront a shadowy cabal which has been manipulating events
+  throughout history...and now challenges the current presidency.
+
+  For this unique mission, SIGMA is aided by a pair of special
+  operatives with unique talents: former Army Ranger Captain Tucker
+  Wayne and his military war dog, Kane. But what should be a
+  straightforward rescue turns into a fiery ambush and a deadly act of
+  betrayal, as Gray and his team discover that the hostage is a pawn
+  in a shattering act of terrorism with dark repercussions. And the
+  danger is only beginning...
+
+  Halfway around the world, a firebombing at a fertility clinic in
+  South Carolina exposes a conspiracy that goes back centuries...a
+  scheme that lies within our genetic code. With time against them,
+  SIGMA must race to save an innocent unborn baby whose very existence
+  raises questions about the nature of humanity, asking:
+
+  Could you live forever? 
+
+  Would you live forever?
+
+* READ The Devil Colony - James Rollins
+  :LOGBOOK:
+  - State "READ"       from "TOBUY"      [2014-10-02 Thu 10:26]
+  :END:
+  [[file:books/james-rollins-the-devil-colony.jpg][file://books/james-rollins-the-devil-colony.jpg]]
+
+  From New York Times bestselling author James Rollins comes a novel
+  of boundless imagination and meticulous research, a book that dares
+  to answer a frightening question at the heart of America: Could the
+  founding of the United States be based on a fundamental lie? The
+  shocking truth lies hidden within the ruins of an impossibility, a
+  lost colony of the Americas vanished in time and cursed into
+  oblivion. A place known only as The Devil Colony.
+
+  Deep in the Rocky Mountains, a gruesome discovery—hundreds of
+  mummified bodies—stirs international attention and fervent
+  controversy. Despite doubts about the bodies' origins, the local
+  Native American Heritage Commission lays claim to the prehistoric
+  remains, along with the strange artifacts found in the same cavern:
+  gold plates inscribed with an unfathomable script.
+
+  During a riot at the dig site, an anthropologist dies horribly,
+  burned to ashes in a fiery explosion in plain view of television
+  cameras. All evidence points to a radical group of Native Americans,
+  including one agitator, a teenage firebrand who escapes with a vital
+  clue to the murder and calls on the one person who might help—her
+  uncle, Painter Crowe, Director of Sigma Force.
+
+  To protect his niece and uncover the truth, Painter will ignite a
+  war among the nation's most powerful intelligence agencies. Yet an
+  even greater threat looms as events in the Rocky Mountains have set
+  in motion a frightening chain reaction, a geological meltdown that
+  threatens the entire western half of the U.S.
+
+  From the volcanic peaks of Iceland to the blistering deserts of the
+  American Southwest, from the gold vaults of Fort Knox to the
+  bubbling geysers of Yellowstone, Painter Crowe joins forces with
+  Commander Gray Pierce to penetrate the shadowy heart of a dark
+  cabal, one that has been manipulating American history since the
+  founding of the thirteen colonies.
+
+  But can Painter discover the truth—one that could topple
+  governments—before it destroys all he holds dear?
+
 * READING Accelerando - Charles Stross
   :LOGBOOK:
   - State "READING"    from "TOREAD"     [2014-05-07 Wed 16:23]
