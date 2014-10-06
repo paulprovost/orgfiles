@@ -87,3 +87,7 @@
   :     | awk -F= '{print $2}' | tr -d '"' | tac \
   :     |  sed -e 's/\(http[s]*:\)/   \1/; /http[s]*/!s/\(.*\)/ - \1/'
   :     | xclip
+
+* TODO Use org agenda as real agenda                                 :@emacs:
+  - [[http://kokoko.fluxionary.net/dump-emacs-org-mode-agendas-and-todo-lists-to-the-command-line/][Dump Emacs org-mode agendas and todo lists to the command line]]
+
