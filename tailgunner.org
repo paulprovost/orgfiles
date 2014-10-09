@@ -37,6 +37,20 @@
      Write
      : # dd if= sda-mbr.bin of=/dev/sdX bs=1 count=64 skip=446 seek=446
    - [[http://www.partimage.org/Partimage-manual_Backup-partition-table][Partimage-manual Backup-partition-table]]
+** [2014-10-09 Thu] Use it as a DLNA server
+   So I got the weird idea to use tailgunner as a portable DLNA
+   server, to bring media on the road and play it on Apple devices.
+   - Install minidlna (now [[http://sourceforge.net/projects/minidlna/][ReadyMedia]]) as described [[http://bbrks.me/rpi-minidlna-media-server/][here]].
+   - The number of inotify watches was too small, so I cranked it as
+     described [[http://ubuntuforums.org/showthread.php?t%3D2073540][here]].
+     : echo 65538 > /proc/sys/fs/inotify/max_user_watches
+   - Setting it to start on boot with
+     : update-rc.d minidlna defaults
+     failed. Apparently, this is caused by some issue with the init
+     script for Wolfram's Mathematica. Much as I respect Stephen
+     Wolfram, he's not going to mess up my project.
+     : sudo apt-get remove wolfram-engine
+     Boom.
 
 * Links
 ** Using a router
