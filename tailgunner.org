@@ -46,7 +46,7 @@
      : echo 65538 > /proc/sys/fs/inotify/max_user_watches
    - Setting it to start on boot with
      : update-rc.d minidlna defaults
-     failed. Apparently, this is caused by some issue with the init
+     failed. [[http://www.raspberrypi.org/forums/viewtopic.php?f%3D66&t%3D68263][Apparently]], this is caused by some issue with the init
      script for Wolfram's Mathematica. Much as I respect Stephen
      Wolfram, he's not going to mess up my project.
      : sudo apt-get remove wolfram-engine
