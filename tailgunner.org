@@ -42,8 +42,11 @@
    server, to bring media on the road and play it on Apple devices.
    - Install minidlna (now [[http://sourceforge.net/projects/minidlna/][ReadyMedia]]) as described [[http://bbrks.me/rpi-minidlna-media-server/][here]].
    - The number of inotify watches was too small, so I cranked it as
-     described [[http://ubuntuforums.org/showthread.php?t%3D2073540][here]].
-     : echo 65538 > /proc/sys/fs/inotify/max_user_watches
+     described [[http://monodevelop.com/Inotify_Watches_Limit][here]].
+     : echo 16384 | sudo tee /proc/sys/fs/inotify/max_user_watches
+     That's only temporary though. Better to add the line
+     : fs.inotify.max_user_watches=16384
+     at the end of =/etc/sysctl.conf=, as stated [[http://askubuntu.com/questions/148171/dropbox-error-echo-100000-sudo-tee-proc-sys-fs-inotify-max-user-watches][here]].
    - Setting it to start on boot with
      : update-rc.d minidlna defaults
      failed. [[http://www.raspberrypi.org/forums/viewtopic.php?f%3D66&t%3D68263][Apparently]], this is caused by some issue with the init
@@ -51,6 +54,10 @@
      Wolfram, he's not going to mess up my project.
      : sudo apt-get remove wolfram-engine
      Boom.
+** [2014-10-14 Tue] Not quite, it turns out.
+   The server would not advertise on wlan1. I had to add
+   : network_interface=wlan0,wlan1
+   in =inidlna.conf=. Then, boom!
 
 * Links
 ** Using a router
