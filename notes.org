@@ -261,3 +261,25 @@
     - libsoup2.4-dev
     - 
 
+* [2014-10-15 Wed] bilingual version of pascallamarche.com
+  - Copy original site
+    - Dump database
+      : mysqldump -u pascallamarcheco -pJAb6N5FM --host=mysql.pascallamarche.com pascallamarche_com > database.sql
+    - Make a copy of the site
+  - Install the internationalization add-on
+    - [[http://www.concrete5.org/marketplace/addons/internationalization/][concrete5 :: Internationalization]]
+
+* [2014-10-26 Sun] Blog for pascallamarche.com
+  Using concrete5
+  - [[http://www.concrete5.org/documentation/how-tos/editors/manually-set-up-the-basic-blog-if-you-didnt-include-sample-conte/][concrete5 :: Manually set up the basic blog (if you didn't include "sample content" when installing your site)]]
+  Alternatively, install from source on my server and try the "sample content"
+  - [[http://www.concrete5.org/][concrete5 - Free CMS | Open Source Content Management System]]
+
+* [2014-10-26 Sun] Alternative for concrete5 (for pascallamarche.com)
+  - [[http://textpattern.com/][Textpattern CMS – A flexible, elegant and easy-to-use content management system]]
+  Things to worry about:
+  - Multilanguage
+  - Blog and static pages
+  - Youtube playlists
+  - SoundCloud integration
+
