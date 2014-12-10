@@ -35,3 +35,8 @@
      [[http://www.premierguitar.com/articles/21106-mod-garage-decouple-your-les-pauls-volume-controls][this article]].
      file:sunset/wdu_hsh5l11_02_modded_fixed.png
 
+   - Last mod, to make the tone control only act on the neck pickup,
+     and maybe the middle also. Leave the bridge pickup alone when
+     it's on by itself, basically. For EBow work.
+
+     file:sunset/wdu_hsh5l11_02_modded_fixed2.png
