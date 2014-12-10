@@ -283,3 +283,8 @@
   - Youtube playlists
   - SoundCloud integration
 
+* [2014-12-07 Sun] Save marauder (move to a clean install)              :@it:
+  - Preserve the duply profiles for root and paul
+  - Preserve /etc
+  - Preserve /var/spool/cron/crontabs
+
