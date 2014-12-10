@@ -11,8 +11,55 @@
 *** Resize using =mogrify -resize x100=
 *** Insert using =file://books/<imagefile>
 
-* READING Bloodline - James Rollins
+* READING Red Planet Blues - Robert J. Sawyer
   :LOGBOOK:
+  - State "READING"    from "TOBUY"      [2014-12-04 Thu 11:17]
+  :END:
+
+  file://books/robert-j-sawyer-red-planet-blues.jpg
+
+  Alex Lomax is the one and only private eye working the mean streets
+  of New Klondike, the Martian frontier town that sprang up forty
+  years ago after Simon Weingarten and Denny O’Reilly discovered
+  fossils on the Red Planet. Back on Earth, where anything can be
+  synthesized, the remains of alien life are the most valuable of all
+  collectibles, so shiploads of desperate treasure hunters stampeded
+  to Mars in the Great Martian Fossil Rush.
+
+  Trying to make an honest buck in a dishonest world, Lomax tracks
+  down killers and kidnappers among the failed prospectors, corrupt
+  cops, and a growing population of transfers—lucky stiffs who, after
+  striking paleontological gold, upload their minds into immortal
+  android bodies. But when he uncovers clues to solving the
+  decades-old murders of Weingarten and O’Reilly, along with a journal
+  that may lead to their legendary mother lode of Martian fossils, God
+  only knows what he’ll dig up...
+
+* READ The Eye of God - James Rollins
+  :LOGBOOK:
+  - State "READ"       from "READING"    [2014-12-02 Tue 11:11]
+  :END:
+
+  file://books/james-rollins-the-eye-of-god.jpg
+
+  In the wilds of Mongolia, a research satellite has crashed,
+  triggering an explosive search for its valuable cargo: a code-black
+  physics project connected to the study of dark energy—and a shocking
+  image of the eastern seaboard of the United States in utter ruin.
+ 
+  At the Vatican, a package arrives containing two strange artifacts:
+  a skull scrawled with ancient Aramaic and a tome bound in human
+  skin. DNA evidence reveals that both came from the same body: the
+  long dead Mongol king Genghis Khan.
+ 
+  Commander Gray Pierce and Sigma Force set out to discover a truth
+  tied to the fall of the Roman Empire, to a mystery going back to the
+  birth of Christianity, and to a weapon hidden for centuries that
+  holds the fate of humanity.
+
+* READ Bloodline - James Rollins
+  :LOGBOOK:
+  - State "READ"       from "TOREAD"     [2014-11-04 Tue 11:09]
   - State "READING"    from "TOREAD"     [2014-10-02 Thu 10:29]
   :END:
 
