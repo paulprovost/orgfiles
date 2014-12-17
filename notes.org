@@ -288,3 +288,15 @@
   - Preserve /etc
   - Preserve /var/spool/cron/crontabs
 
+* [2014-12-17 Wed] Building aacgain from source                    :@aacgain:
+  - Download source from the [[http://mp3gain.cvs.sourceforge.net/viewvc/mp3gain/][mp3gain repo on sourceforge]]
+  - Download addtionnal sources as per [[file:~/dev/mp3gain-aacgain/aacgain/README][README]]
+    - Getting mp4v2 at the right revision:
+      : svn checkout -r335 http://mp4v2.googlecode.com/svn/trunk/ mp4v2
+  - Build mp4v2
+    : autoreconf -f -i -Wall,no-obsolete
+    : automake
+    : ./configure
+    : make libmp4v2.la
+  - Follow the directions in README.linux
+
