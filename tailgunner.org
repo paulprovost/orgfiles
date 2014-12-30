@@ -10,7 +10,7 @@
    *not* create a separate network for the Pi and the iPad. Nor do any
    of the router's modes. Bah.
 ** [2014-06-07 Sat] Works!
-   Using the first two articles in the links.
+   Using the first two articles in the [[*Raspberry%20Pi%20as%20a%20router%20(Wifi%20to%20Wifi,%20hopefully)][links]].
    - wlan0 connects to a wireless network (using wicd)
    - wlan1 is an access point that clients can connect to (tested
      with prowler and iPhone, but it should work with the iPad).
@@ -57,7 +57,13 @@
 ** [2014-10-14 Tue] Not quite, it turns out.
    The server would not advertise on wlan1. I had to add
    : network_interface=wlan0,wlan1
-   in =inidlna.conf=. Then, boom!
+   in =minidlna.conf=. Then, boom!
+** [2014-12-25 Thu] Bah! hostapd does not start
+   All of a sudden (after powering off for a while, then on), I get:
+   : ioctl[RTL_IOCTL_HOSTAPD]: Invalid argument
+   Possible leads:
+   - [[http://raspberry-at-home.com/hotspot-wifi-access-point/][Hotspot – WiFi Access Point | Raspberry-at-home.com – Your ultimate source of Raspberry Pi tutorials (WiFi, 3G, XBMC, Subtitles, VoD, TVN Player, IPLA, TVP, Squeezeslave, Logitech Media Server, Sickbeard, Webcam, Torrent, DLNA)]]
+   - [[https://forums.adafruit.com/viewtopic.php?f=19&t=47716#p240781][Adafruit customer service forums • View topic - Raspberry Pi, wireless dongle, hostapd]]
 
 * Links
 ** Using a router
