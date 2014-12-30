@@ -1,0 +1,48 @@
+#+TITLE: Making guitar cables
+#+AUTHOR: Paul Provost
+#+EMAIL: paul@bouzou.org
+#+DESCRIPTION: Notes on building guitar/patch cables, possibly as a business
+#+FILETAGS: @cable
+
+* Cable
+** CBI
+   - [[http://www.cbicables.com/][CBI Professional Wiring Systems]]
+   - $0.57/foot ([[http://jacksmusicstore.com/catalog/cables/bulk/instrument-microphone/cbl-blk-imw-c~BW-GA][Jacks Music Store]]) [2014-12-14 Sun]
+** [[http://www.canare.com/ProductItemDisplay.aspx?productItemID=61][Canare GS-6]]
+   - Capacitance: 160 pF/m 48.76 pF/foot
+   - $0.80/foot ([[http://www.fullcompass.com/product/420546.html][Full Compass]])
+** [[http://www.gepco.com/products/proav_cable/analog_audio/guitar_xband_M.htm][GEPCO XB20UB]]
+   - Capacitance: 22.3 pF/foot
+   - $0.56/foot [[http://www.fullcompass.com/][(Full Compass]]) [2009-03-27 Fri]
+** [[http://www.mogamicable.com/category/bulk/guitar/][Mogami]]
+   - W2319
+     - Capacitance: 155 pF/m 47.3 pF/foot
+   - W2524
+     - Capacitance: 130 pF/m 39.7 pF/foot
+** Gotham
+   - GAC-1
+     - Capacitance 146 pF/m 44.5 pF/foot
+     - $0.59/foot ([[http://www.redco.com/Gotham-GAC-1.html][Redco]])
+   - GAC-1 UltraPro
+     - Capacitance: 70 pF/m 21.33 pF/foot
+     - $0.90/foot ([[http://www.redco.com/Gotham-GAC-1-UltraPro.html][Redco]])
+
+
+* Sleeving
+** [[http://techflex.com/prod_PET.asp][Techflex - Flexo Pet]]
+   - 1/4": "$0.17 / foot ([[http://www.redco.com/Techflex-PTN0.25.html][Techflex PTN0.25 | Redco Audio]])
+
+* Shrink tubing
+** Positive isolation
+   4mm diameter
+** Plug isolation
+   3/8" diameter
+
+* Plugs
+** G&H
+   - [[http://ghplugs.com/bf.php][BigFoot Series - Audio Connectors from G&H Industries]]
+   - [[http://ghplugs.com/rf.php][RightFoot Series - Angled Audio Connectors from G&H Industries]]
+   - [[http://ghplugs.com/qp.php][Quiet Plug Series - Audio Connectors from GHPLUGS.COM]]
+   - [[http://proaudiowiring.com/straight.aspx][Pro Audio Wiring E-Commerce Web Site - Straight Plugs]]
+** Neutrik
+** Amphenol

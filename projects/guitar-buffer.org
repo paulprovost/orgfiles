@@ -1,0 +1,13 @@
+#+TITLE: Building a simple guitar buffer
+#+AUTHOR: Paul Provost
+#+EMAIL: paul@bouzou.org
+#+DESCRIPTION: Build a simple guitar buffer
+#+FILETAGS: @guitar @buffer
+
+* References
+  
+
+* Parts
+** OpAmp
+   - LM741 ($0.844 [[http://ca.mouser.com/ProductDetail/Texas-Instruments/LM741CN-NOPB/?qs%3DsGAEpiMZZMutXGli8Ay4kEJUossIGYNG%25252bae4ah0f4VM%253d][mouser]])
+   - TL071 ($0.736 [[http://ca.mouser.com/ProductDetail/Texas-Instruments/TL071CP/?qs%3DsGAEpiMZZMtCHixnSjNA6NDQA1eMYwPyN3dMQ0edpd8%253d][mouser]])
