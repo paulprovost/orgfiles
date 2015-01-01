@@ -5,6 +5,15 @@
 #+FILETAGS: @cable
 
 * Cable
+** References
+   - [[http://www.sevenstring.org/forum/4059164-post16.html][SevenString.org - View Single Post - Best Instrument Cables?]]
+     Van-Damme Silver Series Session Grade instrument cable Lo-Cap55 - with a capacitance of 16.8pF/Ft Resistance 36Ohm/Km
+     Gotham GAC-1 ultra Pro Guitar - with a capacitance of 21.3pF/Ft Resistance 85Ohm/Km
+     Klotz AC110SW - with a capacitance of 21.3pF/Ft 
+     Gepco XB20UB - with a capacitance of 22.3pF/Ft Resistance 34.02Ohm/Km
+     Cardas Golden Chord Musician's Cable - with a capacitance of 22.8pF/Ft
+     Sommer Stratos - with a capacitance of 23.8pF/Ft Resistance 39Ohm/Km
+     Lava Cable ELC - with a capacitance of 21pF/Ft or 28pF/Ft depending on the page on their web site	
 ** CBI
    - [[http://www.cbicables.com/][CBI Professional Wiring Systems]]
    - $0.57/foot ([[http://jacksmusicstore.com/catalog/cables/bulk/instrument-microphone/cbl-blk-imw-c~BW-GA][Jacks Music Store]]) [2014-12-14 Sun]
@@ -25,7 +34,7 @@
      - $0.59/foot ([[http://www.redco.com/Gotham-GAC-1.html][Redco]])
    - GAC-1 UltraPro
      - Capacitance: 70 pF/m 21.33 pF/foot
-     - $0.90/foot ([[http://www.redco.com/Gotham-GAC-1-UltraPro.html][Redco]])
+     - $0.90/foot ([[http://www.redco.com/Gotham-GAC-1-UltraPro.html][Redco]]) [2014-12-29 Mon]
 
 
 * Sleeving

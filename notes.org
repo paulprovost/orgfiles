@@ -300,3 +300,6 @@
     : make libmp4v2.la
   - Follow the directions in README.linux
 
+* [2015-01-01 Thu] Disable ssh known hosts checking temporarily :@ssh:@linux:
+  : ssh -o UserKnownHostsFile=/dev/null username@hostname
+
