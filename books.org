@@ -11,8 +11,34 @@
 *** Resize using =mogrify -resize x100=
 *** Insert using =file://books/<imagefile>
 
-* READING The Terminal Experiment - Robert J. Sawyer
+* READING Slow Apocalypse - John Varley
   :LOGBOOK:
+  - State "READING"    from "TOREAD"     [2015-01-07 Wed 15:21]
+  :END:
+
+  file://books/john-varley-slow-apocalypse.jpg
+
+  Despite wars with Iraq and Afghanistan, as well as 9/11, the United
+  States’ dependence on foreign oil has kept the nation tied to the
+  Middle East. A scientist has developed a cure for America’s
+  addiction—a slow-acting virus that feeds on petroleum, turning it
+  solid. But he didn’t consider that his contagion of an Iraqi oil
+  field would spread to infect the fuel supply of the entire world…
+ 
+  In Los Angeles, screenwriter Dave Marshall heard this scenario from
+  a retired U.S. Marine and government insider who acted as a
+  consultant on Dave’s last film. It sounded as implausible as many of
+  his scripts, but the reality is much more frightening than anything
+  he can envision.
+ 
+  An ordinary guy armed with extraordinary information, Dave hopes his
+  survivor’s instinct will kick in so he can protect his wife and
+  daughter from the coming apocalypse that will alter the future of
+  Earth—and humanity…
+
+* READ The Terminal Experiment - Robert J. Sawyer
+  :LOGBOOK:
+  - State "READ"       from "READING"    [2015-01-05 Mon 15:21]
   - State "READING"    from "TOREAD"     [2014-12-15 Mon 13:31]
   :END:
 
