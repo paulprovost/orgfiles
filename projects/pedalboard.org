@@ -1,6 +1,15 @@
 #+TITLE: Guitar pedalboard
 #+FILETAGS: @project:@guitar:@pedalboard
 
+* Connectors                                                    :@connectors:
+  - [[http://ghplugs.com/bf.php][BigFoot Series - Audio Connectors from G&H Industries]]
+  - [[http://ghplugs.com/rf.php][RightFoot Series - Angled Audio Connectors from G&H Industries]]
+  - [[http://www.lavacable.com/index.php?id=159][Lava Cable - Lava 229™ Plug]]
+  - Switchcraft 228
+
+* Technique                                                          :@cable:
+  - [[http://www.deathvalleycablecompany.com/construction-diffs.html][Death Valley Cable Company -- 12 reasons our cables are better!]]
+
 * Pedals:
 ** Before Amp
    - JHS Little Black Buffer (25 mA)

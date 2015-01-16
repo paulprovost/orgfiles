@@ -261,3 +261,45 @@
     - libsoup2.4-dev
     - 
 
+* [2014-10-15 Wed] bilingual version of pascallamarche.com
+  - Copy original site
+    - Dump database
+      : mysqldump -u pascallamarcheco -pJAb6N5FM --host=mysql.pascallamarche.com pascallamarche_com > database.sql
+    - Make a copy of the site
+  - Install the internationalization add-on
+    - [[http://www.concrete5.org/marketplace/addons/internationalization/][concrete5 :: Internationalization]]
+
+* [2014-10-26 Sun] Blog for pascallamarche.com
+  Using concrete5
+  - [[http://www.concrete5.org/documentation/how-tos/editors/manually-set-up-the-basic-blog-if-you-didnt-include-sample-conte/][concrete5 :: Manually set up the basic blog (if you didn't include "sample content" when installing your site)]]
+  Alternatively, install from source on my server and try the "sample content"
+  - [[http://www.concrete5.org/][concrete5 - Free CMS | Open Source Content Management System]]
+
+* [2014-10-26 Sun] Alternative for concrete5 (for pascallamarche.com)
+  - [[http://textpattern.com/][Textpattern CMS – A flexible, elegant and easy-to-use content management system]]
+  Things to worry about:
+  - Multilanguage
+  - Blog and static pages
+  - Youtube playlists
+  - SoundCloud integration
+
+* [2014-12-07 Sun] Save marauder (move to a clean install)              :@it:
+  - Preserve the duply profiles for root and paul
+  - Preserve /etc
+  - Preserve /var/spool/cron/crontabs
+
+* [2014-12-17 Wed] Building aacgain from source                    :@aacgain:
+  - Download source from the [[http://mp3gain.cvs.sourceforge.net/viewvc/mp3gain/][mp3gain repo on sourceforge]]
+  - Download addtionnal sources as per [[file:~/dev/mp3gain-aacgain/aacgain/README][README]]
+    - Getting mp4v2 at the right revision:
+      : svn checkout -r335 http://mp4v2.googlecode.com/svn/trunk/ mp4v2
+  - Build mp4v2
+    : autoreconf -f -i -Wall,no-obsolete
+    : automake
+    : ./configure
+    : make libmp4v2.la
+  - Follow the directions in README.linux
+
+* [2015-01-01 Thu] Disable ssh known hosts checking temporarily :@ssh:@linux:
+  : ssh -o UserKnownHostsFile=/dev/null username@hostname
+

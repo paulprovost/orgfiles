@@ -28,4 +28,15 @@
    Oak Grigsby 5-way 4-pole switch [[file:sunset/swl54connections.jpg][connections]]
 ** Wiring
    - [[file:sunset/wdu_hsh5l11_02.jpg][Original HSH wiring]] from [[http://www.guitarelectronics.com/product/WDUHSH5L1102/WDU-HSH5L11-02.html][GuitarElectronics.com - WDU-HSH5L11-02]]
-   - My mod
+   - My mod:
+     file:sunset/wdu_hsh5l11_02_modded.png
+   - A second mod to decouple the volume pots (as on my Liberatore
+     guitar, and as per [[http://www.dimarzio.com/sites/default/files/diagrams/2h2v1t_3w_all.pdf][DiMarzio]]'s wiring diagram), as suggested in
+     [[http://www.premierguitar.com/articles/21106-mod-garage-decouple-your-les-pauls-volume-controls][this article]].
+     file:sunset/wdu_hsh5l11_02_modded_fixed.png
+
+   - Last mod, to make the tone control only act on the neck pickup,
+     and maybe the middle also. Leave the bridge pickup alone when
+     it's on by itself, basically. For EBow work.
+
+     file:sunset/wdu_hsh5l11_02_modded_fixed2.png
