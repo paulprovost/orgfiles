@@ -1841,3 +1841,8 @@
 
 * [2014-09-09 Tue] Adding a search engine to Firefox               :@firefox:
   - [[http://searchplugins.net/generate.aspx][searchplugins.net - Generate Search Plugins]]
+
+* [2015-01-16 Fri] Gibson-style toggle switch with 6 positions      :@guitar:
+  - [[https://www.bareknucklepickups.co.uk/shop/index.php?main_page=product_info&cPath=24_279&products_id=608&zenid=33f40e9f3ed86b91f93905648ff078ff][Free-way JJ Custom Works 3x3 No. 04 Toggle Switch - £39.95 : Bare Knuckle Pickups Ltd, UK, Handwound Guitar Pickups]]
+  - [[http://www.jjcustomworks.com/][Free-Way Switch - JJ Custom Works Edition - 6 Way Toggle]]
+  - [[http://freewayswitch.com/products/products.html][Products]]
