@@ -1,6 +1,9 @@
 #+TITLE: ctrlr K1B1
 #+DESCRIPTION: A single knob single switch device adapted from knobber
 #+FILETAGS: :@knobber:
+
+* [[file:~/projects/knobber/src][Project working directory]]
+
 * MIDI knob (knobber)                                   :@midi:@arduino:@diy:
 ** Links
 *** Knobber
@@ -21,13 +24,24 @@
    :END:
 ** DONE First enclosure version completed
    Used rubber feet to secure the teensy board in
+** TODO Normalize SysEx format
+   - Current
+     | 0 | 240 (0xF0)     |
+     | 1 | 20 (0x14)      |
+     | 2 | knob channel   |
+     | 3 | button channel |
+     | 4 | knob CC        |
+     | 5 | button CC      |
+     | 6 | Behaviour      |
+     | 7 | 247 (0xF7)      |
+   - New
+ 
 ** TODO Add SYSEX code to dump the settings on empty message received
    :PROPERTIES:
    :ID:       eaa5ffd4-e1e0-46b7-9cee-9de38cc372f1
    :END:
    - [[http://www.2writers.com/eddie/TutSysEx.htm][Eddie's Home - MIDI - SysEx Tutorial]]
    - [[http://www.petesqbsite.com/sections/express/issue18/midifilespart1.html][MIDI Programming - A Complete Study - Part 1 The Basics]]
-
 ** TODO Productize MAX patch
    :PROPERTIES:
    :ID:       9a4f7b72-e49e-453b-a4c6-150b5e17655d
@@ -49,3 +63,4 @@
    - [ ] Receive a CC on the knob's channel and number to trigger the
      sending of the current knob value
    - [X] Both
+** TODO Test Sugru for securing the board inside the enclosure

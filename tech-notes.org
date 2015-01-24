@@ -298,3 +298,7 @@
 * Find window information in X11                            :@x11:@scripting:
   - xprop
   - xwininfo
+
+* Log in with ssh, temporarily disabling host key verification         :@ssh:
+  : ssh -o UserKnownHostsFile=/dev/null user@machine
+

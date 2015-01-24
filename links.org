@@ -583,9 +583,9 @@
   a collection of Ogg Vorbis and MP3 files.
   http://www.gnu.org/s/songanizer/
 - arename
-  http://ft.bewatermyfriend.org/comp/arename.html
+  [[http://ft.bewatermyfriend.org/computer/arename.html]]
 - arename - automatically rename audio files by tagging information
-  http://ft.bewatermyfriend.org/comp/arename/arename.html
+  http://ft.bewatermyfriend.org/computer/arename/arename.html
 - ftblog: audio helpers - zsh function atag()
   atag() provides a consistent way to the aforementioned file formats meta
   information
@@ -1841,6 +1841,12 @@
 
 * [2014-09-09 Tue] Adding a search engine to Firefox               :@firefox:
   - [[http://searchplugins.net/generate.aspx][searchplugins.net - Generate Search Plugins]]
+
+* [2015-01-01 Thu] iOS design kit                                 :@dev:@ios:
+  - [[http://www.invisionapp.com/tethr?utm_source=fbads&utm_medium=cpc&utm_term=FacebookSignup_Lookalike&utm_content=TetherAd1&utm_campaign=TethrLookalike][TETHR – The Most Beautiful iOS Design Kit Ever Made – by InVision]]
+
+* [2015-01-01 Thu] Raspberry Pi live coding synth        :@music:@livecoding:
+  - [[http://sonic-pi.net/][Sonic Pi]]
 
 * [2015-01-16 Fri] Gibson-style toggle switch with 6 positions      :@guitar:
   - [[https://www.bareknucklepickups.co.uk/shop/index.php?main_page=product_info&cPath=24_279&products_id=608&zenid=33f40e9f3ed86b91f93905648ff078ff][Free-way JJ Custom Works 3x3 No. 04 Toggle Switch - £39.95 : Bare Knuckle Pickups Ltd, UK, Handwound Guitar Pickups]]
