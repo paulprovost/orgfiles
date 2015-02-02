@@ -305,3 +305,7 @@
 * [2015-01-01 Thu] Disable ssh known hosts checking temporarily :@ssh:@linux:
   : ssh -o UserKnownHostsFile=/dev/null username@hostname
 
+* [2015-02-02 Mon] Mechanical wired keyboards for iPad                :@ipad:
+  - [[http://www.logitech.com/en-us/product/wired-keyboard-ipad][Wired Keyboard for iPad - Logitech]]
+  - [[http://store.griffintechnology.com/wired-keyboard-for-ios-devices][Wired Keyboard for iPad | Wired Keyboard for iOS | Griffin Technology]]
+  - [[http://www.macally.com/EN/?page_id=19383][IKEYLTII - Macally Peripherals]]
