@@ -127,4 +127,11 @@
       : navigator.registerProtocolHandler("mailto", "https://www.bouzou.org/mail/?_task=mail&amp;_action=compose&amp;_to=%s", "Bouzou")
     - Set =gecko.handlerService.allowRegisterFromDifferentHost= to =false=.
 
-
+* [2015-02-09 Mon] Called BMO regarding contestation of charge :@mastercard:@banking:@bmo:
+  - Charge of 1212.21 from WALL-MART
+  - Should get reimbursement within 15 business days
+  - The investigation committee will contact the company
+  - If the company does not respond, the committee will make
+    reimbursement permanent
+  - Any additional interest charges will be reimbursed by the
+    investigation committee
