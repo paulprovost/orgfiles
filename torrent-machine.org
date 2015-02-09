@@ -2,11 +2,36 @@
 #+AUTHOR: Paul Provost
 #+EMAIL: paul@bouzou.org
 #+DESCRIPTION: 
-#+FILETAGS: @torrent:@hackintosh
+#+FILETAGS: @torrent:@hackintosh:@vpn
 
 * Rationale
   - Things being what they are, it would be better to go through a VPN
     when downloading from torrents
+
+* Journal
+** [2014-09-12 Fri] Use a virtual machine
+** [2015-01-23 Fri] Make sure that the connection stays up
+   The VPN connection seems to fall unresponsive when (I guess) the
+   ISP connection comes down and back up again. To test:
+   : ping -I tun0 google.ca
+   To bring the VPN down and back up again:
+   : sudo nmcli c down <UUID>
+   : sudo nmcli c up <UUID>
+*** TODO wrap in a cron job
+   - [[https://johnhowto.wordpress.com/2014/08/21/vpn-check-if-connection-is-up-script/][VPN Check if connection is up script]]
+** TODO [2015-01-25 Sun] VPN Watchdog
+   VPN connection seems to go dead periodically, probably whenever the
+   outside IP address changes. Write a shell script to run in crontab
+   that checks if the ouside is accessible (via ping) and then
+   restarts the connection. Log each occurence to syslog.
+   - Check connection using ping
+     : ADDRESS=google.ca
+     : #ping -W1 -c1 -I tun0 $ADDRESS >/dev/null 2>&1
+     : dig +time=1 $ADDRESS >/dev/null 2>&1
+     : result=$?
+     : if [ $result -ne 0 ]; then
+     :     logger vpnwatchdog VPN not responding
+     : fi
 
 * Setup
   - Distribution: [[http://lubuntu.net/][lubuntu]]
@@ -68,23 +93,3 @@
     - Verify torrent IP address at [[http://ipmagnet.services.cbcdn.com][ipMagnet]]
     - Outside IP address:
       : dig +short myip.opendns.com @resolver1.opendns.com
-    - VPN usage
-      - [[http://askubuntu.com/questions/37412/how-can-i-ensure-transmission-traffic-uses-a-vpn][server - How can I ensure transmission traffic uses a VPN? - Ask Ubuntu]]
-
-
-* Journal
-** [2014-09-12 Fri] Use a virtual machine
-** TODO [2015-01-25 Sun] VPN Watchdog
-   VPN connection seems to go dead periodically, probably whenever the
-   outside IP address changes. Write a shell script to run in crontab
-   that checks if the ouside is accessible (via ping) and then
-   restarts the connection. Log each occurence to syslog.
-   - Check connection using ping
-     : ADDRESS=google.ca
-     : #ping -W1 -c1 -I tun0 $ADDRESS >/dev/null 2>&1
-     : dig +time=1 $ADDRESS >/dev/null 2>&1
-     : result=$?
-     : if [ $result -ne 0 ]; then
-     :     logger vpnwatchdog VPN not responding
-     : fi
-
