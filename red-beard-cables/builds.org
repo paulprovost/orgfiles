@@ -1,0 +1,55 @@
+#+TITLE: List of cable builds
+#+AUTHOR: Paul Provost
+#+EMAIL: paul@bouzou.org
+#+DESCRIPTION: 
+#+FILETAGS: @redbeardcables
+#+TODO: RECEIVED(!) TENTATIVE(!) BUILDING(!) WAITING(@/!) | SHIPPED(@) DELIVERED(@) CANCELLED(@)
+
+* DELIVERED Mathieu Guindon
+  :LOGBOOK:
+  - State "DELIVERED"       from ""           [2015-02-10 Tue]
+  :END:
+  :PROPERTIES:
+  :HOW: In person
+  :LENGTH: 10 ft
+  :COLOR: Red
+  :GUITARPLUG: Straight, Silent
+  :PRICE: $40
+  :END:
+
+* TENTATIVE Frédéric Mailloux
+  :LOGBOOK:
+  - State "TENTATIVE"   from ""  [2015-02-12 Thu]
+  :END:
+  :PROPERTIES:
+  :HOW: Facebook
+  :LENGTH: 10 ft
+  :COLOR: Red
+  :GUITARPLUG: Straight, Silent
+  :PRICE: $40
+  :END:
+
+* RECEIVED Marc Scott
+  :LOGBOOK:
+  - State "RECEIVED"   from ""  [2015-02-13 Fri]
+  :END:
+  :PROPERTIES:
+  :HOW: Facebook
+  :LENGTH: 15 ft
+  :COLOR: Black
+  :GUITARPLUG: Angle
+  :PRICE: $45
+  :END:
+
+* RECEIVED Pascal Lamarche
+  :LOGBOOK:
+  - State "RECEIVED"   from ""  [2015-02-15 Sun]
+  :END:
+  :PROPERTIES:
+  :HOW: In Person
+  :LENGTH: 10 ft
+  :COLOR: Black
+  :GUITARPLUG: Straight, Silent
+  :PRICE: $40
+  :END:
+
