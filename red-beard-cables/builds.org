@@ -10,11 +10,11 @@
   - State "DELIVERED"       from ""           [2015-02-10 Tue]
   :END:
   :PROPERTIES:
-  :HOW: In person
-  :LENGTH: 10 ft
-  :COLOR: Red
-  :GUITARPLUG: Straight, Silent
-  :PRICE: $40
+  :How: In person
+  :Length: 10 ft
+  :Color: Red
+  :GuitarPlug: Straight, Silent
+  :Price: $40
   :END:
 
 * TENTATIVE Frédéric Mailloux
@@ -22,11 +22,11 @@
   - State "TENTATIVE"   from ""  [2015-02-12 Thu]
   :END:
   :PROPERTIES:
-  :HOW: Facebook
-  :LENGTH: 10 ft
-  :COLOR: Red
-  :GUITARPLUG: Straight, Silent
-  :PRICE: $40
+  :How: Facebook
+  :Length: 10 ft
+  :Color: Red
+  :GuitarPlug: Straight, Silent
+  :Price: $40
   :END:
 
 * RECEIVED Marc Scott
@@ -34,11 +34,11 @@
   - State "RECEIVED"   from ""  [2015-02-13 Fri]
   :END:
   :PROPERTIES:
-  :HOW: Facebook
-  :LENGTH: 15 ft
-  :COLOR: Black
-  :GUITARPLUG: Angle
-  :PRICE: $45
+  :How: Facebook
+  :Length: 15 ft
+  :Color: Black
+  :GuitarPlug: Angle
+  :Price: $45
   :END:
 
 * RECEIVED Pascal Lamarche
@@ -46,10 +46,10 @@
   - State "RECEIVED"   from ""  [2015-02-15 Sun]
   :END:
   :PROPERTIES:
-  :HOW: In Person
-  :LENGTH: 10 ft
-  :COLOR: Black
-  :GUITARPLUG: Straight, Silent
-  :PRICE: $40
+  :How: In Person
+  :Length: 10 ft
+  :Color: Black
+  :GuitarPlug: Straight, Silent
+  :Price: $40
   :END:
 
