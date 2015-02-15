@@ -5,51 +5,56 @@
 #+FILETAGS: @redbeardcables
 #+TODO: RECEIVED(!) TENTATIVE(!) BUILDING(!) WAITING(@/!) | SHIPPED(@) DELIVERED(@) CANCELLED(@)
 
-* DELIVERED Mathieu Guindon
-  :LOGBOOK:
-  - State "DELIVERED"       from ""           [2015-02-10 Tue]
-  :END:
+* Order tracking
   :PROPERTIES:
-  :How: In person
-  :Length: 10 ft
-  :Color: Red
-  :GuitarPlug: Straight, Silent
-  :Price: $40
+  :How_ALL:  Facebook InPerson Email Phone
+  :GuitarPlug_ALL: Straight StraightSilent Angle AngleSilent
   :END:
+** DELIVERED Mathieu Guindon
+   :LOGBOOK:
+   - State "DELIVERED"       from ""           [2015-02-10 Tue]
+   :END:
+   :PROPERTIES:
+   :How: In person
+   :Length: 10 ft
+   :Color: Red
+   :GuitarPlug: StraightSilent
+   :Price: $40
+   :END:
 
-* TENTATIVE Frédéric Mailloux
-  :LOGBOOK:
-  - State "TENTATIVE"   from ""  [2015-02-12 Thu]
-  :END:
-  :PROPERTIES:
-  :How: Facebook
-  :Length: 10 ft
-  :Color: Red
-  :GuitarPlug: Straight, Silent
-  :Price: $40
-  :END:
+** TENTATIVE Frédéric Mailloux
+   :LOGBOOK:
+   - State "TENTATIVE"   from ""  [2015-02-12 Thu]
+   :END:
+   :PROPERTIES:
+   :How: Facebook
+   :Length: 10 ft
+   :Color: Red
+   :GuitarPlug: Straight
+   :Price: $40
+   :END:
 
-* RECEIVED Marc Scott
-  :LOGBOOK:
-  - State "RECEIVED"   from ""  [2015-02-13 Fri]
-  :END:
-  :PROPERTIES:
-  :How: Facebook
-  :Length: 15 ft
-  :Color: Black
-  :GuitarPlug: Angle
-  :Price: $45
-  :END:
+** RECEIVED Marc Scott
+   :LOGBOOK:
+   - State "RECEIVED"   from ""  [2015-02-13 Fri]
+   :END:
+   :PROPERTIES:
+   :How: Facebook
+   :Length: 15 ft
+   :Color: Black
+   :GuitarPlug: Angle
+   :Price: $45
+   :END:
 
-* RECEIVED Pascal Lamarche
-  :LOGBOOK:
-  - State "RECEIVED"   from ""  [2015-02-15 Sun]
-  :END:
-  :PROPERTIES:
-  :How: In Person
-  :Length: 10 ft
-  :Color: Black
-  :GuitarPlug: Straight, Silent
-  :Price: $40
-  :END:
+** RECEIVED Pascal Lamarche
+   :LOGBOOK:
+   - State "RECEIVED"   from ""  [2015-02-15 Sun]
+   :END:
+   :PROPERTIES:
+   :How: In Person
+   :Length: 10 ft
+   :Color: Black
+   :GuitarPlug: StraightSilent
+   :Price: $40
+   :END:
 
