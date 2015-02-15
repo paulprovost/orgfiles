@@ -181,6 +181,8 @@
   :    | xargs -0 -n 1 -P 2 recode-audio |
   Then normalize gain:
   : aacgain -c -a *.m4v
+  Fix names using [[http://ft.bewatermyfriend.org/computer/arename.html][arename]]:
+  : arename -t '&tracknumber - &tracktitle' *.m4a
 
 * [2013-04-03 Wed 18:49] Exclude directories and files in find  :@unix:@find:
   - Directories
