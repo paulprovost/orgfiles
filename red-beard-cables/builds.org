@@ -39,7 +39,7 @@
    - State "RECEIVED"   from ""  [2015-02-13 Fri]
    :END:
    :PROPERTIES:
-   :How: Facebook
+   :How: Facebook (https://www.facebook.com/marcantoine.scott)
    :Length: 15 ft
    :Color: Black
    :GuitarPlug: Angle
