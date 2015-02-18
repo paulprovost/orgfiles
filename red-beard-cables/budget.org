@@ -1,0 +1,15 @@
+#+TITLE: Expenses tracking
+#+AUTHOR: Paul Provost
+#+EMAIL: paul@bouzou.org
+#+DESCRIPTION: 
+#+FILETAGS: @redbeardcables
+
+* [2015-02-17 Tue]
+  |----------------------------+--------|
+  | Power supplies Futureshop  |  52.87 |
+  | Rattlesnake 25' snake head | 120.45 |
+  | TechFlex Plexo PET         | 231.86 |
+  |----------------------------+--------|
+  | Total                      | 405.18 |
+  |----------------------------+--------|
+  #+TBLFM: $2=vsum(@1..@-1)
