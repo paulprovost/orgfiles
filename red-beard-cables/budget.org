@@ -9,7 +9,8 @@
   | Power supplies Futureshop  |  52.87 |
   | Rattlesnake 25' snake head | 120.45 |
   | TechFlex Plexo PET         | 231.86 |
+  | Domain                     |  43.95 |
   |----------------------------+--------|
-  | Total                      | 405.18 |
+  | Total                      | 449.13 |
   |----------------------------+--------|
   #+TBLFM: $2=vsum(@I..@II)
