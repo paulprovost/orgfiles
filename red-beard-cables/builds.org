@@ -34,8 +34,10 @@
    :Price: $40
    :END:
 
-** RECEIVED Marc Scott
+** DELIVERED Marc Scott
    :LOGBOOK:
+   - State "DELIVERED"  from "BUILDING"   [2015-02-18 Wed]
+   - State "BUILDING"   from "RECEIVED"   [2015-02-17 Tue]
    - State "RECEIVED"   from ""  [2015-02-13 Fri]
    :END:
    :PROPERTIES:
@@ -45,6 +47,7 @@
    :GuitarPlug: Angle
    :Price: $45
    :END:
+   [[file:Builds/20150217%20-%20Marc%20Scott][Pictures]]
 
 ** RECEIVED Pascal Lamarche
    :LOGBOOK:
