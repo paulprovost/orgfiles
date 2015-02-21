@@ -311,3 +311,73 @@
   - [[http://www.logitech.com/en-us/product/wired-keyboard-ipad][Wired Keyboard for iPad - Logitech]]
   - [[http://store.griffintechnology.com/wired-keyboard-for-ios-devices][Wired Keyboard for iPad | Wired Keyboard for iOS | Griffin Technology]]
   - [[http://www.macally.com/EN/?page_id=19383][IKEYLTII - Macally Peripherals]]
+
+* [2015-02-21 Sat] Access iCloud tabs                       :@python:@icloud:
+  - [[https://duckduckgo.com/?q=python+script+access+icloud+tabs][python script access icloud tabs at DuckDuckGo]]
+  - [[https://github.com/josh-/CloudyTabs/][josh-/CloudyTabs · GitHub]]
+  - [[http://www.macstories.net/tutorials/how-to-open-icloud-tabs-in-editorial-for-ipad/][How To Open iCloud Tabs In Editorial for iPad – MacStories]]
+  - [[https://github.com/kmarchand/iCloudTabsAlfredWorkflow][kmarchand/iCloudTabsAlfredWorkflow · GitHub]]
+
+* [2015-02-21 Sat] Python debugging                            :@python:@dev:
+  - [[https://pypi.python.org/pypi/pudb/][pudb 2015.2 : Python Package Index]]
+  - [[http://mathema.tician.de/debug-python-in-style/][Debug Python in Style]]
+
+* [2015-02-21 Sat] OpenCart tutorial                        :@redbeardcables:
+  - [[http://code.tutsplus.com/series/from-beginner-to-advanced-in-opencart--cms-669][From Beginner To Advanced in OpenCart - Tuts+ Code Tutorials]]
+
+* [2015-02-21 Sat] Writing LaTeX on OSX                         :@osx:@latex:
+  - [[http://www.stefanom.org/setting-up-a-nice-auctex-environment-on-mac-os-x/][Setting up a nice AucTeX environment on Mac OS X]]
+  - [[http://www.latextemplates.com/latex-for-beginners][LaTeX Templates » LaTeX for Beginners]]
+  - [[http://www.tug.org/mactex/][MacTeX - TeX Users Group]]
+  - [[http://www.tug.org/mactex/whatsinthepackage.html][What's in the package - MacTeX - TeX Users Group]]
+  - [[https://duckduckgo.com/?q=latex+on+osx&ia=qa][latex on osx at DuckDuckGo]]
+  - [[http://www.howtotex.com/howto/installing-latex-on-mac-os-x/][Installing LaTeX on Mac OS X | howtoTeX.com - Your LaTeX resource site]]
+  - [[http://www.xm1math.net/texmaker/][Texmaker (free cross-platform latex editor)]]
+  - [[http://www.tug.org/mactex/mactextras.html][MacTeXtras - MacTeX - TeX Users Group]]
+** CV in LaTeX                                                    :@work:@cv:
+   - [[https://github.com/watsonbox/cv_template_2004][watsonbox/cv_template_2004 · GitHub]]
+   - [[http://www.latextemplates.com/cat/curricula-vitae][LaTeX Templates » Curricula Vitae/Résumés]]
+   - [[http://tex.stackexchange.com/questions/80/latex-template-for-resume-curriculum-vitae][packages - LaTeX template for resume/curriculum vitae - TeX - LaTeX Stack Exchange]]
+   - [[http://www.ctan.org/tex-archive/macros/latex/contrib/moderncv/][CTAN: tex-archive/macros/latex/contrib/moderncv]]
+   - [[https://launchpad.net/moderncv][https://launchpad.net/moderncv]]
+   - [[http://www.tedpavlic.com/post_resume_cv_latex_example.php][LaTeX Resume/CV Template/Example]]
+   - [[http://tex.stackexchange.com/questions/46123/page-breaks-within-moderncv][Page breaks within moderncv - TeX - LaTeX Stack Exchange]]
+
+* [2015-02-21 Sat] read/write org mode from python        :@python:@dev:@org:
+  - [[https://github.com/bjonnh/PyOrgMode][bjonnh/PyOrgMode]]: A python class for reading and writing orgmode files
+
+* [2015-02-21 Sat] Playing music in emacs?                           :@emacs:
+  - [[https://www.gnu.org/software/emms/][https://www.gnu.org/software/emms/]]
+  - [[https://www.gnu.org/software/emms/screenshots.html][https://www.gnu.org/software/emms/screenshots.html]]
+  - [[http://www.emacswiki.org/emacs/EMMS][http://www.emacswiki.org/emacs/EMMS]]
+  - [[https://www.gnu.org/software/emms/manual/][https://www.gnu.org/software/emms/manual/]]
+  - [[https://github.com/jwiegley/emms][jwiegley/emms]]
+
+* [2015-02-21 Sat] XBMC on PiTFT                  :@xbmc:@raspberrypi:@pitft:
+  - [[http://sernato.sk/2014/03/14/raspberry-pi-adafruit-pitft-xbmc/][Raspberry Pi + Adafruit PiTFT + XBMC | sernato.sk]]
+  - [[http://forum.kodi.tv/showthread.php?tid=186988][SOLVED - XBMC to use TFT as a primary monitor]]
+  - [[http://www.raspberrypi.org/forums/viewtopic.php?f=45&t=48967&p=447220#p447220][Raspberry Pi • View topic - 2.8" TFT + Touch Shield Board v1 a/b/c]]
+
+* [2015-02-21 Sat] Database design notes                          :@database:
+  - [[https://www.simple-talk.com/sql/database-administration/ten-common-database-design-mistakes/][Ten Common Database Design Mistakes]]
+  - [[http://www.onextrapixel.com/2011/03/17/the-basics-of-good-database-design-in-web-development/][The Basics of Good Database Design in Web Development]]
+  - [[https://en.wikipedia.org/wiki/Foreign_key][Foreign key]]
+  - [[http://ycmi.med.yale.edu/nadkarni/domainlists.htm][Using a few tables to hold all Domain values: Good Idea or Bad?]]
+  - [[http://sqlblog.com/blogs/louis_davidson/archive/2010/11/20/one-domain-table-or-many.aspx][Louis Davidson : One Domain Table or Many?]]
+
+* [2015-02-21 Sat] stripboard guitar effects       :@diy:@guitar:@stripboard:
+  - [[http://tagboardeffects.blogspot.ca/][Guitar FX Layouts]]
+    Here's a collection of vero (stripboard) and tagboard guitar and
+    bass effect layouts that we have put together covering many
+    classic and popular effects in growing numbers. Many of these have
+    been posted on freestompboxes.org, so check that site out for
+    great discussions on building your own effect pedals.
+
+* [2015-02-21 Sat] Headphone amp / DAC notes                     :@cmoy:@dac:
+  - [[https://www.mayflowerelectronics.com/shop/diy-products/odac-board/][ODAC Board - Mayflower Electronics]]
+  - [[http://nwavguy.blogspot.ca/2012/04/odac-released.html][NwAvGuy: ODAC Released]]
+  - [[http://www.jdslabs.com/products/39/odac-objectivedac/][JDS Labs - ODAC (ObjectiveDAC)]]
+  - [[http://tangentsoft.net/audio/cmoy/assy.html][Assembling the Amplifier]]
+  - [[http://www.head-fi.org/t/460669/strip-board-cmoy-revisited][Strip Board CMOY Revisited]]
+  - [[http://www.paulinthelab.com/2013/12/mp3-headphone-amplifier-tda2822m.html][Paul In The Lab: MP3 / iPod Headphone Amplifier TDA2822M Stripboard Veroboard Layout]]
+  - [[http://www.diyaudio.com/forums/chip-amps/134541-cmoy-layout.html][Cmoy layout. - diyAudio]]
