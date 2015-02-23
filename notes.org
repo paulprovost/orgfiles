@@ -381,3 +381,9 @@
   - [[http://www.head-fi.org/t/460669/strip-board-cmoy-revisited][Strip Board CMOY Revisited]]
   - [[http://www.paulinthelab.com/2013/12/mp3-headphone-amplifier-tda2822m.html][Paul In The Lab: MP3 / iPod Headphone Amplifier TDA2822M Stripboard Veroboard Layout]]
   - [[http://www.diyaudio.com/forums/chip-amps/134541-cmoy-layout.html][Cmoy layout. - diyAudio]]
+
+* [2015-02-23 Mon] Software oscilloscope :@redbeardcables:@diy:@oscilloscope:
+  - [[http://www.instructables.com/id/USB-Oscilloscope-with-Signal-generator/?ALLSTEPS][USB Oscilloscope with Signal generator]]
+  - [[http://www.faberacoustical.com/products/signalscope/][SignalScope]]
+  - [[http://www.audiofile-engineering.com/spectre/][Spectre | Audiofile]]
+  - [[http://www.rustykat.us/][RustyKat - Music and audio software for creative Mac users]]
