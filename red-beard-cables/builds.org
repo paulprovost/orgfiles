@@ -22,16 +22,17 @@
    :Price: $40
    :END:
 
-** TENTATIVE Frédéric Mailloux
+** RECEIVED Frédéric Mailloux
    :LOGBOOK:
+   - State "RECEIVED"   from "TENTATIVE"  [2015-02-23 Mon 16:33]
    - State "TENTATIVE"   from ""  [2015-02-12 Thu]
    :END:
    :PROPERTIES:
    :How: Facebook
-   :Length: 10 ft
+   :Length: 15 ft
    :Color: Red
-   :GuitarPlug: Straight
-   :Price: $40
+   :GuitarPlug: AngleSilent
+   :Price: $45
    :END:
 
 ** DELIVERED Marc Scott
@@ -49,8 +50,9 @@
    :END:
    [[file:Builds/20150217%20-%20Marc%20Scott][Pictures]]
 
-** RECEIVED Pascal Lamarche
+** DELIVERED Pascal Lamarche
    :LOGBOOK:
+   - State "DELIVERED"  from "RECEIVED"   [2015-02-21 Sat]
    - State "RECEIVED"   from ""  [2015-02-15 Sun]
    :END:
    :PROPERTIES:
