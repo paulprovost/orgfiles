@@ -33,6 +33,8 @@
    :Color: Red
    :GuitarPlug: AngleSilent
    :Price: $45
+   :Delivery: [2015-02-25 Wed 12:30] PVM
+   :Phone: 514-808-4820
    :END:
 
 ** DELIVERED Marc Scott
