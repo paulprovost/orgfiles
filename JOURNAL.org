@@ -129,6 +129,7 @@
 
 * [2015-02-09 Mon] Called BMO regarding contestation of charge :@mastercard:@banking:@bmo:
   - Charge of 1212.21 from WALL-MART
+  - Requested dispute of charge
   - Should get reimbursement within 15 business days
   - The investigation committee will contact the company
   - If the company does not respond, the committee will make
