@@ -413,3 +413,4 @@
   - [[http://jake.codes/installgist/][InstallGist, for Pythonista]]
   - [[https://gist.github.com/gdcs68/9031843][Minor changes and donwload fixed.]]
   - [[http://rogerstringer.com/2012/12/03/useful-pythonista-links/][Roger Stringer — Useful Pythonista Links]]
+  - [[https://github.com/bjonnh/PyOrgMode][bjonnh/PyOrgMode · GitHub]]
