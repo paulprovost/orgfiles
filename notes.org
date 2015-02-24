@@ -372,6 +372,7 @@
     classic and popular effects in growing numbers. Many of these have
     been posted on freestompboxes.org, so check that site out for
     great discussions on building your own effect pedals.
+  - [[http://www.guitarpcb.com/apps/webstore/products][PCB Shop - GuitarPCB.com]]
 
 * [2015-02-21 Sat] Headphone amp / DAC notes                     :@cmoy:@dac:
   - [[https://www.mayflowerelectronics.com/shop/diy-products/odac-board/][ODAC Board - Mayflower Electronics]]
