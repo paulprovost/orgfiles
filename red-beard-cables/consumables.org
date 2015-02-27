@@ -1,0 +1,16 @@
+#+TITLE: Track consumables
+#+AUTHOR: Paul Provost
+#+EMAIL: paul@bouzou.org
+#+DESCRIPTION: 
+#+FILETAGS: @redbeardcables
+
+* TechFlex FlexoPET
+** Black
+** Red
+   | [2015-02-25 Wed] | Cable Ties and more | +200 |
+   | [2015-02-26 Thu] | [[file:builds.org::*Fr%C3%A9d%C3%A9ric%20Mailloux][Frédéric Mailloux]]   |  -15 |
+** Blue
+
+* Cable
+** Gotham GOTGAC-1-ULTRAPRO-BK
+   
