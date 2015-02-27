@@ -22,8 +22,9 @@
    :Price: $40
    :END:
 
-** RECEIVED Frédéric Mailloux
+** BUILDING Frédéric Mailloux
    :LOGBOOK:
+   - State "BUILDING"   from "RECEIVED"   [2015-02-26 Thu 21:28]
    - State "RECEIVED"   from "TENTATIVE"  [2015-02-23 Mon 16:33]
    - State "TENTATIVE"   from ""  [2015-02-12 Thu]
    :END:
