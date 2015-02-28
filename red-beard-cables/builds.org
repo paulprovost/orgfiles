@@ -37,6 +37,7 @@
    :Delivery: [2015-02-25 Wed 12:30] PVM
    :Phone: 514-808-4820
    :END:
+   [[file:builds/20150226%20-%20Fre%CC%81de%CC%81ric%20Mailloux/][Pictures]]
 
 ** DELIVERED Marc Scott
    :LOGBOOK:
