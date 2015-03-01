@@ -418,4 +418,4 @@
 
 * [2015-03-01 Sun 14:40] Built the UNTZTrument                   :@diy:@untz:
   - Note: select serial port
-    : tty.usbmodemfaxxx
+    : /dev/tty.usbmodemfa131
