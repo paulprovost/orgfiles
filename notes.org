@@ -417,5 +417,8 @@
   - [[https://github.com/bjonnh/PyOrgMode][bjonnh/PyOrgMode · GitHub]]
 
 * [2015-03-01 Sun 14:40] Built the UNTZTrument                   :@diy:@untz:
+  - Must use version 1.0.5 of the Arduino IDE, or else the TeeOnArdu
+    device does not show up.
+  - Must hit the reset button to select the serial port and program.
   - Note: select serial port
     : /dev/tty.usbmodemfa131
