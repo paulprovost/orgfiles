@@ -10,6 +10,24 @@
   :How_ALL:  Facebook InPerson Email Phone
   :GuitarPlug_ALL: Straight StraightSilent Angle AngleSilent
   :END:
+
+** BUILDING Frédéric Mailloux
+   :LOGBOOK:
+   - State "BUILDING"   from "RECEIVED"   [2015-03-03 Tue 19:35]
+   - State "RECEIVED"   from "DELIVERED"  [2015-03-03 Tue]
+   :END:
+   :PROPERTIES:
+   :How: Facebook
+   :Length: 15 ft
+   :Color: Red
+   :GuitarPlug: StraightSilent
+   :Price: $45
+   :Delivery: [2015-03-05 Thu 12:00] PVM
+   :Phone: 514-808-4820
+   :END:
+   [[file:builds/20150226%20-%20Fre%CC%81de%CC%81ric%20Mailloux/][Pictures]]
+
+
 ** DELIVERED Mathieu Guindon
    :LOGBOOK:
    - State "DELIVERED"       from ""           [2015-02-10 Tue]
@@ -22,8 +40,9 @@
    :Price: $40
    :END:
 
-** BUILDING Frédéric Mailloux
+** DELIVERED Frédéric Mailloux
    :LOGBOOK:
+   - State "DELIVERED"  from "BUILDING"   [2015-03-03 Tue 18:31]
    - State "BUILDING"   from "RECEIVED"   [2015-02-26 Thu 21:28]
    - State "RECEIVED"   from "TENTATIVE"  [2015-02-23 Mon 16:33]
    - State "TENTATIVE"   from ""  [2015-02-12 Thu]
@@ -34,7 +53,7 @@
    :Color: Red
    :GuitarPlug: AngleSilent
    :Price: $45
-   :Delivery: [2015-02-25 Wed 12:30] PVM
+   :Delivery: [2015-03-03 Tue 12:30] PVM
    :Phone: 514-808-4820
    :END:
    [[file:builds/20150226%20-%20Fre%CC%81de%CC%81ric%20Mailloux/][Pictures]]
