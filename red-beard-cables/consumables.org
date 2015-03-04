@@ -1,0 +1,48 @@
+#+TITLE: Track consumables
+#+AUTHOR: Paul Provost
+#+EMAIL: paul@bouzou.org
+#+DESCRIPTION: 
+#+FILETAGS: @redbeardcables
+
+* TechFlex FlexoPET
+** Black
+   |------------------+---------------------+-----|
+   | [2015-02-25 Wed] | Cable Ties and more | 200 |
+   |------------------+---------------------+-----|
+   |                  |                     | 200 |
+   |------------------+---------------------+-----|
+#+TBLFM: @>$3=vsum(@1..@-1)
+
+** Red
+   |------------------+---------------------+-----|
+   | [2015-02-25 Wed] | Cable Ties and more | 200 |
+   | [2015-02-26 Thu] | [[file:builds.org::*Fr%C3%A9d%C3%A9ric%20Mailloux][Frédéric Mailloux]]   | -15 |
+   | [2015-03-03 Tue] | [[file:builds.org::*Fr%C3%A9d%C3%A9ric%20Mailloux][Frédéric Mailloux]]   | -15 |
+   |------------------+---------------------+-----|
+   |                  |                     | 170 |
+   |------------------+---------------------+-----|
+#+TBLFM: @>$3=vsum(@1..@-1)
+
+** Blue
+   |------------------+---------------------+-----|
+   | [2015-02-25 Wed] | Cable Ties and more | 200 |
+   |------------------+---------------------+-----|
+   |                  |                     | 200 |
+   |------------------+---------------------+-----|
+#+TBLFM: @>$3=vsum(@1..@-1)
+
+* Cable
+** Gotham GOTGAC-1-ULTRAPRO-BK
+   |------------------+-------------------+-------|
+   | [2014-12-29 Mon] | Redco             |   100 |
+   |                  | Test              | -25.5 |
+   | [2015-02-10 Tue] | [[file:builds.org::*Mathieu%20Guindon][Mathieu Guindon]]   | -10.5 |
+   | [2015-02-17 Tue] | [[file:builds.org::*Pascal%20Lamarche][Pascal Lamarche]]   | -10.5 |
+   | [2015-02-21 Sat] | [[file:builds.org::*Marc%20Scott][Marc Scott]]        | -15.5 |
+   | [2015-02-26 Thu] | [[file:builds.org::*Fr%C3%A9d%C3%A9ric%20Mailloux][Frédéric Mailloux]] | -15.5 |
+   | [2015-03-03 Tue] | [[file:builds.org::*Fr%C3%A9d%C3%A9ric%20Mailloux][Frédéric Mailloux]] | -15.5 |
+   |------------------+-------------------+-------|
+   |                  |                   |    7. |
+   |------------------+-------------------+-------|
+#+TBLFM: @>$3=vsum(@1..@-1)
+   

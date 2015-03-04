@@ -128,6 +128,7 @@
     - Set =gecko.handlerService.allowRegisterFromDifferentHost= to =false=.
 
 * [2015-02-09 Mon] Called BMO regarding contestation of charge :@mastercard:@banking:@bmo:
+  - Requête 16992342
   - Charge of 1212.21 from WALL-MART
   - Requested dispute of charge
   - Should get reimbursement within 15 business days
@@ -136,11 +137,13 @@
     reimbursement permanent
   - Any additional interest charges will be reimbursed by the
     investigation committee
-** [2015-02-24 Tue] No card showed up - called back
+** [2015-02-24 Tue 16:00] No card showed up - called back
    - Julien
    - The card should arrive today (10 business days)
    - If not, call customer service back (1-866-418-8154) and ask for
      an express card. There is a $25 fee, but a note was entered in
      the file so that the fee will be waived.
+** [2015-02-24 Tue 19:13] Second call - card not arrived
+   - Va envoyer une nouvelle carte en VIP (express)
 
-
+* [2015-02-28 Sat] Nouvelle carte de crédit activée               :@finances:

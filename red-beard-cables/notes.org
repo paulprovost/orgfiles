@@ -4,6 +4,10 @@
 #+DESCRIPTION: 
 #+FILETAGS: @redbeardcables
 
+* Measures
+** Flex
+   15' cable is 20' of Flex
+
 * Cable:
   - [[http://www.gotham.ch/en/index.php?section=docsys&cmd=50_details&id=251][Gotham Kabel AG | 10018 GAC-1 ultra Pro Guitar/Phono Cable]]
 
