@@ -11,8 +11,9 @@
   :GuitarPlug_ALL: Straight StraightSilent Angle AngleSilent
   :END:
 
-** BUILDING Frédéric Mailloux
+** DELIVERED Frédéric Mailloux
    :LOGBOOK:
+   - State "DELIVERED"  from "BUILDING"   [2015-03-05 Thu 12:00]
    - State "BUILDING"   from "RECEIVED"   [2015-03-03 Tue 19:35]
    - State "RECEIVED"   from "DELIVERED"  [2015-03-03 Tue]
    :END:
