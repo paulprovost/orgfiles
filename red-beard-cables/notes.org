@@ -4,7 +4,15 @@
 #+DESCRIPTION: 
 #+FILETAGS: @redbeardcables
 
-* Measures
+* Measuring cable frequency response
+** Using FuzzMeasure
+   - Output 3 on UltraLite is output 5 in FuzzMeasure
+   - Watch the gains so that they don't distort:
+     - Output gain in FuzzMeasure: -5 dB
+     - Input gain (trim) in CueMix: 0 dB
+
+
+* Measurements
 ** Flex
    15' cable is 20' of Flex
 
