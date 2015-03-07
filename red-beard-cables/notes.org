@@ -11,7 +11,6 @@
      - Output gain in FuzzMeasure: -5 dB
      - Input gain (trim) in CueMix: 0 dB
 
-
 * Measurements
 ** Flex
    15' cable is 20' of Flex
