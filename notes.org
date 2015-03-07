@@ -422,3 +422,17 @@
   - Must hit the reset button to select the serial port and program.
   - Note: select serial port
     : /dev/tty.usbmodemfa131
+
+* [2015-03-06 Fri 20:07] Trim extension in a bash script       :@shell:@bash:
+  : ${FILE##.*}
+  as in (extracting subtitles en masse in a single line)
+  : for FILE in *.mkv; do mkvextract tracks $FILE 2:`basename ${FILE##.*}`.srt; done
+  The general cases:
+  - Trim the shortest match from the end
+    : ${variable%pattern}
+  - Trim the longest match from the beginning
+    : ${variable##pattern}
+  - Trim the longest match from the end
+    : ${variable%%pattern}
+  - Trim the shortest match from the beginning
+    : ${variable#pattern}
