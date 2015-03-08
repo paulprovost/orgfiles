@@ -436,3 +436,6 @@
     : ${variable%%pattern}
   - Trim the shortest match from the beginning
     : ${variable#pattern}
+
+* [2015-03-08 Sun 19:16] Cutting breaks in Vero Board :@vero:@veroboard:@diy:
+  Drill bit: 3/32"
