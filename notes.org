@@ -439,3 +439,5 @@
 
 * [2015-03-08 Sun 19:16] Cutting breaks in Vero Board :@vero:@veroboard:@diy:
   Drill bit: 3/32"
+ 
+* [2015-03-09 Mon 18:42] - [[http://www.monteallums.com/pedal_mods.html][Monte Allums Mods - Individual Pedal Mods]] :@diy:@guitar:@pedals:
