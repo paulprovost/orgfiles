@@ -11,6 +11,19 @@
   :GuitarPlug_ALL: Straight StraightSilent Angle AngleSilent
   :END:
 
+** RECEIVED Bertrand
+   :LOGBOOK:
+   - State "RECEIVED"   from ""           [2015-03-10 Tue]
+   :END:
+   :PROPERTIES:
+   :How: Facebook
+   :Length: 15 ft
+   :Color: Red
+   :GuitarPlug: StraightSilent
+   :Price: $45
+   :Delivery: [2015-03-12 Thu 18:45] Métro Sauvé, coin St-Laurent et Port Royal
+   :END:
+
 ** DELIVERED Frédéric Mailloux
    :LOGBOOK:
    - State "DELIVERED"  from "BUILDING"   [2015-03-05 Thu 12:00]
@@ -26,8 +39,7 @@
    :Delivery: [2015-03-05 Thu 12:00] PVM
    :Phone: 514-808-4820
    :END:
-   [[file:builds/20150226%20-%20Fre%CC%81de%CC%81ric%20Mailloux/][Pictures]]
-
+   [[file:builds/20150303%20-%20Fre%CC%81de%CC%81ric%20Mailloux/][Pictures]]
 
 ** DELIVERED Mathieu Guindon
    :LOGBOOK:
@@ -40,6 +52,7 @@
    :GuitarPlug: StraightSilent
    :Price: $40
    :END:
+   [[file:builds/20150208%20-%20Mathieu%20Guindon/][Pictures]]
 
 ** DELIVERED Frédéric Mailloux
    :LOGBOOK:
