@@ -26,7 +26,7 @@
 ** Measured 25 foot cable in a soft envelope:
    - Dimensions: 34 x 27 x 4 cm
    - Weight: 0.476 Kg
-** Poste Canada (Plessisville)
+** [[https://www.canadapost.ca/cpo/mc/default.jsf][Poste Canada]] (Plessisville)
    - Colis régulier: 3 jours ouvrables: $12.42
    - XPost: 1 jour ouvrable, service garanti: $13.90
    - Priorité: 1 jour ouvrable, service garanti: $30.86
