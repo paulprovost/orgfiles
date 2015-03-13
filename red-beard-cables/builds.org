@@ -11,8 +11,9 @@
   :GuitarPlug_ALL: Straight StraightSilent Angle AngleSilent
   :END:
 
-** RECEIVED Bertrand
+** DELIVERED Bertrand
    :LOGBOOK:
+   - State "DELIVERED"  from "RECEIVED"   [2015-03-12 Thu 18:45]
    - State "RECEIVED"   from ""           [2015-03-10 Tue]
    :END:
    :PROPERTIES:
@@ -23,6 +24,7 @@
    :Price: $45
    :Delivery: [2015-03-12 Thu 18:45] Métro Sauvé, coin St-Laurent et Port Royal
    :END:
+   Pictures
 
 ** DELIVERED Frédéric Mailloux
    :LOGBOOK:
