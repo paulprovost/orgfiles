@@ -1852,3 +1852,21 @@
   - [[https://www.bareknucklepickups.co.uk/shop/index.php?main_page=product_info&cPath=24_279&products_id=608&zenid=33f40e9f3ed86b91f93905648ff078ff][Free-way JJ Custom Works 3x3 No. 04 Toggle Switch - £39.95 : Bare Knuckle Pickups Ltd, UK, Handwound Guitar Pickups]]
   - [[http://www.jjcustomworks.com/][Free-Way Switch - JJ Custom Works Edition - 6 Way Toggle]]
   - [[http://freewayswitch.com/products/products.html][Products]]
+
+* [2015-03-24 Tue 19:10] [[http://superuser.com/questions/343572/how-do-i-reorder-tmux-windows][How do I reorder tmux windows?]]               :@tmux:
+  "Prefix :" (that is "Ctrl-B :" by default) brings you to the
+  tmux-command prompt. There you enter:
+  : swap-window -s 3 -t 1
+  to let window number 3 and window number 1 swap their positions.
+
+  To swap the current window with the top window, do:
+  : swap-window -t 0
+
+  In the unlikely case of having no window at index 0, do:
+  : move-window -t 0
+  (if base-index is 0, as it is by default).
+
+  You can bind that command to a key (T for "top" for example) by
+  adding the following to your =~/.tmux.conf=:
+
+  : bind-key T swap-window -t 0
