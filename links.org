@@ -1852,3 +1852,7 @@
   - [[https://www.bareknucklepickups.co.uk/shop/index.php?main_page=product_info&cPath=24_279&products_id=608&zenid=33f40e9f3ed86b91f93905648ff078ff][Free-way JJ Custom Works 3x3 No. 04 Toggle Switch - £39.95 : Bare Knuckle Pickups Ltd, UK, Handwound Guitar Pickups]]
   - [[http://www.jjcustomworks.com/][Free-Way Switch - JJ Custom Works Edition - 6 Way Toggle]]
   - [[http://freewayswitch.com/products/products.html][Products]]
+
+* [2015-03-24 Tue] Splitting mp3 files                   :@audio:@music:@cue:
+   - [[http://mp3splt.sourceforge.net/mp3splt_page/home.php][mp3, ogg vorbis and FLAC splitter - mp3splt-project]]
+
