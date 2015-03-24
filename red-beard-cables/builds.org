@@ -3,7 +3,8 @@
 #+EMAIL: paul@bouzou.org
 #+DESCRIPTION: 
 #+FILETAGS: @redbeardcables
-#+TODO: RECEIVED(!) TENTATIVE(!) BUILDING(!) WAITING(@/!) | SHIPPED(@) DELIVERED(@) CANCELLED(@)
+#+TODO: RECEIVED(!) TENTATIVE(!) BUILDING(!) WAITING(@/!) RETURNED(!) REPLACEMENT(!) | SHIPPED(@) DELIVERED(@) CANCELLED(@) FAULTY(@)
+#+STARTUP: showeverything
 
 * Order tracking
   :PROPERTIES:
@@ -11,8 +12,40 @@
   :GuitarPlug_ALL: Straight StraightSilent Angle AngleSilent
   :END:
 
-** DELIVERED Bertrand
+** RECEIVED Mathieu Desjardins
    :LOGBOOK:
+   - State "RECEIVED"   from ""           [2015-03-16 Mon 18:56]
+   :END:
+   :PROPERTIES:
+   :How: Facebook
+   :Length: 25 ft
+   :Color: Blue
+   :GuitarPlug: AngleSilent
+   :Price: $55
+   :Phone: 450 848 4651
+   :END:
+*** <2015-03-26 Thu 19:30> Delivery
+    Long McQuade Laval 3354 Boulevard Saint-Martin Ouest, Laval, QC H7T 1A1
+*** <2015-03-24 Tue> Check on order
+
+** REPLACEMENT Bertrand
+   :LOGBOOK:
+   - State "REPLACEMENT" from ""           [2015-03-16 Mon 18:52]
+   :END:
+   :PROPERTIES:
+   :How: Facebook
+   :Length: 15 ft
+   :Color: Red
+   :GuitarPlug: StraightSilent
+   :Price: NC - Replacement for [[*Bertrand][this]]
+   :Delivery: [2015-03-17 Tue 19:30] 1336 Van Horne 5146029507
+   :END:
+   
+** FAULTY Bertrand
+   :LOGBOOK:
+   - State "FAULTY"     from "DELIVERED"  [2015-03-16 Mon 18:49] \\
+     Reported as sputtering when moved. Offered to replace and deal on a
+     second 15" at $25
    - State "DELIVERED"  from "RECEIVED"   [2015-03-12 Thu 18:45]
    - State "RECEIVED"   from ""           [2015-03-10 Tue]
    :END:
@@ -24,7 +57,7 @@
    :Price: $45
    :Delivery: [2015-03-12 Thu 18:45] Métro Sauvé, coin St-Laurent et Port Royal
    :END:
-   Pictures
+   [[file:builds/20150311%20-%20Bertrand/][Pictures]]
 
 ** DELIVERED Frédéric Mailloux
    :LOGBOOK:
