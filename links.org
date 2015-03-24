@@ -1786,7 +1786,7 @@
 * [2014-06-21 Sat] Teensy Monster v1.0 // DIY MIDI Controllers :@teensy:@arduino:@diy:@midi:
   - [[http://www.instructables.com/id/Teensy-Monster-v10-DIY-MIDI-Controllers/?ALLSTEPS][Teensy Monster v1.0 // DIY MIDI Controllers]]
  
-* [2014-06-21 Sat] Notes on cuesheets  [[file:~/Documents/orgfiles/tailgunner.org::*Safe%20power-down][Safe power-down]]                 :@cue:
+* [2014-06-21 Sat] Notes on cuesheets                                  :@cue:
   - [[https://en.wikipedia.org/wiki/Cue_sheet_%28computing%29][Cue sheet (computing) - Wikipedia, the free encyclopedia]]
   - [[http://qed.qproject.org/tutorial.php][QeD - The Ultimate Liveset Cuesheet Editor | TUTORIAL]]
 
