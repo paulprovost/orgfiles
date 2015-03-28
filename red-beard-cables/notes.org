@@ -30,3 +30,12 @@
    - Colis régulier: 3 jours ouvrables: $12.42
    - XPost: 1 jour ouvrable, service garanti: $13.90
    - Priorité: 1 jour ouvrable, service garanti: $30.86
+
+* Web site
+  - Uses [[http://www.opencart.com/][OpenCart]]
+  - Tutorial: [[http://code.tutsplus.com/series/from-beginner-to-advanced-in-opencart--cms-669][From Beginner To Advanced in OpenCart]]
+** Actual site
+   - Main: [[http://redbeardcables.com/][Red Beard Cables]]
+   - Admin: [[http://redbeardcables.com/admin/][Red Beard Cables Administration]]
+     username: admin
+     password: bderimda12
