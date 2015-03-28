@@ -12,12 +12,42 @@
 *** Resize using =mogrify -resize x100=
 *** Insert using =file://books/<imagefile>
 
+* TOBUY Cibola Burn - James S.A. Corey
+  <2015-05-05 Tue> Paperback release
+
+  file://books/james-sa-corey-cibola-burn.jpg
+
+  "An empty apartment, a missing family, that's creepy. But this is
+  like finding a military base with no one on it. Fighters and tanks
+  idling on the runway with no drivers. This is bad juju. Something
+  wrong happened here. What you should do is tell everyone to leave."
+
+  The gates have opened the way to a thousand new worlds and the rush
+  to colonize has begun. Settlers looking for a new life stream out
+  from humanity's home planets. Ilus, the first human colony on this
+  vast new frontier, is being born in blood and fire.
+
+  Independent settlers stand against the overwhelming power of a
+  corporate colony ship with only their determination, courage, and
+  the skills learned in the long wars of home. Innocent scientists are
+  slaughtered as they try to survey a new and alien world. The
+  struggle on Ilus threatens to spread all the way back to Earth.
+
+  James Holden and the crew of his one small ship are sent to make
+  peace in the midst of war and sense in the midst of chaos. But the
+  more he looks at it, the more Holden thinks the mission was meant to
+  fail.
+
+  And the whispers of a dead man remind him that the great galactic
+  civilization that once stood on this land is gone. And that
+  something killed it.
+
 * READING REAMDE - Neal Stephenson
   :LOGBOOK:
   - State "READING"    from "TOREAD"     [2015-01-20 Tue 15:21]
   :END:
 
-  file://books/neal-stephenson-reamde.jpg
+  [[file://books/neal-stephenson-reamde.jpg]]
 
   Four decades ago, Richard Forthrast, the black sheep of an Iowa
   family, fled to a wild and lonely mountainous corner of British
