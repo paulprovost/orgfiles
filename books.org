@@ -3,6 +3,7 @@
 #+LAST_MOBILE_CHANGE: 2012-01-18 11:27:36
 #+FILETAGS: :@books:
 #+TODO: READING(!) TOREAD TOBUY | READ(@) ABANDONED(@)
+#+STARTUP: showeverything
 
 * Hints
 ** C-u C-c C-t to change state.
