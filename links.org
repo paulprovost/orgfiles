@@ -1873,4 +1873,22 @@
   adding the following to your =~/.tmux.conf=:
 
 * [2015-03-29 Sun 16:08] Brew common issue                       :@osx:@brew:
-  [[https://github.com/Homebrew/homebrew/blob/084cdf286f82a3559d46275a06f25a78591c5cfc/share/doc/homebrew/Common-Issues.md#brew-update-complains-about-untracked-working-tree-files][- Brew complains about untracked working tree files]]
+  [[https://github.com/Homebrew/homebrew/blob/084cdf286f82a3559d46275a06f25a78591c5cfc/share/doc/homebrew/Common-Issues.md#brew-update-complains-about-untracked-working-tree-files][- =brew update= complains about untracked working tree files]]
+
+    After running =brew update=, you receive a git error warning about
+    untracked files or local changes that would be overwritten by a
+    checkout or merge, followed by a list of files inside your
+    Homebrew installation.
+
+    This is caused by an old bug in in the update code that has long
+    since been fixed. However, the nature of the bug requires that you
+    do the following:
+
+    : cd $(brew --repository)
+    : git reset --hard FETCH_HEAD
+
+    If =brew doctor= still complains about uncommitted modifications,
+    also run this command:
+
+    : cd $(brew --repository)/Library
+    : git clean -fd
