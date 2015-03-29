@@ -1872,3 +1872,5 @@
   You can bind that command to a key (T for "top" for example) by
   adding the following to your =~/.tmux.conf=:
 
+* [2015-03-29 Sun 16:08] Brew common issue                       :@osx:@brew:
+  [[https://github.com/Homebrew/homebrew/blob/084cdf286f82a3559d46275a06f25a78591c5cfc/share/doc/homebrew/Common-Issues.md#brew-update-complains-about-untracked-working-tree-files][- Brew complains about untracked working tree files]]
