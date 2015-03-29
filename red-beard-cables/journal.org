@@ -2,7 +2,11 @@
 #+AUTHOR: Paul Provost
 #+EMAIL: paul@bouzou.org
 #+DESCRIPTION: 
-#+FILETAGS: 
+#+FILETAGS: @redbeardcables
 
-* [2015-02-17 Tue] Logo meeting with Olivier Bruel
+* Quality test with Patrice Roby
+  <2015-04-02 Thu 19:00>
+
+* Logo meeting with Olivier Bruel
+  <2015-02-17 Tue> 
   Deadline [2015-03-17 Tue]
