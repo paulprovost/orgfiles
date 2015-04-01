@@ -1892,3 +1892,11 @@
 
     : cd $(brew --repository)/Library
     : git clean -fd
+
+* [2015-03-31 Tue 19:01] Extremely simple buffer       :@diy:@guitar:@buffer:
+  - [[http://www.harmonycentral.com/forum/forum/guitar/acapella-29/1733583-][Schematic for a small buffer pedal? | Harmony Central]]
+  - [[http://www.diystompboxes.com/smfforum/index.php?topic=103910.0][Stripboard Buffer pedal - low signal problem]]
+  - [[http://www.glassdreamsmusic.com/buffer-pedal-finished/][Glass Dreams Music – Buffer Pedal for Sean Beck – Finished Product]]
+
+* [2015-04-01 Wed 07:48] Veroboard construction tips :@diy:@stripboard:@veroboard:
+  - [[http://www.sabrotone.com/?page_id=386][Step by step | SabroTone]]

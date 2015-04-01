@@ -445,7 +445,7 @@
 * [2015-03-25 Wed 12:42] Running a command as another user     :@linux:@sudo:
   From [[http://www.cyberciti.biz/open-source/command-line-hacks/linux-run-command-as-different-user/][Linux Run Command As Another User or Run as Root User]]
   : su - <user> -c '<command> <options> ...'
-* 
+
 * [2015-03-28 Sat 19:01] use afconvert to convert to m4a on OSX :@audio:@cli:@osx:
   : afconvert -f m4af -d 'aac ' -b 256000 <input_file> [output_file]
   The output file name will be computed, or it can de added.
