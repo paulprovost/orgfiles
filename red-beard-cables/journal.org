@@ -4,6 +4,14 @@
 #+DESCRIPTION: 
 #+FILETAGS: @redbeardcables
 
+* [2015-04-01 Wed] Some TODOs
+** TODO Fill the face and other parts of logo so it works as transparent :@logo:
+** TODO Test orange menu bar                                       :@website:
+** TODO Localize menu bar properly                                 :@website:
+   - Move the links to the controller (or model)
+   - Send lists of pre and post links to the view.
+
+
 * Quality test with Patrice Roby
   <2015-04-02 Thu 19:00>
 
