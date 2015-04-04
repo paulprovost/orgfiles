@@ -1900,3 +1900,11 @@
 
 * [2015-04-01 Wed 07:48] Veroboard construction tips :@diy:@stripboard:@veroboard:
   - [[http://www.sabrotone.com/?page_id=386][Step by step | SabroTone]]
+
+* [2015-04-04 Sat 13:47] Power adapter for Linnstrument       :@linnstrument:
+  - [[http://www.digikey.ca/product-detail/en/EPS090066-P5P/T980-P5P-ND/1016856][EPS090066-P5P CUI Inc | T980-P5P-ND | DigiKey]]
+
+* [2015-04-04 Sat 15:15] Linnstrument user firmware mode      :@linnstrument:
+  - [[http://www.kvraudio.com/forum/viewtopic.php?f=263&t=432884][RFC: User Firmware Mode - Experimental Beta release available | KVR Audio Forum]]
+  - [[https://github.com/rogerlinndesign/linnstrument-firmware/blob/1.2.0-beta1/user_firmware_mode.txt][linnstrument-firmware/user_firmware_mode.txt at 1.2.0-beta1 · rogerlinndesign/linnstrument-firmware]]
+  - [[https://github.com/natcl/LinnStrumentMax][natcl/LinnStrumentMax]]

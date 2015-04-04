@@ -449,3 +449,8 @@
 * [2015-03-28 Sat 19:01] use afconvert to convert to m4a on OSX :@audio:@cli:@osx:
   : afconvert -f m4af -d 'aac ' -b 256000 <input_file> [output_file]
   The output file name will be computed, or it can de added.
+
+* [2015-04-03 Fri 17:42] Max audio signal visualization                :@max:
+  scope~ : Visualize an audio signal
+  Use the scope~ object to visualize an audio signal using an
+  oscilloscope-style display
