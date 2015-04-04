@@ -5,7 +5,10 @@
 #+FILETAGS: @redbeardcables
 
 * [2015-04-01 Wed] Some TODOs
-** TODO Fill the face and other parts of logo so it works as transparent :@logo:
+** STARTED Fill the face and other parts of logo so it works as transparent :@logo:
+   :LOGBOOK:
+   - State "STARTED"    from "TODO"       [2015-04-03 Fri 12:36]
+   :END:
 ** TODO Test orange menu bar                                       :@website:
 ** TODO Localize menu bar properly                                 :@website:
    - Move the links to the controller (or model)
