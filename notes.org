@@ -451,6 +451,19 @@
   The output file name will be computed, or it can de added.
 
 * [2015-04-03 Fri 17:42] Max audio signal visualization                :@max:
-  scope~ : Visualize an audio signal
+  *scope~* : Visualize an audio signal
   Use the scope~ object to visualize an audio signal using an
   oscilloscope-style display
+ 
+* [2015-04-04 Sat 19:14] Max object to say whether a window is active or not :@max:
+  *active*
+  Send 1 when patcher window is active, 0 when inactive
+
+  Description:
+
+  active will output a 1 when the Patcher window becomes active (i.e.,
+  it is the front-most window and its title bar is highlighted), and
+  output a 0 when the Patcher window becomes inactive. You can use
+  this to change the user interface of your window. For example,
+  messages from the key object can be turned off when the window is
+  made inactive.
