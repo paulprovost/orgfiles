@@ -467,3 +467,9 @@
   this to change the user interface of your window. For example,
   messages from the key object can be turned off when the window is
   made inactive.
+
+* [2015-04-06 Mon 16:18] Stream media using vlc                        :@vlc:
+  Set up temporary stream of video file for checking:
+  : cvlc <file> --sout '#standard{access=http,mux=asf,vcodec=h264,acodec=mp4dst=<ip_address>:<port_number}'
+  for example
+  : cvlc file.mp4 --sout '#standard{access=http,mux=asf,vcodec=h264,acodec=mp4dst=192.168.1.253:8080}'
