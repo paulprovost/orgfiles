@@ -148,4 +148,7 @@
 
 * [2015-02-28 Sat] Nouvelle carte de crédit activée               :@finances:
 
-
+* [2015-04-06 Mon 12:36] Fix tweepy install after upgrading Ubuntu :@python:@pip:@twit2rss:
+  [[http://discuss.tweepy.org/t/pip-install-tweepy-fails/209][Pip install tweepy fails - Need Help - Tweepy]]
+  Turns out that you need to update pip:
+  : pip install 'pip>1.5' --upgrade
