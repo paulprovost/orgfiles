@@ -1908,3 +1908,8 @@
   - [[http://www.kvraudio.com/forum/viewtopic.php?f=263&t=432884][RFC: User Firmware Mode - Experimental Beta release available | KVR Audio Forum]]
   - [[https://github.com/rogerlinndesign/linnstrument-firmware/blob/1.2.0-beta1/user_firmware_mode.txt][linnstrument-firmware/user_firmware_mode.txt at 1.2.0-beta1 · rogerlinndesign/linnstrument-firmware]]
   - [[https://github.com/natcl/LinnStrumentMax][natcl/LinnStrumentMax]]
+
+* [2015-04-06 Mon] Pipe video streams from various services into a video player, :@video:@stream:
+  - [[http://livestreamer.tanuki.se/][Overview — Livestreamer 1.12.1 documentation]]
+  - [[http://xmodulo.com/watch-live-streaming-video-command-line-linux.html][How to watch live streaming video from the command line on Linux - Xmodulo]]
+
