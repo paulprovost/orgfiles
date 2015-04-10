@@ -32,6 +32,14 @@
      : if [ $result -ne 0 ]; then
      :     logger vpnwatchdog VPN not responding
      : fi
+** using straight openvpn command line for VPN connection
+   This is much more stable than using Network Manager
+   : sudo openvpn --config vpn/configs/ipvanish-US-New-York-nyc-c02.ovpn --ca vpn/configs/ca.ipvanish.com.crt --auth-user-pass vpn/password.txt
+   - The config files are downloaded from 
+
+   - =vpn/password.txt= contains
+   : <username>
+   : <password>
 
 * Setup
   - Distribution: [[http://lubuntu.net/][lubuntu]]
