@@ -1,0 +1,13 @@
+#+TITLE: Aurorachair rebuild
+#+AUTHOR: Paul Provost
+#+EMAIL: paul@bouzou.org
+#+DESCRIPTION: Notes on rebuilding the aurorachair server (mail/web)
+#+FILETAGS: @aurorachair:@ubuntu
+
+* Mail
+** Install =exim4-daemon-heavy=
+** Enable authentication in =conf.d/auth/30_exim4-config_examples= line 71
+*** Install =sasl2-bin= package
+**** Edit =/etc/default/saslauthd= and change START to YES
+**** Add the exim user to the sasl group
+     : sudo adduser Debian-exim sasl
