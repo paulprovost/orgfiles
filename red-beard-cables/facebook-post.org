@@ -1,0 +1,19 @@
+#+TITLE: Text for facebook posts
+#+AUTHOR: Paul Provost
+#+EMAIL: paul@bouzou.org
+#+DESCRIPTION: 
+#+FILETAGS: @redbeardcables
+
+* English
+  Hand built guitar cables, from low-capacitance cable, high quality
+  plugs and flexible sleeving. Length and type of plugs according to
+  your specifications. Available in red, blue or black (additional
+  colors on request). Personalized service and quick turnaround. Want
+  one? Contact me!
+
+* French
+  Cables de guitare assemblés à la main, avec du cable basse
+  capacitance, des prises de qualité et une gaine flexible. Vous
+  spécifiez la longueur et le type de prise. Disponible en rouge, bleu
+  ou noir (d'autres couleurs disponibles sur demande). Service
+  personnalisé et rapide. Vous en voulez un? Contactez nous!

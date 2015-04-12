@@ -23,10 +23,13 @@
    - [[http://www.teletechproaudio.com/Wire_and_Cable.html][Teletech Pro Audio]]
 
 * Shipping
+** [[https://www.canadapost.ca/cpotools/apps/far/business/findARate?execution%3De1s1][Postes Canada - Tarifs]]
+** [[https://www.canadapost.ca/cpo/mc/personal/postalcode/fpc.jsf?LOCALE%3Den][Postes Canada - Code Postal]]
 ** Measured 25 foot cable in a soft envelope:
    - Dimensions: 34 x 27 x 4 cm
    - Weight: 0.476 Kg
-** [[https://www.canadapost.ca/cpo/mc/default.jsf][Poste Canada]] (Plessisville)
+
+** [[https://www.canadapost.ca/cpo/mc/default.jsf][Postes Canada]] (Plessisville)
    - Colis régulier: 3 jours ouvrables: $12.42
    - XPost: 1 jour ouvrable, service garanti: $13.90
    - Priorité: 1 jour ouvrable, service garanti: $30.86
