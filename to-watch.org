@@ -5,7 +5,6 @@
 #+FILETAGS: @youtube
 
 * Music
-  - [[https://www.youtube.com/feed/subscriptions][My Subscriptions - YouTube]]
   - [[https://www.youtube.com/watch?v=P1zR_klf1GE][Royal Thunder "Sleeping Witch" | indieATL Session - YouTube]]
   - [[https://www.youtube.com/results?search_query=the%20pretty%20reckless][the pretty reckless - YouTube]]
   - [[https://www.youtube.com/results?search_query=sick+puppies][sick puppies - YouTube]]
