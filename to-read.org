@@ -1,0 +1,19 @@
+#+TITLE: Pages to read
+#+AUTHOR: Paul Provost
+#+EMAIL: paul@bouzou.org
+#+DESCRIPTION: 
+#+FILETAGS: @toread
+
+* Emacs                                                              :@emacs:
+   - [[https://github.com/tkf/emacs-ipython-notebook][tkf/emacs-ipython-notebook · GitHub]]
+   - [[https://tkf.github.io/emacs-ipython-notebook/][Welcome to Emacs IPython Notebook’s documentation! — Emacs IPython Notebook 0.2.1alpha1 documentation]]
+
+* Status bar
+   - [[http://stackoverflow.com/questions/9628435/tmux-status-bar-configuration][tmux status bar configuration - Stack Overflow]]
+   - [[https://coderwall.com/p/trgyrq/make-your-tmux-status-bar-responsive][coderwall.com : establishing geek cred since 1305712800]]
+   - [[https://duckduckgo.com/?q=powerline+status+bar&ia=apps][powerline status bar at DuckDuckGo]]
+   - [[https://powerline.readthedocs.org/en/latest/overview.html][Overview — Powerline beta documentation]]
+   - [[https://github.com/powerline/powerline][powerline/powerline · GitHub]]
+
+* Window managers
+   - [[http://www.qtile.org/][Qtile – A hackable tiling window manager written in Python | Qtile.org]]
