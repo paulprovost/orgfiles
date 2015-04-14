@@ -1961,3 +1961,7 @@
     : 
     : export -f sanitize
     : find $1 -depth -exec bash -c 'sanitize "$0"' {} \;
+
+* [2015-04-14 Tue 14:58] Passive guitar distortion             :@guitar:@diy:
+   - [[http://tonefiend.com/guitar/onboard-distortion-without-a-battery/#more-6160][Onboard Distortion Without a Battery? - tonefiend.com]]
+
