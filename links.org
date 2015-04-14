@@ -1965,3 +1965,6 @@
 * [2015-04-14 Tue 14:58] Passive guitar distortion             :@guitar:@diy:
    - [[http://tonefiend.com/guitar/onboard-distortion-without-a-battery/#more-6160][Onboard Distortion Without a Battery? - tonefiend.com]]
 
+* [2015-04-14 Tue 15:33] Double Tone Control                   :@guitar:@diy:
+  [[http://tonefiend.com/diy/double-varitone/][Double Varitone: A Two-Headed Tone Control]]
+
