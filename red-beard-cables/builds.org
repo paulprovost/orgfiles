@@ -12,8 +12,9 @@
   :GuitarPlug_ALL: Straight StraightSilent Angle AngleSilent
   :END:
 
-** RECEIVED Sébastien Gaudet
+** BUILDING Sébastien Gaudet
    :LOGBOOK:
+   - State "BUILDING"   from "RECEIVED"   [2015-04-14 Tue 22:05]
    - State "RECEIVED"   from ""           [2015-04-14 Tue 19:56]
    :END:
    :PROPERTIES:
