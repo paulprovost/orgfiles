@@ -12,6 +12,25 @@
   :GuitarPlug_ALL: Straight StraightSilent Angle AngleSilent
   :END:
 
+** RECEIVED Sébastien Gaudet
+   :LOGBOOK:
+   - State "RECEIVED"   from ""           [2015-04-14 Tue 19:56]
+   :END:
+   :PROPERTIES:
+   :How: Facebook/RedBeardCables
+   :Length: 10 ft
+   :Color: Blue
+   :Length: 15 ft
+   :Color: Red
+   :GuitarPlug: Straight
+   :Price: $85 + $10 Shipping
+   :Payment: PayPal
+   :BillingAddress: 63 Chemin du Golf, Valleyfield, Quebec, J6S 4N3, Canada
+   :ShippingAddress: 2745 Boul Hébert, Valleyfield, Quebec, J6S 1C8, Canada
+   
+   :Phone: (450) 288-5524
+   :END:
+
 ** RECEIVED Mathieu Desjardins
    :LOGBOOK:
    - State "RECEIVED"   from ""           [2015-03-16 Mon 18:56]
