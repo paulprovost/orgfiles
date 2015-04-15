@@ -12,6 +12,8 @@
 *** Resize using =mogrify -resize x100=
 *** Insert using =file://books/<imagefile>
 
+* TOBUY Gun Machine - Warren Ellis
+
 * TOBUY Cibola Burn - James S.A. Corey
   <2015-05-05 Tue> Paperback release
 
