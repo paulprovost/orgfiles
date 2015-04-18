@@ -1968,3 +1968,44 @@
 * [2015-04-14 Tue 15:33] Double Tone Control                   :@guitar:@diy:
   [[http://tonefiend.com/diy/double-varitone/][Double Varitone: A Two-Headed Tone Control]]
 
+* [2015-04-17 Fri 08:59] Sharp  PC900V0NSZXF  IC, Photocoupler   :@diy:@MIDI:
+  - [[http://ca.mouser.com/Search/Refine.aspx?Keyword=PC900V0NSZXF][Sharp Microelectronics PC900V0NSZXF High Speed Optocouplers | Mouser]]
+  - [[http://canada.newark.com/sharp/pc900v0nszxf/ic-photocoupler-opic/dp/06W0893?ost=PC900V0NSZXF][PC900V0NSZXF SHARP Digital Output Optocouplers | 06W0893 | Newark element14 Canada]]
+
+* [2015-04-17 Fri 09:00] Wireless flash drive
+  - [[http://www.airstash.com/][AirStash® Wireless Flash Drive]]
+  - [[http://www.amazon.com/AirStash/dp/B00CT0BWHE/?m=A2BTQAQS9CN9ZT][Amazon.com: AirStash® A02 SD Card Flash Drive for iPad, iPhone, Android (memory card not included): Computers & Accessories]]
+
+* [2015-04-17 Fri 09:01] Recumbent bikes - Long base
+  - [[http://www.longbikes.com/2/Bikes/Slipstream/Slipstream.html][Slipstream :: Longbikes]]
+
+* [2015-04-17 Fri 09:02] Guitar veroboard layouts   :@guitar:@diy:@veroboard:
+  - [[http://www.paulinthelab.com/][Paul In The Lab]]
+  - [[http://www.paulinthelab.com/2012/04/buffered-y-splitter-veroboard.html][Paul In The Lab: Buffered Y Splitter Stripboard Veroboard]]
+
+* [2015-04-17 Fri 09:04] Javascript - detecting keystrokes      :@javascript:
+  - [[http://www.quirksmode.org/js/keys.html][JavaScript - Detecting keystrokes]]
+  - [[http://javascript.info/tutorial/keyboard-events][Keyboard events | JavaScript Tutorial]]
+
+* [2015-04-17 Fri 09:06] Fake                              :@osx:@automation:
+  - [[http://fakeapp.com/][Fake - Mac OS X Web Browser Automation and Webapp Testing Made Simple.]]
+  - [[http://fakeapp.com/documentation/][Fake - Mac OS X Web Browser Automation and Webapp Testing Made Simple.]]
+
+* [2015-04-17 Fri 09:07] Fluid and userscript references             :@fluid:
+  - [[http://remotemessages.com/forum/index.php?p=/discussion/153/fluid-app-auto-login-userscript/p1][Fluid app auto-login userscript - Remote Messages]]
+  - [[http://userscripts-mirror.org/users/50070/scripts][YungSang's scripts - Userscripts.org]]
+  - [[http://userscripts-mirror.org/index.html][Userscripts.org: Power-ups for your browser]]
+  - [[http://scottnelle.com/414/updated-fluid-app-userscript-for-gmail-unread-count/][Updated Fluid App Userscript for Gmail Unread Count - Scott Nelle]]
+  - [[http://fluidapp.com/developer/][Fluid - Turn Your Favorite Web Apps into Real Mac Apps.]]
+  - [[http://fluidapp.com/about/][Fluid - Turn Your Favorite Web Apps into Real Mac Apps.]]
+
+* [2015-04-17 Fri 09:08] Python IDE                       :@osx:@dev:@python:
+  - [[http://celestialteapot.com/exedore/][Exedore: A Mac-native Python IDE]]
+
+* [2015-04-17 Fri 09:09] Graphics code generator                  :@osx:@dev:
+  - [[http://celestialteapot.com/schwartz/][Schwartz: Template-based Graphics Code Generation for Mac, iOS, & Web]]
+
+* [2015-04-17 Fri 09:10] Movies to watch                           :@towatch:
+  - [[https://en.wikipedia.org/wiki/The_Amina_Profile][The Amina Profile]]
+  - [[https://fr.wikipedia.org/wiki/Les_Souvenirs_(film)][Les Souvenirs (film) — Wikipédia]]
+  - [[http://en.wikipedia.org/wiki/While_We%27re_Young_(film)][While We're Young (film)]]
