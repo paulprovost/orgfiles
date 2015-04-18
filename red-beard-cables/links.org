@@ -1,0 +1,18 @@
+#+TITLE: Link pool for Red Beard Cables
+#+AUTHOR: Paul Provost
+#+EMAIL: paul@bouzou.org
+#+DESCRIPTION: 
+#+FILETAGS: @redbeardcables
+
+* [2015-04-17 Fri] Metal printing                                 :@printing:
+  - [[http://www.decoramametalfr.ca/][Impression sur métal - Plaques d'Identification - Sérigraphie - Décorama Métal Inc - Châteauguay - Quebec]]
+  - [[http://www.decoramametalfr.calls.net/french/home.html][Décorama Métal inc. / Accueil]]
+
+* [2015-04-17 Fri] Lumberg jacks - small footprint                   :@jacks:
+  - [[http://www.diyguitarpedals.com.au/shop/index.php?main_page=product_info&cPath=15&products_id=337][Mini Mono 6.35 Jack - Lumberg - $1.90 : diyguitarpedals.com.au, A shop for all diy guitar pedal enthusiasts!]]
+  - [[http://www.lumberg.com/main/common/serie.asp?ser=015&cat=4&lang=eng][Lumberg]]
+  - [[http://canada.newark.com/lumberg/klbm-3/socket-6-35mm-jack/dp/97K2703?ost=klbm+3][KLBM 3 LUMBERG Phone Audio Connectors | 97K2703 | Newark element14 Canada]]
+
+* [2015-04-17 Fri] Simple buffer PCB                                :@buffer:
+  - [[http://www.diyguitarpedals.com.au/shop/index.php?main_page=product_info&cPath=1&products_id=71][10 Min Buffer - $4.00 : diyguitarpedals.com.au, A shop for all diy guitar pedal enthusiasts!]]
+
