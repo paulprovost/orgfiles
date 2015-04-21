@@ -2036,3 +2036,17 @@
 * [2015-04-20 Mon 14:23] Wireless flash drive                :@storage:@wifi:
   - [[http://www.bestbuy.com/site/sandisk-connect-32gb-usb-2-0-wireless-flash-drive-black/1542565.p][SanDisk Connect 32GB USB 2.0 Wireless Flash Drive Black SDWS2-032G-A57 - Best Buy]]
 
+* [2015-04-21 Tue 11:49] 3.5mm cable mount female jack links :@redbeardcables:@jacks:
+  - [[http://www.switchcraft.com/productsummary.aspx?Parent=1039][35LJNAU]]
+  - [[http://canada.newark.com/switchcraft/35ljn/3-5mm-ext-jack-rohs/dp/41T5446][35LJN SWITCHCRAFT More Connectors | 41T5446 | Newark element14 Canada]]
+  - [[http://ca.mouser.com/ProductDetail/Switchcraft/35LJN/?qs=3xNuPzpwYqc%252byN8c3bAudw==][35LJN Switchcraft | Mouser]]
+  - [[http://ca.mouser.com/ProductDetail/Switchcraft/35LJNAU/?qs=sGAEpiMZZMv0W4pxf2HiV2mMAmMDZvDgS%2fbB0Ebl9Sw%3d][35LJNAU Switchcraft | Mouser]]
+  - [[http://ca.mouser.com/new/switchcraft/switchcraft35HD/][Switchcraft® 3.5 mm Inline Jacks & 35HD Plugs | Mouser]]
+  - [[http://ca.mouser.com/ProductDetail/Switchcraft/35HDLBN/?qs=sGAEpiMZZMv0W4pxf2HiV2B4j%2fk8Z2ZSCTk%252bdpqV8iA%3d][35HDLBN Switchcraft | Mouser]]
+  - [[http://ca.mouser.com/ProductDetail/Switchcraft/35HDLNN/?qs=sGAEpiMZZMv0W4pxf2HiV5Gcp8I4uIuLg%2fC%2faYt1eoE%3d][35HDLNN Switchcraft | Mouser]]
+  - [[http://ca.mouser.com/ProductDetail/Switchcraft/35HDLBAU/?qs=sGAEpiMZZMv0W4pxf2HiV2B4j%2fk8Z2ZS%252bOJ2nxV5gcU%3d][35HDLBAU Switchcraft | Mouser]]
+  - [[http://ca.mouser.com/ProductDetail/REAN/NYS240L/?qs=%2fha2pyFaduh0wYsBBW7uxOEEwBZVzpLtIthFxbqvzjQ%3d][NYS240L REAN / Neutrik | Mouser]]
+  - [[http://www.digikey.ca/product-detail/en/35LJN/SC1482-ND/2754487][35LJN Switchcraft Inc. | SC1482-ND | DigiKey]]
+  - [[http://www.digikey.ca/product-detail/en/35LJNAU/SC1481-ND/2754486][35LJNAU Switchcraft Inc. | SC1481-ND | DigiKey]]
+  - [[http://www.redco.com/Switchcraft-35LJN.html][Switchcraft 35LJN | Redco Audio]]
+  - [[http://www.redco.com/Rean-Neutrik-NYS240L.html][NYS240L]]
