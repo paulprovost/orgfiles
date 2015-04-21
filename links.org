@@ -2009,3 +2009,30 @@
   - [[https://en.wikipedia.org/wiki/The_Amina_Profile][The Amina Profile]]
   - [[https://fr.wikipedia.org/wiki/Les_Souvenirs_(film)][Les Souvenirs (film) — Wikipédia]]
   - [[http://en.wikipedia.org/wiki/While_We%27re_Young_(film)][While We're Young (film)]]
+
+* [2015-04-20 Mon 14:01] Marlin file manager            :@linux:@filemanager:
+  - [[https://launchpad.net/marlin][Marlin in Launchpad]]
+  - [[http://linuxg.net/how-to-install-marlin-0-1-file-manager-on-ubuntu-14-10-ubuntu-14-04-ubuntu-12-04-and-derivatives/][How To Install Marlin 0.1 File Manager On Ubuntu 14.10, Ubuntu 14.04, Ubuntu 12.04 And Derivatives | LinuxG.net]]
+  - [[http://www.noobslab.com/p/ppa.html][PPAs - NoobsLab | Ubuntu/Linux News, Reviews, Tutorials, Apps]]
+  - [[https://launchpad.net/~noobslab/+archive/ubuntu/apps][Apps collection by NoobsLab.com : NoobsLab]]
+  - [[http://linuxxcommand.blogspot.ca/2014/02/marlin-light-file-manager.html#.VTVCvOS3W93][Marlin Light File Manager | LinuxXcommand]]
+
+* [2015-04-20 Mon 14:19] Snapper backup tool                 :@linux:@backup:
+  - [[http://snapper.io/][Snapper, The ultimate Snapshot Tool for Linux]]
+  - [[https://github.com/mrBliss/snapshot-timemachine][mrBliss/snapshot-timemachine · GitHub]]
+
+* [2015-04-20 Mon 14:20] pipexec                        :@linux:@commandline:
+  - [[https://github.com/flonatel/pipexec][flonatel/pipexec · GitHub]]
+    Handling pipe of commands like a single command 
+
+* [2015-04-20 Mon 14:21] Rofi - A window switcher, run dialog and dmenu replacement :@linux:
+  - [[https://davedavenport.github.io/rofi//index.html][Rofi]]
+  - [[https://davedavenport.github.io/rofi//Scripts.html][Useful scripts]]
+  - [[https://github.com/DaveDavenport/rofi/blob/master/doc/rofi-manpage.markdown][rofi/rofi-manpage.markdown at master · DaveDavenport/rofi · GitHub]]
+
+* [2015-04-20 Mon 14:22] Subsonic password decrypt                :@subsonic:
+  - [[http://forum.subsonic.org/forum/viewtopic.php?t=3770][Subsonic Forum • View topic - I forgot my password]]
+
+* [2015-04-20 Mon 14:23] Wireless flash drive                :@storage:@wifi:
+  - [[http://www.bestbuy.com/site/sandisk-connect-32gb-usb-2-0-wireless-flash-drive-black/1542565.p][SanDisk Connect 32GB USB 2.0 Wireless Flash Drive Black SDWS2-032G-A57 - Best Buy]]
+
