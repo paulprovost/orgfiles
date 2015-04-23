@@ -44,8 +44,9 @@
   civilization that once stood on this land is gone. And that
   something killed it.
 
-* READING REAMDE - Neal Stephenson
+* READ REAMDE - Neal Stephenson
   :LOGBOOK:
+  - State "READ"       from "READING"    [2015-04-23 Thu 17:00]
   - State "READING"    from "TOREAD"     [2015-01-20 Tue 15:21]
   :END:
 
