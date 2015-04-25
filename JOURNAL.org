@@ -152,3 +152,45 @@
   [[http://discuss.tweepy.org/t/pip-install-tweepy-fails/209][Pip install tweepy fails - Need Help - Tweepy]]
   Turns out that you need to update pip:
   : pip install 'pip>1.5' --upgrade
+
+* [2015-04-19 Sun] Formation de lutherie - Maxime Baron
+  <2015-04-26 Sun 9:00>
+
+  Bonjour Paul
+
+  La formation approche à grand pas. Comme prévu, elle aura lieux
+  dimanche le 26 avril de 9 à 5h. Le nouveau local est au 5425, rue de
+  Bordeaux, suite 201-A. C'est au 2e, gardes la droite. La porte sera
+  probablement barrée. Je te donne le code pour débarrer la porte sur
+  le petit clavier noir : 1-2-3-4-5-6. Voici la liste des choses que
+  je vais couvrir.
+
+  - Comment inspecter une guitare à ajuster
+  - Nettoyage de la touche et des frettes
+  - Survol des produits nettoyants
+  - Installation des cordes
+  - Ajustement de la tige de renfort : dans quel cas et comment la tendre ou la détendre
+  - Comment ajuster un manche qui est warpé (croche)
+  - Ajustement de l’action (électrique, acoustique, basse, classique)
+  - Ajustement de l’angle du manche (sur guitares bolt-on)
+  - Ajustement des harmoniques (électriques)
+  - Ajustement sillet de tête
+  - Ajustement des pickups (électriques, basses)
+  - C’est quoi un radius? Comment les vérifier et les ajuster
+  - Inspection et ‘’fine-tuning’’
+
+  Comme tu peux voir, c'est assez chargé. Un 30 minutes est prévu pour
+  la période de lunch ou les histoires et anecdotes seront les
+  bienvenues!
+
+  Avec ça je remets un document aide mémoire. Je vous remets un appui
+  pour stabiliser les guitares lors de vos ajustements. Ce que tu dois
+  emmener: une guitare, des cordes, peg winder, cutter, accordeur,
+  jack, crayon à mine et ton lunch. Nous avons un frigo et un
+  micro-ondes.
+
+  Les 300$ restant seront payés en argent comptant à la fin de la
+  journée (facture remise).
+
+  Bien hâte au 26 Paul!
+  Si tu as des questions, fais-moi signe.
