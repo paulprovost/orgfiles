@@ -4,6 +4,49 @@
 #+DESCRIPTION: 
 #+FILETAGS: @redbeardcables
 
+* Rob Chapman tour - Boston - Mosleys on the Charles
+  <2015-05-12 Tue>
+** [2015-04-25 Sat] E-mail to Rob Chapman
+
+   Hi Rob,
+
+   I've been following your endeavors and your YouTube channel for
+   some years (prior to you starting Chapman Guitars), and I must say
+   it's been quite a ride. It amazes me how much you've accomplished
+   under your own power. Yes, you've had support both from us, the
+   fans, and from people closer to you, but I feel the push comes from
+   your energy and positive attitude. So congrats for that.
+
+   Which brings me to the other reason for this e-mail. Somewhat
+   inspired by what you've done, I've started a company making custom
+   guitar cables. Even more of a niche market, I know, but my personal
+   circumstances (a bit older, kids, etc.) allowed me to do this
+   comfortably. The premise is that I assemble all cables myself by
+   hand, using high-quality components (low-capacitance cable, plugs,
+   sleeving). I am definitely not in the Elixir/Monster Cable vibe,
+   but I feel I make a quality product at an affordable price. And
+   with personal attention.
+
+   So I would like to ask to benefit from your experience. I intend to
+   make the drive down from Montreal Canada to Boston for the Chapman
+   Guitars American Expedition. I can bring with me two guitar cables
+   (one for yourself and one for Rebea, of course), both as a thank
+   you for inspiring me to start my own little adventure and to ask
+   for your advice on them. Now I understand that this might not be
+   the correct venue to hand you stuff (overstuffing lugagge is never
+   a good idea!), and I would be quite willing to ship the cables to
+   England if that's better. But I'll be in Boston regardless to shake
+   your hand and listen to some great guitar playing. I've been
+   playing myself for 30-some years.
+
+   So thanks for reading, and see you in Boston!
+
+   Paul Provost
+
+   P.S.: You can see pictures and get some info at
+   https://www.facebook.com/redbeardcables. The e-commerce site is
+   unfortunately not quite ready yet...
+
 * [2015-04-01 Wed] Some TODOs
 ** STARTED Fill the face and other parts of logo so it works as transparent :@logo:
    :LOGBOOK:
