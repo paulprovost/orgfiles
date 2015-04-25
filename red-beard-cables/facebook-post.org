@@ -4,16 +4,32 @@
 #+DESCRIPTION: 
 #+FILETAGS: @redbeardcables
 
-* English
-  Hand built guitar cables, from low-capacitance cable, high quality
-  plugs and flexible sleeving. Length and type of plugs according to
-  your specifications. Available in red, blue or black (additional
-  colors on request). Personalized service and quick turnaround. Want
-  one? Contact me!
+* Generic
+** English
+   Hand built guitar cables, from low-capacitance cable, high quality
+   plugs and flexible sleeving. Length and type of plugs according to
+   your specifications. Available in red, blue or black (additional
+   colors on request). Personalized service and quick turnaround. Want
+   one? Contact us!
 
-* French
-  Cables de guitare assemblés à la main, avec du cable basse
-  capacitance, des prises de qualité et une gaine flexible. Vous
-  spécifiez la longueur et le type de prise. Disponible en rouge, bleu
-  ou noir (d'autres couleurs disponibles sur demande). Service
-  personnalisé et rapide. Vous en voulez un? Contactez nous!
+** French
+   Cables de guitare assemblés à la main, avec du cable basse
+   capacitance, des prises de qualité et une gaine flexible. Vous
+   spécifiez la longueur et le type de prise. Disponible en rouge, bleu
+   ou noir (d'autres couleurs disponibles sur demande). Service
+   personnalisé et rapide. Vous en voulez un? Contactez nous!
+
+* Specific
+** English
+   15' cable in red with a 90 degree plug for Frédéric Mailloux in
+   Chambly. Thanks Frédéric!
+
+   Hand-built using low-capacitance cables and high-quality plugs.
+   Want one for yourself? Contact us!
+
+** French
+   Cable de 15’ en rouge avec une prise à 90 pour Frédéric Mailloux de
+   Chambly. Merci Frédéric!
+
+   Assemblé à la main avec du cable basse capacitance et des prises de
+   qualité. Vous en voulez un aussi? Contactez nous!
