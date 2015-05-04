@@ -2050,3 +2050,106 @@
   - [[http://www.digikey.ca/product-detail/en/35LJNAU/SC1481-ND/2754486][35LJNAU Switchcraft Inc. | SC1481-ND | DigiKey]]
   - [[http://www.redco.com/Switchcraft-35LJN.html][Switchcraft 35LJN | Redco Audio]]
   - [[http://www.redco.com/Rean-Neutrik-NYS240L.html][NYS240L]]
+
+* [2015-05-04 Mon 07:09] Iterm2 notes                          :@osx:@iterm2:
+  [[https://voidius.github.io/2013/03/30/open-folder-in-iterm2-from-finder.html][- Open folder in iTerm2 from Finder]]
+  - [[http://iosdevelopertips.com/tools/open-iterm2-terminal-window-at-current-finder-path.html][Open iTerm2 Terminal At Current Finder Path Via AppleScript]]
+  - [[https://gist.github.com/eric-hu/5846890][Apple script to open an iterm2 tab from right-clicking on a file or folder in Finder]]
+    To use: (1) Open Automator (2) Create a new service (3) Change
+    "Service receives selected" drop downs to "Files or folders" in
+    "Finder" (4) Select "Run applescript" from the sidebar, then
+    paste this script in and save
+  - [[https://iterm2.com/dynamic-profiles.html][Dynamic Profiles - iTerm2 - Mac OS Terminal Replacement]]
+
+* [2015-05-04 Mon 07:15] Pocket knife                                :@tobuy:
+  - [[http://www.amazon.com/Spyderco-Delica4-Lightweight-Ground-PlainEdge/dp/B003CH3V5E/ref=sr_1_1?ie=UTF8&qid=1402606444&sr=8-1&keywords=spyderco%2Bdelica&tag=gizmodoamzn-20&ascsubtag=c68ab88db186f88ba47dbe7b80ba153a7416f26c&rawdata=%5Br%7Chttps%3A%2F%2Fwww.google.ca%2F%5Bt%7Clink%5Bp%7C1590084875%5Ba%7CB003CH3V5E%5Bau%7C5742849424874333163][Amazon.com : Spyderco Delica4 Lightweight FRN Flat Ground PlainEdge Knife (Gray) : Hunting Folding Knives : Sports & Outdoors]]
+
+* [2015-05-04 Mon 07:15] OpenCart tutorials                       :@opencart:
+  - [[http://code.tutsplus.com/series/from-beginner-to-advanced-in-opencart--cms-669][From Beginner To Advanced in OpenCart - Tuts+ Code Tutorials]]
+  - [[http://code.tutsplus.com/articles/from-beginner-to-advanced-in-opencart-configuration--cms-20776][From Beginner To Advanced in OpenCart: Configuration - Tuts+ Code Article]]
+  - [[https://opencart-training.com/adding-information-pages#.VUdR_aaafHj][Tutorial: Adding Information Pages]]
+
+* [2015-05-04 Mon 07:16] YouTube link dump                         :@towatch:
+  - [[https://www.youtube.com/watch?v=EiZqZfwZ074][Barry Stock's Extreme Guitar Rig Rundown (Likely the most indepth breakdown of a guitar rig ever!) - YouTube]]
+  - [[https://www.youtube.com/watch?v=wNb-RSlmIA0][Intro to Max for Live: Ableton Tutorial Video - YouTube]]
+  - [[https://www.youtube.com/watch?v=lAp6jk2VVgA][9 Lives of Ableton: Part 3 - Working With Instruments and Racks - YouTube]]
+  - [[https://www.youtube.com/watch?v=BIygEnn281U&spfreload=10][FAW - Circle 2.0 First Look - YouTube]]
+
+* [2015-05-04 Mon 07:18] Ableton live racks                 :@music:@ableton:
+  - [[http://www.askaudiomag.com/articles/midi-chain-racks-in-ableton-live][MIDI Chain Racks in Ableton Live : AskAudio Magazine]]
+
+* [2015-05-04 Mon 07:22] tmux cheatsheets + copy paste                :@tmux:
+  - [[https://robots.thoughtbot.com/tmux-copy-paste-on-os-x-a-better-future][tmux Copy & Paste on OS X: A Better Future]]
+  - [[http://chrisholtz.com/blog/tmux-copy-and-paste/][Tmux copy and paste]]
+  - [[http://tmuxcheatsheet.com/][Tmux Cheat Sheet & Quick Reference]]
+
+* [2015-05-04 Mon 07:24] Converting bitmaps to vector             :@graphics:
+  - [[http://www.effectmatrix.com/mac-appstore/Super-Vectorizer.htm][Super Vectorizor]]
+    A professional vector trace tool that enables the conversion from
+    a raster bitmap images to a scalable vector graphic
+
+* [2015-05-04 Mon 07:25] Dired notes and enhancements         :@emacs:@dired:
+  - [[https://truongtx.me/2013/04/02/emacs-async-file-copying-in-dired-using-rsync/][Emacs - Async File Copying in Dired using Rsync]]
+  - [[https://truongtx.me/2013/04/08/emacs-async-file-copying-with-rsync-update/][Emacs - Async File copying with Rsync - Update Apr 8 2013]]
+  - [[https://truongtx.me/2013/04/25/dired-as-default-file-manager-7-dired-async/][Dired as Default File Manager - Dired Async]]
+  - [[https://truongtx.me/tmtxt-dired-async.html][tmtxt-dired-async]]
+  - [[https://truongtx.me/2014/03/02/dired-as-default-file-manager-8-enhance-wdired/][Dired as Default File Manager - Enhance Wdired]]
+
+* [2015-05-04 Mon 07:26] Nylon wallets                               :@tobuy:
+  - [[http://shop.nordstrom.com/th/mens-ballistic-nylon-wallet][Mens Ballistic Nylon Wallet | Nordstrom | Male Ballistic Nylon Wallet, Gentlemen Ballistic Nylon Wallet]]
+  - [[http://www.rogue-industries.com/products/rogue-wallet-ballistic-nylon-series-with-walletguard][Ballistic Nylon Rogue Wallet | Rogue Industries]]
+
+* [2015-05-04 Mon 07:27] DIY Passive DI                     :@audio:@di:@diy:
+  - [[http://www.diyrecordingequipment.com/blogs/news/15851820-how-to-build-a-boutique-passive-di][How to Build a Boutique Passive DI – DIYRE]]
+  - [[http://diyproaudio.blogspot.ca/2014/04/diy-di-box-active-direct-injection-at.html?m=1][D.I.Y Pro Audio: DIY DI Box. Active Direct Injection at its best.]]
+  - [[http://www.sweetwater.com/store/detail/MiniSumBox][Switchcraft 318 Mini AudioStix | Sweetwater.com]]
+
+* [2015-05-04 Mon 07:37] Affinity Designer tips      :@affinitydesigner:@osx:
+  - [[https://affinity.serif.com/en-gb/tutorials/][Affinity Video Learning Zone]]
+  - [[http://www.creativebloq.com/15-pro-user-tips-affinity-designer][15 pro user tips for Affinity Designer | Creative Bloq]]
+
+* [2015-05-04 Mon 07:38] Restaurants from TV                   :@restaurants:
+  - [[http://www.dinettetriplecrown.com/][Dinette Triple Crown]]
+  - [[http://depanneurlepickup.com/][Dépanneur le Pick Up]]
+
+* [2015-05-04 Mon 07:41] Mechanical keyboard                      :@keyboard:
+  - [[https://codekeyboards.com/][CODE Mechanical Keyboard]]
+    Jeff Atwood designed mechanical keyboard
+
+* [2015-05-04 Mon 07:46] Linnstrument Ableton notes  :@ableton:@linnstrument:
+  - [[http://www.sweetwater.com/insync/how-to-set-up-multichannel-plug-ins-in-ableton-live/][How to Set Up Multichannel Plug-ins in Ableton Live]]
+  - [[http://www.soundonsound.com/sos/jul06/articles/livetech_0706.htm][Using Virtual Instruments In Ableton Live]]
+  - [[http://www.askaudiomag.com/articles/using-multitimbral-instruments-in-ableton-live][Using Multitimbral Instruments in Ableton Live : AskAudio Magazine]]
+
+* [2015-05-04 Mon 07:48] Max for Live devices :@audio:@maxforlive:@todownload:
+  - [[https://cycling74.com/toolbox/midi-monitor-view-all-incoming-midi-data-with-js-and-lcd/][MIDI Monitor - view all incoming MIDI data with JS and LCD]]
+  - [[https://www.ableton.com/en/packs/gratis-hits/][Gratis Hits | Ableton]]
+  - [[https://www.ableton.com/en/packs/max-live-pluggo-live/#?item_type=free][Max for Live Pluggo for Live | Ableton]]
+  - [[https://www.ableton.com/en/packs/max-live-building-tools/#?item_type=free][Max for Live Building Tools | Ableton]]
+  - [[http://roberthenke.com/technology/m4l.html][Max For Live Devices by Robert Henke]]
+  - [[http://createdigitalmusic.com/2012/02/max-for-live-gems-easier-midi-mapping-automation-recording-and-alternative-sequencing/][Max for Live Gems: Easier MIDI Mapping, Automation Recording, and Alternative Sequencing - Create Digital Music]]
+
+* [2015-05-04 Mon 07:53] Nice Neutrik USB jacks/plugs         :@usb:@neutrik:
+  - [[http://www.neutrik.com/en/multimedia/usb/nausb-w-b][NAUSB-W-B - Neutrik]]
+  - [[http://www.neutrik.com/en/multimedia/usb/nausb-w][NAUSB-W - Neutrik]]
+  - [[http://www.neutrik.com/en/multimedia/usb/nkusb][NKUSB-* - Neutrik]]
+
+* [2015-05-04 Mon 07:55] Meta Org agenda references      :@org:@agenda:@meta:
+  - [[http://orgmode.org/worg/org-tutorials/org-custom-agenda-commands.html][Custom Agenda Commands]]
+  - [[https://www.gnu.org/software/emacs/manual/html_node/org/Storing-searches.html][The Org Manual: Storing searches]]
+  - [[https://www.gnu.org/software/emacs/manual/html_node/org/Agenda-Views.html#Agenda-Views][The Org Manual: Agenda Views]]
+
+* [2015-05-04 Mon 07:56] Personal clouds                             :@cloud:
+  - [[https://pyd.io/][Pydio, formerly AjaXplorer]]
+  - [[https://pyd.io/apps/pydio-sync/][PydioSync (for v6 and later) | Pydio, formerly AjaXplorer]]
+  - [[http://seafile.com/en/home/][Seafile]]
+  - [[http://www.tonido.com/][Run your Own Personal Cloud]]
+  - [[https://www.filedrum.com/#Start][Filedrum. Your Files Everywhere.]]
+  - [[https://syncthing.net/][Syncthing]]
+
+* [2015-05-04 Mon 07:57] Music                 :@music:@tolisten:@todownload:
+  - [[http://www.cyan-music.com/releases-044.html][CYAN | RELEASE 044 | JAJA - STARFIELDS]]
+  - [[http://www.cyan-music.com/genres-ambient.html][CYAN | GENRES | AMBIENT]]
+
+* [2015-05-04 Mon 07:58] Backup verification                   :@osx:@backup:
+  - [[http://www.n8gray.org/blog/2007/04/27/introducing-backup-bouncer/][n8gray.org: Introducing Backup-Bouncer]]

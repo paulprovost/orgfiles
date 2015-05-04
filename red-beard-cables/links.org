@@ -4,6 +4,76 @@
 #+DESCRIPTION: 
 #+FILETAGS: @redbeardcables
 
+* [2015-05-04 Mon] Stripboard/Veroboard              :@stripboard:@veroboard:
+  - [[http://www.veroboard.com/index.php?main_page%3Ddown_for_maintenance&zenid%3De8de77717281f13f55d21d6e88ec08f4][Veroboard, Electronic Ready PCB, Stripboard, Perfboard, Components]]
+  - [[http://www.futurlec.com/ProtoBoards.shtml][Prototyping Boards]]
+  - [[http://www.freestompboxes.org/viewtopic.php?p=243569][freestompboxes.org • View topic - Veroboard in the USA?]]
+  - [[http://www.amazon.ca/s/ref=nb_sb_noss_1?url=search-alias%3Daps&field-keywords=stripboard][Amazon.ca: stripboard]]
+  - [[http://abra-electronics.com/boards/printed-circuit-boards/st3u-general-purpose-stripboard-st3u.html][ST3U General Purpose StripBoard]]
+
+* [2015-05-04 Mon] Power links                                     :@dcpower:
+  - [[http://www.beavisaudio.com/techpages/PedalPower/][Guitar Pedal Power]]
+  - [[https://learn.sparkfun.com/tutorials/connector-basics/power-connectors][Connector Basics - learn.sparkfun.com]]
+
+* [2015-05-04 Mon] Buffers                                         :@buffers:
+  - [[http://beavisaudio.com/techpages/Buffers/][Guitar Buffer Circuits]]
+
+* [2015-05-04 Mon] Capacitor conversion                         :@capacitors:
+  - [[http://www.justradios.com/uFnFpF.html][Capacitor uF - nF - pF Conversion Chart]]
+  - [[http://www.convertunits.com/from/nanofarad/to/picofarad][Convert nanofarad to picofarad - Conversion of Measurement Units]]
+
+* [2015-05-04 Mon] Business card maker options               :@businesscards:
+  - [[http://www.jukeboxprint.com/full_colour_business_cards.php][Business Cards from Jukeboxprint.com]]
+  - [[http://ca.moo.com/products/business-cards.html][MOO Business Cards | print custom business cards online]]
+
+* [2015-05-04 Mon] Business notes                         :@business:@toread:
+  - [[http://www.ic.gc.ca/eic/site/cd-dgc.nsf/eng/cs01191.html][Choosing a name… - Corporations Canada]]
+  - [[http://www.ic.gc.ca/eic/site/cd-dgc.nsf/fra/cs04579.html][Alors, vous songez à constituer une société - Corporations Canada]]
+  - [[http://sbinfocanada.about.com/od/bizregistration/a/businessreghub.htm][Starting a Business in Canada - Register a Name]]
+  - [[http://sbinfocanada.about.com/od/formsofbusinessownership/a/formbusinesshub.htm][Comparison of Forms of Business Ownership in Canada]]
+
+* [2015-05-04 Mon] 13-pin connectors                     :@connectors:@13pin:
+  - [[https://duckduckgo.com/?q=female+13+pin+din+socket&ia=products&iai=B00CQNOZLOhttp%3A%2F%2Fecx.images-amazon.com%2Fimages%2FI%2F41N4ADVPMhL.jpghttp%3A%2F%2Fecx.images-amazon.com%2Fimages%2FI%2F41N4ADVPMhL._SL160_.jpg][female 13 pin din socket at DuckDuckGo]]
+  - [[http://www.amazon.com/Female-S-video-Socket-Connector-Adapter/dp/B00CQNOZLO%3FSubscriptionId%3DAKIAILSHYYTFIVPWUY6Q%26tag%3Dduckduckgo-d-20%26linkCode%3Dxm2%26camp%3D2025%26creative%3D165953%26creativeASIN%3DB00CQNOZLO][Amazon.com: PCB Mount DIN 13 Pin Female S-video Socket Connector Adapter: Electronics]]
+  - [[http://www.vetco.net/catalog/product_info.php?products_id=6572][13 Pin DIN Female Inline Jack Connector - PAN-DIN-46100-13S]]
+  - [[http://coolnovelties.co.uk/coolnovelties/connectors/135-13-pin-din-female-chassis-panel-mount-socket-connector.html?id_product=168&isolang=en][13 pin DIN Female Chassis/Panel Mount Socket Connector]]
+  - [[https://duckduckgo.com/?q=13+pin+DIN+Female+Chassis%2FPanel+Mount+Socket+Connector][13 pin DIN Female Chassis/Panel Mount Socket Connector at DuckDuckGo]]
+  - [[http://www.packetradio.com/catalog/index.php?main_page=product_info&products_id=706][13PDCMJ 13 Pin Din, Chassi-Mounted Jack 13 Pin Female with Solder pins Chassi-Mounted 13PDCMJ - $15.95 : www.PacketRadio.com, Where Ham Radio Operators come to shop]]
+  - [[http://www.sweetwater.com/store/detail/GKC10][Roland GKC-10 - 30' | Sweetwater.com]]
+  - [[http://web.acsalaska.net/~lonkelly/13Pin.html][13-Pin Connector Replacement]]
+  - [[http://www.ebay.com/sch/items/?_nkw=roland+13+pin&_sacat=&_ex_kw=&_mPrRngCbx=1&_udlo=&_udhi=&_sop=12&_fpos=&_fspt=1&_sadis=&LH_CAds=&rmvSB=true][roland 13 pin | eBay]]
+  - [[http://www.ebay.com/itm/us-seller-30-FOOT-13-PIN-LOCKING-EXTENSION-MALE-FEMALE-CABLE-ROLAND-PLANET-WAVES/281258820345?_trksid=p2047675.c100005.m1851&_trkparms=aid%3D222007%26algo%3DSIC.MBE%26ao%3D1%26asc%3D30084%26meid%3D1e2316110ac043d79c1c5a44f9358873%26pid%3D100005%26rk%3D5%26rkt%3D6%26sd%3D271314597330&rt=nc][US Seller 30 Foot 13 Pin Locking Extension Male Female Cable Roland Planet Waves | eBay]]
+  - [[http://music-electronics-forum.com/t11475/][Roland/Yamaha guitar synth 13-pin connector type? availability?]]
+  - [[http://www.cablesandconnectors.com/26500-26.HTM][www.cablesandconnectors.com/26500-26]]
+  - [[http://www.unfretted.com/loader.php?LINK=/profs/roland_gk][Unfretted - Fretless Guitar Resource.]]
+  - [[http://www.hosiden.co.jp/en/product/category/connector.html][Connectors | Products Information: Search by Product Category | Hosiden]]
+  - [[http://www.reichelt.de/EB-DIO-13/3/index.html?&ACTION=3&LA=446&ARTICLE=7277&artnr=EB-DIO+13&SEARCH=EB-DIO][EB-DIO 13: MINI-DIN-Printbuchse, 13-polig Atari bei reichelt elektronik]]
+  - [[http://www.connectworld.net/cgi-bin/hello-cables/DN13FS-L][Din - 13 Pin Female Solder Connector with Latch, Parts Mini Din]]
+  - [[http://www.redco.com/Redco-DIN13FP.html][Redco DIN13FP | Redco Audio]]
+
+* [2015-05-04 Mon] OpenCart theme                                :@@opencart:
+  - [[http://www.opencart.com/index.php?route=extension/extension/info&extension_id=4554&path=1&filter_license=0&filter_download_id=37][Extensions - A ThemeGlobal Lite - 100% FREE Responsive OC 2.0 Theme]]
+
+* [2015-05-04 Mon] 3:1 heat shrink                              :@heatshrink:
+  - [[http://www.techflex.com/prod_h3n.asp][Techflex - 3:1 Polyolefin Heatshrink Tubing]]
+  - [[https://www.wirecare.com/products.asp?prodline=H3][3:1 Polyolefin Heatshrink Tubing at WireCare.com]]
+  - [[http://www.cabletiesandmore.ca/heatshrink-3-1-single_wall.php][3:1 Single Wall Heat Shrink Tubing - cabletiesandmore]]
+
+* [2015-05-04 Mon] Vinyl stickers                                 :@stickers:
+  - [[http://www.orafol.com/gp/americas/en/products/digital-screen-printing-films][Digital & Screen Printing Films - Graphic Products]]
+  - [[http://www.expressionsvinyl.com/orajet-3651.html][Oracal Orajet 3651 Vinyl Spec]]
+  - [[http://www.stickersthatstick.com/material/sandy-matte-vinyl/][Sandy matte vinyl | StickersThatStick.com]]
+    Check this one
+  - [[http://www.stickernut.ca/die-cut-kiss-cut-stickers/][Die Cut / Kiss Cut Stickers - sticker nut]]
+  - [[http://clubcard.ca/product/full-colour-custom-diecut-stickers-1inch][Print Custom Shape Vinyl Stickers In Vancouver, Clubcard Printing, Canada, Die-Cut Sticker Printers]]
+  - [[http://www.printaholic.com/how-to/stickers/][Sticker How-To's | Make Awesome Stickers | Printaholic.com]]
+  - [[https://www.stickermule.com/products/die-cut-stickers][Die Cut Stickers - Free Shipping - Sticker Mule]]
+  - [[http://www.jakprints.com/die-cut-stickers#page_2021_prod_7232][Die Cut Stickers | Custom Shape Stickers | Jakprints, Inc]]
+  - [[http://www.standoutstickers.com/custom-stickers/vinyl/die-cut][Die Cut Vinyl Stickers - StandOut Stickers]]
+  - [[http://stickerobot.com/products/die-cut-stickers][Die Cut Stickers - Custom Shaped Vinyl Diecut Stickers as Unique as Your Design | Sticker Robot]]
+  - [[http://www.bluebeeprinting.com/diecut-stickers/][Custom Vinyl Die Cut Stickers | Personalized Printed Stickers]]
+  - [[http://www.stickylife.com/Custom-Stickers-and-Decals][Custom Vinyl Decals - Design and Buy Personalized Window Stickers]]
+
 * [2015-04-17 Fri] Metal printing                                 :@printing:
   - [[http://www.decoramametalfr.ca/][Impression sur métal - Plaques d'Identification - Sérigraphie - Décorama Métal Inc - Châteauguay - Quebec]]
   - [[http://www.decoramametalfr.calls.net/french/home.html][Décorama Métal inc. / Accueil]]
