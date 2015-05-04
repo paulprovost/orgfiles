@@ -4,6 +4,14 @@
 #+DESCRIPTION: 
 #+FILETAGS: @redbeardcables
 
+* [2015-05-04 Mon] Supplier - Tayda                              :@suppliers:
+  - [[http://www.taydaelectronics.com/][Electronic Parts Online Store - Tayda Electronics]]
+
+* [2015-05-04 Mon] Lumberg DC Jacks                                     :@dc:
+  - [[http://canada.newark.com/lumberg/1614-09/dc-power-connector-socket-500ma/dp/13M3783][1614 09 LUMBERG Power Entry Connectors | 13M3783 | Newark element14 Canada]]
+  - [[http://www.lumberg.com/main/common/serie.asp?ser=016&cat=4&lang=eng][Lumberg]]
+  - [[http://www.lumberg.com/Produkte/PDFs/1614_09.pdf][1614 09 - 1614_09.pdf]]
+
 * [2015-05-04 Mon] Stripboard/Veroboard              :@stripboard:@veroboard:
   - [[http://www.veroboard.com/index.php?main_page%3Ddown_for_maintenance&zenid%3De8de77717281f13f55d21d6e88ec08f4][Veroboard, Electronic Ready PCB, Stripboard, Perfboard, Components]]
   - [[http://www.futurlec.com/ProtoBoards.shtml][Prototyping Boards]]
@@ -17,6 +25,12 @@
 
 * [2015-05-04 Mon] Buffers                                         :@buffers:
   - [[http://beavisaudio.com/techpages/Buffers/][Guitar Buffer Circuits]]
+  - [[http://www.generalguitargadgets.com/][General Guitar Gadgets | General Guitar Gadgets is the best DIY stompbox site on the internet! We feature projects, kits and ready-to-solder PCBs.]]
+  - [[http://store.generalguitargadgets.com/pcbs/pcbs-boosters/icbuf-rts-pcb.html][IC Buffer RTS PCB - PCBs - Boosters - PCBs]]
+    Looks interesting
+  - [[http://store.generalguitargadgets.com/pcbs/pcbs-boosters/ic2buf-rts-pcb.html][Dual IC Buffer RTS PCB - PCBs - Boosters - PCBs]]
+  - [[http://www.generalguitargadgets.com/effects-projects/boosters/buffer-ic/][Buffer – IC | General Guitar Gadgets]]
+  - [[http://www.instructables.com/id/iPhone-iTouch-guitar-cable-buffer/step2/PCB/][IPhone / iTouch guitar cable & buffer : PCB]]
 
 * [2015-05-04 Mon] Capacitor conversion                         :@capacitors:
   - [[http://www.justradios.com/uFnFpF.html][Capacitor uF - nF - pF Conversion Chart]]

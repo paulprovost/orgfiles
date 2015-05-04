@@ -2153,3 +2153,7 @@
 
 * [2015-05-04 Mon 07:58] Backup verification                   :@osx:@backup:
   - [[http://www.n8gray.org/blog/2007/04/27/introducing-backup-bouncer/][n8gray.org: Introducing Backup-Bouncer]]
+
+* [2015-05-04 Mon 10:44] True bypass strip                     :@diy:@guitar:
+  - [[http://www.singlecoil.com/tb-strip/tbstrip.html][..:: How to make your own True Bypass Strip ::.. taken from www.singlecoil.com]]
+
