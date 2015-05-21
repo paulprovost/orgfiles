@@ -4,6 +4,12 @@
 #+DESCRIPTION: 
 #+FILETAGS: @redbeardcables
 
+* [2015-05-21 Thu 15:19] Lubricant links                          :@drilling:
+  - [[http://www.renodepot.com/en/lubricant-79915146][LENOX - Lubricant | Réno-Dépôt]]
+  - [[http://www.oatey.com/brands/oatey/products/oils-lubricants-and-hand-cleaners/cutting-oil/clear-thread-cutting-oil][Clear Thread Cutting Oil | Oils, Lubricants & Hand Cleaners | Oatey]]
+  - [[http://www.homedepot.ca/product/wd-40-specialist-machine-engine-degreaser/405773][WD-40 Specialist | WD-40 Specialist Machine & Engine Degreaser | Home Depot Canada]]
+  - [[http://www.homedepot.ca/product/4-oz-bottle-oil-with-syncolon-ptfe-lubricant/849392][SuperLube | 4 oz. Bottle Oil with Syncolon (PTFE) Lubricant | Home Depot Canada]]
+
 * [2015-05-04 Mon] Supplier - Tayda                              :@suppliers:
   - [[http://www.taydaelectronics.com/][Electronic Parts Online Store - Tayda Electronics]]
 
