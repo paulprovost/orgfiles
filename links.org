@@ -2166,3 +2166,8 @@
   - [[http://www.footsmart.com/Default.aspx][Women's Shoes, Men's Shoes, Walking Shoes, Sandals, Slippers, Socks, Support Hose, Foot Care, Orthopedic & Comfort Products :: FootSmart]]
   - [[http://www.shoebuy.com/][Shoes at Shoebuy.com - FREE Shipping & Returns]]
 
+* [2015-05-21 Thu 15:24] DIY Pedal notes               :@diy:@guitar:@pedals:
+   - [[http://buildyourownclone.com/][Welcome to BYOC – Build Your Own Clone]]
+   - [[http://www.guitareffectscanada.com/][Guitar Effects Canada, The Candy Store For Guitarists]]
+   - [[http://guitarkitbuilder.com/pedaleffect-kits-directory/][Pedal/Effect Kits Directory - GuitarKitBuilder]]
+
