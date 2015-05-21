@@ -2157,3 +2157,12 @@
 * [2015-05-04 Mon 10:44] True bypass strip                     :@diy:@guitar:
   - [[http://www.singlecoil.com/tb-strip/tbstrip.html][..:: How to make your own True Bypass Strip ::.. taken from www.singlecoil.com]]
 
+* [2015-05-21 Thu 15:17] Shoes                                       :@shoes:
+  - [[http://www.taillesplus.ca/chaussures.php][Chaussures grandes tailles, pointures jusqu'à 16]]
+  - [[http://www.bamason.com/][Men's and Women's brand name shoes available at BAMason.com]]
+  - [[http://www.chaussezengrand.com/collection-homme-men/pointure-size-15-nouveau-new/][pointure/size 15 Nouveau/New - Chaussures grandes tailles Large size shoes]]
+  - [[http://www.clarks.com/][Browse Mens, Womens and Kids shoes at Clarks]]
+  - [[http://www.footaction.com/][Casual Shoes, Sneakers & Clothing | Footaction]]
+  - [[http://www.footsmart.com/Default.aspx][Women's Shoes, Men's Shoes, Walking Shoes, Sandals, Slippers, Socks, Support Hose, Foot Care, Orthopedic & Comfort Products :: FootSmart]]
+  - [[http://www.shoebuy.com/][Shoes at Shoebuy.com - FREE Shipping & Returns]]
+
