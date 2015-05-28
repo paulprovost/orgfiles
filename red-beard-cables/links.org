@@ -4,6 +4,10 @@
 #+DESCRIPTION: 
 #+FILETAGS: @redbeardcables
 
+* [2015-05-28 Thu 16:24] Killswitch                                 :@silent:
+  - [[http://www.premierguitar.com/articles/How_to_Build_a_True_Bypass_TunerMute_Box][How to Build a True-Bypass Tuner/Mute Box]]
+  - [[http://aborrowedflame.com/2012/05/little-red-button-a-diy-mute-killswitch-stompbox/][a DIY mute / killswitch stompbox]]
+
 * [2015-05-21 Thu 15:19] Lubricant links                          :@drilling:
   - [[http://www.renodepot.com/en/lubricant-79915146][LENOX - Lubricant | Réno-Dépôt]]
   - [[http://www.oatey.com/brands/oatey/products/oils-lubricants-and-hand-cleaners/cutting-oil/clear-thread-cutting-oil][Clear Thread Cutting Oil | Oils, Lubricants & Hand Cleaners | Oatey]]
