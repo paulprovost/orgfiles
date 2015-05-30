@@ -1,0 +1,24 @@
+#+TITLE: Projet de connection pour Phaël Bouchard
+#+AUTHOR: Paul Provost
+#+EMAIL: paul@bouzou.org
+#+DESCRIPTION: 
+#+FILETAGS: @redbeardcables:@custom:@phaelbouchard
+
+* [2015-04-11 Sat] Contact Facebook
+** Détails personnels
+   - Page [[https://www.facebook.com/Phael.Bouchard][Facebook]]
+   - Page [[https://www.facebook.com/RedLightMachine][Facebook]] de groupe
+   - Téléphone: (450)272-5462
+   - Local:
+     141 Sainte-Marguerite
+     Saint-Jean Sur Richelieu
+     [[https://www.google.com/maps/place/141%2BRue%2BSainte%2BMarguerite,%2BSaint-Jean-sur-Richelieu,%2BQC%2BJ3B%2B4A1,%2BCanada/@45.277043,-73.256237,17z/data%3D!4m2!3m1!1s0x4cc9a2806a8341bf:0xa979ef5c9343a8f3][Google Maps]]
+** Détails projet
+   [[file:Pedalboard-cable-layout.pdf][- Pedalboard-cable-layout]]
+     10 conducteurs (TS + TRS + TS + TRS) + 9V
+   - Passer le tout par un 13-pin Roland
+   - Possède déjà les panneaux et du hardware
+*** TODO Trouver des jacks DIN13 locking compatibles Roland
+*** TODO Buffer pour le cable de backup
+*** Meeting initial avec Phaël Bouchard au local
+    <2015-04-12 Sun 15:00>
