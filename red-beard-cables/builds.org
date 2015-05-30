@@ -12,6 +12,42 @@
   :GuitarPlug_ALL: Straight StraightSilent Angle AngleSilent
   :END:
 
+** WAITING [[https://www.facebook.com/keven.lapointe.7][Keven Lapointe]]
+   :LOGBOOK:
+   - State "WAITING"    from "RECEIVED"   [2015-05-30 Sat 14:49] \\
+     Waiting for Amphenol XLR connectors
+   - State "RECEIVED"   from ""           [2015-05-30 Sat 14:48]
+   :END:
+   :PROPERTIES:
+   :How: Facebook
+   :Type: XLR
+   :Length: 25 ft
+   :Color: Blue
+   :Price: $55
+   :Payment: Cash
+   :END:
+
+** WAITING [[https://www.facebook.com/MerryMonkMayhem][André Lambert]]
+   :LOGBOOK:
+   - State "WAITING"    from "RECEIVED"   [2015-05-30 Sat 14:51] \\
+     Waiting on green TechFlex and Plugs
+   - State "RECEIVED"   from ""           [2015-05-25 Mon 16:00]
+   :END:
+   :PROPERTIES:
+   :How: Facebook/RedBeardCables
+   :Length: 15 ft
+   :Color: green
+   :GuitarPlug: angled
+   :Length: 15 ft
+   :Color: green
+   :GuitarPlug: angled
+   :Length: 20 ft
+   :Color: green
+   :GuitarPlug: angled
+   :Price: $140
+   :Payment: Cash
+   :END:
+
 ** SHIPPED Sébastien Gaudet
    :LOGBOOK:
    - State "SHIPPED"    from "BUILDING"   [2015-04-15 Wed 12:30]
