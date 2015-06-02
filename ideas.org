@@ -91,3 +91,35 @@
 * TODO Use org agenda as real agenda                                 :@emacs:
   - [[http://kokoko.fluxionary.net/dump-emacs-org-mode-agendas-and-todo-lists-to-the-command-line/][Dump Emacs org-mode agendas and todo lists to the command line]]
 
+* TODO linnstrument flow for Ableton                 :@linnstrument:@project:
+** What
+   - Be able to use the linnstrument to play, record and edit on a
+     single track in Ableton live.
+   - Be able to use per-note channel with all 3D expression (volume,
+     timbre and pitch).
+   - Be able to use split mode to record to two tracks.
+** Why Ableton
+   - 
+** How
+*** Proposition 1
+    - Use a rack that has copies of the plugin to use in as many
+      chains as there are MIDI channels. The rack's select control
+      must be accessible by a macro knob (or maybe not. see M4L
+      device).
+    - Have a M4L device that
+      - For each MIDI message received, emits a CC of a specific unused
+        number (e.g. 88) message targeted to the rack's chain selector
+        with the channel number as data, then repeat the MIDI
+        data. Effectively, this targets the MIDI messages to a rack's
+        chain depending on which channel they are sent on.
+      - Be able to accept/reject a number of MIDI channels via on/off
+        buttons. This enables us to operate one track per side of the
+        split even though both tracks will accept all MIDI channels.
+*** Proposition 2
+    - Proposition 1 might result in a confusing editing display, with
+      both sides of the split being recorded on both tracks.
+    - Have another M4L device that actually splits the input stream in
+      two channel sets, which are then forwarded to the two main
+      tracks. I'm not sure that this is possible in live (external
+      instruments?).
+
