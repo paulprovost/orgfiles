@@ -14,7 +14,10 @@
 
 * TOBUY Gun Machine - Warren Ellis
 
-* TOBUY Cibola Burn - James S.A. Corey
+* READING Cibola Burn - James S.A. Corey
+  :LOGBOOK:
+  - State "READING"    from "TOBUY"      [2015-06-02 Tue 09:00]
+  :END:
   <2015-05-05 Tue> Paperback release
 
   file://books/james-sa-corey-cibola-burn.jpg
@@ -44,8 +47,9 @@
   civilization that once stood on this land is gone. And that
   something killed it.
 
-* READING Ice Hunt - James Rollins
+* READ Ice Hunt - James Rollins
   :LOGBOOK:
+  - State "READ"       from "READING"    [2015-06-01 Mon 12:00]
   - State "READING"    from "TOREAD"     [2015-04-24 Fri 09:41]
   :END:
 
