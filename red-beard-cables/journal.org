@@ -4,6 +4,12 @@
 #+DESCRIPTION: 
 #+FILETAGS: @redbeardcables
 
+* [2015-06-04 Thu] G&H Plugs supply issues
+  Talked with Paul Haas (G&H founder) at +1 (269) 370-9172
+  - Minimum order from the factory is 300 pieces
+  - Price would probably be cheaper than Pro Audio Wiring
+  - Pro Audio Wiring (Allen Teems) is the recommended source
+
 * Rob Chapman tour - Boston - Mosleys on the Charles
   <2015-05-12 Tue>
 ** [2015-04-25 Sat] E-mail to Rob Chapman
