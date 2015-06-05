@@ -2171,3 +2171,9 @@
    - [[http://www.guitareffectscanada.com/][Guitar Effects Canada, The Candy Store For Guitarists]]
    - [[http://guitarkitbuilder.com/pedaleffect-kits-directory/][Pedal/Effect Kits Directory - GuitarKitBuilder]]
 
+* [2015-06-05 Fri] Clean boost pedal PCB               :@diy:@guitar:@pedals:
+  - [[http://www.mammothelectronics.com/J201-Boost-Clean-Boost-Pedal-Kit-p/kit-mmth-j201.htm]['J201 Boost' Clean Boost Pedal Kit]]
+  - [[http://www.guitarpcb.com/apps/webstore/products/show/3456391][PCB Shop - GuitarPCB.com]]
+  - [[http://www.muzique.com/tech/opamp_multi.htm][AMZ Multi-Purpose Opamp Booster and Buffer]]
+  - [[http://shop.pedalparts.co.uk/product/microamp][MicroAmp - clean boost]]
+  - [[http://www.runoffgroove.com/tonemender.html][Tonemender]]
