@@ -2177,3 +2177,8 @@
   - [[http://www.muzique.com/tech/opamp_multi.htm][AMZ Multi-Purpose Opamp Booster and Buffer]]
   - [[http://shop.pedalparts.co.uk/product/microamp][MicroAmp - clean boost]]
   - [[http://www.runoffgroove.com/tonemender.html][Tonemender]]
+  - [[http://diy-layout.com/category/layout-categories/booster/preamp][Booster/Preamp | Online stripboard layout editor!]]
+
+* [2015-06-05 Fri] Buffer                              :@diy:@guitar:@pedals:
+  - [[http://diy-layout.com/category/layout-categories/buffer][Buffer | Online stripboard layout editor!]]
+  - [[http://diy-layout.com/21][IC Buffer | Online stripboard layout editor!]]
