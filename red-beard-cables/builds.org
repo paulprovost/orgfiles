@@ -12,8 +12,29 @@
   :GuitarPlug_ALL: Straight StraightSilent Angle AngleSilent
   :END:
 
-** WAITING [[https://www.facebook.com/keven.lapointe.7][Keven Lapointe]]
+** TENTATIVE Jean-Michel Cyr
    :LOGBOOK:
+   - State "TENTATIVE"   from ""           [2015-06-09 Tue 10:44]
+   :END:
+   :PROPERTIES:
+   :How: Facebook
+   :Type: TRS
+   :Length: 15 ft
+   :GuitarPlug: angled
+   :Type: TS
+   :Length: 15 ft
+   :GuitarPlug: angled
+   :Type: TS
+   :Length: 15 ft
+   :GuitarPlug: angled
+   :Type: TS
+   :Length: 15 ft
+   :GuitarPlug: angled
+   :END:
+
+** DELIVERED [[https://www.facebook.com/keven.lapointe.7][Keven Lapointe]]
+   :LOGBOOK:
+   - State "DELIVERED"  from "WAITING"    [2015-06-06 Sat 11:00]
    - State "WAITING"    from "RECEIVED"   [2015-05-30 Sat 14:49] \\
      Waiting for Amphenol XLR connectors
    - State "RECEIVED"   from ""           [2015-05-30 Sat 14:48]
