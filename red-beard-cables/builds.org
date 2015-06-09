@@ -31,6 +31,8 @@
    :Length: 15 ft
    :GuitarPlug: angled
    :END:
+*** Check
+    <2015-06-13 Sat>
 
 ** DELIVERED [[https://www.facebook.com/keven.lapointe.7][Keven Lapointe]]
    :LOGBOOK:
@@ -68,6 +70,8 @@
    :Price: $140
    :Payment: Cash
    :END:
+*** Delivery - Tim Horton St-Jacques and Cavendish
+    <2015-06-13 Sat 17:00>
 
 ** SHIPPED Sébastien Gaudet
    :LOGBOOK:
