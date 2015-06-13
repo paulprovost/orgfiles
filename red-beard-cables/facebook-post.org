@@ -50,3 +50,17 @@
 
    La photo est un cable de 25’ en bleu avec une prise à 90 pour Mario
    Cormier de Verchères. Merci Mario!
+
+* Phaël Bouchard
+  Projet sur mesure pour Phaël Bouchard de Red Light Machine. Un snake
+  de 100 pieds avec cinq cables pour de l'audio et des footswitches
+  plus du 9V pour les pédales. Le tout se branche dans une boîte de
+  routage sur le pedalboard. Un des cables passe par un buffer pour
+  diminuer la perte de haute fréquences due à la longueur du cable.
+  Super projet. Merci Phaël!
+
+  Custom project for Phaël Bouchard of Red Light Machine. A 100 foot
+  snake with five cables for audio and footswitches as well as 9V for
+  powering pedals. All this plugs into a pedalboard-mounted break-out
+  box. One of the cables goes through a buffer to elimenate the tone
+  loss due to the cable length. Very cool project. Thanks Phaël!
