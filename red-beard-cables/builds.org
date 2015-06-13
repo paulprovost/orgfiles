@@ -50,8 +50,9 @@
    :Payment: Cash
    :END:
 
-** WAITING [[https://www.facebook.com/MerryMonkMayhem][André Lambert]]
+** BUILDING [[https://www.facebook.com/MerryMonkMayhem][André Lambert]]
    :LOGBOOK:
+   - State "BUILDING"   from "WAITING"    [2015-06-13 Sat 11:50]
    - State "WAITING"    from "RECEIVED"   [2015-05-30 Sat 14:51] \\
      Waiting on green TechFlex and Plugs
    - State "RECEIVED"   from ""           [2015-05-25 Mon 16:00]
@@ -69,9 +70,13 @@
    :GuitarPlug: angled
    :Price: $140
    :Payment: Cash
+   :Phone: 514-708-2513
+   :Address: 2588, rue Montarville, Longueuil
    :END:
-*** Delivery - Tim Horton St-Jacques and Cavendish
+*** CANCELLED Delivery - Tim Horton St-Jacques and Cavendish
     <2015-06-13 Sat 17:00>
+*** Delivery - 2588, rue Montarville, Longueuil
+    <2015-06-15 Mon 19:00>
 
 ** SHIPPED Sébastien Gaudet
    :LOGBOOK:
