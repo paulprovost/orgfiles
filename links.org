@@ -2182,3 +2182,14 @@
 * [2015-06-05 Fri] Buffer                              :@diy:@guitar:@pedals:
   - [[http://diy-layout.com/category/layout-categories/buffer][Buffer | Online stripboard layout editor!]]
   - [[http://diy-layout.com/21][IC Buffer | Online stripboard layout editor!]]
+
+* [2015-07-14 Tue] Organization OCD                                    :@diy:
+  - Sortimo
+    - [[http://www.sortimo.de/produkte/koffer-boxxen/t-boxx/][T-BOXX - Sortimo International GmbH]]
+    - [[http://www.truckutilities.com/Sortimo-T-BOXX.html][Sortimo T-BOXX - Mobile Service Storage Solutions - Mobile Service - Truck Utilities]]
+    - [[http://www.sortimo.us/product/boxxes][BOXXes | Sortimo by Knapheide]]
+    - [[http://www.sortimo.us/distributors/ca][Distributors | Sortimo by Knapheide]]
+    - [[https://tracy.knapheide.com/proddetail.aspx?prodid=32&retpage=products.aspx%3fnavtype%3dcat%26cat%3d13][Knapheide Truck Equipment Centers - California]]
+    - [[http://www.knapheide.com/product/standard-service-bodies/popular-options/#62][Standard Service Bodies Popular Options | Knapheide]]
+  - Stanley
+    - [[http://www.amazon.com/dp/B00005QWYF/ref=cm_sw_su_dp][Stanley 014725 25-Removable Compartment Professional Organizer - - Amazon.com]]
