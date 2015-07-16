@@ -195,7 +195,7 @@
   Bien hâte au 26 Paul!
   Si tu as des questions, fais-moi signe.
 
-* [2015-07-14 Tue 15:00] Changement de cadastre - Chalet de Noyan
+* [2015-07-14 Tue 15:00] Changement de cadastre - Chalet de Noyan :@chalet:@noyan:
   - Matricule: 1889-76-2876-000-0000
   - Ancien lot(s): 37-P, 38-P
   - Nouveau lot: 5239879
@@ -203,3 +203,24 @@
     Tél.: +1 450 291 4504
     Inspecteur: Benoît Pellerin
     Va envoyer une confirmation par e-mail
+
+* [2015-07-16 Thu 14:00] Appel de la notaire                 :@chalet:@noyan:
+** Notaire
+   Louise Gauthier
+   175 Boulevard L'Assomption
+   Repentigny  J6A 5K3
+   +1 450 581-1213
+   lgauthier@notarius.net
+** Envoyer par la poste
+   <2015-07-20 Mon>
+   - [ ] Compte de taxes municipales 2015 avec le 3ème coupon
+   - [ ] Compte de taxes municipales
+   - [ ] Titres d'acquisition du chalet
+   - [ ] Relevé d'hypothèque avec le numéro d'hypothèque et la succursale
+   - [ ] Contrat de mariage
+   - [ ] Facture de gaz
+** Timeline
+*** [2015-08-10 Mon] Retour de vacances du notaire
+*** Appeler le notaire
+    <2015-08-13 Thu>
+*** [2015-08-19 Wed] ou [2015-08-20 Thu] pour la signature
