@@ -2193,3 +2193,9 @@
     - [[http://www.knapheide.com/product/standard-service-bodies/popular-options/#62][Standard Service Bodies Popular Options | Knapheide]]
   - Stanley
     - [[http://www.amazon.com/dp/B00005QWYF/ref=cm_sw_su_dp][Stanley 014725 25-Removable Compartment Professional Organizer - - Amazon.com]]
+
+* [2015-08-25 Tue] Escape room links                                   :@diy:
+  - [[http://makezine.com/2015/08/25/locked-in-behind-the-scenes-of-the-escape-room-craze/][The New Adventure of Escape Rooms | Make:]]
+  - [[http://escaperoomdirectory.com/][Escape Room Directory]]
+  - [[http://www.realityisagame.com/archives/3109/tips-on-designing-room-escape-games/][Tips on Designing Room Escape Games - Reality is a Game]]
+
