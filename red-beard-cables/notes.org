@@ -4,6 +4,14 @@
 #+DESCRIPTION: 
 #+FILETAGS: @redbeardcables
 
+* Passive summing explained                                 :@mixer:@passive:
+  - [[http://www.epanorama.net/circuits/linesum.html][Simple mixer]]
+    Use a 10K resistor in series with the input. In a nutshell, the
+    series resistor is there to prevent too much current draw on the
+    input. (Speculation)Typical output impedance of a keyboard is 10K
+    and typical input impedance of a desk is 10K, so the extra
+    resistor keeps the current draw from getting too high.
+
 * Measuring cable frequency response
 ** Using FuzzMeasure
    - Output 3 on UltraLite is output 5 in FuzzMeasure
