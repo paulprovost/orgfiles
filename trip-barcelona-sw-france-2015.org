@@ -4,6 +4,12 @@
 #+DESCRIPTION: 
 #+FILETAGS: @trip
 
+* Liens
+** Sentiers
+   - [[http://about-france.com/tourism/long-distance-footpaths.htm][Long-distance footpaths in France - les Sentiers de Grande Randonnée]]
+   - [[https://en.wikipedia.org/wiki/GR_footpath#Routes_1_to_25][GR footpath]]
+   - [[http://www.tripadvisor.ca/Attraction_Review-g187104-d2295083-Reviews-GR_34-Saint_Malo_Ille_et_Vilaine_Brittany.html][GR 34 (Saint-Malo, France): Address, Hiking Trail Reviews - TripAdvisor]]
+
 * Budget
 ** Available
 #+begin_src calc 
