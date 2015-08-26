@@ -1,0 +1,27 @@
+#+TITLE: Planning and notes for trip in october 2015
+#+AUTHOR: Paul Provost
+#+EMAIL: paul@bouzou.org
+#+DESCRIPTION: 
+#+FILETAGS: @trip
+
+* Budget
+** Available
+#+begin_src calc 
+   17394.36 - (2840.87 * 2) - 1000
+#+end_src
+#+name:
+: 10712.62
+
+** Expenses
+  |-------------------+------------+--------+-------|
+  | Item              | Individual | Number | Total |
+  |-------------------+------------+--------+-------|
+  | Flight            |       1200 |      2 |  2400 |
+  | Lodging Barcelona |        120 |      7 |   840 |
+  | Per-diem          |        120 |     21 |  2520 |
+  | Car               |       1000 |      1 |  1000 |
+  | Lodging rest      |        120 |     14 |  1680 |
+  |-------------------+------------+--------+-------|
+  | Total             |            |        |  6760 |
+  |-------------------+------------+--------+-------|
+#+TBLFM: $4=$2*$3::@7$4=vsum(@2..@-2)
